@@ -1,0 +1,38 @@
+{
+	"id": "468",
+	"name": "Huyện Cam Lộ",
+	"data": [
+		{
+			"id": "19618",
+			"name": "Xã Cam Chính"
+		},
+		{
+			"id": "19615",
+			"name": "Xã Cam Hiếu"
+		},
+		{
+			"id": "19597",
+			"name": "Thị trấn Cam Lộ"
+		},
+		{
+			"id": "19621",
+			"name": "Xã Cam Nghĩa"
+		},
+		{
+			"id": "19612",
+			"name": "Xã Cam Thành"
+		},
+		{
+			"id": "19606",
+			"name": "Xã Cam Thủy"
+		},
+		{
+			"id": "19600",
+			"name": "Xã Cam Tuyền"
+		},
+		{
+			"id": "19603",
+			"name": "Xã Thanh An"
+		}
+	]
+}

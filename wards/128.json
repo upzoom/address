@@ -1,0 +1,62 @@
+{
+	"id": "128",
+	"name": "Huyện Vân Hồ",
+	"data": [
+		{
+			"id": "04036",
+			"name": "Xã Chiềng Khoa"
+		},
+		{
+			"id": "04056",
+			"name": "Xã Chiềng Xuân"
+		},
+		{
+			"id": "04054",
+			"name": "Xã Chiềng Yên"
+		},
+		{
+			"id": "04009",
+			"name": "Xã Liên Hoà"
+		},
+		{
+			"id": "04051",
+			"name": "Xã Lóng Luông"
+		},
+		{
+			"id": "04039",
+			"name": "Xã Mường Men"
+		},
+		{
+			"id": "04021",
+			"name": "Xã Mường Tè"
+		},
+		{
+			"id": "04042",
+			"name": "Xã Quang Minh"
+		},
+		{
+			"id": "04006",
+			"name": "Xã Song Khủa"
+		},
+		{
+			"id": "03994",
+			"name": "Xã Suối Bàng"
+		},
+		{
+			"id": "04058",
+			"name": "Xã Tân Xuân"
+		},
+		{
+			"id": "04018",
+			"name": "Xã Tô Múa"
+		},
+		{
+			"id": "04048",
+			"name": "Xã Vân Hồ"
+		},
+		{
+			"id": "04057",
+			"name": "Xã Xuân Nha"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "249",
+	"name": "Huyện Bình Xuyên",
+	"data": [
+		{
+			"id": "08944",
+			"name": "Thị trấn Bá Hiến"
+		},
+		{
+			"id": "08962",
+			"name": "Thị trấn Đạo Đức"
+		},
+		{
+			"id": "08936",
+			"name": "Thị trấn Gia Khánh"
+		},
+		{
+			"id": "08935",
+			"name": "Thị trấn Hương Canh"
+		},
+		{
+			"id": "08950",
+			"name": "Xã Hương Sơn"
+		},
+		{
+			"id": "08971",
+			"name": "Xã Phú Xuân"
+		},
+		{
+			"id": "08956",
+			"name": "Xã Quất Lưu"
+		},
+		{
+			"id": "08959",
+			"name": "Xã Sơn Lôi"
+		},
+		{
+			"id": "08953",
+			"name": "Xã Tam Hợp"
+		},
+		{
+			"id": "08965",
+			"name": "Xã Tân Phong"
+		},
+		{
+			"id": "08968",
+			"name": "Thị trấn Thanh Lãng"
+		},
+		{
+			"id": "08947",
+			"name": "Xã Thiện Kế"
+		},
+		{
+			"id": "08938",
+			"name": "Xã Trung Mỹ"
+		}
+	]
+}

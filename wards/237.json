@@ -1,0 +1,54 @@
+{
+	"id": "237",
+	"name": "Huyện Lâm Thao",
+	"data": [
+		{
+			"id": "08539",
+			"name": "Xã Bản Nguyên"
+		},
+		{
+			"id": "08527",
+			"name": "Xã Cao Xá"
+		},
+		{
+			"id": "08498",
+			"name": "Thị trấn Hùng Sơn"
+		},
+		{
+			"id": "08494",
+			"name": "Thị trấn Lâm Thao"
+		},
+		{
+			"id": "08521",
+			"name": "Xã Phùng Nguyên"
+		},
+		{
+			"id": "08518",
+			"name": "Xã Sơn Vi"
+		},
+		{
+			"id": "08512",
+			"name": "Xã Thạch Sơn"
+		},
+		{
+			"id": "08497",
+			"name": "Xã Tiên Kiên"
+		},
+		{
+			"id": "08536",
+			"name": "Xã Tứ Xã"
+		},
+		{
+			"id": "08533",
+			"name": "Xã Vĩnh Lại"
+		},
+		{
+			"id": "08509",
+			"name": "Xã Xuân Huy"
+		},
+		{
+			"id": "08500",
+			"name": "Xã Xuân Lũng"
+		}
+	]
+}

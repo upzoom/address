@@ -1,0 +1,34 @@
+{
+	"id": "693",
+	"name": "Huyện Bù Đốp",
+	"data": [
+		{
+			"id": "25309",
+			"name": "Xã Hưng Phước"
+		},
+		{
+			"id": "25310",
+			"name": "Xã Phước Thiện"
+		},
+		{
+			"id": "25318",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "25321",
+			"name": "Xã Tân Tiến"
+		},
+		{
+			"id": "25308",
+			"name": "Thị trấn Thanh Bình"
+		},
+		{
+			"id": "25315",
+			"name": "Xã Thanh Hòa"
+		},
+		{
+			"id": "25312",
+			"name": "Xã Thiện Hưng"
+		}
+	]
+}

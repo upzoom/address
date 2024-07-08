@@ -1,0 +1,90 @@
+{
+	"id": "315",
+	"name": "Huyện Tiên Lãng",
+	"data": [
+		{
+			"id": "11803",
+			"name": "Xã Bắc Hưng"
+		},
+		{
+			"id": "11788",
+			"name": "Xã Bạch Đằng"
+		},
+		{
+			"id": "11779",
+			"name": "Xã Cấp Tiến"
+		},
+		{
+			"id": "11758",
+			"name": "Xã Đại Thắng"
+		},
+		{
+			"id": "11785",
+			"name": "Xã Đoàn Lập"
+		},
+		{
+			"id": "11815",
+			"name": "Xã Đông Hưng"
+		},
+		{
+			"id": "11809",
+			"name": "Xã Hùng Thắng"
+		},
+		{
+			"id": "11773",
+			"name": "Xã Khởi Nghĩa"
+		},
+		{
+			"id": "11782",
+			"name": "Xã Kiến Thiết"
+		},
+		{
+			"id": "11806",
+			"name": "Xã Nam Hưng"
+		},
+		{
+			"id": "11791",
+			"name": "Xã Quang Phục"
+		},
+		{
+			"id": "11770",
+			"name": "Xã Quyết Tiến"
+		},
+		{
+			"id": "11812",
+			"name": "Xã Tây Hưng"
+		},
+		{
+			"id": "11761",
+			"name": "Xã Tiên Cường"
+		},
+		{
+			"id": "11755",
+			"name": "Thị trấn Tiên Lãng"
+		},
+		{
+			"id": "11800",
+			"name": "Xã Tiên Minh"
+		},
+		{
+			"id": "11797",
+			"name": "Xã Tiên Thắng"
+		},
+		{
+			"id": "11776",
+			"name": "Xã Tiên Thanh"
+		},
+		{
+			"id": "11794",
+			"name": "Xã Toàn Thắng"
+		},
+		{
+			"id": "11764",
+			"name": "Xã Tự Cường"
+		},
+		{
+			"id": "11821",
+			"name": "Xã Vinh Quang"
+		}
+	]
+}

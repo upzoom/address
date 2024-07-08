@@ -1,0 +1,82 @@
+{
+	"id": "336",
+	"name": "Thành phố Thái Bình",
+	"data": [
+		{
+			"id": "12436",
+			"name": "Phường Bồ Xuyên"
+		},
+		{
+			"id": "12439",
+			"name": "Phường Đề Thám"
+		},
+		{
+			"id": "12457",
+			"name": "Xã Đông Hòa"
+		},
+		{
+			"id": "12817",
+			"name": "Xã Đông Mỹ"
+		},
+		{
+			"id": "12820",
+			"name": "Xã Đông Thọ"
+		},
+		{
+			"id": "12460",
+			"name": "Phường Hoàng Diệu"
+		},
+		{
+			"id": "12442",
+			"name": "Phường Kỳ Bá"
+		},
+		{
+			"id": "12433",
+			"name": "Phường Lê Hồng Phong"
+		},
+		{
+			"id": "12448",
+			"name": "Phường Phú Khánh"
+		},
+		{
+			"id": "12463",
+			"name": "Xã Phú Xuân"
+		},
+		{
+			"id": "12445",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "13225",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "12451",
+			"name": "Phường Tiền Phong"
+		},
+		{
+			"id": "12452",
+			"name": "Phường Trần Hưng Đạo"
+		},
+		{
+			"id": "12454",
+			"name": "Phường Trần Lãm"
+		},
+		{
+			"id": "12469",
+			"name": "Xã Vũ Chính"
+		},
+		{
+			"id": "13084",
+			"name": "Xã Vũ Đông"
+		},
+		{
+			"id": "13108",
+			"name": "Xã Vũ Lạc"
+		},
+		{
+			"id": "12466",
+			"name": "Xã Vũ Phúc"
+		}
+	]
+}

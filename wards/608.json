@@ -1,0 +1,90 @@
+{
+	"id": "608",
+	"name": "Thành phố Kon Tum",
+	"data": [
+		{
+			"id": "23332",
+			"name": "Xã Chư Hreng"
+		},
+		{
+			"id": "23323",
+			"name": "Xã Đắk Blà"
+		},
+		{
+			"id": "23311",
+			"name": "Xã Đắk Cấm"
+		},
+		{
+			"id": "23327",
+			"name": "Xã Đăk Năng"
+		},
+		{
+			"id": "23335",
+			"name": "Xã Đắk Rơ Wa"
+		},
+		{
+			"id": "23329",
+			"name": "Xã Đoàn Kết"
+		},
+		{
+			"id": "23284",
+			"name": "Phường Duy Tân"
+		},
+		{
+			"id": "23338",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "23326",
+			"name": "Xã Ia Chim"
+		},
+		{
+			"id": "23314",
+			"name": "Xã Kroong"
+		},
+		{
+			"id": "23302",
+			"name": "Phường Lê Lợi"
+		},
+		{
+			"id": "23296",
+			"name": "Phường Ngô Mây"
+		},
+		{
+			"id": "23317",
+			"name": "Xã Ngọk Bay"
+		},
+		{
+			"id": "23305",
+			"name": "Phường Nguyễn Trãi"
+		},
+		{
+			"id": "23281",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "23287",
+			"name": "Phường Quyết Thắng"
+		},
+		{
+			"id": "23293",
+			"name": "Phường Thắng Lợi"
+		},
+		{
+			"id": "23299",
+			"name": "Phường Thống Nhất"
+		},
+		{
+			"id": "23308",
+			"name": "Phường Trần Hưng Đạo"
+		},
+		{
+			"id": "23290",
+			"name": "Phường Trường Chinh"
+		},
+		{
+			"id": "23320",
+			"name": "Xã Vinh Quang"
+		}
+	]
+}

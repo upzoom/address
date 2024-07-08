@@ -1,0 +1,46 @@
+{
+	"id": "062",
+	"name": "Huyện Ngân Sơn",
+	"data": [
+		{
+			"id": "01942",
+			"name": "Xã Bằng Vân"
+		},
+		{
+			"id": "01945",
+			"name": "Xã Cốc Đán"
+		},
+		{
+			"id": "01951",
+			"name": "Xã Đức Vân"
+		},
+		{
+			"id": "01960",
+			"name": "Xã Hiệp Lực"
+		},
+		{
+			"id": "01936",
+			"name": "Thị trấn Nà Phặc"
+		},
+		{
+			"id": "01963",
+			"name": "Xã Thuần Mang"
+		},
+		{
+			"id": "01939",
+			"name": "Xã Thượng Ân"
+		},
+		{
+			"id": "01957",
+			"name": "Xã Thượng Quan"
+		},
+		{
+			"id": "01948",
+			"name": "Xã Trung Hoà"
+		},
+		{
+			"id": "01954",
+			"name": "Thị trấn Vân Tùng"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "194",
+	"name": "Thành phố Móng Cái",
+	"data": [
+		{
+			"id": "06727",
+			"name": "Xã Bắc Sơn"
+		},
+		{
+			"id": "06751",
+			"name": "Phường Bình Ngọc"
+		},
+		{
+			"id": "06730",
+			"name": "Xã Hải Đông"
+		},
+		{
+			"id": "06742",
+			"name": "Phường Hải Hoà"
+		},
+		{
+			"id": "06724",
+			"name": "Xã Hải Sơn"
+		},
+		{
+			"id": "06733",
+			"name": "Xã Hải Tiến"
+		},
+		{
+			"id": "06745",
+			"name": "Xã Hải Xuân"
+		},
+		{
+			"id": "06736",
+			"name": "Phường Hải Yên"
+		},
+		{
+			"id": "06718",
+			"name": "Phường Hoà Lạc"
+		},
+		{
+			"id": "06709",
+			"name": "Phường Ka Long"
+		},
+		{
+			"id": "06715",
+			"name": "Phường Ninh Dương"
+		},
+		{
+			"id": "06739",
+			"name": "Xã Quảng Nghĩa"
+		},
+		{
+			"id": "06721",
+			"name": "Phường Trà Cổ"
+		},
+		{
+			"id": "06712",
+			"name": "Phường Trần Phú"
+		},
+		{
+			"id": "06748",
+			"name": "Xã Vạn Ninh"
+		},
+		{
+			"id": "06757",
+			"name": "Xã Vĩnh Thực"
+		},
+		{
+			"id": "06754",
+			"name": "Xã Vĩnh Trung"
+		}
+	]
+}

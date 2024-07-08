@@ -1,0 +1,62 @@
+{
+	"id": "101",
+	"name": "Huyện Điện Biên Đông",
+	"data": [
+		{
+			"id": "03211",
+			"name": "Xã Chiềng Sơ"
+		},
+		{
+			"id": "03203",
+			"name": "Thị trấn Điện Biên Đông"
+		},
+		{
+			"id": "03385",
+			"name": "Xã Háng Lìa"
+		},
+		{
+			"id": "03376",
+			"name": "Xã Keo Lôm"
+		},
+		{
+			"id": "03379",
+			"name": "Xã Luân Giới"
+		},
+		{
+			"id": "03214",
+			"name": "Xã Mường Luân"
+		},
+		{
+			"id": "03205",
+			"name": "Xã Na Son"
+		},
+		{
+			"id": "03371",
+			"name": "Xã Nong U"
+		},
+		{
+			"id": "03208",
+			"name": "Xã Phì Nhừ"
+		},
+		{
+			"id": "03382",
+			"name": "Xã Phình Giàng"
+		},
+		{
+			"id": "03383",
+			"name": "Xã Pú Hồng"
+		},
+		{
+			"id": "03370",
+			"name": "Xã Pú Nhi"
+		},
+		{
+			"id": "03384",
+			"name": "Xã Tìa Dình"
+		},
+		{
+			"id": "03373",
+			"name": "Xã Xa Dung"
+		}
+	]
+}

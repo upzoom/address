@@ -1,0 +1,106 @@
+{
+	"id": "136",
+	"name": "Huyện Văn Yên",
+	"data": [
+		{
+			"id": "04390",
+			"name": "Xã An Bình"
+		},
+		{
+			"id": "04417",
+			"name": "Xã An Thịnh"
+		},
+		{
+			"id": "04387",
+			"name": "Xã Châu Quế Hạ"
+		},
+		{
+			"id": "04384",
+			"name": "Xã Châu Quế Thượng"
+		},
+		{
+			"id": "04435",
+			"name": "Xã Đại Phác"
+		},
+		{
+			"id": "04429",
+			"name": "Xã Đại Sơn"
+		},
+		{
+			"id": "04396",
+			"name": "Xã Đông An"
+		},
+		{
+			"id": "04399",
+			"name": "Xã Đông Cuông"
+		},
+		{
+			"id": "04381",
+			"name": "Xã Lâm Giang"
+		},
+		{
+			"id": "04378",
+			"name": "Xã Lang Thíp"
+		},
+		{
+			"id": "04375",
+			"name": "Thị trấn Mậu A"
+		},
+		{
+			"id": "04405",
+			"name": "Xã Mậu Đông"
+		},
+		{
+			"id": "04450",
+			"name": "Xã Mỏ Vàng"
+		},
+		{
+			"id": "04453",
+			"name": "Xã Nà Hẩu"
+		},
+		{
+			"id": "04408",
+			"name": "Xã Ngòi A"
+		},
+		{
+			"id": "04402",
+			"name": "Xã Phong Dụ Hạ"
+		},
+		{
+			"id": "04423",
+			"name": "Xã Phong Dụ Thượng"
+		},
+		{
+			"id": "04393",
+			"name": "Xã Quang Minh"
+		},
+		{
+			"id": "04414",
+			"name": "Xã Tân Hợp"
+		},
+		{
+			"id": "04447",
+			"name": "Xã Viễn Sơn"
+		},
+		{
+			"id": "04441",
+			"name": "Xã Xuân Ái"
+		},
+		{
+			"id": "04411",
+			"name": "Xã Xuân Tầm"
+		},
+		{
+			"id": "04426",
+			"name": "Xã Yên Hợp"
+		},
+		{
+			"id": "04438",
+			"name": "Xã Yên Phú"
+		},
+		{
+			"id": "04420",
+			"name": "Xã Yên Thái"
+		}
+	]
+}

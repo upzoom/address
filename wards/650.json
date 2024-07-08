@@ -1,0 +1,54 @@
+{
+	"id": "650",
+	"name": "Huyện Krông Năng",
+	"data": [
+		{
+			"id": "24367",
+			"name": "Xã Cư Klông"
+		},
+		{
+			"id": "24346",
+			"name": "Xã ĐLiê Ya"
+		},
+		{
+			"id": "24360",
+			"name": "Xã Ea Dăh"
+		},
+		{
+			"id": "24361",
+			"name": "Xã Ea Hồ"
+		},
+		{
+			"id": "24359",
+			"name": "Xã Ea Puk"
+		},
+		{
+			"id": "24352",
+			"name": "Xã Ea Tam"
+		},
+		{
+			"id": "24370",
+			"name": "Xã Ea Tân"
+		},
+		{
+			"id": "24349",
+			"name": "Xã Ea Tóh"
+		},
+		{
+			"id": "24343",
+			"name": "Thị trấn Krông Năng"
+		},
+		{
+			"id": "24355",
+			"name": "Xã Phú Lộc"
+		},
+		{
+			"id": "24364",
+			"name": "Xã Phú Xuân"
+		},
+		{
+			"id": "24358",
+			"name": "Xã Tam Giang"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "388",
+	"name": "Huyện Lang Chánh",
+	"data": [
+		{
+			"id": "15058",
+			"name": "Xã Đồng Lương"
+		},
+		{
+			"id": "15040",
+			"name": "Xã Giao An"
+		},
+		{
+			"id": "15043",
+			"name": "Xã Giao Thiện"
+		},
+		{
+			"id": "15052",
+			"name": "Xã Lâm Phú"
+		},
+		{
+			"id": "15055",
+			"name": "Thị trấn Lang Chánh"
+		},
+		{
+			"id": "15049",
+			"name": "Xã Tam Văn"
+		},
+		{
+			"id": "15046",
+			"name": "Xã Tân Phúc"
+		},
+		{
+			"id": "15037",
+			"name": "Xã Trí Nang"
+		},
+		{
+			"id": "15031",
+			"name": "Xã Yên Khương"
+		},
+		{
+			"id": "15034",
+			"name": "Xã Yên Thắng"
+		}
+	]
+}

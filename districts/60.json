@@ -1,0 +1,46 @@
+{
+	"id": "60",
+	"name": "Tỉnh Bình Thuận",
+	"data": [
+		{
+			"id": "596",
+			"name": "Huyện Bắc Bình"
+		},
+		{
+			"id": "600",
+			"name": "Huyện Đức Linh"
+		},
+		{
+			"id": "601",
+			"name": "Huyện Hàm Tân"
+		},
+		{
+			"id": "597",
+			"name": "Huyện Hàm Thuận Bắc"
+		},
+		{
+			"id": "598",
+			"name": "Huyện Hàm Thuận Nam"
+		},
+		{
+			"id": "594",
+			"name": "Thị xã La Gi"
+		},
+		{
+			"id": "593",
+			"name": "Thành phố Phan Thiết"
+		},
+		{
+			"id": "602",
+			"name": "Huyện Phú Quí"
+		},
+		{
+			"id": "599",
+			"name": "Huyện Tánh Linh"
+		},
+		{
+			"id": "595",
+			"name": "Huyện Tuy Phong"
+		}
+	]
+}

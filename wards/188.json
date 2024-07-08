@@ -1,0 +1,90 @@
+{
+	"id": "188",
+	"name": "Huyện Lộc Bình",
+	"data": [
+		{
+			"id": "06610",
+			"name": "Xã Ái Quốc"
+		},
+		{
+			"id": "06553",
+			"name": "Xã Đồng Bục"
+		},
+		{
+			"id": "06592",
+			"name": "Xã Đông Quan"
+		},
+		{
+			"id": "06550",
+			"name": "Xã Hữu Khánh"
+		},
+		{
+			"id": "06598",
+			"name": "Xã Hữu Lân"
+		},
+		{
+			"id": "06544",
+			"name": "Xã Khánh Xuân"
+		},
+		{
+			"id": "06565",
+			"name": "Xã Khuất Xá"
+		},
+		{
+			"id": "06529",
+			"name": "Thị trấn Lộc Bình"
+		},
+		{
+			"id": "06601",
+			"name": "Xã Lợi Bác"
+		},
+		{
+			"id": "06532",
+			"name": "Xã Mẫu Sơn"
+		},
+		{
+			"id": "06595",
+			"name": "Xã Minh Hiệp"
+		},
+		{
+			"id": "06526",
+			"name": "Thị trấn Na Dương"
+		},
+		{
+			"id": "06604",
+			"name": "Xã Nam Quan"
+		},
+		{
+			"id": "06589",
+			"name": "Xã Sàn Viên"
+		},
+		{
+			"id": "06559",
+			"name": "Xã Tam Gia"
+		},
+		{
+			"id": "06577",
+			"name": "Xã Thống Nhất"
+		},
+		{
+			"id": "06574",
+			"name": "Xã Tĩnh Bắc"
+		},
+		{
+			"id": "06562",
+			"name": "Xã Tú Đoạn"
+		},
+		{
+			"id": "06547",
+			"name": "Xã Tú Mịch"
+		},
+		{
+			"id": "06607",
+			"name": "Xã Xuân Dương"
+		},
+		{
+			"id": "06541",
+			"name": "Xã Yên Khoái"
+		}
+	]
+}

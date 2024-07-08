@@ -1,0 +1,50 @@
+{
+	"id": "009",
+	"name": "Quận Thanh Xuân",
+	"data": [
+		{
+			"id": "00361",
+			"name": "Phường Hạ Đình"
+		},
+		{
+			"id": "00364",
+			"name": "Phường Khương Đình"
+		},
+		{
+			"id": "00352",
+			"name": "Phường Khương Mai"
+		},
+		{
+			"id": "00349",
+			"name": "Phường Khương Trung"
+		},
+		{
+			"id": "00373",
+			"name": "Phường Kim Giang"
+		},
+		{
+			"id": "00343",
+			"name": "Phường Nhân Chính"
+		},
+		{
+			"id": "00358",
+			"name": "Phường Phương Liệt"
+		},
+		{
+			"id": "00367",
+			"name": "Phường Thanh Xuân Bắc"
+		},
+		{
+			"id": "00370",
+			"name": "Phường Thanh Xuân Nam"
+		},
+		{
+			"id": "00355",
+			"name": "Phường Thanh Xuân Trung"
+		},
+		{
+			"id": "00346",
+			"name": "Phường Thượng Đình"
+		}
+	]
+}

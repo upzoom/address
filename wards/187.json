@@ -1,0 +1,86 @@
+{
+	"id": "187",
+	"name": "Huyện Chi Lăng",
+	"data": [
+		{
+			"id": "06478",
+			"name": "Xã Bắc Thủy"
+		},
+		{
+			"id": "06487",
+			"name": "Xã Bằng Hữu"
+		},
+		{
+			"id": "06493",
+			"name": "Xã Bằng Mạc"
+		},
+		{
+			"id": "06466",
+			"name": "Thị trấn Chi Lăng"
+		},
+		{
+			"id": "06523",
+			"name": "Xã Chi Lăng"
+		},
+		{
+			"id": "06481",
+			"name": "Xã Chiến Thắng"
+		},
+		{
+			"id": "06463",
+			"name": "Thị trấn Đồng Mỏ"
+		},
+		{
+			"id": "06475",
+			"name": "Xã Gia Lộc"
+		},
+		{
+			"id": "06508",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "06514",
+			"name": "Xã Hữu Kiên"
+		},
+		{
+			"id": "06499",
+			"name": "Xã Lâm Sơn"
+		},
+		{
+			"id": "06502",
+			"name": "Xã Liên Sơn"
+		},
+		{
+			"id": "06484",
+			"name": "Xã Mai Sao"
+		},
+		{
+			"id": "06496",
+			"name": "Xã Nhân Lý"
+		},
+		{
+			"id": "06517",
+			"name": "Xã Quan Sơn"
+		},
+		{
+			"id": "06490",
+			"name": "Xã Thượng Cường"
+		},
+		{
+			"id": "06469",
+			"name": "Xã Vân An"
+		},
+		{
+			"id": "06505",
+			"name": "Xã Vạn Linh"
+		},
+		{
+			"id": "06472",
+			"name": "Xã Vân Thủy"
+		},
+		{
+			"id": "06520",
+			"name": "Xã Y Tịch"
+		}
+	]
+}

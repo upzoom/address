@@ -1,0 +1,74 @@
+{
+	"id": "222",
+	"name": "Huyện Việt Yên",
+	"data": [
+		{
+			"id": "07777",
+			"name": "Thị trấn Bích Động"
+		},
+		{
+			"id": "07783",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "07771",
+			"name": "Xã Hương Mai"
+		},
+		{
+			"id": "07768",
+			"name": "Xã Minh Đức"
+		},
+		{
+			"id": "07795",
+			"name": "Thị trấn Nếnh"
+		},
+		{
+			"id": "07765",
+			"name": "Xã Nghĩa Trung"
+		},
+		{
+			"id": "07798",
+			"name": "Xã Ninh Sơn"
+		},
+		{
+			"id": "07807",
+			"name": "Xã Quang Châu"
+		},
+		{
+			"id": "07792",
+			"name": "Xã Quảng Minh"
+		},
+		{
+			"id": "07789",
+			"name": "Xã Tăng Tiến"
+		},
+		{
+			"id": "07759",
+			"name": "Xã Thượng Lan"
+		},
+		{
+			"id": "07786",
+			"name": "Xã Tiên Sơn"
+		},
+		{
+			"id": "07780",
+			"name": "Xã Trung Sơn"
+		},
+		{
+			"id": "07774",
+			"name": "Xã Tự Lạn"
+		},
+		{
+			"id": "07804",
+			"name": "Xã Vân Hà"
+		},
+		{
+			"id": "07801",
+			"name": "Xã Vân Trung"
+		},
+		{
+			"id": "07762",
+			"name": "Xã Việt Tiến"
+		}
+	]
+}

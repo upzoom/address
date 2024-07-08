@@ -1,0 +1,90 @@
+{
+	"id": "259",
+	"name": "Thị xã Quế Võ",
+	"data": [
+		{
+			"id": "09262",
+			"name": "Phường Bằng An"
+		},
+		{
+			"id": "09295",
+			"name": "Phường Bồng Lai"
+		},
+		{
+			"id": "09298",
+			"name": "Phường Cách Bi"
+		},
+		{
+			"id": "09292",
+			"name": "Xã Châu Phong"
+		},
+		{
+			"id": "09313",
+			"name": "Xã Chi Lăng"
+		},
+		{
+			"id": "09253",
+			"name": "Phường Đại Xuân"
+		},
+		{
+			"id": "09301",
+			"name": "Xã Đào Viên"
+		},
+		{
+			"id": "09310",
+			"name": "Xã Đức Long"
+		},
+		{
+			"id": "09316",
+			"name": "Xã Hán Quảng"
+		},
+		{
+			"id": "09307",
+			"name": "Xã Mộ Đạo"
+		},
+		{
+			"id": "09289",
+			"name": "Xã Ngọc Xá"
+		},
+		{
+			"id": "09259",
+			"name": "Phường Nhân Hòa"
+		},
+		{
+			"id": "09247",
+			"name": "Phường Phố Mới"
+		},
+		{
+			"id": "09277",
+			"name": "Xã Phù Lãng"
+		},
+		{
+			"id": "09274",
+			"name": "Phường Phù Lương"
+		},
+		{
+			"id": "09265",
+			"name": "Phường Phương Liễu"
+		},
+		{
+			"id": "09280",
+			"name": "Phường Phượng Mao"
+		},
+		{
+			"id": "09268",
+			"name": "Phường Quế Tân"
+		},
+		{
+			"id": "09283",
+			"name": "Phường Việt Hùng"
+		},
+		{
+			"id": "09250",
+			"name": "Xã Việt Thống"
+		},
+		{
+			"id": "09304",
+			"name": "Xã Yên Giả"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "12",
+	"name": "Tỉnh Lai Châu",
+	"data": [
+		{
+			"id": "105",
+			"name": "Thành phố Lai Châu"
+		},
+		{
+			"id": "107",
+			"name": "Huyện Mường Tè"
+		},
+		{
+			"id": "112",
+			"name": "Huyện Nậm Nhùn"
+		},
+		{
+			"id": "109",
+			"name": "Huyện Phong Thổ"
+		},
+		{
+			"id": "108",
+			"name": "Huyện Sìn Hồ"
+		},
+		{
+			"id": "106",
+			"name": "Huyện Tam Đường"
+		},
+		{
+			"id": "111",
+			"name": "Huyện Tân Uyên"
+		},
+		{
+			"id": "110",
+			"name": "Huyện Than Uyên"
+		}
+	]
+}

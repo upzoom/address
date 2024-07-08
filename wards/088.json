@@ -1,0 +1,70 @@
+{
+	"id": "088",
+	"name": "Thị xã Sa Pa",
+	"data": [
+		{
+			"id": "03046",
+			"name": "Xã Bản Hồ"
+		},
+		{
+			"id": "03028",
+			"name": "Phường Cầu Mây"
+		},
+		{
+			"id": "03016",
+			"name": "Phường Hàm Rồng"
+		},
+		{
+			"id": "03019",
+			"name": "Xã Hoàng Liên"
+		},
+		{
+			"id": "03052",
+			"name": "Xã Liên Minh"
+		},
+		{
+			"id": "03043",
+			"name": "Xã Mường Bo"
+		},
+		{
+			"id": "03037",
+			"name": "Xã Mường Hoa"
+		},
+		{
+			"id": "03004",
+			"name": "Xã Ngũ Chỉ Sơn"
+		},
+		{
+			"id": "03003",
+			"name": "Phường Ô Quý Hồ"
+		},
+		{
+			"id": "03006",
+			"name": "Phường Phan Si Păng"
+		},
+		{
+			"id": "03001",
+			"name": "Phường Sa Pa"
+		},
+		{
+			"id": "03002",
+			"name": "Phường Sa Pả"
+		},
+		{
+			"id": "03013",
+			"name": "Xã Tả Phìn"
+		},
+		{
+			"id": "03040",
+			"name": "Xã Tả Van"
+		},
+		{
+			"id": "03022",
+			"name": "Xã Thanh Bình"
+		},
+		{
+			"id": "03010",
+			"name": "Xã Trung Chải"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "596",
+	"name": "Huyện Bắc Bình",
+	"data": [
+		{
+			"id": "23014",
+			"name": "Xã Bình An"
+		},
+		{
+			"id": "23047",
+			"name": "Xã Bình Tân"
+		},
+		{
+			"id": "23005",
+			"name": "Thị trấn Chợ Lầu"
+		},
+		{
+			"id": "23020",
+			"name": "Xã Hải Ninh"
+		},
+		{
+			"id": "23053",
+			"name": "Xã Hòa Thắng"
+		},
+		{
+			"id": "23056",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "23041",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "23032",
+			"name": "Thị trấn Lương Sơn"
+		},
+		{
+			"id": "23017",
+			"name": "Xã Phan Điền"
+		},
+		{
+			"id": "23044",
+			"name": "Xã Phan Hiệp"
+		},
+		{
+			"id": "23035",
+			"name": "Xã Phan Hòa"
+		},
+		{
+			"id": "23011",
+			"name": "Xã Phan Lâm"
+		},
+		{
+			"id": "23050",
+			"name": "Xã Phan Rí Thành"
+		},
+		{
+			"id": "23008",
+			"name": "Xã Phan Sơn"
+		},
+		{
+			"id": "23038",
+			"name": "Xã Phan Thanh"
+		},
+		{
+			"id": "23026",
+			"name": "Xã Phan Tiến"
+		},
+		{
+			"id": "23029",
+			"name": "Xã Sông Bình"
+		},
+		{
+			"id": "23023",
+			"name": "Xã Sông Lũy"
+		}
+	]
+}

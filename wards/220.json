@@ -1,0 +1,74 @@
+{
+	"id": "220",
+	"name": "Huyện Sơn Động",
+	"data": [
+		{
+			"id": "07660",
+			"name": "Xã An Bá"
+		},
+		{
+			"id": "07615",
+			"name": "Thị trấn An Châu"
+		},
+		{
+			"id": "07645",
+			"name": "Xã An Lạc"
+		},
+		{
+			"id": "07642",
+			"name": "Xã Cẩm Đàn"
+		},
+		{
+			"id": "07627",
+			"name": "Xã Đại Sơn"
+		},
+		{
+			"id": "07666",
+			"name": "Xã Dương Hưu"
+		},
+		{
+			"id": "07636",
+			"name": "Xã Giáo Liêm"
+		},
+		{
+			"id": "07624",
+			"name": "Xã Hữu Sản"
+		},
+		{
+			"id": "07654",
+			"name": "Xã Lệ Viễn"
+		},
+		{
+			"id": "07672",
+			"name": "Xã Long Sơn"
+		},
+		{
+			"id": "07630",
+			"name": "Xã Phúc Sơn"
+		},
+		{
+			"id": "07616",
+			"name": "Thị trấn Tây Yên Tử"
+		},
+		{
+			"id": "07678",
+			"name": "Xã Thanh Luận"
+		},
+		{
+			"id": "07663",
+			"name": "Xã Tuấn Đạo"
+		},
+		{
+			"id": "07621",
+			"name": "Xã Vân Sơn"
+		},
+		{
+			"id": "07648",
+			"name": "Xã Vĩnh An"
+		},
+		{
+			"id": "07651",
+			"name": "Xã Yên Định"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "165",
+	"name": "Thành phố Sông Công",
+	"data": [
+		{
+			"id": "05533",
+			"name": "Xã Bá Xuyên"
+		},
+		{
+			"id": "05528",
+			"name": "Phường Bách Quang"
+		},
+		{
+			"id": "05530",
+			"name": "Xã Bình Sơn"
+		},
+		{
+			"id": "05515",
+			"name": "Phường Cải Đan"
+		},
+		{
+			"id": "05509",
+			"name": "Phường Châu Sơn"
+		},
+		{
+			"id": "05506",
+			"name": "Phường Lương Sơn"
+		},
+		{
+			"id": "05512",
+			"name": "Phường Mỏ Chè"
+		},
+		{
+			"id": "05521",
+			"name": "Phường Phố Cò"
+		},
+		{
+			"id": "05527",
+			"name": "Xã Tân Quang"
+		},
+		{
+			"id": "05518",
+			"name": "Phường Thắng Lợi"
+		}
+	]
+}

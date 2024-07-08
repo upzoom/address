@@ -1,0 +1,50 @@
+{
+	"id": "615",
+	"name": "Huyện Đắk Hà",
+	"data": [
+		{
+			"id": "23506",
+			"name": "Xã Đắk HRing"
+		},
+		{
+			"id": "23500",
+			"name": "Thị trấn Đắk Hà"
+		},
+		{
+			"id": "23524",
+			"name": "Xã Đắk La"
+		},
+		{
+			"id": "23504",
+			"name": "Xã Đăk Long"
+		},
+		{
+			"id": "23512",
+			"name": "Xã Đắk Mar"
+		},
+		{
+			"id": "23510",
+			"name": "Xã Đăk Ngọk"
+		},
+		{
+			"id": "23503",
+			"name": "Xã Đắk PXi"
+		},
+		{
+			"id": "23509",
+			"name": "Xã Đắk Ui"
+		},
+		{
+			"id": "23521",
+			"name": "Xã Hà Mòn"
+		},
+		{
+			"id": "23518",
+			"name": "Xã Ngok Réo"
+		},
+		{
+			"id": "23515",
+			"name": "Xã Ngok Wang"
+		}
+	]
+}

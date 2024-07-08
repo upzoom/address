@@ -1,0 +1,86 @@
+{
+	"id": "173",
+	"name": "Huyện Phú Bình",
+	"data": [
+		{
+			"id": "05911",
+			"name": "Xã Bàn Đạt"
+		},
+		{
+			"id": "05929",
+			"name": "Xã Bảo Lý"
+		},
+		{
+			"id": "05926",
+			"name": "Xã Đào Xá"
+		},
+		{
+			"id": "05941",
+			"name": "Xã Điềm Thụy"
+		},
+		{
+			"id": "05965",
+			"name": "Xã Dương Thành"
+		},
+		{
+			"id": "05968",
+			"name": "Xã Hà Châu"
+		},
+		{
+			"id": "05908",
+			"name": "Thị trấn Hương Sơn"
+		},
+		{
+			"id": "05959",
+			"name": "Xã Kha Sơn"
+		},
+		{
+			"id": "05953",
+			"name": "Xã Lương Phú"
+		},
+		{
+			"id": "05956",
+			"name": "Xã Nga My"
+		},
+		{
+			"id": "05938",
+			"name": "Xã Nhã Lộng"
+		},
+		{
+			"id": "05947",
+			"name": "Xã Tân Đức"
+		},
+		{
+			"id": "05935",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "05917",
+			"name": "Xã Tân Khánh"
+		},
+		{
+			"id": "05920",
+			"name": "Xã Tân Kim"
+		},
+		{
+			"id": "05923",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "05962",
+			"name": "Xã Thanh Ninh"
+		},
+		{
+			"id": "05932",
+			"name": "Xã Thượng Đình"
+		},
+		{
+			"id": "05950",
+			"name": "Xã Úc Kỳ"
+		},
+		{
+			"id": "05944",
+			"name": "Xã Xuân Phương"
+		}
+	]
+}

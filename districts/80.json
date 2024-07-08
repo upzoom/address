@@ -1,0 +1,66 @@
+{
+	"id": "80",
+	"name": "Tỉnh Long An",
+	"data": [
+		{
+			"id": "803",
+			"name": "Huyện Bến Lức"
+		},
+		{
+			"id": "806",
+			"name": "Huyện Cần Đước"
+		},
+		{
+			"id": "807",
+			"name": "Huyện Cần Giuộc"
+		},
+		{
+			"id": "808",
+			"name": "Huyện Châu Thành"
+		},
+		{
+			"id": "802",
+			"name": "Huyện Đức Hòa"
+		},
+		{
+			"id": "801",
+			"name": "Huyện Đức Huệ"
+		},
+		{
+			"id": "795",
+			"name": "Thị xã Kiến Tường"
+		},
+		{
+			"id": "798",
+			"name": "Huyện Mộc Hóa"
+		},
+		{
+			"id": "794",
+			"name": "Thành phố Tân An"
+		},
+		{
+			"id": "796",
+			"name": "Huyện Tân Hưng"
+		},
+		{
+			"id": "799",
+			"name": "Huyện Tân Thạnh"
+		},
+		{
+			"id": "805",
+			"name": "Huyện Tân Trụ"
+		},
+		{
+			"id": "800",
+			"name": "Huyện Thạnh Hóa"
+		},
+		{
+			"id": "804",
+			"name": "Huyện Thủ Thừa"
+		},
+		{
+			"id": "797",
+			"name": "Huyện Vĩnh Hưng"
+		}
+	]
+}

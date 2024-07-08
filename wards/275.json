@@ -1,0 +1,90 @@
+{
+	"id": "275",
+	"name": "Huyện Quốc Oai",
+	"data": [
+		{
+			"id": "09943",
+			"name": "Xã Cấn Hữu"
+		},
+		{
+			"id": "09931",
+			"name": "Xã Cộng Hòa"
+		},
+		{
+			"id": "09937",
+			"name": "Xã Đại Thành"
+		},
+		{
+			"id": "09919",
+			"name": "Xã Đồng Quang"
+		},
+		{
+			"id": "04939",
+			"name": "Xã Đông Xuân"
+		},
+		{
+			"id": "09952",
+			"name": "Xã Đông Yên"
+		},
+		{
+			"id": "09949",
+			"name": "Xã Hòa Thạch"
+		},
+		{
+			"id": "09913",
+			"name": "Xã Liệp Tuyết"
+		},
+		{
+			"id": "09928",
+			"name": "Xã Nghĩa Hương"
+		},
+		{
+			"id": "09907",
+			"name": "Xã Ngọc Liệp"
+		},
+		{
+			"id": "09910",
+			"name": "Xã Ngọc Mỹ"
+		},
+		{
+			"id": "09922",
+			"name": "Xã Phú Cát"
+		},
+		{
+			"id": "09940",
+			"name": "Xã Phú Mãn"
+		},
+		{
+			"id": "09901",
+			"name": "Xã Phượng Cách"
+		},
+		{
+			"id": "09895",
+			"name": "Thị trấn Quốc Oai"
+		},
+		{
+			"id": "09898",
+			"name": "Xã Sài Sơn"
+		},
+		{
+			"id": "09946",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "09934",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "09916",
+			"name": "Xã Thạch Thán"
+		},
+		{
+			"id": "09925",
+			"name": "Xã Tuyết Nghĩa"
+		},
+		{
+			"id": "09904",
+			"name": "Xã Yên Sơn"
+		}
+	]
+}

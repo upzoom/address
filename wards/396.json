@@ -1,0 +1,70 @@
+{
+	"id": "396",
+	"name": "Huyện Thường Xuân",
+	"data": [
+		{
+			"id": "15607",
+			"name": "Xã Bát Mọt"
+		},
+		{
+			"id": "15637",
+			"name": "Xã Luận Khê"
+		},
+		{
+			"id": "15634",
+			"name": "Xã Luận Thành"
+		},
+		{
+			"id": "15628",
+			"name": "Xã Lương Sơn"
+		},
+		{
+			"id": "15655",
+			"name": "Xã Ngọc Phụng"
+		},
+		{
+			"id": "15661",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "15652",
+			"name": "Xã Thọ Thanh"
+		},
+		{
+			"id": "15646",
+			"name": "Thị trấn Thường Xuân"
+		},
+		{
+			"id": "15622",
+			"name": "Xã Vạn Xuân"
+		},
+		{
+			"id": "15631",
+			"name": "Xã Xuân Cao"
+		},
+		{
+			"id": "15658",
+			"name": "Xã Xuân Chinh"
+		},
+		{
+			"id": "15649",
+			"name": "Xã Xuân Dương"
+		},
+		{
+			"id": "15619",
+			"name": "Xã Xuân Lẹ"
+		},
+		{
+			"id": "15643",
+			"name": "Xã Xuân Lộc"
+		},
+		{
+			"id": "15640",
+			"name": "Xã Xuân Thắng"
+		},
+		{
+			"id": "15610",
+			"name": "Xã Yên Nhân"
+		}
+	]
+}

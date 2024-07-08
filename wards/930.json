@@ -1,0 +1,42 @@
+{
+	"id": "930",
+	"name": "Thành phố Vị Thanh",
+	"data": [
+		{
+			"id": "31336",
+			"name": "Xã Hoả Lựu"
+		},
+		{
+			"id": "31339",
+			"name": "Xã Hoả Tiến"
+		},
+		{
+			"id": "31318",
+			"name": "Phường I"
+		},
+		{
+			"id": "31321",
+			"name": "Phường III"
+		},
+		{
+			"id": "31324",
+			"name": "Phường IV"
+		},
+		{
+			"id": "31338",
+			"name": "Xã Tân Tiến"
+		},
+		{
+			"id": "31327",
+			"name": "Phường V"
+		},
+		{
+			"id": "31330",
+			"name": "Phường VII"
+		},
+		{
+			"id": "31333",
+			"name": "Xã Vị Tân"
+		}
+	]
+}

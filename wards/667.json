@@ -1,0 +1,30 @@
+{
+	"id": "667",
+	"name": "Huyện Tuy Đức",
+	"data": [
+		{
+			"id": "24739",
+			"name": "Xã Đắk Búk So"
+		},
+		{
+			"id": "24746",
+			"name": "Xã Đắk Ngo"
+		},
+		{
+			"id": "24742",
+			"name": "Xã Đắk R'Tíh"
+		},
+		{
+			"id": "24740",
+			"name": "Xã Quảng Tâm"
+		},
+		{
+			"id": "24748",
+			"name": "Xã Quảng Tân"
+		},
+		{
+			"id": "24736",
+			"name": "Xã Quảng Trực"
+		}
+	]
+}

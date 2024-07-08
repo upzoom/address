@@ -1,0 +1,66 @@
+{
+	"id": "452",
+	"name": "Huyện Minh Hóa",
+	"data": [
+		{
+			"id": "18904",
+			"name": "Xã Dân Hóa"
+		},
+		{
+			"id": "18922",
+			"name": "Xã Hóa Hợp"
+		},
+		{
+			"id": "18910",
+			"name": "Xã Hóa Phúc"
+		},
+		{
+			"id": "18937",
+			"name": "Xã Hóa Sơn"
+		},
+		{
+			"id": "18916",
+			"name": "Xã Hóa Thanh"
+		},
+		{
+			"id": "18919",
+			"name": "Xã Hóa Tiến"
+		},
+		{
+			"id": "18913",
+			"name": "Xã Hồng Hóa"
+		},
+		{
+			"id": "18931",
+			"name": "Xã Minh Hóa"
+		},
+		{
+			"id": "18901",
+			"name": "Thị trấn Quy Đạt"
+		},
+		{
+			"id": "18934",
+			"name": "Xã Tân Hóa"
+		},
+		{
+			"id": "18946",
+			"name": "Xã Thượng Hóa"
+		},
+		{
+			"id": "18907",
+			"name": "Xã Trọng Hóa"
+		},
+		{
+			"id": "18943",
+			"name": "Xã Trung Hóa"
+		},
+		{
+			"id": "18925",
+			"name": "Xã Xuân Hóa"
+		},
+		{
+			"id": "18928",
+			"name": "Xã Yên Hóa"
+		}
+	]
+}

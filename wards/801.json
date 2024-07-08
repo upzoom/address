@@ -1,0 +1,50 @@
+{
+	"id": "801",
+	"name": "Huyện Đức Huệ",
+	"data": [
+		{
+			"id": "27919",
+			"name": "Xã Bình Hòa Bắc"
+		},
+		{
+			"id": "27922",
+			"name": "Xã Bình Hòa Hưng"
+		},
+		{
+			"id": "27925",
+			"name": "Xã Bình Hòa Nam"
+		},
+		{
+			"id": "27916",
+			"name": "Xã Bình Thành"
+		},
+		{
+			"id": "27898",
+			"name": "Thị trấn Đông Thành"
+		},
+		{
+			"id": "27928",
+			"name": "Xã Mỹ Bình"
+		},
+		{
+			"id": "27901",
+			"name": "Xã Mỹ Quý Đông"
+		},
+		{
+			"id": "27907",
+			"name": "Xã Mỹ Quý Tây"
+		},
+		{
+			"id": "27904",
+			"name": "Xã Mỹ Thạnh Bắc"
+		},
+		{
+			"id": "27913",
+			"name": "Xã Mỹ Thạnh Đông"
+		},
+		{
+			"id": "27910",
+			"name": "Xã Mỹ Thạnh Tây"
+		}
+	]
+}

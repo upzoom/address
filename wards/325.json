@@ -1,0 +1,50 @@
+{
+	"id": "325",
+	"name": "Huyện Văn Lâm",
+	"data": [
+		{
+			"id": "11992",
+			"name": "Xã Chỉ Đạo"
+		},
+		{
+			"id": "11995",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "12004",
+			"name": "Xã Đình Dù"
+		},
+		{
+			"id": "11989",
+			"name": "Xã Lạc Đạo"
+		},
+		{
+			"id": "12016",
+			"name": "Xã Lạc Hồng"
+		},
+		{
+			"id": "12010",
+			"name": "Xã Lương Tài"
+		},
+		{
+			"id": "12007",
+			"name": "Xã Minh Hải"
+		},
+		{
+			"id": "11986",
+			"name": "Thị trấn Như Quỳnh"
+		},
+		{
+			"id": "12001",
+			"name": "Xã Tân Quang"
+		},
+		{
+			"id": "12013",
+			"name": "Xã Trưng Trắc"
+		},
+		{
+			"id": "11998",
+			"name": "Xã Việt Hưng"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "574",
+	"name": "Huyện Diên Khánh",
+	"data": [
+		{
+			"id": "22696",
+			"name": "Xã Bình Lộc"
+		},
+		{
+			"id": "22693",
+			"name": "Xã Diên An"
+		},
+		{
+			"id": "22657",
+			"name": "Xã Diên Điền"
+		},
+		{
+			"id": "22666",
+			"name": "Xã Diên Đồng"
+		},
+		{
+			"id": "22684",
+			"name": "Xã Diên Hòa"
+		},
+		{
+			"id": "22651",
+			"name": "Thị trấn Diên Khánh"
+		},
+		{
+			"id": "22678",
+			"name": "Xã Diên Lạc"
+		},
+		{
+			"id": "22654",
+			"name": "Xã Diên Lâm"
+		},
+		{
+			"id": "22669",
+			"name": "Xã Diên Phú"
+		},
+		{
+			"id": "22675",
+			"name": "Xã Diên Phước"
+		},
+		{
+			"id": "22663",
+			"name": "Xã Diên Sơn"
+		},
+		{
+			"id": "22681",
+			"name": "Xã Diên Tân"
+		},
+		{
+			"id": "22687",
+			"name": "Xã Diên Thạnh"
+		},
+		{
+			"id": "22672",
+			"name": "Xã Diên Thọ"
+		},
+		{
+			"id": "22690",
+			"name": "Xã Diên Toàn"
+		},
+		{
+			"id": "22660",
+			"name": "Xã Diên Xuân"
+		},
+		{
+			"id": "22702",
+			"name": "Xã Suối Hiệp"
+		},
+		{
+			"id": "22705",
+			"name": "Xã Suối Tiên"
+		}
+	]
+}

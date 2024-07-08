@@ -1,0 +1,58 @@
+{
+	"id": "808",
+	"name": "Huyện Châu Thành",
+	"data": [
+		{
+			"id": "28240",
+			"name": "Xã An Lục Long"
+		},
+		{
+			"id": "28213",
+			"name": "Xã Bình Quới"
+		},
+		{
+			"id": "28237",
+			"name": "Xã Dương Xuân Hội"
+		},
+		{
+			"id": "28228",
+			"name": "Xã Hiệp Thạnh"
+		},
+		{
+			"id": "28216",
+			"name": "Xã Hòa Phú"
+		},
+		{
+			"id": "28243",
+			"name": "Xã Long Trì"
+		},
+		{
+			"id": "28219",
+			"name": "Xã Phú Ngãi Trị"
+		},
+		{
+			"id": "28231",
+			"name": "Xã Phước Tân Hưng"
+		},
+		{
+			"id": "28210",
+			"name": "Thị trấn Tầm Vu"
+		},
+		{
+			"id": "28234",
+			"name": "Xã Thanh Phú Long"
+		},
+		{
+			"id": "28246",
+			"name": "Xã Thanh Vĩnh Đông"
+		},
+		{
+			"id": "28225",
+			"name": "Xã Thuận Mỹ"
+		},
+		{
+			"id": "28222",
+			"name": "Xã Vĩnh Công"
+		}
+	]
+}

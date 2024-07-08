@@ -1,0 +1,74 @@
+{
+	"id": "234",
+	"name": "Huyện Yên Lập",
+	"data": [
+		{
+			"id": "08320",
+			"name": "Xã Đồng Lạc"
+		},
+		{
+			"id": "08326",
+			"name": "Xã Đồng Thịnh"
+		},
+		{
+			"id": "08314",
+			"name": "Xã Hưng Long"
+		},
+		{
+			"id": "08299",
+			"name": "Xã Lương Sơn"
+		},
+		{
+			"id": "08332",
+			"name": "Xã Minh Hòa"
+		},
+		{
+			"id": "08293",
+			"name": "Xã Mỹ Lung"
+		},
+		{
+			"id": "08296",
+			"name": "Xã Mỹ Lương"
+		},
+		{
+			"id": "08317",
+			"name": "Xã Nga Hoàng"
+		},
+		{
+			"id": "08338",
+			"name": "Xã Ngọc Đồng"
+		},
+		{
+			"id": "08335",
+			"name": "Xã Ngọc Lập"
+		},
+		{
+			"id": "08329",
+			"name": "Xã Phúc Khánh"
+		},
+		{
+			"id": "08323",
+			"name": "Xã Thượng Long"
+		},
+		{
+			"id": "08311",
+			"name": "Xã Trung Sơn"
+		},
+		{
+			"id": "08302",
+			"name": "Xã Xuân An"
+		},
+		{
+			"id": "08308",
+			"name": "Xã Xuân Thủy"
+		},
+		{
+			"id": "08305",
+			"name": "Xã Xuân Viên"
+		},
+		{
+			"id": "08290",
+			"name": "Thị trấn Yên Lập"
+		}
+	]
+}

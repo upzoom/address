@@ -1,0 +1,38 @@
+{
+	"id": "624",
+	"name": "Thị xã Ayun Pa",
+	"data": [
+		{
+			"id": "24041",
+			"name": "Phường Cheo Reo"
+		},
+		{
+			"id": "24065",
+			"name": "Xã Chư Băh"
+		},
+		{
+			"id": "24044",
+			"name": "Phường Đoàn Kết"
+		},
+		{
+			"id": "24042",
+			"name": "Phường Hòa Bình"
+		},
+		{
+			"id": "24064",
+			"name": "Xã Ia RBol"
+		},
+		{
+			"id": "24070",
+			"name": "Xã Ia RTô"
+		},
+		{
+			"id": "24073",
+			"name": "Xã Ia Sao"
+		},
+		{
+			"id": "24045",
+			"name": "Phường Sông Bờ"
+		}
+	]
+}

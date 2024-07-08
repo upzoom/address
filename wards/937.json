@@ -1,0 +1,42 @@
+{
+	"id": "937",
+	"name": "Thị xã Long Mỹ",
+	"data": [
+		{
+			"id": "31473",
+			"name": "Phường Bình Thạnh"
+		},
+		{
+			"id": "31474",
+			"name": "Xã Long Bình"
+		},
+		{
+			"id": "31480",
+			"name": "Xã Long Phú"
+		},
+		{
+			"id": "31477",
+			"name": "Xã Long Trị"
+		},
+		{
+			"id": "31478",
+			"name": "Xã Long Trị A"
+		},
+		{
+			"id": "31481",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "31471",
+			"name": "Phường Thuận An"
+		},
+		{
+			"id": "31472",
+			"name": "Phường Trà Lồng"
+		},
+		{
+			"id": "31475",
+			"name": "Phường Vĩnh Tường"
+		}
+	]
+}

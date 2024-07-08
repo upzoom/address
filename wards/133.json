@@ -1,0 +1,62 @@
+{
+	"id": "133",
+	"name": "Thị xã Nghĩa Lộ",
+	"data": [
+		{
+			"id": "04291",
+			"name": "Phường Cầu Thia"
+		},
+		{
+			"id": "04678",
+			"name": "Xã Hạnh Sơn"
+		},
+		{
+			"id": "04300",
+			"name": "Xã Nghĩa An"
+		},
+		{
+			"id": "04624",
+			"name": "Xã Nghĩa Lộ"
+		},
+		{
+			"id": "04294",
+			"name": "Xã Nghĩa Lợi"
+		},
+		{
+			"id": "04297",
+			"name": "Xã Nghĩa Phúc"
+		},
+		{
+			"id": "04663",
+			"name": "Xã Phù Nham"
+		},
+		{
+			"id": "04681",
+			"name": "Xã Phúc Sơn"
+		},
+		{
+			"id": "04282",
+			"name": "Phường Pú Trạng"
+		},
+		{
+			"id": "04660",
+			"name": "Xã Sơn A"
+		},
+		{
+			"id": "04288",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "04684",
+			"name": "Xã Thạch Lương"
+		},
+		{
+			"id": "04675",
+			"name": "Xã Thanh Lương"
+		},
+		{
+			"id": "04285",
+			"name": "Phường Trung Tâm"
+		}
+	]
+}

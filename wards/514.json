@@ -1,0 +1,66 @@
+{
+	"id": "514",
+	"name": "Huyện Tiên Phước",
+	"data": [
+		{
+			"id": "20890",
+			"name": "Xã Tiên An"
+		},
+		{
+			"id": "20863",
+			"name": "Xã Tiên Cẩm"
+		},
+		{
+			"id": "20878",
+			"name": "Xã Tiên Cảnh"
+		},
+		{
+			"id": "20866",
+			"name": "Xã Tiên Châu"
+		},
+		{
+			"id": "20860",
+			"name": "Xã Tiên Hà"
+		},
+		{
+			"id": "20875",
+			"name": "Xã Tiên Hiệp"
+		},
+		{
+			"id": "20854",
+			"name": "Thị trấn Tiên Kỳ"
+		},
+		{
+			"id": "20869",
+			"name": "Xã Tiên Lãnh"
+		},
+		{
+			"id": "20896",
+			"name": "Xã Tiên Lập"
+		},
+		{
+			"id": "20893",
+			"name": "Xã Tiên Lộc"
+		},
+		{
+			"id": "20881",
+			"name": "Xã Tiên Mỹ"
+		},
+		{
+			"id": "20872",
+			"name": "Xã Tiên Ngọc"
+		},
+		{
+			"id": "20884",
+			"name": "Xã Tiên Phong"
+		},
+		{
+			"id": "20857",
+			"name": "Xã Tiên Sơn"
+		},
+		{
+			"id": "20887",
+			"name": "Xã Tiên Thọ"
+		}
+	]
+}

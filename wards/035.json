@@ -1,0 +1,66 @@
+{
+	"id": "035",
+	"name": "Huyện Quang Bình",
+	"data": [
+		{
+			"id": "01231",
+			"name": "Xã Bản Rịa"
+		},
+		{
+			"id": "01246",
+			"name": "Xã Bằng Lang"
+		},
+		{
+			"id": "01252",
+			"name": "Xã Hương Sơn"
+		},
+		{
+			"id": "01258",
+			"name": "Xã Nà Khương"
+		},
+		{
+			"id": "01243",
+			"name": "Xã Tân Bắc"
+		},
+		{
+			"id": "01228",
+			"name": "Xã Tân Nam"
+		},
+		{
+			"id": "01240",
+			"name": "Xã Tân Trịnh"
+		},
+		{
+			"id": "01225",
+			"name": "Xã Tiên Nguyên"
+		},
+		{
+			"id": "01261",
+			"name": "Xã Tiên Yên"
+		},
+		{
+			"id": "01264",
+			"name": "Xã Vĩ Thượng"
+		},
+		{
+			"id": "01255",
+			"name": "Xã Xuân Giang"
+		},
+		{
+			"id": "01222",
+			"name": "Xã Xuân Minh"
+		},
+		{
+			"id": "01237",
+			"name": "Thị trấn Yên Bình"
+		},
+		{
+			"id": "01249",
+			"name": "Xã Yên Hà"
+		},
+		{
+			"id": "01234",
+			"name": "Xã Yên Thành"
+		}
+	]
+}

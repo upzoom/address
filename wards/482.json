@@ -1,0 +1,74 @@
+{
+	"id": "482",
+	"name": "Huyện Phú Lộc",
+	"data": [
+		{
+			"id": "20122",
+			"name": "Xã Giang Hải"
+		},
+		{
+			"id": "20110",
+			"name": "Thị trấn Lăng Cô"
+		},
+		{
+			"id": "20140",
+			"name": "Xã Lộc An"
+		},
+		{
+			"id": "20134",
+			"name": "Xã Lộc Bình"
+		},
+		{
+			"id": "20128",
+			"name": "Xã Lộc Bổn"
+		},
+		{
+			"id": "20143",
+			"name": "Xã Lộc Điền"
+		},
+		{
+			"id": "20155",
+			"name": "Xã Lộc Hòa"
+		},
+		{
+			"id": "20131",
+			"name": "Xã Lộc Sơn"
+		},
+		{
+			"id": "20146",
+			"name": "Xã Lộc Thủy"
+		},
+		{
+			"id": "20152",
+			"name": "Xã Lộc Tiến"
+		},
+		{
+			"id": "20149",
+			"name": "Xã Lộc Trì"
+		},
+		{
+			"id": "20137",
+			"name": "Xã Lộc Vĩnh"
+		},
+		{
+			"id": "20107",
+			"name": "Thị trấn Phú Lộc"
+		},
+		{
+			"id": "20125",
+			"name": "Xã Vinh Hiền"
+		},
+		{
+			"id": "20116",
+			"name": "Xã Vinh Hưng"
+		},
+		{
+			"id": "20113",
+			"name": "Xã Vinh Mỹ"
+		},
+		{
+			"id": "20158",
+			"name": "Xã Xuân Lộc"
+		}
+	]
+}

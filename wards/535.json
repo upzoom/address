@@ -1,0 +1,82 @@
+{
+	"id": "535",
+	"name": "Huyện Ba Tơ",
+	"data": [
+		{
+			"id": "21526",
+			"name": "Xã Ba Bích"
+		},
+		{
+			"id": "21511",
+			"name": "Xã Ba Cung"
+		},
+		{
+			"id": "21487",
+			"name": "Xã Ba Điền"
+		},
+		{
+			"id": "21499",
+			"name": "Xã Ba Dinh"
+		},
+		{
+			"id": "21496",
+			"name": "Xã Ba Động"
+		},
+		{
+			"id": "21500",
+			"name": "Xã Ba Giang"
+		},
+		{
+			"id": "21508",
+			"name": "Xã Ba Khâm"
+		},
+		{
+			"id": "21532",
+			"name": "Xã Ba Lế"
+		},
+		{
+			"id": "21502",
+			"name": "Xã Ba Liên"
+		},
+		{
+			"id": "21535",
+			"name": "Xã Ba Nam"
+		},
+		{
+			"id": "21505",
+			"name": "Xã Ba Ngạc"
+		},
+		{
+			"id": "21493",
+			"name": "Xã Ba Thành"
+		},
+		{
+			"id": "21517",
+			"name": "Xã Ba Tiêu"
+		},
+		{
+			"id": "21484",
+			"name": "Thị trấn Ba Tơ"
+		},
+		{
+			"id": "21523",
+			"name": "Xã Ba Tô"
+		},
+		{
+			"id": "21520",
+			"name": "Xã Ba Trang"
+		},
+		{
+			"id": "21529",
+			"name": "Xã Ba Vì"
+		},
+		{
+			"id": "21490",
+			"name": "Xã Ba Vinh"
+		},
+		{
+			"id": "21538",
+			"name": "Xã Ba Xa"
+		}
+	]
+}

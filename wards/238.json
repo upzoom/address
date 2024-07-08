@@ -1,0 +1,98 @@
+{
+	"id": "238",
+	"name": "Huyện Thanh Sơn",
+	"data": [
+		{
+			"id": "08614",
+			"name": "Xã Cự Đồng"
+		},
+		{
+			"id": "08602",
+			"name": "Xã Cự Thắng"
+		},
+		{
+			"id": "08572",
+			"name": "Xã Địch Quả"
+		},
+		{
+			"id": "08638",
+			"name": "Xã Đông Cửu"
+		},
+		{
+			"id": "08575",
+			"name": "Xã Giáp Lai"
+		},
+		{
+			"id": "08632",
+			"name": "Xã Hương Cần"
+		},
+		{
+			"id": "08635",
+			"name": "Xã Khả Cửu"
+		},
+		{
+			"id": "08653",
+			"name": "Xã Lương Nha"
+		},
+		{
+			"id": "08563",
+			"name": "Xã Sơn Hùng"
+		},
+		{
+			"id": "08641",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "08629",
+			"name": "Xã Tân Minh"
+		},
+		{
+			"id": "08605",
+			"name": "Xã Tất Thắng"
+		},
+		{
+			"id": "08587",
+			"name": "Xã Thạch Khoán"
+		},
+		{
+			"id": "08623",
+			"name": "Xã Thắng Sơn"
+		},
+		{
+			"id": "08542",
+			"name": "Thị trấn Thanh Sơn"
+		},
+		{
+			"id": "08581",
+			"name": "Xã Thục Luyện"
+		},
+		{
+			"id": "08650",
+			"name": "Xã Thượng Cửu"
+		},
+		{
+			"id": "08659",
+			"name": "Xã Tinh Nhuệ"
+		},
+		{
+			"id": "08611",
+			"name": "Xã Văn Miếu"
+		},
+		{
+			"id": "08584",
+			"name": "Xã Võ Miếu"
+		},
+		{
+			"id": "08644",
+			"name": "Xã Yên Lãng"
+		},
+		{
+			"id": "08647",
+			"name": "Xã Yên Lương"
+		},
+		{
+			"id": "08656",
+			"name": "Xã Yên Sơn"
+		}
+	]
+}

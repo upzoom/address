@@ -1,0 +1,54 @@
+{
+	"id": "511",
+	"name": "Huyện Phước Sơn",
+	"data": [
+		{
+			"id": "20722",
+			"name": "Thị trấn Khâm Đức"
+		},
+		{
+			"id": "20740",
+			"name": "Xã Phước Chánh"
+		},
+		{
+			"id": "20743",
+			"name": "Xã Phước Công"
+		},
+		{
+			"id": "20731",
+			"name": "Xã Phước Đức"
+		},
+		{
+			"id": "20728",
+			"name": "Xã Phước Hiệp"
+		},
+		{
+			"id": "20729",
+			"name": "Xã Phước Hoà"
+		},
+		{
+			"id": "20746",
+			"name": "Xã Phước Kim"
+		},
+		{
+			"id": "20749",
+			"name": "Xã Phước Lộc"
+		},
+		{
+			"id": "20737",
+			"name": "Xã Phước Mỹ"
+		},
+		{
+			"id": "20734",
+			"name": "Xã Phước Năng"
+		},
+		{
+			"id": "20752",
+			"name": "Xã Phước Thành"
+		},
+		{
+			"id": "20725",
+			"name": "Xã Phước Xuân"
+		}
+	]
+}

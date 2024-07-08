@@ -1,0 +1,46 @@
+{
+	"id": "542",
+	"name": "Huyện An Lão",
+	"data": [
+		{
+			"id": "21616",
+			"name": "Xã An Dũng"
+		},
+		{
+			"id": "21628",
+			"name": "Xã An Hòa"
+		},
+		{
+			"id": "21610",
+			"name": "Xã An Hưng"
+		},
+		{
+			"id": "21609",
+			"name": "Thị trấn An Lão"
+		},
+		{
+			"id": "21634",
+			"name": "Xã An Nghĩa"
+		},
+		{
+			"id": "21631",
+			"name": "Xã An Quang"
+		},
+		{
+			"id": "21625",
+			"name": "Xã An Tân"
+		},
+		{
+			"id": "21622",
+			"name": "Xã An Toàn"
+		},
+		{
+			"id": "21613",
+			"name": "Xã An Trung"
+		},
+		{
+			"id": "21619",
+			"name": "Xã An Vinh"
+		}
+	]
+}

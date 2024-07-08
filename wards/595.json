@@ -1,0 +1,50 @@
+{
+	"id": "595",
+	"name": "Huyện Tuy Phong",
+	"data": [
+		{
+			"id": "22999",
+			"name": "Xã Bình Thạnh"
+		},
+		{
+			"id": "22996",
+			"name": "Xã Chí Công"
+		},
+		{
+			"id": "22993",
+			"name": "Xã Hòa Minh"
+		},
+		{
+			"id": "22969",
+			"name": "Thị trấn Liên Hương"
+		},
+		{
+			"id": "22975",
+			"name": "Xã Phan Dũng"
+		},
+		{
+			"id": "22972",
+			"name": "Thị trấn Phan Rí Cửa"
+		},
+		{
+			"id": "22978",
+			"name": "Xã Phong Phú"
+		},
+		{
+			"id": "22987",
+			"name": "Xã Phú Lạc"
+		},
+		{
+			"id": "22990",
+			"name": "Xã Phước Thể"
+		},
+		{
+			"id": "22981",
+			"name": "Xã Vĩnh Hảo"
+		},
+		{
+			"id": "22984",
+			"name": "Xã Vĩnh Tân"
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "217",
+	"name": "Huyện Lạng Giang",
+	"data": [
+		{
+			"id": "07396",
+			"name": "Xã An Hà"
+		},
+		{
+			"id": "07435",
+			"name": "Xã Đại Lâm"
+		},
+		{
+			"id": "07390",
+			"name": "Xã Đào Mỹ"
+		},
+		{
+			"id": "07408",
+			"name": "Xã Dương Đức"
+		},
+		{
+			"id": "07405",
+			"name": "Xã Hương Lạc"
+		},
+		{
+			"id": "07387",
+			"name": "Xã Hương Sơn"
+		},
+		{
+			"id": "07399",
+			"name": "Thị trấn Kép"
+		},
+		{
+			"id": "07402",
+			"name": "Xã Mỹ Hà"
+		},
+		{
+			"id": "07420",
+			"name": "Xã Mỹ Thái"
+		},
+		{
+			"id": "07378",
+			"name": "Xã Nghĩa Hòa"
+		},
+		{
+			"id": "07381",
+			"name": "Xã Nghĩa Hưng"
+		},
+		{
+			"id": "07384",
+			"name": "Xã Quang Thịnh"
+		},
+		{
+			"id": "07432",
+			"name": "Xã Tân Dĩnh"
+		},
+		{
+			"id": "07417",
+			"name": "Xã Tân Hưng"
+		},
+		{
+			"id": "07411",
+			"name": "Xã Tân Thanh"
+		},
+		{
+			"id": "07438",
+			"name": "Xã Thái Đào"
+		},
+		{
+			"id": "07393",
+			"name": "Xã Tiên Lục"
+		},
+		{
+			"id": "07375",
+			"name": "Thị trấn Vôi"
+		},
+		{
+			"id": "07429",
+			"name": "Xã Xuân Hương"
+		},
+		{
+			"id": "07426",
+			"name": "Xã Xương Lâm"
+		},
+		{
+			"id": "07414",
+			"name": "Xã Yên Mỹ"
+		}
+	]
+}

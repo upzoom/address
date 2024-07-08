@@ -1,0 +1,114 @@
+{
+	"id": "572",
+	"name": "Thị xã Ninh Hòa",
+	"data": [
+		{
+			"id": "22540",
+			"name": "Xã Ninh An"
+		},
+		{
+			"id": "22576",
+			"name": "Xã Ninh Bình"
+		},
+		{
+			"id": "22570",
+			"name": "Phường Ninh Đa"
+		},
+		{
+			"id": "22561",
+			"name": "Phường Ninh Diêm"
+		},
+		{
+			"id": "22564",
+			"name": "Xã Ninh Đông"
+		},
+		{
+			"id": "22591",
+			"name": "Phường Ninh Giang"
+		},
+		{
+			"id": "22594",
+			"name": "Phường Ninh Hà"
+		},
+		{
+			"id": "22543",
+			"name": "Phường Ninh Hải"
+		},
+		{
+			"id": "22528",
+			"name": "Phường Ninh Hiệp"
+		},
+		{
+			"id": "22597",
+			"name": "Xã Ninh Hưng"
+		},
+		{
+			"id": "22603",
+			"name": "Xã Ninh Ích"
+		},
+		{
+			"id": "22600",
+			"name": "Xã Ninh Lộc"
+		},
+		{
+			"id": "22582",
+			"name": "Xã Ninh Phú"
+		},
+		{
+			"id": "22573",
+			"name": "Xã Ninh Phụng"
+		},
+		{
+			"id": "22579",
+			"name": "Xã Ninh Phước"
+		},
+		{
+			"id": "22588",
+			"name": "Xã Ninh Quang"
+		},
+		{
+			"id": "22552",
+			"name": "Xã Ninh Sim"
+		},
+		{
+			"id": "22531",
+			"name": "Xã Ninh Sơn"
+		},
+		{
+			"id": "22585",
+			"name": "Xã Ninh Tân"
+		},
+		{
+			"id": "22534",
+			"name": "Xã Ninh Tây"
+		},
+		{
+			"id": "22558",
+			"name": "Xã Ninh Thân"
+		},
+		{
+			"id": "22546",
+			"name": "Xã Ninh Thọ"
+		},
+		{
+			"id": "22537",
+			"name": "Xã Ninh Thượng"
+		},
+		{
+			"id": "22567",
+			"name": "Phường Ninh Thủy"
+		},
+		{
+			"id": "22549",
+			"name": "Xã Ninh Trung"
+		},
+		{
+			"id": "22606",
+			"name": "Xã Ninh Vân"
+		},
+		{
+			"id": "22555",
+			"name": "Xã Ninh Xuân"
+		}
+	]
+}

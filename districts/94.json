@@ -1,0 +1,50 @@
+{
+	"id": "94",
+	"name": "Tỉnh Sóc Trăng",
+	"data": [
+		{
+			"id": "942",
+			"name": "Huyện Châu Thành"
+		},
+		{
+			"id": "945",
+			"name": "Huyện Cù Lao Dung"
+		},
+		{
+			"id": "943",
+			"name": "Huyện Kế Sách"
+		},
+		{
+			"id": "946",
+			"name": "Huyện Long Phú"
+		},
+		{
+			"id": "944",
+			"name": "Huyện Mỹ Tú"
+		},
+		{
+			"id": "947",
+			"name": "Huyện Mỹ Xuyên"
+		},
+		{
+			"id": "948",
+			"name": "Thị xã Ngã Năm"
+		},
+		{
+			"id": "941",
+			"name": "Thành phố Sóc Trăng"
+		},
+		{
+			"id": "949",
+			"name": "Huyện Thạnh Trị"
+		},
+		{
+			"id": "951",
+			"name": "Huyện Trần Đề"
+		},
+		{
+			"id": "950",
+			"name": "Thị xã Vĩnh Châu"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "858",
+	"name": "Huyện Mang Thít",
+	"data": [
+		{
+			"id": "29629",
+			"name": "Xã An Phước"
+		},
+		{
+			"id": "29644",
+			"name": "Xã Bình Phước"
+		},
+		{
+			"id": "29641",
+			"name": "Thị trấn Cái Nhum"
+		},
+		{
+			"id": "29647",
+			"name": "Xã Chánh An"
+		},
+		{
+			"id": "29638",
+			"name": "Xã Hòa Tịnh"
+		},
+		{
+			"id": "29635",
+			"name": "Xã Long Mỹ"
+		},
+		{
+			"id": "29623",
+			"name": "Xã Mỹ An"
+		},
+		{
+			"id": "29626",
+			"name": "Xã Mỹ Phước"
+		},
+		{
+			"id": "29632",
+			"name": "Xã Nhơn Phú"
+		},
+		{
+			"id": "29650",
+			"name": "Xã Tân An Hội"
+		},
+		{
+			"id": "29653",
+			"name": "Xã Tân Long"
+		},
+		{
+			"id": "29656",
+			"name": "Xã Tân Long Hội"
+		}
+	]
+}

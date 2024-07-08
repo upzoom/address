@@ -1,0 +1,46 @@
+{
+	"id": "159",
+	"name": "Huyện Lạc Thủy",
+	"data": [
+		{
+			"id": "05428",
+			"name": "Xã An Bình"
+		},
+		{
+			"id": "04981",
+			"name": "Thị trấn Ba Hàng Đồi"
+		},
+		{
+			"id": "05392",
+			"name": "Thị trấn Chi Nê"
+		},
+		{
+			"id": "05419",
+			"name": "Xã Đồng Tâm"
+		},
+		{
+			"id": "05404",
+			"name": "Xã Hưng Thi"
+		},
+		{
+			"id": "05413",
+			"name": "Xã Khoan Dụ"
+		},
+		{
+			"id": "05395",
+			"name": "Xã Phú Nghĩa"
+		},
+		{
+			"id": "05398",
+			"name": "Xã Phú Thành"
+		},
+		{
+			"id": "05425",
+			"name": "Xã Thống Nhất"
+		},
+		{
+			"id": "05422",
+			"name": "Xã Yên Bồng"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "907",
+	"name": "Huyện Gò Quao",
+	"data": [
+		{
+			"id": "30964",
+			"name": "Xã Định An"
+		},
+		{
+			"id": "30958",
+			"name": "Xã Định Hòa"
+		},
+		{
+			"id": "30952",
+			"name": "Thị trấn Gò Quao"
+		},
+		{
+			"id": "30961",
+			"name": "Xã Thới Quản"
+		},
+		{
+			"id": "30967",
+			"name": "Xã Thủy Liễu"
+		},
+		{
+			"id": "30955",
+			"name": "Xã Vĩnh Hòa Hưng Bắc"
+		},
+		{
+			"id": "30970",
+			"name": "Xã Vĩnh Hòa Hưng Nam"
+		},
+		{
+			"id": "30973",
+			"name": "Xã Vĩnh Phước A"
+		},
+		{
+			"id": "30976",
+			"name": "Xã Vĩnh Phước B"
+		},
+		{
+			"id": "30982",
+			"name": "Xã Vĩnh Thắng"
+		},
+		{
+			"id": "30979",
+			"name": "Xã Vĩnh Tuy"
+		}
+	]
+}

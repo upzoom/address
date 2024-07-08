@@ -1,0 +1,42 @@
+{
+	"id": "200",
+	"name": "Huyện Đầm Hà",
+	"data": [
+		{
+			"id": "06919",
+			"name": "Xã Đại Bình"
+		},
+		{
+			"id": "06895",
+			"name": "Thị trấn Đầm Hà"
+		},
+		{
+			"id": "06916",
+			"name": "Xã Đầm Hà"
+		},
+		{
+			"id": "06910",
+			"name": "Xã Dực Yên"
+		},
+		{
+			"id": "06901",
+			"name": "Xã Quảng An"
+		},
+		{
+			"id": "06898",
+			"name": "Xã Quảng Lâm"
+		},
+		{
+			"id": "06913",
+			"name": "Xã Quảng Tân"
+		},
+		{
+			"id": "06904",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "06917",
+			"name": "Xã Tân Lập"
+		}
+	]
+}

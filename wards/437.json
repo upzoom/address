@@ -1,0 +1,30 @@
+{
+	"id": "437",
+	"name": "Thị xã Hồng Lĩnh",
+	"data": [
+		{
+			"id": "18115",
+			"name": "Phường Bắc Hồng"
+		},
+		{
+			"id": "18127",
+			"name": "Phường Đậu Liêu"
+		},
+		{
+			"id": "18124",
+			"name": "Phường Đức Thuận"
+		},
+		{
+			"id": "18118",
+			"name": "Phường Nam Hồng"
+		},
+		{
+			"id": "18130",
+			"name": "Xã Thuận Lộc"
+		},
+		{
+			"id": "18121",
+			"name": "Phường Trung Lương"
+		}
+	]
+}

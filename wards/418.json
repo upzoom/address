@@ -1,0 +1,74 @@
+{
+	"id": "418",
+	"name": "Huyện Tương Dương",
+	"data": [
+		{
+			"id": "16885",
+			"name": "Xã Hữu Khuông"
+		},
+		{
+			"id": "16906",
+			"name": "Xã Lưỡng Minh"
+		},
+		{
+			"id": "16915",
+			"name": "Xã Lưu Kiền"
+		},
+		{
+			"id": "16879",
+			"name": "Xã Mai Sơn"
+		},
+		{
+			"id": "16903",
+			"name": "Xã Nga My"
+		},
+		{
+			"id": "16882",
+			"name": "Xã Nhôn Mai"
+		},
+		{
+			"id": "16927",
+			"name": "Xã Tam Đình"
+		},
+		{
+			"id": "16936",
+			"name": "Xã Tam Hợp"
+		},
+		{
+			"id": "16933",
+			"name": "Xã Tam Quang"
+		},
+		{
+			"id": "16924",
+			"name": "Xã Tam Thái"
+		},
+		{
+			"id": "16876",
+			"name": "Thị trấn Thạch Giám"
+		},
+		{
+			"id": "16921",
+			"name": "Xã Xá Lượng"
+		},
+		{
+			"id": "16904",
+			"name": "Xã Xiêng My"
+		},
+		{
+			"id": "16909",
+			"name": "Xã Yên Hòa"
+		},
+		{
+			"id": "16912",
+			"name": "Xã Yên Na"
+		},
+		{
+			"id": "16930",
+			"name": "Xã Yên Thắng"
+		},
+		{
+			"id": "16900",
+			"name": "Xã Yên Tĩnh"
+		}
+	]
+}

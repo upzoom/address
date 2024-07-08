@@ -1,0 +1,66 @@
+{
+	"id": "708",
+	"name": "Huyện Châu Thành",
+	"data": [
+		{
+			"id": "25615",
+			"name": "Xã An Bình"
+		},
+		{
+			"id": "25600",
+			"name": "Xã An Cơ"
+		},
+		{
+			"id": "25603",
+			"name": "Xã Biên Giới"
+		},
+		{
+			"id": "25585",
+			"name": "Thị trấn Châu Thành"
+		},
+		{
+			"id": "25594",
+			"name": "Xã Đồng Khởi"
+		},
+		{
+			"id": "25588",
+			"name": "Xã Hảo Đước"
+		},
+		{
+			"id": "25612",
+			"name": "Xã Hòa Hội"
+		},
+		{
+			"id": "25606",
+			"name": "Xã Hòa Thạnh"
+		},
+		{
+			"id": "25627",
+			"name": "Xã Long Vĩnh"
+		},
+		{
+			"id": "25624",
+			"name": "Xã Ninh Điền"
+		},
+		{
+			"id": "25591",
+			"name": "Xã Phước Vinh"
+		},
+		{
+			"id": "25597",
+			"name": "Xã Thái Bình"
+		},
+		{
+			"id": "25618",
+			"name": "Xã Thanh Điền"
+		},
+		{
+			"id": "25621",
+			"name": "Xã Thành Long"
+		},
+		{
+			"id": "25609",
+			"name": "Xã Trí Bình"
+		}
+	]
+}

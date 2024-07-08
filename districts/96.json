@@ -1,0 +1,42 @@
+{
+	"id": "96",
+	"name": "Tỉnh Cà Mau",
+	"data": [
+		{
+			"id": "964",
+			"name": "Thành phố Cà Mau"
+		},
+		{
+			"id": "969",
+			"name": "Huyện Cái Nước"
+		},
+		{
+			"id": "970",
+			"name": "Huyện Đầm Dơi"
+		},
+		{
+			"id": "971",
+			"name": "Huyện Năm Căn"
+		},
+		{
+			"id": "973",
+			"name": "Huyện Ngọc Hiển"
+		},
+		{
+			"id": "972",
+			"name": "Huyện Phú Tân"
+		},
+		{
+			"id": "967",
+			"name": "Huyện Thới Bình"
+		},
+		{
+			"id": "968",
+			"name": "Huyện Trần Văn Thời"
+		},
+		{
+			"id": "966",
+			"name": "Huyện U Minh"
+		}
+	]
+}

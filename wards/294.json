@@ -1,0 +1,86 @@
+{
+	"id": "294",
+	"name": "Huyện Thanh Hà",
+	"data": [
+		{
+			"id": "10864",
+			"name": "Xã An Phượng"
+		},
+		{
+			"id": "10828",
+			"name": "Xã Cẩm Chế"
+		},
+		{
+			"id": "10816",
+			"name": "Xã Hồng Lạc"
+		},
+		{
+			"id": "10843",
+			"name": "Xã Liên Mạc"
+		},
+		{
+			"id": "10840",
+			"name": "Xã Tân An"
+		},
+		{
+			"id": "10825",
+			"name": "Xã Tân Việt"
+		},
+		{
+			"id": "10831",
+			"name": "Xã Thanh An"
+		},
+		{
+			"id": "10882",
+			"name": "Xã Thanh Cường"
+		},
+		{
+			"id": "10813",
+			"name": "Thị trấn Thanh Hà"
+		},
+		{
+			"id": "10846",
+			"name": "Xã Thanh Hải"
+		},
+		{
+			"id": "10879",
+			"name": "Xã Thanh Hồng"
+		},
+		{
+			"id": "10849",
+			"name": "Xã Thanh Khê"
+		},
+		{
+			"id": "10834",
+			"name": "Xã Thanh Lang"
+		},
+		{
+			"id": "10876",
+			"name": "Xã Thanh Quang"
+		},
+		{
+			"id": "10867",
+			"name": "Xã Thanh Sơn"
+		},
+		{
+			"id": "10861",
+			"name": "Xã Thanh Thủy"
+		},
+		{
+			"id": "10852",
+			"name": "Xã Thanh Xá"
+		},
+		{
+			"id": "10855",
+			"name": "Xã Thanh Xuân"
+		},
+		{
+			"id": "10819",
+			"name": "Xã Việt Hồng"
+		},
+		{
+			"id": "10885",
+			"name": "Xã Vĩnh Lập"
+		}
+	]
+}

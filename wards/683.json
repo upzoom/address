@@ -1,0 +1,42 @@
+{
+	"id": "683",
+	"name": "Huyện Cát Tiên",
+	"data": [
+		{
+			"id": "25159",
+			"name": "Thị trấn Cát Tiên"
+		},
+		{
+			"id": "25192",
+			"name": "Xã Đồng Nai Thượng"
+		},
+		{
+			"id": "25183",
+			"name": "Xã Đức Phổ"
+		},
+		{
+			"id": "25168",
+			"name": "Xã Gia Viễn"
+		},
+		{
+			"id": "25171",
+			"name": "Xã Nam Ninh"
+		},
+		{
+			"id": "25180",
+			"name": "Thị trấn Phước Cát "
+		},
+		{
+			"id": "25165",
+			"name": "Xã Phước Cát 2"
+		},
+		{
+			"id": "25189",
+			"name": "Xã Quảng Ngãi"
+		},
+		{
+			"id": "25162",
+			"name": "Xã Tiên Hoàng"
+		}
+	]
+}

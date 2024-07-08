@@ -1,0 +1,54 @@
+{
+	"id": "203",
+	"name": "Huyện Vân Đồn",
+	"data": [
+		{
+			"id": "07018",
+			"name": "Xã Bản Sen"
+		},
+		{
+			"id": "07000",
+			"name": "Xã Bình Dân"
+		},
+		{
+			"id": "06994",
+			"name": "Thị trấn Cái Rồng"
+		},
+		{
+			"id": "06997",
+			"name": "Xã Đài Xuyên"
+		},
+		{
+			"id": "07009",
+			"name": "Xã Đoàn Kết"
+		},
+		{
+			"id": "07015",
+			"name": "Xã Đông Xá"
+		},
+		{
+			"id": "07012",
+			"name": "Xã Hạ Long"
+		},
+		{
+			"id": "07006",
+			"name": "Xã Minh Châu"
+		},
+		{
+			"id": "07027",
+			"name": "Xã Ngọc Vừng"
+		},
+		{
+			"id": "07024",
+			"name": "Xã Quan Lạn"
+		},
+		{
+			"id": "07021",
+			"name": "Xã Thắng Lợi"
+		},
+		{
+			"id": "07003",
+			"name": "Xã Vạn Yên"
+		}
+	]
+}

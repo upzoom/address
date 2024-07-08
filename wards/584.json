@@ -1,0 +1,42 @@
+{
+	"id": "584",
+	"name": "Huyện Bác Ái",
+	"data": [
+		{
+			"id": "22783",
+			"name": "Xã Phước Bình"
+		},
+		{
+			"id": "22804",
+			"name": "Xã Phước Chính"
+		},
+		{
+			"id": "22801",
+			"name": "Xã Phước Đại"
+		},
+		{
+			"id": "22786",
+			"name": "Xã Phước Hòa"
+		},
+		{
+			"id": "22789",
+			"name": "Xã Phước Tân"
+		},
+		{
+			"id": "22795",
+			"name": "Xã Phước Thắng"
+		},
+		{
+			"id": "22798",
+			"name": "Xã Phước Thành"
+		},
+		{
+			"id": "22792",
+			"name": "Xã Phước Tiến"
+		},
+		{
+			"id": "22807",
+			"name": "Xã Phước Trung"
+		}
+	]
+}

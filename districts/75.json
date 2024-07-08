@@ -1,0 +1,50 @@
+{
+	"id": "75",
+	"name": "Tỉnh Đồng Nai",
+	"data": [
+		{
+			"id": "731",
+			"name": "Thành phố Biên Hòa"
+		},
+		{
+			"id": "739",
+			"name": "Huyện Cẩm Mỹ"
+		},
+		{
+			"id": "736",
+			"name": "Huyện Định Quán"
+		},
+		{
+			"id": "732",
+			"name": "Thành phố Long Khánh"
+		},
+		{
+			"id": "740",
+			"name": "Huyện Long Thành"
+		},
+		{
+			"id": "742",
+			"name": "Huyện Nhơn Trạch"
+		},
+		{
+			"id": "734",
+			"name": "Huyện Tân Phú"
+		},
+		{
+			"id": "738",
+			"name": "Huyện Thống Nhất"
+		},
+		{
+			"id": "737",
+			"name": "Huyện Trảng Bom"
+		},
+		{
+			"id": "735",
+			"name": "Huyện Vĩnh Cửu"
+		},
+		{
+			"id": "741",
+			"name": "Huyện Xuân Lộc"
+		}
+	]
+}

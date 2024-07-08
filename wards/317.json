@@ -1,0 +1,54 @@
+{
+	"id": "317",
+	"name": "Huyện Cát Hải",
+	"data": [
+		{
+			"id": "11914",
+			"name": "Thị trấn Cát Bà"
+		},
+		{
+			"id": "11917",
+			"name": "Thị trấn Cát Hải"
+		},
+		{
+			"id": "11923",
+			"name": "Xã Đồng Bài"
+		},
+		{
+			"id": "11935",
+			"name": "Xã Gia Luận"
+		},
+		{
+			"id": "11938",
+			"name": "Xã Hiền Hào"
+		},
+		{
+			"id": "11926",
+			"name": "Xã Hoàng Châu"
+		},
+		{
+			"id": "11920",
+			"name": "Xã Nghĩa Lộ"
+		},
+		{
+			"id": "11932",
+			"name": "Xã Phù Long"
+		},
+		{
+			"id": "11941",
+			"name": "Xã Trân Châu"
+		},
+		{
+			"id": "11929",
+			"name": "Xã Văn Phong"
+		},
+		{
+			"id": "11944",
+			"name": "Xã Việt Hải"
+		},
+		{
+			"id": "11947",
+			"name": "Xã Xuân Đám"
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "223",
+	"name": "Huyện Hiệp Hòa",
+	"data": [
+		{
+			"id": "07870",
+			"name": "Thị trấn Bắc Lý"
+		},
+		{
+			"id": "07882",
+			"name": "Xã Châu Minh"
+		},
+		{
+			"id": "07852",
+			"name": "Xã Đại Thành"
+		},
+		{
+			"id": "07861",
+			"name": "Xã Danh Thắng"
+		},
+		{
+			"id": "07867",
+			"name": "Xã Đoan Bái"
+		},
+		{
+			"id": "07879",
+			"name": "Xã Đông Lỗ"
+		},
+		{
+			"id": "07813",
+			"name": "Xã Đồng Tân"
+		},
+		{
+			"id": "07837",
+			"name": "Xã Hòa Sơn"
+		},
+		{
+			"id": "07828",
+			"name": "Xã Hoàng An"
+		},
+		{
+			"id": "07819",
+			"name": "Xã Hoàng Lương"
+		},
+		{
+			"id": "07825",
+			"name": "Xã Hoàng Thanh"
+		},
+		{
+			"id": "07822",
+			"name": "Xã Hoàng Vân"
+		},
+		{
+			"id": "07858",
+			"name": "Xã Hợp Thịnh"
+		},
+		{
+			"id": "07849",
+			"name": "Xã Hùng Sơn"
+		},
+		{
+			"id": "07876",
+			"name": "Xã Hương Lâm"
+		},
+		{
+			"id": "07846",
+			"name": "Xã Lương Phong"
+		},
+		{
+			"id": "07885",
+			"name": "Xã Mai Đình"
+		},
+		{
+			"id": "07864",
+			"name": "Xã Mai Trung"
+		},
+		{
+			"id": "07831",
+			"name": "Xã Ngọc Sơn"
+		},
+		{
+			"id": "07843",
+			"name": "Xã Quang Minh"
+		},
+		{
+			"id": "07834",
+			"name": "Xã Thái Sơn"
+		},
+		{
+			"id": "07840",
+			"name": "Thị trấn Thắng"
+		},
+		{
+			"id": "07816",
+			"name": "Xã Thanh Vân"
+		},
+		{
+			"id": "07855",
+			"name": "Xã Thường Thắng"
+		},
+		{
+			"id": "07873",
+			"name": "Xã Xuân Cẩm"
+		}
+	]
+}

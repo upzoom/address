@@ -1,0 +1,66 @@
+{
+	"id": "132",
+	"name": "Thành phố Yên Bái",
+	"data": [
+		{
+			"id": "04540",
+			"name": "Xã Âu Lâu"
+		},
+		{
+			"id": "04261",
+			"name": "Phường Đồng Tâm"
+		},
+		{
+			"id": "04543",
+			"name": "Xã Giới Phiên"
+		},
+		{
+			"id": "04267",
+			"name": "Phường Hồng Hà"
+		},
+		{
+			"id": "04546",
+			"name": "Phường Hợp Minh"
+		},
+		{
+			"id": "04270",
+			"name": "Xã Minh Bảo"
+		},
+		{
+			"id": "04255",
+			"name": "Phường Minh Tân"
+		},
+		{
+			"id": "04273",
+			"name": "Phường Nam Cường"
+		},
+		{
+			"id": "04264",
+			"name": "Phường Nguyễn Phúc"
+		},
+		{
+			"id": "04258",
+			"name": "Phường Nguyễn Thái Học"
+		},
+		{
+			"id": "04279",
+			"name": "Xã Tân Thịnh"
+		},
+		{
+			"id": "04276",
+			"name": "Xã Tuy Lộc"
+		},
+		{
+			"id": "04558",
+			"name": "Xã Văn Phú"
+		},
+		{
+			"id": "04252",
+			"name": "Phường Yên Ninh"
+		},
+		{
+			"id": "04249",
+			"name": "Phường Yên Thịnh"
+		}
+	]
+}

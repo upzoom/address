@@ -1,0 +1,94 @@
+{
+	"id": "227",
+	"name": "Thành phố Việt Trì",
+	"data": [
+		{
+			"id": "07912",
+			"name": "Phường Bạch Hạc"
+		},
+		{
+			"id": "07915",
+			"name": "Phường Bến Gót"
+		},
+		{
+			"id": "08506",
+			"name": "Xã Chu Hóa"
+		},
+		{
+			"id": "07888",
+			"name": "Phường Dữu Lâu"
+		},
+		{
+			"id": "07900",
+			"name": "Phường Gia Cẩm"
+		},
+		{
+			"id": "08287",
+			"name": "Xã Hùng Lô"
+		},
+		{
+			"id": "08503",
+			"name": "Xã Hy Cương"
+		},
+		{
+			"id": "08281",
+			"name": "Xã Kim Đức"
+		},
+		{
+			"id": "07933",
+			"name": "Phường Minh Nông"
+		},
+		{
+			"id": "07927",
+			"name": "Phường Minh Phương"
+		},
+		{
+			"id": "07894",
+			"name": "Phường Nông Trang"
+		},
+		{
+			"id": "07921",
+			"name": "Xã Phượng Lâu"
+		},
+		{
+			"id": "07936",
+			"name": "Xã Sông Lô"
+		},
+		{
+			"id": "07897",
+			"name": "Phường Tân Dân"
+		},
+		{
+			"id": "08515",
+			"name": "Xã Thanh Đình"
+		},
+		{
+			"id": "07909",
+			"name": "Phường Thanh Miếu"
+		},
+		{
+			"id": "07906",
+			"name": "Phường Thọ Sơn"
+		},
+		{
+			"id": "07924",
+			"name": "Xã Thụy Vân"
+		},
+		{
+			"id": "07903",
+			"name": "Phường Tiên Cát"
+		},
+		{
+			"id": "07930",
+			"name": "Xã Trưng Vương"
+		},
+		{
+			"id": "07891",
+			"name": "Phường Vân Cơ"
+		},
+		{
+			"id": "07918",
+			"name": "Phường Vân Phú"
+		}
+	]
+}

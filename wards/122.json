@@ -1,0 +1,114 @@
+{
+	"id": "122",
+	"name": "Huyện Phù Yên",
+	"data": [
+		{
+			"id": "03976",
+			"name": "Xã Bắc Phong"
+		},
+		{
+			"id": "03967",
+			"name": "Xã Đá Đỏ"
+		},
+		{
+			"id": "03922",
+			"name": "Xã Gia Phù"
+		},
+		{
+			"id": "03913",
+			"name": "Xã Huy Bắc"
+		},
+		{
+			"id": "03928",
+			"name": "Xã Huy Hạ"
+		},
+		{
+			"id": "03931",
+			"name": "Xã Huy Tân"
+		},
+		{
+			"id": "03916",
+			"name": "Xã Huy Thượng"
+		},
+		{
+			"id": "03940",
+			"name": "Xã Huy Tường"
+		},
+		{
+			"id": "03961",
+			"name": "Xã Kim Bon"
+		},
+		{
+			"id": "03964",
+			"name": "Xã Mường Bang"
+		},
+		{
+			"id": "03907",
+			"name": "Xã Mường Cơi"
+		},
+		{
+			"id": "03943",
+			"name": "Xã Mường Do"
+		},
+		{
+			"id": "03934",
+			"name": "Xã Mường Lang"
+		},
+		{
+			"id": "03904",
+			"name": "Xã Mường Thải"
+		},
+		{
+			"id": "03973",
+			"name": "Xã Nam Phong"
+		},
+		{
+			"id": "03898",
+			"name": "Thị trấn Phù Yên"
+		},
+		{
+			"id": "03910",
+			"name": "Xã Quang Huy"
+		},
+		{
+			"id": "03946",
+			"name": "Xã Sập Xa"
+		},
+		{
+			"id": "03937",
+			"name": "Xã Suối Bau"
+		},
+		{
+			"id": "03901",
+			"name": "Xã Suối Tọ"
+		},
+		{
+			"id": "03919",
+			"name": "Xã Tân Lang"
+		},
+		{
+			"id": "03970",
+			"name": "Xã Tân Phong"
+		},
+		{
+			"id": "03958",
+			"name": "Xã Tường Hạ"
+		},
+		{
+			"id": "03955",
+			"name": "Xã Tường Phong"
+		},
+		{
+			"id": "03925",
+			"name": "Xã Tường Phù"
+		},
+		{
+			"id": "03949",
+			"name": "Xã Tường Thượng"
+		},
+		{
+			"id": "03952",
+			"name": "Xã Tường Tiến"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "718",
+	"name": "Thành phố Thủ Dầu Một",
+	"data": [
+		{
+			"id": "25774",
+			"name": "Phường Chánh Mỹ"
+		},
+		{
+			"id": "25756",
+			"name": "Phường Chánh Nghĩa"
+		},
+		{
+			"id": "25759",
+			"name": "Phường Định Hoà"
+		},
+		{
+			"id": "25768",
+			"name": "Phường Hiệp An"
+		},
+		{
+			"id": "25741",
+			"name": "Phường Hiệp Thành"
+		},
+		{
+			"id": "25760",
+			"name": "Phường Hoà Phú"
+		},
+		{
+			"id": "25747",
+			"name": "Phường Phú Cường"
+		},
+		{
+			"id": "25750",
+			"name": "Phường Phú Hòa"
+		},
+		{
+			"id": "25744",
+			"name": "Phường Phú Lợi"
+		},
+		{
+			"id": "25762",
+			"name": "Phường Phú Mỹ"
+		},
+		{
+			"id": "25763",
+			"name": "Phường Phú Tân"
+		},
+		{
+			"id": "25753",
+			"name": "Phường Phú Thọ"
+		},
+		{
+			"id": "25765",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "25771",
+			"name": "Phường Tương Bình Hiệp"
+		}
+	]
+}

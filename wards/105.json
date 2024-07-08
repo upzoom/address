@@ -1,0 +1,34 @@
+{
+	"id": "105",
+	"name": "Thành phố Lai Châu",
+	"data": [
+		{
+			"id": "03389",
+			"name": "Phường Đoàn Kết"
+		},
+		{
+			"id": "03408",
+			"name": "Phường Đông Phong"
+		},
+		{
+			"id": "03386",
+			"name": "Phường Quyết Thắng"
+		},
+		{
+			"id": "03388",
+			"name": "Phường Quyết Tiến"
+		},
+		{
+			"id": "03409",
+			"name": "Xã San Thàng"
+		},
+		{
+			"id": "03403",
+			"name": "Xã Sùng Phài"
+		},
+		{
+			"id": "03387",
+			"name": "Phường Tân Phong"
+		}
+	]
+}

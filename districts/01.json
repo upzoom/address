@@ -1,0 +1,126 @@
+{
+	"id": "01",
+	"name": "Thành phố Hà Nội",
+	"data": [
+		{
+			"id": "001",
+			"name": "Quận Ba Đình"
+		},
+		{
+			"id": "271",
+			"name": "Huyện Ba Vì"
+		},
+		{
+			"id": "021",
+			"name": "Quận Bắc Từ Liêm"
+		},
+		{
+			"id": "005",
+			"name": "Quận Cầu Giấy"
+		},
+		{
+			"id": "277",
+			"name": "Huyện Chương Mỹ"
+		},
+		{
+			"id": "273",
+			"name": "Huyện Đan Phượng"
+		},
+		{
+			"id": "017",
+			"name": "Huyện Đông Anh"
+		},
+		{
+			"id": "006",
+			"name": "Quận Đống Đa"
+		},
+		{
+			"id": "018",
+			"name": "Huyện Gia Lâm"
+		},
+		{
+			"id": "268",
+			"name": "Quận Hà Đông"
+		},
+		{
+			"id": "007",
+			"name": "Quận Hai Bà Trưng"
+		},
+		{
+			"id": "274",
+			"name": "Huyện Hoài Đức"
+		},
+		{
+			"id": "002",
+			"name": "Quận Hoàn Kiếm"
+		},
+		{
+			"id": "008",
+			"name": "Quận Hoàng Mai"
+		},
+		{
+			"id": "004",
+			"name": "Quận Long Biên"
+		},
+		{
+			"id": "250",
+			"name": "Huyện Mê Linh"
+		},
+		{
+			"id": "282",
+			"name": "Huyện Mỹ Đức"
+		},
+		{
+			"id": "019",
+			"name": "Quận Nam Từ Liêm"
+		},
+		{
+			"id": "280",
+			"name": "Huyện Phú Xuyên"
+		},
+		{
+			"id": "272",
+			"name": "Huyện Phúc Thọ"
+		},
+		{
+			"id": "275",
+			"name": "Huyện Quốc Oai"
+		},
+		{
+			"id": "016",
+			"name": "Huyện Sóc Sơn"
+		},
+		{
+			"id": "269",
+			"name": "Thị xã Sơn Tây"
+		},
+		{
+			"id": "003",
+			"name": "Quận Tây Hồ"
+		},
+		{
+			"id": "276",
+			"name": "Huyện Thạch Thất"
+		},
+		{
+			"id": "278",
+			"name": "Huyện Thanh Oai"
+		},
+		{
+			"id": "020",
+			"name": "Huyện Thanh Trì"
+		},
+		{
+			"id": "009",
+			"name": "Quận Thanh Xuân"
+		},
+		{
+			"id": "279",
+			"name": "Huyện Thường Tín"
+		},
+		{
+			"id": "281",
+			"name": "Huyện Ứng Hòa"
+		}
+	]
+}

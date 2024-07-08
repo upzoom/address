@@ -1,0 +1,50 @@
+{
+	"id": "449",
+	"name": "Thị xã Kỳ Anh",
+	"data": [
+		{
+			"id": "18754",
+			"name": "Phường Hưng Trí"
+		},
+		{
+			"id": "18808",
+			"name": "Xã Kỳ Hà"
+		},
+		{
+			"id": "18829",
+			"name": "Xã Kỳ Hoa"
+		},
+		{
+			"id": "18841",
+			"name": "Phường Kỳ Liên"
+		},
+		{
+			"id": "18796",
+			"name": "Xã Kỳ Lợi"
+		},
+		{
+			"id": "18835",
+			"name": "Phường Kỳ Long"
+		},
+		{
+			"id": "18847",
+			"name": "Xã Kỳ Nam"
+		},
+		{
+			"id": "18781",
+			"name": "Xã Kỳ Ninh"
+		},
+		{
+			"id": "18832",
+			"name": "Phường Kỳ Phương"
+		},
+		{
+			"id": "18823",
+			"name": "Phường Kỳ Thịnh"
+		},
+		{
+			"id": "18820",
+			"name": "Phường Kỳ Trinh"
+		}
+	]
+}

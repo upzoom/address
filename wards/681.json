@@ -1,0 +1,42 @@
+{
+	"id": "681",
+	"name": "Huyện Đạ Huoai",
+	"data": [
+		{
+			"id": "25096",
+			"name": "Thị trấn Đạ M'ri"
+		},
+		{
+			"id": "25111",
+			"name": "Xã Đạ Oai"
+		},
+		{
+			"id": "25114",
+			"name": "Xã Đạ Ploa"
+		},
+		{
+			"id": "25108",
+			"name": "Xã Đạ Tồn"
+		},
+		{
+			"id": "25120",
+			"name": "Xã Đoàn Kết"
+		},
+		{
+			"id": "25105",
+			"name": "Xã Hà Lâm"
+		},
+		{
+			"id": "25099",
+			"name": "Thị trấn Ma Đa Guôi"
+		},
+		{
+			"id": "25117",
+			"name": "Xã Ma Đa Guôi"
+		},
+		{
+			"id": "25123",
+			"name": "Xã Phước Lộc"
+		}
+	]
+}

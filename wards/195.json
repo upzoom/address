@@ -1,0 +1,70 @@
+{
+	"id": "195",
+	"name": "Thành phố Cẩm Phả",
+	"data": [
+		{
+			"id": "06796",
+			"name": "Phường Cẩm Bình"
+		},
+		{
+			"id": "06769",
+			"name": "Phường Cẩm Đông"
+		},
+		{
+			"id": "06802",
+			"name": "Xã Cẩm Hải"
+		},
+		{
+			"id": "06772",
+			"name": "Phường Cẩm Phú"
+		},
+		{
+			"id": "06766",
+			"name": "Phường Cẩm Sơn"
+		},
+		{
+			"id": "06775",
+			"name": "Phường Cẩm Tây"
+		},
+		{
+			"id": "06787",
+			"name": "Phường Cẩm Thạch"
+		},
+		{
+			"id": "06790",
+			"name": "Phường Cẩm Thành"
+		},
+		{
+			"id": "06781",
+			"name": "Phường Cẩm Thịnh"
+		},
+		{
+			"id": "06784",
+			"name": "Phường Cẩm Thủy"
+		},
+		{
+			"id": "06793",
+			"name": "Phường Cẩm Trung"
+		},
+		{
+			"id": "06799",
+			"name": "Xã Cộng Hòa"
+		},
+		{
+			"id": "06763",
+			"name": "Phường Cửa Ông"
+		},
+		{
+			"id": "06805",
+			"name": "Xã Dương Huy"
+		},
+		{
+			"id": "06760",
+			"name": "Phường Mông Dương"
+		},
+		{
+			"id": "06778",
+			"name": "Phường Quang Hanh"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"id": "198",
+	"name": "Huyện Bình Liêu",
+	"data": [
+		{
+			"id": "06838",
+			"name": "Thị trấn Bình Liêu"
+		},
+		{
+			"id": "06844",
+			"name": "Xã Đồng Tâm"
+		},
+		{
+			"id": "06847",
+			"name": "Xã Đồng Văn"
+		},
+		{
+			"id": "06841",
+			"name": "Xã Hoành Mô"
+		},
+		{
+			"id": "06859",
+			"name": "Xã Húc Động"
+		},
+		{
+			"id": "06856",
+			"name": "Xã Lục Hồn"
+		},
+		{
+			"id": "06853",
+			"name": "Xã Vô Ngại"
+		}
+	]
+}

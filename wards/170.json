@@ -1,0 +1,66 @@
+{
+	"id": "170",
+	"name": "Huyện Võ Nhai",
+	"data": [
+		{
+			"id": "05758",
+			"name": "Xã Bình Long"
+		},
+		{
+			"id": "05737",
+			"name": "Xã Cúc Đường"
+		},
+		{
+			"id": "05755",
+			"name": "Xã Dân Tiến"
+		},
+		{
+			"id": "05716",
+			"name": "Thị trấn Đình Cả"
+		},
+		{
+			"id": "05740",
+			"name": "Xã La Hiên"
+		},
+		{
+			"id": "05743",
+			"name": "Xã Lâu Thượng"
+		},
+		{
+			"id": "05752",
+			"name": "Xã Liên Minh"
+		},
+		{
+			"id": "05722",
+			"name": "Xã Nghinh Tường"
+		},
+		{
+			"id": "05734",
+			"name": "Xã Phú Thượng"
+		},
+		{
+			"id": "05749",
+			"name": "Xã Phương Giao"
+		},
+		{
+			"id": "05719",
+			"name": "Xã Sảng Mộc"
+		},
+		{
+			"id": "05725",
+			"name": "Xã Thần Xa"
+		},
+		{
+			"id": "05731",
+			"name": "Xã Thượng Nung"
+		},
+		{
+			"id": "05746",
+			"name": "Xã Tràng Xá"
+		},
+		{
+			"id": "05728",
+			"name": "Xã Vũ Chấn"
+		}
+	]
+}

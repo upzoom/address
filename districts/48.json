@@ -1,0 +1,38 @@
+{
+	"id": "48",
+	"name": "Thành phố Đà Nẵng",
+	"data": [
+		{
+			"id": "495",
+			"name": "Quận Cẩm Lệ"
+		},
+		{
+			"id": "492",
+			"name": "Quận Hải Châu"
+		},
+		{
+			"id": "497",
+			"name": "Huyện Hòa Vang"
+		},
+		{
+			"id": "498",
+			"name": "Huyện Hoàng Sa"
+		},
+		{
+			"id": "490",
+			"name": "Quận Liên Chiểu"
+		},
+		{
+			"id": "494",
+			"name": "Quận Ngũ Hành Sơn"
+		},
+		{
+			"id": "493",
+			"name": "Quận Sơn Trà"
+		},
+		{
+			"id": "491",
+			"name": "Quận Thanh Khê"
+		}
+	]
+}

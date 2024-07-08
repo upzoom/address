@@ -1,0 +1,42 @@
+{
+	"id": "243",
+	"name": "Thành phố Vĩnh Yên",
+	"data": [
+		{
+			"id": "08725",
+			"name": "Phường Định Trung"
+		},
+		{
+			"id": "08716",
+			"name": "Phường Đống Đa"
+		},
+		{
+			"id": "08722",
+			"name": "Phường Đồng Tâm"
+		},
+		{
+			"id": "08713",
+			"name": "Phường Hội Hợp"
+		},
+		{
+			"id": "08728",
+			"name": "Phường Khai Quang"
+		},
+		{
+			"id": "08710",
+			"name": "Phường Liên Bảo"
+		},
+		{
+			"id": "08719",
+			"name": "Phường Ngô Quyền"
+		},
+		{
+			"id": "08731",
+			"name": "Xã Thanh Trù"
+		},
+		{
+			"id": "08707",
+			"name": "Phường Tích Sơn"
+		}
+	]
+}

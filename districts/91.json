@@ -1,0 +1,66 @@
+{
+	"id": "91",
+	"name": "Tỉnh Kiên Giang",
+	"data": [
+		{
+			"id": "908",
+			"name": "Huyện An Biên"
+		},
+		{
+			"id": "909",
+			"name": "Huyện An Minh"
+		},
+		{
+			"id": "905",
+			"name": "Huyện Châu Thành"
+		},
+		{
+			"id": "914",
+			"name": "Huyện Giang Thành"
+		},
+		{
+			"id": "906",
+			"name": "Huyện Giồng Riềng"
+		},
+		{
+			"id": "907",
+			"name": "Huyện Gò Quao"
+		},
+		{
+			"id": "900",
+			"name": "Thành phố Hà Tiên"
+		},
+		{
+			"id": "903",
+			"name": "Huyện Hòn Đất"
+		},
+		{
+			"id": "912",
+			"name": "Huyện Kiên Hải"
+		},
+		{
+			"id": "902",
+			"name": "Huyện Kiên Lương"
+		},
+		{
+			"id": "911",
+			"name": "Thành phố Phú Quốc"
+		},
+		{
+			"id": "899",
+			"name": "Thành phố Rạch Giá"
+		},
+		{
+			"id": "904",
+			"name": "Huyện Tân Hiệp"
+		},
+		{
+			"id": "913",
+			"name": "Huyện U Minh Thượng"
+		},
+		{
+			"id": "910",
+			"name": "Huyện Vĩnh Thuận"
+		}
+	]
+}

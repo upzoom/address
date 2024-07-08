@@ -1,0 +1,70 @@
+{
+	"id": "817",
+	"name": "Thị xã Cai Lậy",
+	"data": [
+		{
+			"id": "28435",
+			"name": "Phường 1"
+		},
+		{
+			"id": "28436",
+			"name": "Phường 2"
+		},
+		{
+			"id": "28437",
+			"name": "Phường 3"
+		},
+		{
+			"id": "28439",
+			"name": "Phường 4"
+		},
+		{
+			"id": "28440",
+			"name": "Phường 5"
+		},
+		{
+			"id": "28486",
+			"name": "Xã Long Khánh"
+		},
+		{
+			"id": "28450",
+			"name": "Xã Mỹ Hạnh Đông"
+		},
+		{
+			"id": "28453",
+			"name": "Xã Mỹ Hạnh Trung"
+		},
+		{
+			"id": "28447",
+			"name": "Xã Mỹ Phước Tây"
+		},
+		{
+			"id": "28474",
+			"name": "Phường Nhị Mỹ"
+		},
+		{
+			"id": "28477",
+			"name": "Xã Nhị Quý"
+		},
+		{
+			"id": "28483",
+			"name": "Xã Phú Quý"
+		},
+		{
+			"id": "28462",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "28468",
+			"name": "Xã Tân Hội"
+		},
+		{
+			"id": "28459",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "28480",
+			"name": "Xã Thanh Hòa"
+		}
+	]
+}

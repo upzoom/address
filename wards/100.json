@@ -1,0 +1,90 @@
+{
+	"id": "100",
+	"name": "Huyện Điện Biên",
+	"data": [
+		{
+			"id": "03359",
+			"name": "Xã Hẹ Muông"
+		},
+		{
+			"id": "03323",
+			"name": "Xã Hua Thanh"
+		},
+		{
+			"id": "03367",
+			"name": "Xã Mường Lói"
+		},
+		{
+			"id": "03364",
+			"name": "Xã Mường Nhà"
+		},
+		{
+			"id": "03319",
+			"name": "Xã Mường Pồn"
+		},
+		{
+			"id": "03365",
+			"name": "Xã Na Tông"
+		},
+		{
+			"id": "03361",
+			"name": "Xã Na Ư"
+		},
+		{
+			"id": "03352",
+			"name": "Xã Noọng Hẹt"
+		},
+		{
+			"id": "03349",
+			"name": "Xã Noong Luống"
+		},
+		{
+			"id": "03358",
+			"name": "Xã Núa Ngam"
+		},
+		{
+			"id": "03340",
+			"name": "Xã Pa Thơm"
+		},
+		{
+			"id": "03368",
+			"name": "Xã Phu Luông"
+		},
+		{
+			"id": "03356",
+			"name": "Xã Pom Lót"
+		},
+		{
+			"id": "03355",
+			"name": "Xã Sam Mứn"
+		},
+		{
+			"id": "03343",
+			"name": "Xã Thanh An"
+		},
+		{
+			"id": "03337",
+			"name": "Xã Thanh Chăn"
+		},
+		{
+			"id": "03331",
+			"name": "Xã Thanh Hưng"
+		},
+		{
+			"id": "03328",
+			"name": "Xã Thanh Luông"
+		},
+		{
+			"id": "03322",
+			"name": "Xã Thanh Nưa"
+		},
+		{
+			"id": "03334",
+			"name": "Xã Thanh Xương"
+		},
+		{
+			"id": "03346",
+			"name": "Xã Thanh Yên"
+		}
+	]
+}

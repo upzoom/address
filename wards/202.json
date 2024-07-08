@@ -1,0 +1,38 @@
+{
+	"id": "202",
+	"name": "Huyện Ba Chẽ",
+	"data": [
+		{
+			"id": "06970",
+			"name": "Thị trấn Ba Chẽ"
+		},
+		{
+			"id": "06979",
+			"name": "Xã Đạp Thanh"
+		},
+		{
+			"id": "06988",
+			"name": "Xã Đồn Đạc"
+		},
+		{
+			"id": "06985",
+			"name": "Xã Lương Mông"
+		},
+		{
+			"id": "06991",
+			"name": "Xã Minh Cầm"
+		},
+		{
+			"id": "06982",
+			"name": "Xã Nam Sơn"
+		},
+		{
+			"id": "06976",
+			"name": "Xã Thanh Lâm"
+		},
+		{
+			"id": "06973",
+			"name": "Xã Thanh Sơn"
+		}
+	]
+}

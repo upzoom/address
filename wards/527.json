@@ -1,0 +1,50 @@
+{
+	"id": "527",
+	"name": "Huyện Sơn Tịnh",
+	"data": [
+		{
+			"id": "21205",
+			"name": "Xã Tịnh Bắc"
+		},
+		{
+			"id": "21193",
+			"name": "Xã Tịnh Bình"
+		},
+		{
+			"id": "21196",
+			"name": "Xã Tịnh Đông"
+		},
+		{
+			"id": "21226",
+			"name": "Xã Tịnh Giang"
+		},
+		{
+			"id": "21220",
+			"name": "Xã Tịnh Hà"
+		},
+		{
+			"id": "21184",
+			"name": "Xã Tịnh Hiệp"
+		},
+		{
+			"id": "21229",
+			"name": "Xã Tịnh Minh"
+		},
+		{
+			"id": "21181",
+			"name": "Xã Tịnh Phong"
+		},
+		{
+			"id": "21217",
+			"name": "Xã Tịnh Sơn"
+		},
+		{
+			"id": "21175",
+			"name": "Xã Tịnh Thọ"
+		},
+		{
+			"id": "21178",
+			"name": "Xã Tịnh Trà"
+		}
+	]
+}

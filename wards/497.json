@@ -1,0 +1,50 @@
+{
+	"id": "497",
+	"name": "Huyện Hòa Vang",
+	"data": [
+		{
+			"id": "20293",
+			"name": "Xã Hòa Bắc"
+		},
+		{
+			"id": "20323",
+			"name": "Xã Hòa Châu"
+		},
+		{
+			"id": "20332",
+			"name": "Xã Hòa Khương"
+		},
+		{
+			"id": "20296",
+			"name": "Xã Hòa Liên"
+		},
+		{
+			"id": "20308",
+			"name": "Xã Hòa Nhơn"
+		},
+		{
+			"id": "20299",
+			"name": "Xã Hòa Ninh"
+		},
+		{
+			"id": "20320",
+			"name": "Xã Hòa Phong"
+		},
+		{
+			"id": "20317",
+			"name": "Xã Hòa Phú"
+		},
+		{
+			"id": "20329",
+			"name": "Xã Hòa Phước"
+		},
+		{
+			"id": "20302",
+			"name": "Xã Hòa Sơn"
+		},
+		{
+			"id": "20326",
+			"name": "Xã Hòa Tiến"
+		}
+	]
+}

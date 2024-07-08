@@ -1,0 +1,94 @@
+{
+	"id": "089",
+	"name": "Huyện Văn Bàn",
+	"data": [
+		{
+			"id": "03091",
+			"name": "Xã Chiềng Ken"
+		},
+		{
+			"id": "03088",
+			"name": "Xã Dần Thàng"
+		},
+		{
+			"id": "03106",
+			"name": "Xã Dương Quỳ"
+		},
+		{
+			"id": "03097",
+			"name": "Xã Hoà Mạc"
+		},
+		{
+			"id": "03055",
+			"name": "Thị trấn Khánh Yên"
+		},
+		{
+			"id": "03103",
+			"name": "Xã Khánh Yên Hạ"
+		},
+		{
+			"id": "03082",
+			"name": "Xã Khánh Yên Thượng"
+		},
+		{
+			"id": "03100",
+			"name": "Xã Khánh Yên Trung"
+		},
+		{
+			"id": "03094",
+			"name": "Xã Làng Giàng"
+		},
+		{
+			"id": "03118",
+			"name": "Xã Liêm Phú"
+		},
+		{
+			"id": "03112",
+			"name": "Xã Minh Lương"
+		},
+		{
+			"id": "03076",
+			"name": "Xã Nậm Chầy"
+		},
+		{
+			"id": "03067",
+			"name": "Xã Nậm Mả"
+		},
+		{
+			"id": "03073",
+			"name": "Xã Nậm Rạng"
+		},
+		{
+			"id": "03109",
+			"name": "Xã Nậm Tha"
+		},
+		{
+			"id": "03121",
+			"name": "Xã Nậm Xây"
+		},
+		{
+			"id": "03085",
+			"name": "Xã Nậm Xé"
+		},
+		{
+			"id": "03064",
+			"name": "Xã Sơn Thuỷ"
+		},
+		{
+			"id": "03079",
+			"name": "Xã Tân An"
+		},
+		{
+			"id": "03070",
+			"name": "Xã Tân Thượng"
+		},
+		{
+			"id": "03115",
+			"name": "Xã Thẩm Dương"
+		},
+		{
+			"id": "03061",
+			"name": "Xã Võ Lao"
+		}
+	]
+}

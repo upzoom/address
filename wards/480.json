@@ -1,0 +1,42 @@
+{
+	"id": "480",
+	"name": "Thị xã Hương Trà",
+	"data": [
+		{
+			"id": "20041",
+			"name": "Xã Bình Thành"
+		},
+		{
+			"id": "20035",
+			"name": "Xã Bình Tiến"
+		},
+		{
+			"id": "20026",
+			"name": "Xã Hương Bình"
+		},
+		{
+			"id": "20020",
+			"name": "Phường Hương Chữ"
+		},
+		{
+			"id": "20005",
+			"name": "Xã Hương Toàn"
+		},
+		{
+			"id": "20008",
+			"name": "Phường Hương Vân"
+		},
+		{
+			"id": "20011",
+			"name": "Phường Hương Văn"
+		},
+		{
+			"id": "20017",
+			"name": "Phường Hương Xuân"
+		},
+		{
+			"id": "19996",
+			"name": "Phường Tứ Hạ"
+		}
+	]
+}

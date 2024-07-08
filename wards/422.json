@@ -1,0 +1,58 @@
+{
+	"id": "422",
+	"name": "Huyện Con Cuông",
+	"data": [
+		{
+			"id": "17230",
+			"name": "Xã Bình Chuẩn"
+		},
+		{
+			"id": "17254",
+			"name": "Xã Bồng Khê"
+		},
+		{
+			"id": "17236",
+			"name": "Xã Cam Lâm"
+		},
+		{
+			"id": "17248",
+			"name": "Xã Châu Khê"
+		},
+		{
+			"id": "17251",
+			"name": "Xã Chi Khê"
+		},
+		{
+			"id": "17227",
+			"name": "Thị trấn Con Cuông"
+		},
+		{
+			"id": "17242",
+			"name": "Xã Đôn Phục"
+		},
+		{
+			"id": "17233",
+			"name": "Xã Lạng Khê"
+		},
+		{
+			"id": "17260",
+			"name": "Xã Lục Dạ"
+		},
+		{
+			"id": "17245",
+			"name": "Xã Mậu Đức"
+		},
+		{
+			"id": "17263",
+			"name": "Xã Môn Sơn"
+		},
+		{
+			"id": "17239",
+			"name": "Xã Thạch Ngàn"
+		},
+		{
+			"id": "17257",
+			"name": "Xã Yên Khê"
+		}
+	]
+}

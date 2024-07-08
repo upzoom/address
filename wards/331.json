@@ -1,0 +1,74 @@
+{
+	"id": "331",
+	"name": "Huyện Kim Động",
+	"data": [
+		{
+			"id": "12304",
+			"name": "Xã Chính Nghĩa"
+		},
+		{
+			"id": "12298",
+			"name": "Xã Đồng Thanh"
+		},
+		{
+			"id": "12316",
+			"name": "Xã Đức Hợp"
+		},
+		{
+			"id": "12328",
+			"name": "Xã Hiệp Cường"
+		},
+		{
+			"id": "12319",
+			"name": "Xã Hùng An"
+		},
+		{
+			"id": "12280",
+			"name": "Thị trấn Lương Bằng"
+		},
+		{
+			"id": "12313",
+			"name": "Xã Mai Động"
+		},
+		{
+			"id": "12283",
+			"name": "Xã Nghĩa Dân"
+		},
+		{
+			"id": "12322",
+			"name": "Xã Ngọc Thanh"
+		},
+		{
+			"id": "12307",
+			"name": "Xã Nhân La"
+		},
+		{
+			"id": "12292",
+			"name": "Xã Phạm Ngũ Lão"
+		},
+		{
+			"id": "12310",
+			"name": "Xã Phú Thịnh"
+		},
+		{
+			"id": "12301",
+			"name": "Xã Song Mai"
+		},
+		{
+			"id": "12295",
+			"name": "Xã Thọ Vinh"
+		},
+		{
+			"id": "12286",
+			"name": "Xã Toàn Thắng"
+		},
+		{
+			"id": "12289",
+			"name": "Xã Vĩnh Xá"
+		},
+		{
+			"id": "12325",
+			"name": "Xã Vũ Xá"
+		}
+	]
+}

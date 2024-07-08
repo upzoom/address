@@ -1,0 +1,74 @@
+{
+	"id": "153",
+	"name": "Huyện Kim Bôi",
+	"data": [
+		{
+			"id": "04990",
+			"name": "Xã Bình Sơn"
+		},
+		{
+			"id": "04978",
+			"name": "Thị trấn Bo"
+		},
+		{
+			"id": "05077",
+			"name": "Xã Cuối Hạ"
+		},
+		{
+			"id": "05014",
+			"name": "Xã Đông Bắc"
+		},
+		{
+			"id": "04984",
+			"name": "Xã Đú Sáng"
+		},
+		{
+			"id": "05038",
+			"name": "Xã Hợp Tiến"
+		},
+		{
+			"id": "04987",
+			"name": "Xã Hùng Sơn"
+		},
+		{
+			"id": "05065",
+			"name": "Xã Kim Bôi"
+		},
+		{
+			"id": "05035",
+			"name": "Xã Kim Lập"
+		},
+		{
+			"id": "05083",
+			"name": "Xã Mi Hòa"
+		},
+		{
+			"id": "05068",
+			"name": "Xã Nam Thượng"
+		},
+		{
+			"id": "05086",
+			"name": "Xã Nuông Dăm"
+		},
+		{
+			"id": "05080",
+			"name": "Xã Sào Báy"
+		},
+		{
+			"id": "04999",
+			"name": "Xã Tú Sơn"
+		},
+		{
+			"id": "05026",
+			"name": "Xã Vĩnh Đồng"
+		},
+		{
+			"id": "05005",
+			"name": "Xã Vĩnh Tiến"
+		},
+		{
+			"id": "05017",
+			"name": "Xã Xuân Thủy"
+		}
+	]
+}

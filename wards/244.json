@@ -1,0 +1,46 @@
+{
+	"id": "244",
+	"name": "Thành phố Phúc Yên",
+	"data": [
+		{
+			"id": "08752",
+			"name": "Xã Cao Minh"
+		},
+		{
+			"id": "08747",
+			"name": "Phường Đồng Xuân"
+		},
+		{
+			"id": "08737",
+			"name": "Phường Hùng Vương"
+		},
+		{
+			"id": "08755",
+			"name": "Phường Nam Viêm"
+		},
+		{
+			"id": "08749",
+			"name": "Xã Ngọc Thanh"
+		},
+		{
+			"id": "08743",
+			"name": "Phường Phúc Thắng"
+		},
+		{
+			"id": "08758",
+			"name": "Phường Tiền Châu"
+		},
+		{
+			"id": "08740",
+			"name": "Phường Trưng Nhị"
+		},
+		{
+			"id": "08734",
+			"name": "Phường Trưng Trắc"
+		},
+		{
+			"id": "08746",
+			"name": "Phường Xuân Hoà"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "516",
+	"name": "Huyện Nam Trà My",
+	"data": [
+		{
+			"id": "20947",
+			"name": "Xã Trà Cang"
+		},
+		{
+			"id": "20938",
+			"name": "Xã Trà Dơn"
+		},
+		{
+			"id": "20956",
+			"name": "Xã Trà Don"
+		},
+		{
+			"id": "20935",
+			"name": "Xã Trà Leng"
+		},
+		{
+			"id": "20950",
+			"name": "Xã Trà Linh"
+		},
+		{
+			"id": "20944",
+			"name": "Xã Trà Mai"
+		},
+		{
+			"id": "20953",
+			"name": "Xã Trà Nam"
+		},
+		{
+			"id": "20941",
+			"name": "Xã Trà Tập"
+		},
+		{
+			"id": "20959",
+			"name": "Xã Trà Vân"
+		},
+		{
+			"id": "20962",
+			"name": "Xã Trà Vinh"
+		}
+	]
+}

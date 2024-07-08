@@ -1,0 +1,94 @@
+{
+	"id": "230",
+	"name": "Huyện Đoan Hùng",
+	"data": [
+		{
+			"id": "07996",
+			"name": "Xã Bằng Doãn"
+		},
+		{
+			"id": "07981",
+			"name": "Xã Bằng Luân"
+		},
+		{
+			"id": "08050",
+			"name": "Xã Ca Đình"
+		},
+		{
+			"id": "08047",
+			"name": "Xã Chân Mộng"
+		},
+		{
+			"id": "07999",
+			"name": "Xã Chí Đám"
+		},
+		{
+			"id": "07969",
+			"name": "Thị trấn Đoan Hùng"
+		},
+		{
+			"id": "08014",
+			"name": "Xã Hợp Nhất"
+		},
+		{
+			"id": "08029",
+			"name": "Xã Hùng Long"
+		},
+		{
+			"id": "07975",
+			"name": "Xã Hùng Xuyên"
+		},
+		{
+			"id": "07993",
+			"name": "Xã Minh Lương"
+		},
+		{
+			"id": "08044",
+			"name": "Xã Minh Phú"
+		},
+		{
+			"id": "08041",
+			"name": "Xã Minh Tiến"
+		},
+		{
+			"id": "08008",
+			"name": "Xã Ngọc Quan"
+		},
+		{
+			"id": "07987",
+			"name": "Xã Phú Lâm"
+		},
+		{
+			"id": "08005",
+			"name": "Xã Phúc Lai"
+		},
+		{
+			"id": "08017",
+			"name": "Xã Sóc Đăng"
+		},
+		{
+			"id": "08023",
+			"name": "Xã Tây Cốc"
+		},
+		{
+			"id": "08038",
+			"name": "Xã Tiêu Sơn"
+		},
+		{
+			"id": "08035",
+			"name": "Xã Vân Đồn"
+		},
+		{
+			"id": "07984",
+			"name": "Xã Vân Du"
+		},
+		{
+			"id": "08032",
+			"name": "Xã Vụ Quang"
+		},
+		{
+			"id": "08026",
+			"name": "Xã Yên Kiện"
+		}
+	]
+}

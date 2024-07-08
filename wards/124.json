@@ -1,0 +1,66 @@
+{
+	"id": "124",
+	"name": "Huyện Yên Châu",
+	"data": [
+		{
+			"id": "04063",
+			"name": "Xã Chiềng Đông"
+		},
+		{
+			"id": "04078",
+			"name": "Xã Chiềng Hặc"
+		},
+		{
+			"id": "04090",
+			"name": "Xã Chiềng Khoi"
+		},
+		{
+			"id": "04084",
+			"name": "Xã Chiềng On"
+		},
+		{
+			"id": "04072",
+			"name": "Xã Chiềng Pằn"
+		},
+		{
+			"id": "04069",
+			"name": "Xã Chiềng Sàng"
+		},
+		{
+			"id": "04102",
+			"name": "Xã Chiềng Tương"
+		},
+		{
+			"id": "04096",
+			"name": "Xã Lóng Phiêng"
+		},
+		{
+			"id": "04081",
+			"name": "Xã Mường Lựm"
+		},
+		{
+			"id": "04099",
+			"name": "Xã Phiêng Khoài"
+		},
+		{
+			"id": "04066",
+			"name": "Xã Sập Vạt"
+		},
+		{
+			"id": "04093",
+			"name": "Xã Tú Nang"
+		},
+		{
+			"id": "04075",
+			"name": "Xã Viêng Lán"
+		},
+		{
+			"id": "04060",
+			"name": "Thị trấn Yên Châu"
+		},
+		{
+			"id": "04087",
+			"name": "Xã Yên Sơn"
+		}
+	]
+}

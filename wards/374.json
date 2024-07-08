@@ -1,0 +1,50 @@
+{
+	"id": "374",
+	"name": "Huyện Hoa Lư",
+	"data": [
+		{
+			"id": "14557",
+			"name": "Xã Ninh An"
+		},
+		{
+			"id": "14530",
+			"name": "Xã Ninh Giang"
+		},
+		{
+			"id": "14548",
+			"name": "Xã Ninh Hải"
+		},
+		{
+			"id": "14542",
+			"name": "Xã Ninh Hòa"
+		},
+		{
+			"id": "14536",
+			"name": "Xã Ninh Khang"
+		},
+		{
+			"id": "14539",
+			"name": "Xã Ninh Mỹ"
+		},
+		{
+			"id": "14551",
+			"name": "Xã Ninh Thắng"
+		},
+		{
+			"id": "14554",
+			"name": "Xã Ninh Vân"
+		},
+		{
+			"id": "14545",
+			"name": "Xã Ninh Xuân"
+		},
+		{
+			"id": "14527",
+			"name": "Thị trấn Thiên Tôn"
+		},
+		{
+			"id": "14533",
+			"name": "Xã Trường Yên"
+		}
+	]
+}

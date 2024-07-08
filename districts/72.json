@@ -1,0 +1,42 @@
+{
+	"id": "72",
+	"name": "Tỉnh Tây Ninh",
+	"data": [
+		{
+			"id": "711",
+			"name": "Huyện Bến Cầu"
+		},
+		{
+			"id": "708",
+			"name": "Huyện Châu Thành"
+		},
+		{
+			"id": "707",
+			"name": "Huyện Dương Minh Châu"
+		},
+		{
+			"id": "710",
+			"name": "Huyện Gò Dầu"
+		},
+		{
+			"id": "709",
+			"name": "Thị xã Hòa Thành"
+		},
+		{
+			"id": "705",
+			"name": "Huyện Tân Biên"
+		},
+		{
+			"id": "706",
+			"name": "Huyện Tân Châu"
+		},
+		{
+			"id": "703",
+			"name": "Thành phố Tây Ninh"
+		},
+		{
+			"id": "712",
+			"name": "Thị xã Trảng Bàng"
+		}
+	]
+}

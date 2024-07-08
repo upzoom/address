@@ -1,0 +1,134 @@
+{
+	"id": "342",
+	"name": "Huyện Tiền Hải",
+	"data": [
+		{
+			"id": "13012",
+			"name": "Xã An Ninh"
+		},
+		{
+			"id": "13048",
+			"name": "Xã Bắc Hải"
+		},
+		{
+			"id": "13018",
+			"name": "Xã Đông Cơ"
+		},
+		{
+			"id": "13000",
+			"name": "Xã Đông Hoàng"
+		},
+		{
+			"id": "13024",
+			"name": "Xã Đông Lâm"
+		},
+		{
+			"id": "12979",
+			"name": "Xã Đông Long"
+		},
+		{
+			"id": "13003",
+			"name": "Xã Đông Minh"
+		},
+		{
+			"id": "13009",
+			"name": "Xã Đông Phong"
+		},
+		{
+			"id": "12982",
+			"name": "Xã Đông Quí"
+		},
+		{
+			"id": "12976",
+			"name": "Xã Đông Trà"
+		},
+		{
+			"id": "12997",
+			"name": "Xã Đông Trung"
+		},
+		{
+			"id": "12988",
+			"name": "Xã Đông Xuyên"
+		},
+		{
+			"id": "13045",
+			"name": "Xã Nam Chính"
+		},
+		{
+			"id": "13036",
+			"name": "Xã Nam Cường"
+		},
+		{
+			"id": "13054",
+			"name": "Xã Nam Hà"
+		},
+		{
+			"id": "13069",
+			"name": "Xã Nam Hải"
+		},
+		{
+			"id": "13063",
+			"name": "Xã Nam Hồng"
+		},
+		{
+			"id": "13066",
+			"name": "Xã Nam Hưng"
+		},
+		{
+			"id": "13072",
+			"name": "Xã Nam Phú"
+		},
+		{
+			"id": "13042",
+			"name": "Xã Nam Thắng"
+		},
+		{
+			"id": "13057",
+			"name": "Xã Nam Thanh"
+		},
+		{
+			"id": "13051",
+			"name": "Xã Nam Thịnh"
+		},
+		{
+			"id": "13060",
+			"name": "Xã Nam Trung"
+		},
+		{
+			"id": "13027",
+			"name": "Xã Phương Công"
+		},
+		{
+			"id": "13021",
+			"name": "Xã Tây Giang"
+		},
+		{
+			"id": "12991",
+			"name": "Xã Tây Lương"
+		},
+		{
+			"id": "12994",
+			"name": "Xã Tây Ninh"
+		},
+		{
+			"id": "13030",
+			"name": "Xã Tây Phong"
+		},
+		{
+			"id": "13033",
+			"name": "Xã Tây Tiến"
+		},
+		{
+			"id": "12970",
+			"name": "Thị trấn Tiền Hải"
+		},
+		{
+			"id": "13039",
+			"name": "Xã Vân Trường"
+		},
+		{
+			"id": "12985",
+			"name": "Xã Vũ Lăng"
+		}
+	]
+}

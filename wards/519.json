@@ -1,0 +1,30 @@
+{
+	"id": "519",
+	"name": "Huyện Nông Sơn",
+	"data": [
+		{
+			"id": "20668",
+			"name": "Xã Ninh Phước"
+		},
+		{
+			"id": "20669",
+			"name": "Xã Phước Ninh"
+		},
+		{
+			"id": "20692",
+			"name": "Xã Quế Lâm"
+		},
+		{
+			"id": "20671",
+			"name": "Xã Quế Lộc"
+		},
+		{
+			"id": "20672",
+			"name": "Xã Sơn Viên"
+		},
+		{
+			"id": "20656",
+			"name": "Thị trấn Trung Phước"
+		}
+	]
+}

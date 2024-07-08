@@ -1,0 +1,102 @@
+{
+	"id": "135",
+	"name": "Huyện Lục Yên",
+	"data": [
+		{
+			"id": "04327",
+			"name": "Xã An Lạc"
+		},
+		{
+			"id": "04369",
+			"name": "Xã An Phú"
+		},
+		{
+			"id": "04351",
+			"name": "Xã Động Quan"
+		},
+		{
+			"id": "04321",
+			"name": "Xã Khai Trung"
+		},
+		{
+			"id": "04342",
+			"name": "Xã Khánh Hoà"
+		},
+		{
+			"id": "04312",
+			"name": "Xã Khánh Thiện"
+		},
+		{
+			"id": "04309",
+			"name": "Xã Lâm Thượng"
+		},
+		{
+			"id": "04348",
+			"name": "Xã Liễu Đô"
+		},
+		{
+			"id": "04318",
+			"name": "Xã Mai Sơn"
+		},
+		{
+			"id": "04315",
+			"name": "Xã Minh Chuẩn"
+		},
+		{
+			"id": "04357",
+			"name": "Xã Minh Tiến"
+		},
+		{
+			"id": "04330",
+			"name": "Xã Minh Xuân"
+		},
+		{
+			"id": "04324",
+			"name": "Xã Mường Lai"
+		},
+		{
+			"id": "04366",
+			"name": "Xã Phan Thanh"
+		},
+		{
+			"id": "04363",
+			"name": "Xã Phúc Lợi"
+		},
+		{
+			"id": "04354",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "04336",
+			"name": "Xã Tân Lĩnh"
+		},
+		{
+			"id": "04306",
+			"name": "Xã Tân Phượng"
+		},
+		{
+			"id": "04333",
+			"name": "Xã Tô Mậu"
+		},
+		{
+			"id": "04360",
+			"name": "Xã Trúc Lâu"
+		},
+		{
+			"id": "04372",
+			"name": "Xã Trung Tâm"
+		},
+		{
+			"id": "04345",
+			"name": "Xã Vĩnh Lạc"
+		},
+		{
+			"id": "04339",
+			"name": "Xã Yên Thắng"
+		},
+		{
+			"id": "04303",
+			"name": "Thị trấn Yên Thế"
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"id": "474",
+	"name": "Thành phố Huế",
+	"data": [
+		{
+			"id": "19801",
+			"name": "Phường An Cựu"
+		},
+		{
+			"id": "19815",
+			"name": "Phường An Đông"
+		},
+		{
+			"id": "19803",
+			"name": "Phường An Hòa"
+		},
+		{
+			"id": "19816",
+			"name": "Phường An Tây"
+		},
+		{
+			"id": "19768",
+			"name": "Phường Đông Ba"
+		},
+		{
+			"id": "19756",
+			"name": "Phường Gia Hội"
+		},
+		{
+			"id": "19999",
+			"name": "Xã Hải Dương"
+		},
+		{
+			"id": "20023",
+			"name": "Phường Hương An"
+		},
+		{
+			"id": "20029",
+			"name": "Phường Hương Hồ"
+		},
+		{
+			"id": "19810",
+			"name": "Phường Hương Long"
+		},
+		{
+			"id": "20002",
+			"name": "Xã Hương Phong"
+		},
+		{
+			"id": "19804",
+			"name": "Phường Hương Sơ"
+		},
+		{
+			"id": "20032",
+			"name": "Xã Hương Thọ"
+		},
+		{
+			"id": "20014",
+			"name": "Phường Hương Vinh"
+		},
+		{
+			"id": "19774",
+			"name": "Phường Kim Long"
+		},
+		{
+			"id": "19906",
+			"name": "Xã Phú Dương"
+		},
+		{
+			"id": "19759",
+			"name": "Phường Phú Hậu"
+		},
+		{
+			"id": "19786",
+			"name": "Phường Phú Hội"
+		},
+		{
+			"id": "19909",
+			"name": "Xã Phú Mậu"
+		},
+		{
+			"id": "19789",
+			"name": "Phường Phú Nhuận"
+		},
+		{
+			"id": "19924",
+			"name": "Xã Phú Thanh"
+		},
+		{
+			"id": "19930",
+			"name": "Phường Phú Thượng"
+		},
+		{
+			"id": "19798",
+			"name": "Phường Phước Vĩnh"
+		},
+		{
+			"id": "19780",
+			"name": "Phường Phường Đúc"
+		},
+		{
+			"id": "19750",
+			"name": "Phường Tây Lộc"
+		},
+		{
+			"id": "19900",
+			"name": "Phường Thuận An"
+		},
+		{
+			"id": "19762",
+			"name": "Phường Thuận Hòa"
+		},
+		{
+			"id": "19753",
+			"name": "Phường Thuận Lộc"
+		},
+		{
+			"id": "19981",
+			"name": "Xã Thủy Bằng"
+		},
+		{
+			"id": "19807",
+			"name": "Phường Thuỷ Biều"
+		},
+		{
+			"id": "19963",
+			"name": "Phường Thủy Vân"
+		},
+		{
+			"id": "19813",
+			"name": "Phường Thuỷ Xuân"
+		},
+		{
+			"id": "19795",
+			"name": "Phường Trường An"
+		},
+		{
+			"id": "19783",
+			"name": "Phường Vĩnh Ninh"
+		},
+		{
+			"id": "19777",
+			"name": "Phường Vỹ Dạ"
+		},
+		{
+			"id": "19792",
+			"name": "Phường Xuân Phú"
+		}
+	]
+}

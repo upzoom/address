@@ -1,0 +1,30 @@
+{
+	"id": "931",
+	"name": "Thành phố Ngã Bảy",
+	"data": [
+		{
+			"id": "31411",
+			"name": "Xã Đại Thành"
+		},
+		{
+			"id": "31344",
+			"name": "Phường Hiệp Lợi"
+		},
+		{
+			"id": "31343",
+			"name": "Phường Hiệp Thành"
+		},
+		{
+			"id": "31341",
+			"name": "Phường Lái Hiếu"
+		},
+		{
+			"id": "31340",
+			"name": "Phường Ngã Bảy"
+		},
+		{
+			"id": "31414",
+			"name": "Xã Tân Thành"
+		}
+	]
+}

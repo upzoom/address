@@ -1,0 +1,38 @@
+{
+	"id": "27",
+	"name": "Tỉnh Bắc Ninh",
+	"data": [
+		{
+			"id": "256",
+			"name": "Thành phố Bắc Ninh"
+		},
+		{
+			"id": "263",
+			"name": "Huyện Gia Bình"
+		},
+		{
+			"id": "264",
+			"name": "Huyện Lương Tài"
+		},
+		{
+			"id": "259",
+			"name": "Thị xã Quế Võ"
+		},
+		{
+			"id": "262",
+			"name": "Thị xã Thuận Thành"
+		},
+		{
+			"id": "260",
+			"name": "Huyện Tiên Du"
+		},
+		{
+			"id": "261",
+			"name": "Thành phố Từ Sơn"
+		},
+		{
+			"id": "258",
+			"name": "Huyện Yên Phong"
+		}
+	]
+}

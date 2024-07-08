@@ -1,0 +1,58 @@
+{
+	"id": "571",
+	"name": "Huyện Vạn Ninh",
+	"data": [
+		{
+			"id": "22492",
+			"name": "Xã Đại Lãnh"
+		},
+		{
+			"id": "22501",
+			"name": "Xã Vạn Bình"
+		},
+		{
+			"id": "22489",
+			"name": "Thị trấn Vạn Giã"
+		},
+		{
+			"id": "22525",
+			"name": "Xã Vạn Hưng"
+		},
+		{
+			"id": "22507",
+			"name": "Xã Vạn Khánh"
+		},
+		{
+			"id": "22498",
+			"name": "Xã Vạn Long"
+		},
+		{
+			"id": "22513",
+			"name": "Xã Vạn Lương"
+		},
+		{
+			"id": "22510",
+			"name": "Xã Vạn Phú"
+		},
+		{
+			"id": "22495",
+			"name": "Xã Vạn Phước"
+		},
+		{
+			"id": "22516",
+			"name": "Xã Vạn Thắng"
+		},
+		{
+			"id": "22519",
+			"name": "Xã Vạn Thạnh"
+		},
+		{
+			"id": "22504",
+			"name": "Xã Vạn Thọ"
+		},
+		{
+			"id": "22522",
+			"name": "Xã Xuân Sơn"
+		}
+	]
+}

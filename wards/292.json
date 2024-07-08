@@ -1,0 +1,98 @@
+{
+	"id": "292",
+	"name": "Thị xã Kinh Môn",
+	"data": [
+		{
+			"id": "10675",
+			"name": "Phường An Lưu"
+		},
+		{
+			"id": "10732",
+			"name": "Phường An Phụ"
+		},
+		{
+			"id": "10723",
+			"name": "Phường An Sinh"
+		},
+		{
+			"id": "10678",
+			"name": "Xã Bạch Đằng"
+		},
+		{
+			"id": "10696",
+			"name": "Phường Duy Tân"
+		},
+		{
+			"id": "10744",
+			"name": "Phường Hiến Thành"
+		},
+		{
+			"id": "10735",
+			"name": "Phường Hiệp An"
+		},
+		{
+			"id": "10708",
+			"name": "Xã Hiệp Hòa"
+		},
+		{
+			"id": "10726",
+			"name": "Phường Hiệp Sơn"
+		},
+		{
+			"id": "10687",
+			"name": "Xã Hoành Sơn"
+		},
+		{
+			"id": "10720",
+			"name": "Xã Lạc Long"
+		},
+		{
+			"id": "10684",
+			"name": "Xã Lê Ninh"
+		},
+		{
+			"id": "10738",
+			"name": "Phường Long Xuyên"
+		},
+		{
+			"id": "10747",
+			"name": "Xã Minh Hòa"
+		},
+		{
+			"id": "10702",
+			"name": "Phường Minh Tân"
+		},
+		{
+			"id": "10693",
+			"name": "Phường Phạm Thái"
+		},
+		{
+			"id": "10714",
+			"name": "Phường Phú Thứ"
+		},
+		{
+			"id": "10705",
+			"name": "Xã Quang Thành"
+		},
+		{
+			"id": "10699",
+			"name": "Phường Tân Dân"
+		},
+		{
+			"id": "10741",
+			"name": "Phường Thái Thịnh"
+		},
+		{
+			"id": "10717",
+			"name": "Xã Thăng Long"
+		},
+		{
+			"id": "10681",
+			"name": "Phường Thất Hùng"
+		},
+		{
+			"id": "10729",
+			"name": "Xã Thượng Quận"
+		}
+	]
+}

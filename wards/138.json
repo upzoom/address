@@ -1,0 +1,90 @@
+{
+	"id": "138",
+	"name": "Huyện Trấn Yên",
+	"data": [
+		{
+			"id": "04504",
+			"name": "Xã Báo Đáp"
+		},
+		{
+			"id": "04561",
+			"name": "Xã Bảo Hưng"
+		},
+		{
+			"id": "04498",
+			"name": "Thị trấn Cổ Phúc"
+		},
+		{
+			"id": "04522",
+			"name": "Xã Cường Thịnh"
+		},
+		{
+			"id": "04507",
+			"name": "Xã Đào Thịnh"
+		},
+		{
+			"id": "04513",
+			"name": "Xã Hòa Cuông"
+		},
+		{
+			"id": "04570",
+			"name": "Xã Hồng Ca"
+		},
+		{
+			"id": "04576",
+			"name": "Xã Hưng Khánh"
+		},
+		{
+			"id": "04573",
+			"name": "Xã Hưng Thịnh"
+		},
+		{
+			"id": "04525",
+			"name": "Xã Kiên Thành"
+		},
+		{
+			"id": "04537",
+			"name": "Xã Lương Thịnh"
+		},
+		{
+			"id": "04516",
+			"name": "Xã Minh Quán"
+		},
+		{
+			"id": "04567",
+			"name": "Xã Minh Quân"
+		},
+		{
+			"id": "04528",
+			"name": "Xã Nga Quán"
+		},
+		{
+			"id": "04519",
+			"name": "Xã Quy Mông"
+		},
+		{
+			"id": "04501",
+			"name": "Xã Tân Đồng"
+		},
+		{
+			"id": "04582",
+			"name": "Xã Vân Hội"
+		},
+		{
+			"id": "04564",
+			"name": "Xã Việt Cường"
+		},
+		{
+			"id": "04579",
+			"name": "Xã Việt Hồng"
+		},
+		{
+			"id": "04510",
+			"name": "Xã Việt Thành"
+		},
+		{
+			"id": "04531",
+			"name": "Xã Y Can"
+		}
+	]
+}

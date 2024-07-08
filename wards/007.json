@@ -1,0 +1,78 @@
+{
+	"id": "007",
+	"name": "Quận Hai Bà Trưng",
+	"data": [
+		{
+			"id": "00244",
+			"name": "Phường Bạch Đằng"
+		},
+		{
+			"id": "00277",
+			"name": "Phường Bách Khoa"
+		},
+		{
+			"id": "00286",
+			"name": "Phường Bạch Mai"
+		},
+		{
+			"id": "00274",
+			"name": "Phường Cầu Dền"
+		},
+		{
+			"id": "00265",
+			"name": "Phường Đống Mác"
+		},
+		{
+			"id": "00259",
+			"name": "Phường Đồng Nhân"
+		},
+		{
+			"id": "00280",
+			"name": "Phường Đồng Tâm"
+		},
+		{
+			"id": "00256",
+			"name": "Phường Lê Đại Hành"
+		},
+		{
+			"id": "00295",
+			"name": "Phường Minh Khai"
+		},
+		{
+			"id": "00241",
+			"name": "Phường Nguyễn Du"
+		},
+		{
+			"id": "00247",
+			"name": "Phường Phạm Đình Hổ"
+		},
+		{
+			"id": "00262",
+			"name": "Phường Phố Huế"
+		},
+		{
+			"id": "00292",
+			"name": "Phường Quỳnh Lôi"
+		},
+		{
+			"id": "00289",
+			"name": "Phường Quỳnh Mai"
+		},
+		{
+			"id": "00268",
+			"name": "Phường Thanh Lương"
+		},
+		{
+			"id": "00271",
+			"name": "Phường Thanh Nhàn"
+		},
+		{
+			"id": "00298",
+			"name": "Phường Trương Định"
+		},
+		{
+			"id": "00283",
+			"name": "Phường Vĩnh Tuy"
+		}
+	]
+}

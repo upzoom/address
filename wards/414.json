@@ -1,0 +1,42 @@
+{
+	"id": "414",
+	"name": "Thị xã Thái Hoà",
+	"data": [
+		{
+			"id": "17017",
+			"name": "Xã Đông Hiếu"
+		},
+		{
+			"id": "16939",
+			"name": "Phường Hoà Hiếu"
+		},
+		{
+			"id": "17003",
+			"name": "Phường Long Sơn"
+		},
+		{
+			"id": "17008",
+			"name": "Xã Nghĩa Mỹ"
+		},
+		{
+			"id": "17014",
+			"name": "Xã Nghĩa Thuận"
+		},
+		{
+			"id": "17005",
+			"name": "Xã Nghĩa Tiến"
+		},
+		{
+			"id": "16993",
+			"name": "Phường Quang Phong"
+		},
+		{
+			"id": "16994",
+			"name": "Phường Quang Tiến"
+		},
+		{
+			"id": "17011",
+			"name": "Xã Tây Hiếu"
+		}
+	]
+}

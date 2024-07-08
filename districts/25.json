@@ -1,0 +1,58 @@
+{
+	"id": "25",
+	"name": "Tỉnh Phú Thọ",
+	"data": [
+		{
+			"id": "235",
+			"name": "Huyện Cẩm Khê"
+		},
+		{
+			"id": "230",
+			"name": "Huyện Đoan Hùng"
+		},
+		{
+			"id": "231",
+			"name": "Huyện Hạ Hoà"
+		},
+		{
+			"id": "237",
+			"name": "Huyện Lâm Thao"
+		},
+		{
+			"id": "233",
+			"name": "Huyện Phù Ninh"
+		},
+		{
+			"id": "228",
+			"name": "Thị xã Phú Thọ"
+		},
+		{
+			"id": "236",
+			"name": "Huyện Tam Nông"
+		},
+		{
+			"id": "240",
+			"name": "Huyện Tân Sơn"
+		},
+		{
+			"id": "232",
+			"name": "Huyện Thanh Ba"
+		},
+		{
+			"id": "238",
+			"name": "Huyện Thanh Sơn"
+		},
+		{
+			"id": "239",
+			"name": "Huyện Thanh Thuỷ"
+		},
+		{
+			"id": "227",
+			"name": "Thành phố Việt Trì"
+		},
+		{
+			"id": "234",
+			"name": "Huyện Yên Lập"
+		}
+	]
+}

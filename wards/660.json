@@ -1,0 +1,38 @@
+{
+	"id": "660",
+	"name": "Thành phố Gia Nghĩa",
+	"data": [
+		{
+			"id": "24628",
+			"name": "Xã Đắk Nia"
+		},
+		{
+			"id": "24618",
+			"name": "Xã Đăk R'Moan"
+		},
+		{
+			"id": "24611",
+			"name": "Phường Nghĩa Đức"
+		},
+		{
+			"id": "24614",
+			"name": "Phường Nghĩa Phú"
+		},
+		{
+			"id": "24615",
+			"name": "Phường Nghĩa Tân"
+		},
+		{
+			"id": "24612",
+			"name": "Phường Nghĩa Thành"
+		},
+		{
+			"id": "24617",
+			"name": "Phường Nghĩa Trung"
+		},
+		{
+			"id": "24619",
+			"name": "Phường Quảng Thành"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "216",
+	"name": "Huyện Tân Yên",
+	"data": [
+		{
+			"id": "07321",
+			"name": "Xã An Dương"
+		},
+		{
+			"id": "07339",
+			"name": "Thị trấn Cao Thượng"
+		},
+		{
+			"id": "07336",
+			"name": "Xã Cao Xá"
+		},
+		{
+			"id": "07312",
+			"name": "Xã Đại Hóa"
+		},
+		{
+			"id": "07330",
+			"name": "Xã Hợp Đức"
+		},
+		{
+			"id": "07333",
+			"name": "Xã Lam Cốt"
+		},
+		{
+			"id": "07303",
+			"name": "Xã Lan Giới"
+		},
+		{
+			"id": "07357",
+			"name": "Xã Liên Chung"
+		},
+		{
+			"id": "07327",
+			"name": "Xã Liên Sơn"
+		},
+		{
+			"id": "07348",
+			"name": "Xã Ngọc Châu"
+		},
+		{
+			"id": "07363",
+			"name": "Xã Ngọc Lý"
+		},
+		{
+			"id": "07360",
+			"name": "Xã Ngọc Thiện"
+		},
+		{
+			"id": "07351",
+			"name": "Xã Ngọc Vân"
+		},
+		{
+			"id": "07306",
+			"name": "Thị trấn Nhã Nam"
+		},
+		{
+			"id": "07324",
+			"name": "Xã Phúc Hòa"
+		},
+		{
+			"id": "07318",
+			"name": "Xã Phúc Sơn"
+		},
+		{
+			"id": "07315",
+			"name": "Xã Quang Tiến"
+		},
+		{
+			"id": "07366",
+			"name": "Xã Quế Nham"
+		},
+		{
+			"id": "07345",
+			"name": "Xã Song Vân"
+		},
+		{
+			"id": "07309",
+			"name": "Xã Tân Trung"
+		},
+		{
+			"id": "07354",
+			"name": "Xã Việt Lập"
+		},
+		{
+			"id": "07342",
+			"name": "Xã Việt Ngọc"
+		}
+	]
+}

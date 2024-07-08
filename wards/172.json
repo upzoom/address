@@ -1,0 +1,78 @@
+{
+	"id": "172",
+	"name": "Thành phố Phổ Yên",
+	"data": [
+		{
+			"id": "05860",
+			"name": "Phường Ba Hàng"
+		},
+		{
+			"id": "05857",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "05854",
+			"name": "Phường Bãi Bông"
+		},
+		{
+			"id": "05875",
+			"name": "Phường Đắc Sơn"
+		},
+		{
+			"id": "05896",
+			"name": "Phường Đông Cao"
+		},
+		{
+			"id": "05878",
+			"name": "Phường Đồng Tiến"
+		},
+		{
+			"id": "05869",
+			"name": "Phường Hồng Tiến"
+		},
+		{
+			"id": "05872",
+			"name": "Xã Minh Đức"
+		},
+		{
+			"id": "05890",
+			"name": "Phường Nam Tiến"
+		},
+		{
+			"id": "05863",
+			"name": "Xã Phúc Tân"
+		},
+		{
+			"id": "05866",
+			"name": "Xã Phúc Thuận"
+		},
+		{
+			"id": "05893",
+			"name": "Phường Tân Hương"
+		},
+		{
+			"id": "05902",
+			"name": "Phường Tân Phú"
+		},
+		{
+			"id": "05881",
+			"name": "Xã Thành Công"
+		},
+		{
+			"id": "05905",
+			"name": "Phường Thuận Thành"
+		},
+		{
+			"id": "05884",
+			"name": "Phường Tiên Phong"
+		},
+		{
+			"id": "05899",
+			"name": "Phường Trung Thành"
+		},
+		{
+			"id": "05887",
+			"name": "Xã Vạn Phái"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "246",
+	"name": "Huyện Lập Thạch",
+	"data": [
+		{
+			"id": "08785",
+			"name": "Xã Bắc Bình"
+		},
+		{
+			"id": "08833",
+			"name": "Xã Bàn Giản"
+		},
+		{
+			"id": "08857",
+			"name": "Xã Đình Chu"
+		},
+		{
+			"id": "08839",
+			"name": "Xã Đồng Ích"
+		},
+		{
+			"id": "08789",
+			"name": "Thị trấn Hoa Sơn"
+		},
+		{
+			"id": "08770",
+			"name": "Xã Hợp Lý"
+		},
+		{
+			"id": "08761",
+			"name": "Thị trấn Lập Thạch"
+		},
+		{
+			"id": "08812",
+			"name": "Xã Liên Hòa"
+		},
+		{
+			"id": "08791",
+			"name": "Xã Liễn Sơn"
+		},
+		{
+			"id": "08767",
+			"name": "Xã Ngọc Mỹ"
+		},
+		{
+			"id": "08764",
+			"name": "Xã Quang Sơn"
+		},
+		{
+			"id": "08866",
+			"name": "Xã Sơn Đông"
+		},
+		{
+			"id": "08788",
+			"name": "Xã Thái Hòa"
+		},
+		{
+			"id": "08842",
+			"name": "Xã Tiên Lữ"
+		},
+		{
+			"id": "08863",
+			"name": "Xã Triệu Đề"
+		},
+		{
+			"id": "08815",
+			"name": "Xã Tử Du"
+		},
+		{
+			"id": "08845",
+			"name": "Xã Văn Quán"
+		},
+		{
+			"id": "08797",
+			"name": "Xã Vân Trục"
+		},
+		{
+			"id": "08794",
+			"name": "Xã Xuân Hòa"
+		},
+		{
+			"id": "08836",
+			"name": "Xã Xuân Lôi"
+		}
+	]
+}

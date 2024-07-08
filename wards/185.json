@@ -1,0 +1,78 @@
+{
+	"id": "185",
+	"name": "Huyện Bắc Sơn",
+	"data": [
+		{
+			"id": "06343",
+			"name": "Xã Bắc Quỳnh"
+		},
+		{
+			"id": "06325",
+			"name": "Thị trấn Bắc Sơn"
+		},
+		{
+			"id": "06364",
+			"name": "Xã Chiến Thắng"
+		},
+		{
+			"id": "06358",
+			"name": "Xã Chiêu Vũ"
+		},
+		{
+			"id": "06337",
+			"name": "Xã Đồng ý"
+		},
+		{
+			"id": "06349",
+			"name": "Xã Hưng Vũ"
+		},
+		{
+			"id": "06328",
+			"name": "Xã Long Đống"
+		},
+		{
+			"id": "06376",
+			"name": "Xã Nhất Hòa"
+		},
+		{
+			"id": "06382",
+			"name": "Xã Nhất Tiến"
+		},
+		{
+			"id": "06361",
+			"name": "Xã Tân Hương"
+		},
+		{
+			"id": "06352",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "06379",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "06340",
+			"name": "Xã Tân Tri"
+		},
+		{
+			"id": "06370",
+			"name": "Xã Trấn Yên"
+		},
+		{
+			"id": "06331",
+			"name": "Xã Vạn Thủy"
+		},
+		{
+			"id": "06367",
+			"name": "Xã Vũ Lăng"
+		},
+		{
+			"id": "06373",
+			"name": "Xã Vũ Lễ"
+		},
+		{
+			"id": "06355",
+			"name": "Xã Vũ Sơn"
+		}
+	]
+}

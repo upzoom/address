@@ -1,0 +1,74 @@
+{
+	"id": "253",
+	"name": "Huyện Sông Lô",
+	"data": [
+		{
+			"id": "08779",
+			"name": "Xã Bạch Lưu"
+		},
+		{
+			"id": "08860",
+			"name": "Xã Cao Phong"
+		},
+		{
+			"id": "08806",
+			"name": "Xã Đôn Nhân"
+		},
+		{
+			"id": "08800",
+			"name": "Xã Đồng Quế"
+		},
+		{
+			"id": "08848",
+			"name": "Xã Đồng Thịnh"
+		},
+		{
+			"id": "08854",
+			"name": "Xã Đức Bác"
+		},
+		{
+			"id": "08782",
+			"name": "Xã Hải Lựu"
+		},
+		{
+			"id": "08773",
+			"name": "Xã Lãng Công"
+		},
+		{
+			"id": "08803",
+			"name": "Xã Nhân Đạo"
+		},
+		{
+			"id": "08821",
+			"name": "Xã Nhạo Sơn"
+		},
+		{
+			"id": "08827",
+			"name": "Xã Như Thụy"
+		},
+		{
+			"id": "08809",
+			"name": "Xã Phương Khoan"
+		},
+		{
+			"id": "08776",
+			"name": "Xã Quang Yên"
+		},
+		{
+			"id": "08824",
+			"name": "Thị trấn Tam Sơn"
+		},
+		{
+			"id": "08818",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "08851",
+			"name": "Xã Tứ Yên"
+		},
+		{
+			"id": "08830",
+			"name": "Xã Yên Thạch"
+		}
+	]
+}

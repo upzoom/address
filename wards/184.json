@@ -1,0 +1,74 @@
+{
+	"id": "184",
+	"name": "Huyện Văn Quan",
+	"data": [
+		{
+			"id": "06283",
+			"name": "Xã An Sơn"
+		},
+		{
+			"id": "06298",
+			"name": "Xã Bình Phúc"
+		},
+		{
+			"id": "06280",
+			"name": "Xã Điềm He"
+		},
+		{
+			"id": "06295",
+			"name": "Xã Đồng Giáp"
+		},
+		{
+			"id": "06274",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "06322",
+			"name": "Xã Hữu Lễ"
+		},
+		{
+			"id": "06286",
+			"name": "Xã Khánh Khê"
+		},
+		{
+			"id": "06268",
+			"name": "Xã Liên Hội"
+		},
+		{
+			"id": "06292",
+			"name": "Xã Lương Năng"
+		},
+		{
+			"id": "06307",
+			"name": "Xã Tân Đoàn"
+		},
+		{
+			"id": "06256",
+			"name": "Xã Trấn Ninh"
+		},
+		{
+			"id": "06301",
+			"name": "Xã Tràng Các"
+		},
+		{
+			"id": "06316",
+			"name": "Xã Tràng Phái"
+		},
+		{
+			"id": "06313",
+			"name": "Xã Tri Lễ"
+		},
+		{
+			"id": "06277",
+			"name": "Xã Tú Xuyên"
+		},
+		{
+			"id": "06253",
+			"name": "Thị trấn Văn Quan"
+		},
+		{
+			"id": "06319",
+			"name": "Xã Yên Phúc"
+		}
+	]
+}

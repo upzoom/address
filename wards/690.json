@@ -1,0 +1,30 @@
+{
+	"id": "690",
+	"name": "Thị xã Bình Long",
+	"data": [
+		{
+			"id": "25324",
+			"name": "Phường An Lộc"
+		},
+		{
+			"id": "25320",
+			"name": "Phường Hưng Chiến"
+		},
+		{
+			"id": "25326",
+			"name": "Phường Phú Đức"
+		},
+		{
+			"id": "25325",
+			"name": "Phường Phú Thịnh"
+		},
+		{
+			"id": "25333",
+			"name": "Xã Thanh Lương"
+		},
+		{
+			"id": "25336",
+			"name": "Xã Thanh Phú"
+		}
+	]
+}

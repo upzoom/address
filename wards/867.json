@@ -1,0 +1,42 @@
+{
+	"id": "867",
+	"name": "Thành phố Sa Đéc",
+	"data": [
+		{
+			"id": "29905",
+			"name": "Phường 1"
+		},
+		{
+			"id": "29911",
+			"name": "Phường 2"
+		},
+		{
+			"id": "29902",
+			"name": "Phường 3"
+		},
+		{
+			"id": "29908",
+			"name": "Phường 4"
+		},
+		{
+			"id": "29919",
+			"name": "Phường An Hoà"
+		},
+		{
+			"id": "29914",
+			"name": "Xã Tân Khánh Đông"
+		},
+		{
+			"id": "29923",
+			"name": "Xã Tân Phú Đông"
+		},
+		{
+			"id": "29917",
+			"name": "Phường Tân Quy Đông"
+		},
+		{
+			"id": "29920",
+			"name": "Xã Tân Quy Tây"
+		}
+	]
+}

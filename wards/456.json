@@ -1,0 +1,66 @@
+{
+	"id": "456",
+	"name": "Huyện Quảng Ninh",
+	"data": [
+		{
+			"id": "19240",
+			"name": "Xã An Ninh"
+		},
+		{
+			"id": "19222",
+			"name": "Xã Duy Ninh"
+		},
+		{
+			"id": "19225",
+			"name": "Xã Gia Ninh"
+		},
+		{
+			"id": "19216",
+			"name": "Xã Hải Ninh"
+		},
+		{
+			"id": "19219",
+			"name": "Xã Hàm Ninh"
+		},
+		{
+			"id": "19231",
+			"name": "Xã Hiền Ninh"
+		},
+		{
+			"id": "19207",
+			"name": "Xã Lương Ninh"
+		},
+		{
+			"id": "19201",
+			"name": "Thị trấn Quán Hàu"
+		},
+		{
+			"id": "19234",
+			"name": "Xã Tân Ninh"
+		},
+		{
+			"id": "19204",
+			"name": "Xã Trường Sơn"
+		},
+		{
+			"id": "19228",
+			"name": "Xã Trường Xuân"
+		},
+		{
+			"id": "19243",
+			"name": "Xã Vạn Ninh"
+		},
+		{
+			"id": "19210",
+			"name": "Xã Vĩnh Ninh"
+		},
+		{
+			"id": "19213",
+			"name": "Xã Võ Ninh"
+		},
+		{
+			"id": "19237",
+			"name": "Xã Xuân Ninh"
+		}
+	]
+}

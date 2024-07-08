@@ -1,0 +1,74 @@
+{
+	"id": "268",
+	"name": "Quận Hà Đông",
+	"data": [
+		{
+			"id": "10123",
+			"name": "Phường Biên Giang"
+		},
+		{
+			"id": "10117",
+			"name": "Phường Đồng Mai"
+		},
+		{
+			"id": "09886",
+			"name": "Phường Dương Nội"
+		},
+		{
+			"id": "09556",
+			"name": "Phường Hà Cầu"
+		},
+		{
+			"id": "09565",
+			"name": "Phường Kiến Hưng"
+		},
+		{
+			"id": "09551",
+			"name": "Phường La Khê"
+		},
+		{
+			"id": "09541",
+			"name": "Phường Mộ Lao"
+		},
+		{
+			"id": "09538",
+			"name": "Phường Nguyễn Trãi"
+		},
+		{
+			"id": "09552",
+			"name": "Phường Phú La"
+		},
+		{
+			"id": "09568",
+			"name": "Phường Phú Lãm"
+		},
+		{
+			"id": "09571",
+			"name": "Phường Phú Lương"
+		},
+		{
+			"id": "09553",
+			"name": "Phường Phúc La"
+		},
+		{
+			"id": "09550",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "09544",
+			"name": "Phường Vạn Phúc"
+		},
+		{
+			"id": "09542",
+			"name": "Phường Văn Quán"
+		},
+		{
+			"id": "09562",
+			"name": "Phường Yên Nghĩa"
+		},
+		{
+			"id": "09547",
+			"name": "Phường Yết Kiêu"
+		}
+	]
+}

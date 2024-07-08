@@ -1,0 +1,42 @@
+{
+	"id": "956",
+	"name": "Huyện Hồng Dân",
+	"data": [
+		{
+			"id": "31855",
+			"name": "Xã Lộc Ninh"
+		},
+		{
+			"id": "31843",
+			"name": "Thị trấn Ngan Dừa"
+		},
+		{
+			"id": "31852",
+			"name": "Xã Ninh Hòa"
+		},
+		{
+			"id": "31846",
+			"name": "Xã Ninh Quới"
+		},
+		{
+			"id": "31849",
+			"name": "Xã Ninh Quới A"
+		},
+		{
+			"id": "31864",
+			"name": "Xã Ninh Thạnh Lợi"
+		},
+		{
+			"id": "31863",
+			"name": "Xã Ninh Thạnh Lợi A"
+		},
+		{
+			"id": "31858",
+			"name": "Xã Vĩnh Lộc"
+		},
+		{
+			"id": "31861",
+			"name": "Xã Vĩnh Lộc A"
+		}
+	]
+}

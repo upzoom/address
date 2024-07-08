@@ -1,0 +1,70 @@
+{
+	"id": "312",
+	"name": "Huyện An Dương",
+	"data": [
+		{
+			"id": "11623",
+			"name": "Xã An Đồng"
+		},
+		{
+			"id": "11581",
+			"name": "Thị trấn An Dương"
+		},
+		{
+			"id": "11590",
+			"name": "Xã An Hoà"
+		},
+		{
+			"id": "11602",
+			"name": "Xã An Hồng"
+		},
+		{
+			"id": "11599",
+			"name": "Xã An Hưng"
+		},
+		{
+			"id": "11605",
+			"name": "Xã Bắc Sơn"
+		},
+		{
+			"id": "11587",
+			"name": "Xã Đại Bản"
+		},
+		{
+			"id": "11614",
+			"name": "Xã Đặng Cương"
+		},
+		{
+			"id": "11617",
+			"name": "Xã Đồng Thái"
+		},
+		{
+			"id": "11593",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "11626",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "11611",
+			"name": "Xã Lê Lợi"
+		},
+		{
+			"id": "11584",
+			"name": "Xã Lê Thiện"
+		},
+		{
+			"id": "11608",
+			"name": "Xã Nam Sơn"
+		},
+		{
+			"id": "11620",
+			"name": "Xã Quốc Tuấn"
+		},
+		{
+			"id": "11596",
+			"name": "Xã Tân Tiến"
+		}
+	]
+}

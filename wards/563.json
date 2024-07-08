@@ -1,0 +1,42 @@
+{
+	"id": "563",
+	"name": "Huyện Phú Hoà",
+	"data": [
+		{
+			"id": "22315",
+			"name": "Xã Hòa An"
+		},
+		{
+			"id": "22318",
+			"name": "Xã Hòa Định Đông"
+		},
+		{
+			"id": "22321",
+			"name": "Xã Hòa Định Tây"
+		},
+		{
+			"id": "22309",
+			"name": "Xã Hòa Hội"
+		},
+		{
+			"id": "22303",
+			"name": "Xã Hòa Quang Bắc"
+		},
+		{
+			"id": "22306",
+			"name": "Xã Hòa Quang Nam"
+		},
+		{
+			"id": "22324",
+			"name": "Xã Hòa Thắng"
+		},
+		{
+			"id": "22312",
+			"name": "Xã Hòa Trị"
+		},
+		{
+			"id": "22319",
+			"name": "Thị Trấn Phú Hoà"
+		}
+	]
+}

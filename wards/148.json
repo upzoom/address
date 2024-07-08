@@ -1,0 +1,82 @@
+{
+	"id": "148",
+	"name": "Thành phố Hòa Bình",
+	"data": [
+		{
+			"id": "04819",
+			"name": "Phường Dân Chủ"
+		},
+		{
+			"id": "04921",
+			"name": "Xã Độc Lập"
+		},
+		{
+			"id": "04804",
+			"name": "Phường Đồng Tiến"
+		},
+		{
+			"id": "04825",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "04903",
+			"name": "Xã Hợp Thành"
+		},
+		{
+			"id": "04798",
+			"name": "Phường Hữu Nghị"
+		},
+		{
+			"id": "04894",
+			"name": "Phường Kỳ Sơn"
+		},
+		{
+			"id": "04912",
+			"name": "Xã Mông Hóa"
+		},
+		{
+			"id": "04807",
+			"name": "Phường Phương Lâm"
+		},
+		{
+			"id": "04906",
+			"name": "Xã Quang Tiến"
+		},
+		{
+			"id": "04816",
+			"name": "Phường Quỳnh Lâm"
+		},
+		{
+			"id": "04792",
+			"name": "Phường Tân Hòa"
+		},
+		{
+			"id": "04801",
+			"name": "Phường Tân Thịnh"
+		},
+		{
+			"id": "04789",
+			"name": "Phường Thái Bình"
+		},
+		{
+			"id": "04795",
+			"name": "Phường Thịnh Lang"
+		},
+		{
+			"id": "04897",
+			"name": "Xã Thịnh Minh"
+		},
+		{
+			"id": "04828",
+			"name": "Phường Thống Nhất"
+		},
+		{
+			"id": "04918",
+			"name": "Phường Trung Minh"
+		},
+		{
+			"id": "04813",
+			"name": "Xã Yên Mông"
+		}
+	]
+}

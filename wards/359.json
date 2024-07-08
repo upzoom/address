@@ -1,0 +1,78 @@
+{
+	"id": "359",
+	"name": "Huyện Vụ Bản",
+	"data": [
+		{
+			"id": "13762",
+			"name": "Xã Cộng Hòa"
+		},
+		{
+			"id": "13756",
+			"name": "Xã Đại An"
+		},
+		{
+			"id": "13786",
+			"name": "Xã Đại Thắng"
+		},
+		{
+			"id": "13741",
+			"name": "Thị trấn Gôi"
+		},
+		{
+			"id": "13747",
+			"name": "Xã Hiển Khánh"
+		},
+		{
+			"id": "13753",
+			"name": "Xã Hợp Hưng"
+		},
+		{
+			"id": "13780",
+			"name": "Xã Kim Thái"
+		},
+		{
+			"id": "13774",
+			"name": "Xã Liên Bảo"
+		},
+		{
+			"id": "13783",
+			"name": "Xã Liên Minh"
+		},
+		{
+			"id": "13771",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "13744",
+			"name": "Xã Minh Thuận"
+		},
+		{
+			"id": "13768",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "13789",
+			"name": "Xã Tam Thanh"
+		},
+		{
+			"id": "13750",
+			"name": "Xã Tân Khánh"
+		},
+		{
+			"id": "13759",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "13777",
+			"name": "Xã Thành Lợi"
+		},
+		{
+			"id": "13765",
+			"name": "Xã Trung Thành"
+		},
+		{
+			"id": "13792",
+			"name": "Xã Vĩnh Hào"
+		}
+	]
+}

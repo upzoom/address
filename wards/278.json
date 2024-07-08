@@ -1,0 +1,90 @@
+{
+	"id": "278",
+	"name": "Huyện Thanh Oai",
+	"data": [
+		{
+			"id": "10126",
+			"name": "Xã Bích Hòa"
+		},
+		{
+			"id": "10135",
+			"name": "Xã Bình Minh"
+		},
+		{
+			"id": "10174",
+			"name": "Xã Cao Dương"
+		},
+		{
+			"id": "10132",
+			"name": "Xã Cao Viên"
+		},
+		{
+			"id": "10120",
+			"name": "Xã Cự Khê"
+		},
+		{
+			"id": "10168",
+			"name": "Xã Dân Hòa"
+		},
+		{
+			"id": "10153",
+			"name": "Xã Đỗ Động"
+		},
+		{
+			"id": "10180",
+			"name": "Xã Hồng Dương"
+		},
+		{
+			"id": "10156",
+			"name": "Xã Kim An"
+		},
+		{
+			"id": "10114",
+			"name": "Thị trấn Kim Bài"
+		},
+		{
+			"id": "10159",
+			"name": "Xã Kim Thư"
+		},
+		{
+			"id": "10171",
+			"name": "Xã Liên Châu"
+		},
+		{
+			"id": "10129",
+			"name": "Xã Mỹ Hưng"
+		},
+		{
+			"id": "10162",
+			"name": "Xã Phương Trung"
+		},
+		{
+			"id": "10138",
+			"name": "Xã Tam Hưng"
+		},
+		{
+			"id": "10165",
+			"name": "Xã Tân Ước"
+		},
+		{
+			"id": "10141",
+			"name": "Xã Thanh Cao"
+		},
+		{
+			"id": "10147",
+			"name": "Xã Thanh Mai"
+		},
+		{
+			"id": "10144",
+			"name": "Xã Thanh Thùy"
+		},
+		{
+			"id": "10150",
+			"name": "Xã Thanh Văn"
+		},
+		{
+			"id": "10177",
+			"name": "Xã Xuân Dương"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "401",
+	"name": "Huyện Nga Sơn",
+	"data": [
+		{
+			"id": "16096",
+			"name": "Xã Ba Đình"
+		},
+		{
+			"id": "16144",
+			"name": "Xã Nga An"
+		},
+		{
+			"id": "16120",
+			"name": "Xã Nga Bạch"
+		},
+		{
+			"id": "16150",
+			"name": "Xã Nga Điền"
+		},
+		{
+			"id": "16135",
+			"name": "Xã Nga Giáp"
+		},
+		{
+			"id": "16138",
+			"name": "Xã Nga Hải"
+		},
+		{
+			"id": "16159",
+			"name": "Xã Nga Liên"
+		},
+		{
+			"id": "16147",
+			"name": "Xã Nga Phú"
+		},
+		{
+			"id": "16114",
+			"name": "Xã Nga Phượng"
+		},
+		{
+			"id": "16093",
+			"name": "Thị trấn Nga Sơn"
+		},
+		{
+			"id": "16153",
+			"name": "Xã Nga Tân"
+		},
+		{
+			"id": "16165",
+			"name": "Xã Nga Thạch"
+		},
+		{
+			"id": "16162",
+			"name": "Xã Nga Thái"
+		},
+		{
+			"id": "16168",
+			"name": "Xã Nga Thắng"
+		},
+		{
+			"id": "16123",
+			"name": "Xã Nga Thanh"
+		},
+		{
+			"id": "16141",
+			"name": "Xã Nga Thành"
+		},
+		{
+			"id": "16105",
+			"name": "Xã Nga Thiện"
+		},
+		{
+			"id": "16156",
+			"name": "Xã Nga Thủy"
+		},
+		{
+			"id": "16108",
+			"name": "Xã Nga Tiến"
+		},
+		{
+			"id": "16117",
+			"name": "Xã Nga Trung"
+		},
+		{
+			"id": "16171",
+			"name": "Xã Nga Trường"
+		},
+		{
+			"id": "16102",
+			"name": "Xã Nga Văn"
+		},
+		{
+			"id": "16099",
+			"name": "Xã Nga Vịnh"
+		},
+		{
+			"id": "16132",
+			"name": "Xã Nga Yên"
+		}
+	]
+}

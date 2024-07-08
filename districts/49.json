@@ -1,0 +1,78 @@
+{
+	"id": "49",
+	"name": "Tỉnh Quảng Nam",
+	"data": [
+		{
+			"id": "515",
+			"name": "Huyện Bắc Trà My"
+		},
+		{
+			"id": "506",
+			"name": "Huyện Đại Lộc"
+		},
+		{
+			"id": "507",
+			"name": "Thị xã Điện Bàn"
+		},
+		{
+			"id": "505",
+			"name": "Huyện Đông Giang"
+		},
+		{
+			"id": "508",
+			"name": "Huyện Duy Xuyên"
+		},
+		{
+			"id": "512",
+			"name": "Huyện Hiệp Đức"
+		},
+		{
+			"id": "503",
+			"name": "Thành phố Hội An"
+		},
+		{
+			"id": "510",
+			"name": "Huyện Nam Giang"
+		},
+		{
+			"id": "516",
+			"name": "Huyện Nam Trà My"
+		},
+		{
+			"id": "519",
+			"name": "Huyện Nông Sơn"
+		},
+		{
+			"id": "517",
+			"name": "Huyện Núi Thành"
+		},
+		{
+			"id": "518",
+			"name": "Huyện Phú Ninh"
+		},
+		{
+			"id": "511",
+			"name": "Huyện Phước Sơn"
+		},
+		{
+			"id": "509",
+			"name": "Huyện Quế Sơn"
+		},
+		{
+			"id": "502",
+			"name": "Thành phố Tam Kỳ"
+		},
+		{
+			"id": "504",
+			"name": "Huyện Tây Giang"
+		},
+		{
+			"id": "513",
+			"name": "Huyện Thăng Bình"
+		},
+		{
+			"id": "514",
+			"name": "Huyện Tiên Phước"
+		}
+	]
+}

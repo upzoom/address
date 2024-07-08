@@ -1,0 +1,38 @@
+{
+	"id": "689",
+	"name": "Thành phố Đồng Xoài",
+	"data": [
+		{
+			"id": "25201",
+			"name": "Phường Tân Bình"
+		},
+		{
+			"id": "25198",
+			"name": "Phường Tân Đồng"
+		},
+		{
+			"id": "25195",
+			"name": "Phường Tân Phú"
+		},
+		{
+			"id": "25207",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "25205",
+			"name": "Phường Tân Thiện"
+		},
+		{
+			"id": "25204",
+			"name": "Phường Tân Xuân"
+		},
+		{
+			"id": "25213",
+			"name": "Xã Tiến Hưng"
+		},
+		{
+			"id": "25210",
+			"name": "Phường Tiến Thành"
+		}
+	]
+}

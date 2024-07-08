@@ -1,0 +1,38 @@
+{
+	"id": "918",
+	"name": "Quận Bình Thuỷ",
+	"data": [
+		{
+			"id": "31177",
+			"name": "Phường An Thới"
+		},
+		{
+			"id": "31168",
+			"name": "Phường Bình Thủy"
+		},
+		{
+			"id": "31178",
+			"name": "Phường Bùi Hữu Nghĩa"
+		},
+		{
+			"id": "31180",
+			"name": "Phường Long Hòa"
+		},
+		{
+			"id": "31183",
+			"name": "Phường Long Tuyền"
+		},
+		{
+			"id": "31174",
+			"name": "Phường Thới An Đông"
+		},
+		{
+			"id": "31169",
+			"name": "Phường Trà An"
+		},
+		{
+			"id": "31171",
+			"name": "Phường Trà Nóc"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"id": "35",
+	"name": "Tỉnh Hà Nam",
+	"data": [
+		{
+			"id": "352",
+			"name": "Huyện Bình Lục"
+		},
+		{
+			"id": "349",
+			"name": "Thị xã Duy Tiên"
+		},
+		{
+			"id": "350",
+			"name": "Huyện Kim Bảng"
+		},
+		{
+			"id": "353",
+			"name": "Huyện Lý Nhân"
+		},
+		{
+			"id": "347",
+			"name": "Thành phố Phủ Lý"
+		},
+		{
+			"id": "351",
+			"name": "Huyện Thanh Liêm"
+		}
+	]
+}

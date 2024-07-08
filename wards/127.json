@@ -1,0 +1,38 @@
+{
+	"id": "127",
+	"name": "Huyện Sốp Cộp",
+	"data": [
+		{
+			"id": "04234",
+			"name": "Xã Dồm Cang"
+		},
+		{
+			"id": "04246",
+			"name": "Xã Mường Lạn"
+		},
+		{
+			"id": "04240",
+			"name": "Xã Mường Lèo"
+		},
+		{
+			"id": "04243",
+			"name": "Xã Mường Và"
+		},
+		{
+			"id": "04237",
+			"name": "Xã Nậm Lạnh"
+		},
+		{
+			"id": "04228",
+			"name": "Xã Púng Bánh"
+		},
+		{
+			"id": "04225",
+			"name": "Xã Sam Kha"
+		},
+		{
+			"id": "04231",
+			"name": "Xã Sốp Cộp"
+		}
+	]
+}

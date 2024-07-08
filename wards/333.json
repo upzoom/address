@@ -1,0 +1,62 @@
+{
+	"id": "333",
+	"name": "Huyện Phù Cừ",
+	"data": [
+		{
+			"id": "12412",
+			"name": "Xã Đình Cao"
+		},
+		{
+			"id": "12406",
+			"name": "Xã Đoàn Đào"
+		},
+		{
+			"id": "12403",
+			"name": "Xã Minh Hoàng"
+		},
+		{
+			"id": "12394",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "12424",
+			"name": "Xã Minh Tiến"
+		},
+		{
+			"id": "12427",
+			"name": "Xã Nguyên Hòa"
+		},
+		{
+			"id": "12415",
+			"name": "Xã Nhật Quang"
+		},
+		{
+			"id": "12397",
+			"name": "Xã Phan Sào Nam"
+		},
+		{
+			"id": "12400",
+			"name": "Xã Quang Hưng"
+		},
+		{
+			"id": "12421",
+			"name": "Xã Tam Đa"
+		},
+		{
+			"id": "12418",
+			"name": "Xã Tiền Tiến"
+		},
+		{
+			"id": "12409",
+			"name": "Xã Tống Phan"
+		},
+		{
+			"id": "12430",
+			"name": "Xã Tống Trân"
+		},
+		{
+			"id": "12391",
+			"name": "Thị trấn Trần Cao"
+		}
+	]
+}

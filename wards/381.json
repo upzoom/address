@@ -1,0 +1,34 @@
+{
+	"id": "381",
+	"name": "Thị xã Bỉm Sơn",
+	"data": [
+		{
+			"id": "14812",
+			"name": "Phường Ba Đình"
+		},
+		{
+			"id": "14809",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "14821",
+			"name": "Phường Đông Sơn"
+		},
+		{
+			"id": "14815",
+			"name": "Phường Lam Sơn"
+		},
+		{
+			"id": "14818",
+			"name": "Phường Ngọc Trạo"
+		},
+		{
+			"id": "14823",
+			"name": "Phường Phú Sơn"
+		},
+		{
+			"id": "14824",
+			"name": "Xã Quang Trung"
+		}
+	]
+}

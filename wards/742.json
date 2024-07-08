@@ -1,0 +1,54 @@
+{
+	"id": "742",
+	"name": "Huyện Nhơn Trạch",
+	"data": [
+		{
+			"id": "26476",
+			"name": "Xã Đại Phước"
+		},
+		{
+			"id": "26479",
+			"name": "Thị trấn Hiệp Phước"
+		},
+		{
+			"id": "26473",
+			"name": "Xã Long Tân"
+		},
+		{
+			"id": "26494",
+			"name": "Xã Long Thọ"
+		},
+		{
+			"id": "26491",
+			"name": "Xã Phú Đông"
+		},
+		{
+			"id": "26485",
+			"name": "Xã Phú Hội"
+		},
+		{
+			"id": "26482",
+			"name": "Xã Phú Hữu"
+		},
+		{
+			"id": "26488",
+			"name": "Xã Phú Thạnh"
+		},
+		{
+			"id": "26503",
+			"name": "Xã Phước An"
+		},
+		{
+			"id": "26500",
+			"name": "Xã Phước Khánh"
+		},
+		{
+			"id": "26470",
+			"name": "Xã Phước Thiền"
+		},
+		{
+			"id": "26497",
+			"name": "Xã Vĩnh Thanh"
+		}
+	]
+}

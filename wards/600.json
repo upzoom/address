@@ -1,0 +1,54 @@
+{
+	"id": "600",
+	"name": "Huyện Đức Linh",
+	"data": [
+		{
+			"id": "23197",
+			"name": "Xã Đa Kai"
+		},
+		{
+			"id": "23224",
+			"name": "Xã Đông Hà"
+		},
+		{
+			"id": "23212",
+			"name": "Xã Đức Hạnh"
+		},
+		{
+			"id": "23194",
+			"name": "Thị trấn Đức Tài"
+		},
+		{
+			"id": "23215",
+			"name": "Xã Đức Tín"
+		},
+		{
+			"id": "23203",
+			"name": "Xã Mê Pu"
+		},
+		{
+			"id": "23206",
+			"name": "Xã Nam Chính"
+		},
+		{
+			"id": "23200",
+			"name": "Xã Sùng Nhơn"
+		},
+		{
+			"id": "23221",
+			"name": "Xã Tân Hà"
+		},
+		{
+			"id": "23227",
+			"name": "Xã Trà Tân"
+		},
+		{
+			"id": "23191",
+			"name": "Thị trấn Võ Xu"
+		},
+		{
+			"id": "23218",
+			"name": "Xã Vũ Hoà"
+		}
+	]
+}

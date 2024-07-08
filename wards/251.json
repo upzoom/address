@@ -1,0 +1,74 @@
+{
+	"id": "251",
+	"name": "Huyện Yên Lạc",
+	"data": [
+		{
+			"id": "09034",
+			"name": "Xã Bình Định"
+		},
+		{
+			"id": "09067",
+			"name": "Xã Đại Tự"
+		},
+		{
+			"id": "09028",
+			"name": "Xã Đồng Cương"
+		},
+		{
+			"id": "09031",
+			"name": "Xã Đồng Văn"
+		},
+		{
+			"id": "09070",
+			"name": "Xã Hồng Châu"
+		},
+		{
+			"id": "09058",
+			"name": "Xã Hồng Phương"
+		},
+		{
+			"id": "09064",
+			"name": "Xã Liên Châu"
+		},
+		{
+			"id": "09052",
+			"name": "Xã Nguyệt Đức"
+		},
+		{
+			"id": "09043",
+			"name": "Thị trấn Tam Hồng"
+		},
+		{
+			"id": "09040",
+			"name": "Xã Tề Lỗ"
+		},
+		{
+			"id": "09073",
+			"name": "Xã Trung Hà"
+		},
+		{
+			"id": "09061",
+			"name": "Xã Trung Kiên"
+		},
+		{
+			"id": "09037",
+			"name": "Xã Trung Nguyên"
+		},
+		{
+			"id": "09049",
+			"name": "Xã Văn Tiến"
+		},
+		{
+			"id": "09046",
+			"name": "Xã Yên Đồng"
+		},
+		{
+			"id": "09025",
+			"name": "Thị trấn Yên Lạc"
+		},
+		{
+			"id": "09055",
+			"name": "Xã Yên Phương"
+		}
+	]
+}

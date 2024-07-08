@@ -1,0 +1,74 @@
+{
+	"id": "543",
+	"name": "Thị xã Hoài Nhơn",
+	"data": [
+		{
+			"id": "21640",
+			"name": "Phường Bồng Sơn"
+		},
+		{
+			"id": "21649",
+			"name": "Xã Hoài Châu"
+		},
+		{
+			"id": "21646",
+			"name": "Xã Hoài Châu Bắc"
+		},
+		{
+			"id": "21685",
+			"name": "Phường Hoài Đức"
+		},
+		{
+			"id": "21676",
+			"name": "Xã Hoài Hải"
+		},
+		{
+			"id": "21661",
+			"name": "Phường Hoài Hảo"
+		},
+		{
+			"id": "21670",
+			"name": "Phường Hoài Hương"
+		},
+		{
+			"id": "21682",
+			"name": "Xã Hoài Mỹ"
+		},
+		{
+			"id": "21652",
+			"name": "Xã Hoài Phú"
+		},
+		{
+			"id": "21643",
+			"name": "Xã Hoài Sơn"
+		},
+		{
+			"id": "21673",
+			"name": "Phường Hoài Tân"
+		},
+		{
+			"id": "21667",
+			"name": "Phường Hoài Thanh"
+		},
+		{
+			"id": "21664",
+			"name": "Phường Hoài Thanh Tây"
+		},
+		{
+			"id": "21679",
+			"name": "Phường Hoài Xuân"
+		},
+		{
+			"id": "21637",
+			"name": "Phường Tam Quan"
+		},
+		{
+			"id": "21655",
+			"name": "Phường Tam Quan Bắc"
+		},
+		{
+			"id": "21658",
+			"name": "Phường Tam Quan Nam"
+		}
+	]
+}

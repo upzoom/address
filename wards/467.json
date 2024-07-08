@@ -1,0 +1,58 @@
+{
+	"id": "467",
+	"name": "Huyện Đa Krông",
+	"data": [
+		{
+			"id": "19591",
+			"name": "Xã A Bung"
+		},
+		{
+			"id": "19594",
+			"name": "Xã A Ngo"
+		},
+		{
+			"id": "19585",
+			"name": "Xã A Vao"
+		},
+		{
+			"id": "19570",
+			"name": "Xã Ba Lòng"
+		},
+		{
+			"id": "19576",
+			"name": "Xã Ba Nang"
+		},
+		{
+			"id": "19564",
+			"name": "Xã Đa Krông"
+		},
+		{
+			"id": "19582",
+			"name": "Xã Húc Nghì"
+		},
+		{
+			"id": "19561",
+			"name": "Xã Hướng Hiệp"
+		},
+		{
+			"id": "19555",
+			"name": "Thị trấn Krông Klang"
+		},
+		{
+			"id": "19558",
+			"name": "Xã Mò Ó"
+		},
+		{
+			"id": "19579",
+			"name": "Xã Tà Long"
+		},
+		{
+			"id": "19588",
+			"name": "Xã Tà Rụt"
+		},
+		{
+			"id": "19567",
+			"name": "Xã Triệu Nguyên"
+		}
+	]
+}

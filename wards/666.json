@@ -1,0 +1,50 @@
+{
+	"id": "666",
+	"name": "Huyện Đắk R'Lấp",
+	"data": [
+		{
+			"id": "24763",
+			"name": "Xã Đắk Ru"
+		},
+		{
+			"id": "24760",
+			"name": "Xã Đắk Sin"
+		},
+		{
+			"id": "24750",
+			"name": "Xã Đắk Wer"
+		},
+		{
+			"id": "24757",
+			"name": "Xã Đạo Nghĩa"
+		},
+		{
+			"id": "24761",
+			"name": "Xã Hưng Bình"
+		},
+		{
+			"id": "24733",
+			"name": "Thị trấn Kiến Đức"
+		},
+		{
+			"id": "24754",
+			"name": "Xã Kiến Thành"
+		},
+		{
+			"id": "24756",
+			"name": "Xã Nghĩa Thắng"
+		},
+		{
+			"id": "24751",
+			"name": "Xã Nhân Cơ"
+		},
+		{
+			"id": "24766",
+			"name": "Xã Nhân Đạo"
+		},
+		{
+			"id": "24745",
+			"name": "Xã Quảng Tín"
+		}
+	]
+}

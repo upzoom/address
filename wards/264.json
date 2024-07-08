@@ -1,0 +1,62 @@
+{
+	"id": "264",
+	"name": "Huyện Lương Tài",
+	"data": [
+		{
+			"id": "09499",
+			"name": "Xã An Thịnh"
+		},
+		{
+			"id": "09529",
+			"name": "Xã Bình Định"
+		},
+		{
+			"id": "09520",
+			"name": "Xã Lai Hạ"
+		},
+		{
+			"id": "09535",
+			"name": "Xã Lâm Thao"
+		},
+		{
+			"id": "09526",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "09508",
+			"name": "Xã Mỹ Hương"
+		},
+		{
+			"id": "09505",
+			"name": "Xã Phú Hòa"
+		},
+		{
+			"id": "09532",
+			"name": "Xã Phú Lương"
+		},
+		{
+			"id": "09514",
+			"name": "Xã Quảng Phú"
+		},
+		{
+			"id": "09511",
+			"name": "Xã Tân Lãng"
+		},
+		{
+			"id": "09496",
+			"name": "Thị trấn Thứa"
+		},
+		{
+			"id": "09523",
+			"name": "Xã Trung Chính"
+		},
+		{
+			"id": "09502",
+			"name": "Xã Trung Kênh"
+		},
+		{
+			"id": "09517",
+			"name": "Xã Trừng Xá"
+		}
+	]
+}

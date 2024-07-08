@@ -1,0 +1,50 @@
+{
+	"id": "800",
+	"name": "Huyện Thạnh Hóa",
+	"data": [
+		{
+			"id": "27892",
+			"name": "Xã Tân Đông"
+		},
+		{
+			"id": "27868",
+			"name": "Xã Tân Hiệp"
+		},
+		{
+			"id": "27889",
+			"name": "Xã Tân Tây"
+		},
+		{
+			"id": "27895",
+			"name": "Xã Thạnh An"
+		},
+		{
+			"id": "27865",
+			"name": "Thị trấn Thạnh Hóa"
+		},
+		{
+			"id": "27877",
+			"name": "Xã Thạnh Phú"
+		},
+		{
+			"id": "27874",
+			"name": "Xã Thạnh Phước"
+		},
+		{
+			"id": "27871",
+			"name": "Xã Thuận Bình"
+		},
+		{
+			"id": "27880",
+			"name": "Xã Thuận Nghĩa Hòa"
+		},
+		{
+			"id": "27883",
+			"name": "Xã Thủy Đông"
+		},
+		{
+			"id": "27886",
+			"name": "Xã Thủy Tây"
+		}
+	]
+}

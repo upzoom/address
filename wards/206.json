@@ -1,0 +1,82 @@
+{
+	"id": "206",
+	"name": "Thị xã Quảng Yên",
+	"data": [
+		{
+			"id": "07171",
+			"name": "Xã Cẩm La"
+		},
+		{
+			"id": "07150",
+			"name": "Phường Cộng Hòa"
+		},
+		{
+			"id": "07135",
+			"name": "Phường Đông Mai"
+		},
+		{
+			"id": "07168",
+			"name": "Phường Hà An"
+		},
+		{
+			"id": "07147",
+			"name": "Xã Hiệp Hòa"
+		},
+		{
+			"id": "07156",
+			"name": "Xã Hoàng Tân"
+		},
+		{
+			"id": "07180",
+			"name": "Xã Liên Hòa"
+		},
+		{
+			"id": "07186",
+			"name": "Xã Liên Vị"
+		},
+		{
+			"id": "07138",
+			"name": "Phường Minh Thành"
+		},
+		{
+			"id": "07165",
+			"name": "Phường Nam Hoà"
+		},
+		{
+			"id": "07183",
+			"name": "Phường Phong Cốc"
+		},
+		{
+			"id": "07174",
+			"name": "Phường Phong Hải"
+		},
+		{
+			"id": "07132",
+			"name": "Phường Quảng Yên"
+		},
+		{
+			"id": "07144",
+			"name": "Xã Sông Khoai"
+		},
+		{
+			"id": "07159",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "07153",
+			"name": "Xã Tiền An"
+		},
+		{
+			"id": "07189",
+			"name": "Xã Tiền Phong"
+		},
+		{
+			"id": "07162",
+			"name": "Phường Yên Giang"
+		},
+		{
+			"id": "07177",
+			"name": "Phường Yên Hải"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "111",
+	"name": "Huyện Tân Uyên",
+	"data": [
+		{
+			"id": "03607",
+			"name": "Xã Hố Mít"
+		},
+		{
+			"id": "03601",
+			"name": "Xã Mường Khoa"
+		},
+		{
+			"id": "03610",
+			"name": "Xã Nậm Cần"
+		},
+		{
+			"id": "03613",
+			"name": "Xã Nậm Sỏ"
+		},
+		{
+			"id": "03616",
+			"name": "Xã Pắc Ta"
+		},
+		{
+			"id": "03602",
+			"name": "Xã Phúc Khoa"
+		},
+		{
+			"id": "03622",
+			"name": "Xã Tà Mít"
+		},
+		{
+			"id": "03598",
+			"name": "Thị trấn Tân Uyên"
+		},
+		{
+			"id": "03604",
+			"name": "Xã Thân Thuộc"
+		},
+		{
+			"id": "03605",
+			"name": "Xã Trung Đồng"
+		}
+	]
+}

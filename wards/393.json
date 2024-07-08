@@ -1,0 +1,58 @@
+{
+	"id": "393",
+	"name": "Huyện Vĩnh Lộc",
+	"data": [
+		{
+			"id": "15382",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "15385",
+			"name": "Xã Ninh Khang"
+		},
+		{
+			"id": "15391",
+			"name": "Xã Vĩnh An"
+		},
+		{
+			"id": "15376",
+			"name": "Xã Vĩnh Hòa"
+		},
+		{
+			"id": "15367",
+			"name": "Xã Vĩnh Hưng"
+		},
+		{
+			"id": "15379",
+			"name": "Xã Vĩnh Hùng"
+		},
+		{
+			"id": "15349",
+			"name": "Thị trấn Vĩnh Lộc"
+		},
+		{
+			"id": "15361",
+			"name": "Xã Vĩnh Long"
+		},
+		{
+			"id": "15364",
+			"name": "Xã Vĩnh Phúc"
+		},
+		{
+			"id": "15352",
+			"name": "Xã Vĩnh Quang"
+		},
+		{
+			"id": "15388",
+			"name": "Xã Vĩnh Thịnh"
+		},
+		{
+			"id": "15358",
+			"name": "Xã Vĩnh Tiến"
+		},
+		{
+			"id": "15355",
+			"name": "Xã Vĩnh Yên"
+		}
+	]
+}

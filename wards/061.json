@@ -1,0 +1,66 @@
+{
+	"id": "061",
+	"name": "Huyện Ba Bể",
+	"data": [
+		{
+			"id": "01891",
+			"name": "Xã Bành Trạch"
+		},
+		{
+			"id": "01900",
+			"name": "Xã Cao Thượng"
+		},
+		{
+			"id": "01888",
+			"name": "Thị trấn Chợ Rã"
+		},
+		{
+			"id": "01921",
+			"name": "Xã Chu Hương"
+		},
+		{
+			"id": "01915",
+			"name": "Xã Địa Linh"
+		},
+		{
+			"id": "01933",
+			"name": "Xã Đồng Phúc"
+		},
+		{
+			"id": "01897",
+			"name": "Xã Hà Hiệu"
+		},
+		{
+			"id": "01930",
+			"name": "Xã Hoàng Trĩ"
+		},
+		{
+			"id": "01906",
+			"name": "Xã Khang Ninh"
+		},
+		{
+			"id": "01927",
+			"name": "Xã Mỹ Phương"
+		},
+		{
+			"id": "01909",
+			"name": "Xã Nam Mẫu"
+		},
+		{
+			"id": "01894",
+			"name": "Xã Phúc Lộc"
+		},
+		{
+			"id": "01924",
+			"name": "Xã Quảng Khê"
+		},
+		{
+			"id": "01912",
+			"name": "Xã Thượng Giáo"
+		},
+		{
+			"id": "01918",
+			"name": "Xã Yến Dương"
+		}
+	]
+}

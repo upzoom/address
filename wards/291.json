@@ -1,0 +1,82 @@
+{
+	"id": "291",
+	"name": "Huyện Nam Sách",
+	"data": [
+		{
+			"id": "10630",
+			"name": "Xã An Bình"
+		},
+		{
+			"id": "10645",
+			"name": "Xã An Lâm"
+		},
+		{
+			"id": "10636",
+			"name": "Xã An Sơn"
+		},
+		{
+			"id": "10639",
+			"name": "Xã Cộng Hòa"
+		},
+		{
+			"id": "10657",
+			"name": "Xã Đồng Lạc"
+		},
+		{
+			"id": "10618",
+			"name": "Xã Hiệp Cát"
+		},
+		{
+			"id": "10654",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "10615",
+			"name": "Xã Hợp Tiến"
+		},
+		{
+			"id": "10666",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "10627",
+			"name": "Xã Nam Chính"
+		},
+		{
+			"id": "10651",
+			"name": "Xã Nam Hồng"
+		},
+		{
+			"id": "10609",
+			"name": "Xã Nam Hưng"
+		},
+		{
+			"id": "10606",
+			"name": "Thị trấn Nam Sách"
+		},
+		{
+			"id": "10612",
+			"name": "Xã Nam Tân"
+		},
+		{
+			"id": "10633",
+			"name": "Xã Nam Trung"
+		},
+		{
+			"id": "10648",
+			"name": "Xã Phú Điền"
+		},
+		{
+			"id": "10624",
+			"name": "Xã Quốc Tuấn"
+		},
+		{
+			"id": "10642",
+			"name": "Xã Thái Tân"
+		},
+		{
+			"id": "10621",
+			"name": "Xã Thanh Quang"
+		}
+	]
+}

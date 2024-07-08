@@ -1,0 +1,58 @@
+{
+	"id": "515",
+	"name": "Huyện Bắc Trà My",
+	"data": [
+		{
+			"id": "20917",
+			"name": "Xã Trà Bui"
+		},
+		{
+			"id": "20920",
+			"name": "Xã Trà Đốc"
+		},
+		{
+			"id": "20908",
+			"name": "Xã Trà Đông"
+		},
+		{
+			"id": "20911",
+			"name": "Xã Trà Dương"
+		},
+		{
+			"id": "20926",
+			"name": "Xã Trà Giác"
+		},
+		{
+			"id": "20914",
+			"name": "Xã Trà Giang"
+		},
+		{
+			"id": "20929",
+			"name": "Xã Trà Giáp"
+		},
+		{
+			"id": "20932",
+			"name": "Xã Trà Ka"
+		},
+		{
+			"id": "20902",
+			"name": "Xã Trà Kót"
+		},
+		{
+			"id": "20899",
+			"name": "Thị trấn Trà My"
+		},
+		{
+			"id": "20905",
+			"name": "Xã Trà Nú"
+		},
+		{
+			"id": "20900",
+			"name": "Xã Trà Sơn"
+		},
+		{
+			"id": "20923",
+			"name": "Xã Trà Tân"
+		}
+	]
+}

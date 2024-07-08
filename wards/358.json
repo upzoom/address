@@ -1,0 +1,50 @@
+{
+	"id": "358",
+	"name": "Huyện Mỹ Lộc",
+	"data": [
+		{
+			"id": "13711",
+			"name": "Xã Mỹ Hà"
+		},
+		{
+			"id": "13729",
+			"name": "Xã Mỹ Hưng"
+		},
+		{
+			"id": "13708",
+			"name": "Thị trấn Mỹ Lộc"
+		},
+		{
+			"id": "13726",
+			"name": "Xã Mỹ Phúc"
+		},
+		{
+			"id": "13723",
+			"name": "Xã Mỹ Tân"
+		},
+		{
+			"id": "13717",
+			"name": "Xã Mỹ Thắng"
+		},
+		{
+			"id": "13738",
+			"name": "Xã Mỹ Thành"
+		},
+		{
+			"id": "13735",
+			"name": "Xã Mỹ Thịnh"
+		},
+		{
+			"id": "13732",
+			"name": "Xã Mỹ Thuận"
+		},
+		{
+			"id": "13714",
+			"name": "Xã Mỹ Tiến"
+		},
+		{
+			"id": "13720",
+			"name": "Xã Mỹ Trung"
+		}
+	]
+}

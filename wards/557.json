@@ -1,0 +1,58 @@
+{
+	"id": "557",
+	"name": "Thị xã Sông Cầu",
+	"data": [
+		{
+			"id": "22060",
+			"name": "Xã Xuân Bình"
+		},
+		{
+			"id": "22066",
+			"name": "Xã Xuân Cảnh"
+		},
+		{
+			"id": "22076",
+			"name": "Phường Xuân Đài"
+		},
+		{
+			"id": "22054",
+			"name": "Xã Xuân Hải"
+		},
+		{
+			"id": "22052",
+			"name": "Xã Xuân Lâm"
+		},
+		{
+			"id": "22057",
+			"name": "Xã Xuân Lộc"
+		},
+		{
+			"id": "22051",
+			"name": "Phường Xuân Phú"
+		},
+		{
+			"id": "22072",
+			"name": "Xã Xuân Phương"
+		},
+		{
+			"id": "22053",
+			"name": "Phường Xuân Thành"
+		},
+		{
+			"id": "22069",
+			"name": "Xã Xuân Thịnh"
+		},
+		{
+			"id": "22075",
+			"name": "Xã Xuân Thọ 1"
+		},
+		{
+			"id": "22078",
+			"name": "Xã Xuân Thọ 2"
+		},
+		{
+			"id": "22073",
+			"name": "Phường Xuân Yên"
+		}
+	]
+}

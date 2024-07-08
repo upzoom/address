@@ -1,0 +1,42 @@
+{
+	"id": "697",
+	"name": "Thị xã Chơn Thành",
+	"data": [
+		{
+			"id": "25432",
+			"name": "Phường Hưng Long"
+		},
+		{
+			"id": "25441",
+			"name": "Phường Minh Hưng"
+		},
+		{
+			"id": "25435",
+			"name": "Xã Minh Lập"
+		},
+		{
+			"id": "25444",
+			"name": "Phường Minh Long"
+		},
+		{
+			"id": "25453",
+			"name": "Xã Minh Thắng"
+		},
+		{
+			"id": "25447",
+			"name": "Phường Minh Thành"
+		},
+		{
+			"id": "25450",
+			"name": "Xã Nha Bích"
+		},
+		{
+			"id": "25439",
+			"name": "Xã Quang Minh"
+		},
+		{
+			"id": "25433",
+			"name": "Phường Thành Tâm"
+		}
+	]
+}

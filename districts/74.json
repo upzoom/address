@@ -1,0 +1,42 @@
+{
+	"id": "74",
+	"name": "Tỉnh Bình Dương",
+	"data": [
+		{
+			"id": "726",
+			"name": "Huyện Bắc Tân Uyên"
+		},
+		{
+			"id": "719",
+			"name": "Huyện Bàu Bàng"
+		},
+		{
+			"id": "721",
+			"name": "Thị xã Bến Cát"
+		},
+		{
+			"id": "720",
+			"name": "Huyện Dầu Tiếng"
+		},
+		{
+			"id": "724",
+			"name": "Thành phố Dĩ An"
+		},
+		{
+			"id": "722",
+			"name": "Huyện Phú Giáo"
+		},
+		{
+			"id": "723",
+			"name": "Thành phố Tân Uyên"
+		},
+		{
+			"id": "718",
+			"name": "Thành phố Thủ Dầu Một"
+		},
+		{
+			"id": "725",
+			"name": "Thành phố Thuận An"
+		}
+	]
+}

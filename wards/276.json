@@ -1,0 +1,98 @@
+{
+	"id": "276",
+	"name": "Huyện Thạch Thất",
+	"data": [
+		{
+			"id": "10006",
+			"name": "Xã Bình Phú"
+		},
+		{
+			"id": "09982",
+			"name": "Xã Bình Yên"
+		},
+		{
+			"id": "09961",
+			"name": "Xã Cẩm Yên"
+		},
+		{
+			"id": "09991",
+			"name": "Xã Cần Kiệm"
+		},
+		{
+			"id": "09973",
+			"name": "Xã Canh Nậu"
+		},
+		{
+			"id": "09985",
+			"name": "Xã Chàng Sơn"
+		},
+		{
+			"id": "09958",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "09979",
+			"name": "Xã Dị Nậu"
+		},
+		{
+			"id": "10012",
+			"name": "Xã Đồng Trúc"
+		},
+		{
+			"id": "10009",
+			"name": "Xã Hạ Bằng"
+		},
+		{
+			"id": "09970",
+			"name": "Xã Hương Ngải"
+		},
+		{
+			"id": "09994",
+			"name": "Xã Hữu Bằng"
+		},
+		{
+			"id": "09976",
+			"name": "Xã Kim Quan"
+		},
+		{
+			"id": "09964",
+			"name": "Xã Lại Thượng"
+		},
+		{
+			"id": "09955",
+			"name": "Thị trấn Liên Quan"
+		},
+		{
+			"id": "09967",
+			"name": "Xã Phú Kim"
+		},
+		{
+			"id": "09997",
+			"name": "Xã Phùng Xá"
+		},
+		{
+			"id": "10000",
+			"name": "Xã Tân Xã"
+		},
+		{
+			"id": "09988",
+			"name": "Xã Thạch Hoà"
+		},
+		{
+			"id": "10003",
+			"name": "Xã Thạch Xá"
+		},
+		{
+			"id": "04936",
+			"name": "Xã Tiến Xuân"
+		},
+		{
+			"id": "04930",
+			"name": "Xã Yên Bình"
+		},
+		{
+			"id": "04927",
+			"name": "Xã Yên Trung"
+		}
+	]
+}

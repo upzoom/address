@@ -1,0 +1,50 @@
+{
+	"id": "947",
+	"name": "Huyện Mỹ Xuyên",
+	"data": [
+		{
+			"id": "31690",
+			"name": "Xã Đại Tâm"
+		},
+		{
+			"id": "31720",
+			"name": "Xã Gia Hòa 1"
+		},
+		{
+			"id": "31726",
+			"name": "Xã Gia Hòa 2"
+		},
+		{
+			"id": "31717",
+			"name": "Xã Hòa Tú 1"
+		},
+		{
+			"id": "31729",
+			"name": "Xã Hòa Tú II"
+		},
+		{
+			"id": "31684",
+			"name": "Thị trấn Mỹ Xuyên"
+		},
+		{
+			"id": "31711",
+			"name": "Xã Ngọc Đông"
+		},
+		{
+			"id": "31723",
+			"name": "Xã Ngọc Tố"
+		},
+		{
+			"id": "31693",
+			"name": "Xã Tham Đôn"
+		},
+		{
+			"id": "31708",
+			"name": "Xã Thạnh Phú"
+		},
+		{
+			"id": "31714",
+			"name": "Xã Thạnh Quới"
+		}
+	]
+}

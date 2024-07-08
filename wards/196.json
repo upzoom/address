@@ -1,0 +1,46 @@
+{
+	"id": "196",
+	"name": "Thành phố Uông Bí",
+	"data": [
+		{
+			"id": "06814",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "06823",
+			"name": "Phường Nam Khê"
+		},
+		{
+			"id": "06832",
+			"name": "Phường Phương Đông"
+		},
+		{
+			"id": "06835",
+			"name": "Phường Phương Nam"
+		},
+		{
+			"id": "06817",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "06811",
+			"name": "Phường Thanh Sơn"
+		},
+		{
+			"id": "06829",
+			"name": "Xã Thượng Yên Công"
+		},
+		{
+			"id": "06820",
+			"name": "Phường Trưng Vương"
+		},
+		{
+			"id": "06808",
+			"name": "Phường Vàng Danh"
+		},
+		{
+			"id": "06826",
+			"name": "Phường Yên Thanh"
+		}
+	]
+}

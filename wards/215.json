@@ -1,0 +1,82 @@
+{
+	"id": "215",
+	"name": "Huyện Yên Thế",
+	"data": [
+		{
+			"id": "07285",
+			"name": "Xã An Thượng"
+		},
+		{
+			"id": "07294",
+			"name": "Thị trấn Bố Hạ"
+		},
+		{
+			"id": "07246",
+			"name": "Xã Canh Nậu"
+		},
+		{
+			"id": "07258",
+			"name": "Xã Đồng Hưu"
+		},
+		{
+			"id": "07282",
+			"name": "Xã Đồng Kỳ"
+		},
+		{
+			"id": "07270",
+			"name": "Xã Đồng Lạc"
+		},
+		{
+			"id": "07273",
+			"name": "Xã Đông Sơn"
+		},
+		{
+			"id": "07260",
+			"name": "Xã Đồng Tâm"
+		},
+		{
+			"id": "07243",
+			"name": "Xã Đồng Tiến"
+		},
+		{
+			"id": "07255",
+			"name": "Xã Đồng Vương"
+		},
+		{
+			"id": "07267",
+			"name": "Xã Hồng Kỳ"
+		},
+		{
+			"id": "07279",
+			"name": "Xã Hương Vĩ"
+		},
+		{
+			"id": "07288",
+			"name": "Thị trấn Phồn Xương"
+		},
+		{
+			"id": "07261",
+			"name": "Xã Tam Hiệp"
+		},
+		{
+			"id": "07252",
+			"name": "Xã Tam Tiến"
+		},
+		{
+			"id": "07276",
+			"name": "Xã Tân Hiệp"
+		},
+		{
+			"id": "07291",
+			"name": "Xã Tân Sỏi"
+		},
+		{
+			"id": "07264",
+			"name": "Xã Tiến Thắng"
+		},
+		{
+			"id": "07249",
+			"name": "Xã Xuân Lương"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "692",
+	"name": "Huyện Lộc Ninh",
+	"data": [
+		{
+			"id": "25276",
+			"name": "Xã Lộc An"
+		},
+		{
+			"id": "25300",
+			"name": "Xã Lộc Điền"
+		},
+		{
+			"id": "25282",
+			"name": "Xã Lộc Hiệp"
+		},
+		{
+			"id": "25273",
+			"name": "Xã Lộc Hòa"
+		},
+		{
+			"id": "25303",
+			"name": "Xã Lộc Hưng"
+		},
+		{
+			"id": "25306",
+			"name": "Xã Lộc Khánh"
+		},
+		{
+			"id": "25270",
+			"name": "Thị trấn Lộc Ninh"
+		},
+		{
+			"id": "25292",
+			"name": "Xã Lộc Phú"
+		},
+		{
+			"id": "25291",
+			"name": "Xã Lộc Quang"
+		},
+		{
+			"id": "25279",
+			"name": "Xã Lộc Tấn"
+		},
+		{
+			"id": "25297",
+			"name": "Xã Lộc Thái"
+		},
+		{
+			"id": "25280",
+			"name": "Xã Lộc Thạnh"
+		},
+		{
+			"id": "25294",
+			"name": "Xã Lộc Thành"
+		},
+		{
+			"id": "25285",
+			"name": "Xã Lộc Thiện"
+		},
+		{
+			"id": "25305",
+			"name": "Xã Lộc Thịnh"
+		},
+		{
+			"id": "25288",
+			"name": "Xã Lộc Thuận"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "869",
+	"name": "Huyện Tân Hồng",
+	"data": [
+		{
+			"id": "29950",
+			"name": "Xã An Phước"
+		},
+		{
+			"id": "29935",
+			"name": "Xã Bình Phú"
+		},
+		{
+			"id": "29926",
+			"name": "Thị trấn Sa Rài"
+		},
+		{
+			"id": "29947",
+			"name": "Xã Tân Công Chí"
+		},
+		{
+			"id": "29929",
+			"name": "Xã Tân Hộ Cơ"
+		},
+		{
+			"id": "29944",
+			"name": "Xã Tân Phước"
+		},
+		{
+			"id": "29938",
+			"name": "Xã Tân Thành A"
+		},
+		{
+			"id": "29941",
+			"name": "Xã Tân Thành B"
+		},
+		{
+			"id": "29932",
+			"name": "Xã Thông Bình"
+		}
+	]
+}

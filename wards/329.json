@@ -1,0 +1,90 @@
+{
+	"id": "329",
+	"name": "Huyện Ân Thi",
+	"data": [
+		{
+			"id": "12142",
+			"name": "Thị trấn Ân Thi"
+		},
+		{
+			"id": "12148",
+			"name": "Xã Bắc Sơn"
+		},
+		{
+			"id": "12151",
+			"name": "Xã Bãi Sậy"
+		},
+		{
+			"id": "12181",
+			"name": "Xã Cẩm Ninh"
+		},
+		{
+			"id": "12187",
+			"name": "Xã Đa Lộc"
+		},
+		{
+			"id": "12178",
+			"name": "Xã Đặng Lễ"
+		},
+		{
+			"id": "12154",
+			"name": "Xã Đào Dương"
+		},
+		{
+			"id": "12202",
+			"name": "Xã Hạ Lễ"
+		},
+		{
+			"id": "12190",
+			"name": "Xã Hồ Tùng Mậu"
+		},
+		{
+			"id": "12169",
+			"name": "Xã Hoàng Hoa Thám"
+		},
+		{
+			"id": "12199",
+			"name": "Xã Hồng Quang"
+		},
+		{
+			"id": "12196",
+			"name": "Xã Hồng Vân"
+		},
+		{
+			"id": "12184",
+			"name": "Xã Nguyễn Trãi"
+		},
+		{
+			"id": "12145",
+			"name": "Xã Phù Ủng"
+		},
+		{
+			"id": "12172",
+			"name": "Xã Quảng Lãng"
+		},
+		{
+			"id": "12163",
+			"name": "Xã Quang Vinh"
+		},
+		{
+			"id": "12157",
+			"name": "Xã Tân Phúc"
+		},
+		{
+			"id": "12193",
+			"name": "Xã Tiền Phong"
+		},
+		{
+			"id": "12160",
+			"name": "Xã Vân Du"
+		},
+		{
+			"id": "12175",
+			"name": "Xã Văn Nhuệ"
+		},
+		{
+			"id": "12166",
+			"name": "Xã Xuân Trúc"
+		}
+	]
+}

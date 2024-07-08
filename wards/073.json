@@ -1,0 +1,102 @@
+{
+	"id": "073",
+	"name": "Huyện Chiêm Hóa",
+	"data": [
+		{
+			"id": "02371",
+			"name": "Xã Bình Nhân"
+		},
+		{
+			"id": "02323",
+			"name": "Xã Bình Phú"
+		},
+		{
+			"id": "02311",
+			"name": "Xã Hà Lang"
+		},
+		{
+			"id": "02353",
+			"name": "Xã Hòa An"
+		},
+		{
+			"id": "02335",
+			"name": "Xã Hòa Phú"
+		},
+		{
+			"id": "02314",
+			"name": "Xã Hùng Mỹ"
+		},
+		{
+			"id": "02341",
+			"name": "Xã Kiên Đài"
+		},
+		{
+			"id": "02350",
+			"name": "Xã Kim Bình"
+		},
+		{
+			"id": "02368",
+			"name": "Xã Linh Phú"
+		},
+		{
+			"id": "02329",
+			"name": "Xã Ngọc Hội"
+		},
+		{
+			"id": "02362",
+			"name": "Xã Nhân Lý"
+		},
+		{
+			"id": "02332",
+			"name": "Xã Phú Bình"
+		},
+		{
+			"id": "02338",
+			"name": "Xã Phúc Thịnh"
+		},
+		{
+			"id": "02320",
+			"name": "Xã Tân An"
+		},
+		{
+			"id": "02308",
+			"name": "Xã Tân Mỹ"
+		},
+		{
+			"id": "02344",
+			"name": "Xã Tân Thịnh"
+		},
+		{
+			"id": "02359",
+			"name": "Xã Tri Phú"
+		},
+		{
+			"id": "02305",
+			"name": "Xã Trung Hà"
+		},
+		{
+			"id": "02347",
+			"name": "Xã Trung Hòa"
+		},
+		{
+			"id": "02287",
+			"name": "Thị trấn Vĩnh Lộc"
+		},
+		{
+			"id": "02356",
+			"name": "Xã Vinh Quang"
+		},
+		{
+			"id": "02326",
+			"name": "Xã Xuân Quang"
+		},
+		{
+			"id": "02317",
+			"name": "Xã Yên Lập"
+		},
+		{
+			"id": "02365",
+			"name": "Xã Yên Nguyên"
+		}
+	]
+}

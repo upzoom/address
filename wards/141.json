@@ -1,0 +1,102 @@
+{
+	"id": "141",
+	"name": "Huyện Yên Bình",
+	"data": [
+		{
+			"id": "04762",
+			"name": "Xã Bạch Hà"
+		},
+		{
+			"id": "04738",
+			"name": "Xã Bảo Ái"
+		},
+		{
+			"id": "04750",
+			"name": "Xã Cảm Ân"
+		},
+		{
+			"id": "04726",
+			"name": "Xã Cảm Nhân"
+		},
+		{
+			"id": "04768",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "04786",
+			"name": "Xã Đại Minh"
+		},
+		{
+			"id": "04780",
+			"name": "Xã Hán Đà"
+		},
+		{
+			"id": "04747",
+			"name": "Xã Mông Sơn"
+		},
+		{
+			"id": "04741",
+			"name": "Xã Mỹ Gia"
+		},
+		{
+			"id": "04729",
+			"name": "Xã Ngọc Chấn"
+		},
+		{
+			"id": "04783",
+			"name": "Xã Phú Thịnh"
+		},
+		{
+			"id": "04759",
+			"name": "Xã Phúc An"
+		},
+		{
+			"id": "04735",
+			"name": "Xã Phúc Ninh"
+		},
+		{
+			"id": "04756",
+			"name": "Xã Tân Hương"
+		},
+		{
+			"id": "04732",
+			"name": "Xã Tân Nguyên"
+		},
+		{
+			"id": "04717",
+			"name": "Thị trấn Thác Bà"
+		},
+		{
+			"id": "04777",
+			"name": "Xã Thịnh Hưng"
+		},
+		{
+			"id": "04771",
+			"name": "Xã Vĩnh Kiên"
+		},
+		{
+			"id": "04765",
+			"name": "Xã Vũ Linh"
+		},
+		{
+			"id": "04744",
+			"name": "Xã Xuân Lai"
+		},
+		{
+			"id": "04720",
+			"name": "Xã Xuân Long"
+		},
+		{
+			"id": "04714",
+			"name": "Thị trấn Yên Bình"
+		},
+		{
+			"id": "04774",
+			"name": "Xã Yên Bình"
+		},
+		{
+			"id": "04753",
+			"name": "Xã Yên Thành"
+		}
+	]
+}

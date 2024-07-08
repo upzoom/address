@@ -1,0 +1,34 @@
+{
+	"id": "661",
+	"name": "Huyện Đăk Glong",
+	"data": [
+		{
+			"id": "24622",
+			"name": "Xã Đắk Ha"
+		},
+		{
+			"id": "24634",
+			"name": "Xã Đắk Plao"
+		},
+		{
+			"id": "24625",
+			"name": "Xã Đắk R'Măng"
+		},
+		{
+			"id": "24637",
+			"name": "Xã Đắk Som"
+		},
+		{
+			"id": "24620",
+			"name": "Xã Quảng Hoà"
+		},
+		{
+			"id": "24631",
+			"name": "Xã Quảng Khê"
+		},
+		{
+			"id": "24616",
+			"name": "Xã Quảng Sơn"
+		}
+	]
+}

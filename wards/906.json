@@ -1,0 +1,82 @@
+{
+	"id": "906",
+	"name": "Huyện Giồng Riềng",
+	"data": [
+		{
+			"id": "30949",
+			"name": "Xã  Hòa Thuận"
+		},
+		{
+			"id": "30922",
+			"name": "Xã Bàn Tân Định"
+		},
+		{
+			"id": "30919",
+			"name": "Xã Bàn Thạch"
+		},
+		{
+			"id": "30904",
+			"name": "Thị Trấn Giồng Riềng"
+		},
+		{
+			"id": "30940",
+			"name": "Xã Hoà An"
+		},
+		{
+			"id": "30934",
+			"name": "Xã Hòa Hưng"
+		},
+		{
+			"id": "30937",
+			"name": "Xã Hoà Lợi"
+		},
+		{
+			"id": "30943",
+			"name": "Xã Long Thạnh"
+		},
+		{
+			"id": "30928",
+			"name": "Xã Ngọc Chúc"
+		},
+		{
+			"id": "30950",
+			"name": "Xã Ngọc Hoà"
+		},
+		{
+			"id": "30925",
+			"name": "Xã Ngọc Thành"
+		},
+		{
+			"id": "30931",
+			"name": "Xã Ngọc Thuận"
+		},
+		{
+			"id": "30917",
+			"name": "Xã Thạnh Bình"
+		},
+		{
+			"id": "30916",
+			"name": "Xã Thạnh Hòa"
+		},
+		{
+			"id": "30907",
+			"name": "Xã Thạnh Hưng"
+		},
+		{
+			"id": "30913",
+			"name": "Xã Thạnh Lộc"
+		},
+		{
+			"id": "30910",
+			"name": "Xã Thạnh Phước"
+		},
+		{
+			"id": "30947",
+			"name": "Xã Vĩnh Phú"
+		},
+		{
+			"id": "30946",
+			"name": "Xã Vĩnh Thạnh"
+		}
+	]
+}

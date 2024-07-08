@@ -1,0 +1,42 @@
+{
+	"id": "710",
+	"name": "Huyện Gò Dầu",
+	"data": [
+		{
+			"id": "25666",
+			"name": "Xã Bàu Đồn"
+		},
+		{
+			"id": "25660",
+			"name": "Xã Cẩm Giang"
+		},
+		{
+			"id": "25654",
+			"name": "Thị trấn Gò Dầu"
+		},
+		{
+			"id": "25663",
+			"name": "Xã Hiệp Thạnh"
+		},
+		{
+			"id": "25672",
+			"name": "Xã Phước Đông"
+		},
+		{
+			"id": "25669",
+			"name": "Xã Phước Thạnh"
+		},
+		{
+			"id": "25675",
+			"name": "Xã Phước Trạch"
+		},
+		{
+			"id": "25657",
+			"name": "Xã Thạnh Đức"
+		},
+		{
+			"id": "25678",
+			"name": "Xã Thanh Phước"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "93",
+	"name": "Tỉnh Hậu Giang",
+	"data": [
+		{
+			"id": "933",
+			"name": "Huyện Châu Thành"
+		},
+		{
+			"id": "932",
+			"name": "Huyện Châu Thành A"
+		},
+		{
+			"id": "936",
+			"name": "Huyện Long Mỹ"
+		},
+		{
+			"id": "937",
+			"name": "Thị xã Long Mỹ"
+		},
+		{
+			"id": "931",
+			"name": "Thành phố Ngã Bảy"
+		},
+		{
+			"id": "934",
+			"name": "Huyện Phụng Hiệp"
+		},
+		{
+			"id": "930",
+			"name": "Thành phố Vị Thanh"
+		},
+		{
+			"id": "935",
+			"name": "Huyện Vị Thuỷ"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "107",
+	"name": "Huyện Mường Tè",
+	"data": [
+		{
+			"id": "03466",
+			"name": "Xã Bum Nưa"
+		},
+		{
+			"id": "03454",
+			"name": "Xã Bum Tở"
+		},
+		{
+			"id": "03439",
+			"name": "Xã Ka Lăng"
+		},
+		{
+			"id": "03469",
+			"name": "Xã Kan Hồ"
+		},
+		{
+			"id": "03451",
+			"name": "Xã Mù Cả"
+		},
+		{
+			"id": "03433",
+			"name": "Thị trấn Mường Tè"
+		},
+		{
+			"id": "03445",
+			"name": "Xã Mường Tè"
+		},
+		{
+			"id": "03457",
+			"name": "Xã Nậm Khao"
+		},
+		{
+			"id": "03448",
+			"name": "Xã Pa Vệ Sử"
+		},
+		{
+			"id": "03442",
+			"name": "Xã Pa ủ"
+		},
+		{
+			"id": "03440",
+			"name": "Xã Tá Bạ"
+		},
+		{
+			"id": "03463",
+			"name": "Xã Tà Tổng"
+		},
+		{
+			"id": "03436",
+			"name": "Xã Thu Lũm"
+		},
+		{
+			"id": "03467",
+			"name": "Xã Vàng San"
+		}
+	]
+}

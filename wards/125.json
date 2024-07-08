@@ -1,0 +1,94 @@
+{
+	"id": "125",
+	"name": "Huyện Mai Sơn",
+	"data": [
+		{
+			"id": "04120",
+			"name": "Xã Chiềng Ban"
+		},
+		{
+			"id": "04114",
+			"name": "Xã Chiềng Chăn"
+		},
+		{
+			"id": "04129",
+			"name": "Xã Chiềng Chung"
+		},
+		{
+			"id": "04147",
+			"name": "Xã Chiềng Dong"
+		},
+		{
+			"id": "04150",
+			"name": "Xã Chiềng Kheo"
+		},
+		{
+			"id": "04156",
+			"name": "Xã Chiềng Lương"
+		},
+		{
+			"id": "04132",
+			"name": "Xã Chiềng Mai"
+		},
+		{
+			"id": "04123",
+			"name": "Xã Chiềng Mung"
+		},
+		{
+			"id": "04141",
+			"name": "Xã Chiềng Nơi"
+		},
+		{
+			"id": "04108",
+			"name": "Xã Chiềng Sung"
+		},
+		{
+			"id": "04153",
+			"name": "Xã Chiềng Ve"
+		},
+		{
+			"id": "04138",
+			"name": "Xã Cò  Nòi"
+		},
+		{
+			"id": "04105",
+			"name": "Thị trấn Hát Lót"
+		},
+		{
+			"id": "04135",
+			"name": "Xã Hát Lót"
+		},
+		{
+			"id": "04111",
+			"name": "Xã Mường Bằng"
+		},
+		{
+			"id": "04126",
+			"name": "Xã Mường Bon"
+		},
+		{
+			"id": "04117",
+			"name": "Xã Mương Chanh"
+		},
+		{
+			"id": "04162",
+			"name": "Xã Nà Ơt"
+		},
+		{
+			"id": "04136",
+			"name": "Xã Nà Pó"
+		},
+		{
+			"id": "04144",
+			"name": "Xã Phiêng Cằm"
+		},
+		{
+			"id": "04159",
+			"name": "Xã Phiêng Pằn"
+		},
+		{
+			"id": "04165",
+			"name": "Xã Tà Hộc"
+		}
+	]
+}

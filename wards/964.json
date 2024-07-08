@@ -1,0 +1,74 @@
+{
+	"id": "964",
+	"name": "Thành phố Cà Mau",
+	"data": [
+		{
+			"id": "32005",
+			"name": "Phường 1"
+		},
+		{
+			"id": "32011",
+			"name": "Phường 2"
+		},
+		{
+			"id": "32002",
+			"name": "Phường 4"
+		},
+		{
+			"id": "32008",
+			"name": "Phường 5"
+		},
+		{
+			"id": "32017",
+			"name": "Phường 6"
+		},
+		{
+			"id": "32020",
+			"name": "Phường 7"
+		},
+		{
+			"id": "32014",
+			"name": "Phường 8"
+		},
+		{
+			"id": "31999",
+			"name": "Phường 9"
+		},
+		{
+			"id": "32023",
+			"name": "Xã An Xuyên"
+		},
+		{
+			"id": "32035",
+			"name": "Xã Định Bình"
+		},
+		{
+			"id": "32041",
+			"name": "Xã Hòa Tân"
+		},
+		{
+			"id": "32038",
+			"name": "Xã Hòa Thành"
+		},
+		{
+			"id": "32032",
+			"name": "Xã Lý Văn Lâm"
+		},
+		{
+			"id": "32029",
+			"name": "Xã Tắc Vân"
+		},
+		{
+			"id": "32025",
+			"name": "Phường Tân Thành"
+		},
+		{
+			"id": "32026",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "32022",
+			"name": "Phường Tân Xuyên"
+		}
+	]
+}

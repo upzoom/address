@@ -1,0 +1,58 @@
+{
+	"id": "751",
+	"name": "Huyện Xuyên Mộc",
+	"data": [
+		{
+			"id": "26638",
+			"name": "Xã Bàu Lâm"
+		},
+		{
+			"id": "26656",
+			"name": "Xã Bình Châu"
+		},
+		{
+			"id": "26632",
+			"name": "Xã Bông Trang"
+		},
+		{
+			"id": "26653",
+			"name": "Xã Bưng Riềng"
+		},
+		{
+			"id": "26641",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "26647",
+			"name": "Xã Hòa Hiệp"
+		},
+		{
+			"id": "26650",
+			"name": "Xã Hòa Hội"
+		},
+		{
+			"id": "26644",
+			"name": "Xã Hòa Hưng"
+		},
+		{
+			"id": "26620",
+			"name": "Thị trấn Phước Bửu"
+		},
+		{
+			"id": "26626",
+			"name": "Xã Phước Tân"
+		},
+		{
+			"id": "26623",
+			"name": "Xã Phước Thuận"
+		},
+		{
+			"id": "26635",
+			"name": "Xã Tân Lâm"
+		},
+		{
+			"id": "26629",
+			"name": "Xã Xuyên Mộc"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "382",
+	"name": "Thành phố Sầm Sơn",
+	"data": [
+		{
+			"id": "14833",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "16531",
+			"name": "Phường Quảng Châu"
+		},
+		{
+			"id": "14839",
+			"name": "Phường Quảng Cư"
+		},
+		{
+			"id": "16537",
+			"name": "Xã Quảng Đại"
+		},
+		{
+			"id": "16516",
+			"name": "Xã Quảng Hùng"
+		},
+		{
+			"id": "16513",
+			"name": "Xã Quảng Minh"
+		},
+		{
+			"id": "16528",
+			"name": "Phường Quảng Thọ"
+		},
+		{
+			"id": "14842",
+			"name": "Phường Quảng Tiến"
+		},
+		{
+			"id": "16534",
+			"name": "Phường Quảng Vinh"
+		},
+		{
+			"id": "14830",
+			"name": "Phường Trung Sơn"
+		},
+		{
+			"id": "14836",
+			"name": "Phường Trường Sơn"
+		}
+	]
+}

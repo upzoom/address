@@ -1,0 +1,38 @@
+{
+	"id": "178",
+	"name": "Thành phố Lạng Sơn",
+	"data": [
+		{
+			"id": "05983",
+			"name": "Phường Chi Lăng"
+		},
+		{
+			"id": "05980",
+			"name": "Phường Đông Kinh"
+		},
+		{
+			"id": "05986",
+			"name": "Xã Hoàng Đồng"
+		},
+		{
+			"id": "05971",
+			"name": "Phường Hoàng Văn Thụ"
+		},
+		{
+			"id": "05992",
+			"name": "Xã Mai Pha"
+		},
+		{
+			"id": "05989",
+			"name": "Xã Quảng Lạc"
+		},
+		{
+			"id": "05974",
+			"name": "Phường Tam Thanh"
+		},
+		{
+			"id": "05977",
+			"name": "Phường Vĩnh Trại"
+		}
+	]
+}

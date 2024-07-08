@@ -1,0 +1,38 @@
+{
+	"id": "306",
+	"name": "Quận Hải An",
+	"data": [
+		{
+			"id": "11422",
+			"name": "Phường Cát Bi"
+		},
+		{
+			"id": "11416",
+			"name": "Phường Đằng Hải"
+		},
+		{
+			"id": "11413",
+			"name": "Phường Đằng Lâm"
+		},
+		{
+			"id": "11410",
+			"name": "Phường Đông Hải 1"
+		},
+		{
+			"id": "11411",
+			"name": "Phường Đông Hải 2"
+		},
+		{
+			"id": "11419",
+			"name": "Phường Nam Hải"
+		},
+		{
+			"id": "11414",
+			"name": "Phường Thành Tô"
+		},
+		{
+			"id": "11425",
+			"name": "Phường Tràng Cát"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "369",
+	"name": "Thành phố Ninh Bình",
+	"data": [
+		{
+			"id": "14332",
+			"name": "Phường Bích Đào"
+		},
+		{
+			"id": "14320",
+			"name": "Phường Đông Thành"
+		},
+		{
+			"id": "14338",
+			"name": "Phường Nam Bình"
+		},
+		{
+			"id": "14341",
+			"name": "Phường Nam Thành"
+		},
+		{
+			"id": "14344",
+			"name": "Phường Ninh Khánh"
+		},
+		{
+			"id": "14347",
+			"name": "Xã Ninh Nhất"
+		},
+		{
+			"id": "14359",
+			"name": "Phường Ninh Phong"
+		},
+		{
+			"id": "14353",
+			"name": "Xã Ninh Phúc"
+		},
+		{
+			"id": "14356",
+			"name": "Phường Ninh Sơn"
+		},
+		{
+			"id": "14350",
+			"name": "Xã Ninh Tiến"
+		},
+		{
+			"id": "14335",
+			"name": "Phường Phúc Thành"
+		},
+		{
+			"id": "14323",
+			"name": "Phường Tân Thành"
+		},
+		{
+			"id": "14326",
+			"name": "Phường Thanh Bình"
+		},
+		{
+			"id": "14329",
+			"name": "Phường Vân Giang"
+		}
+	]
+}

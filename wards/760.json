@@ -1,0 +1,46 @@
+{
+	"id": "760",
+	"name": "Quận 1",
+	"data": [
+		{
+			"id": "26740",
+			"name": "Phường Bến Nghé"
+		},
+		{
+			"id": "26743",
+			"name": "Phường Bến Thành"
+		},
+		{
+			"id": "26761",
+			"name": "Phường Cầu Kho"
+		},
+		{
+			"id": "26752",
+			"name": "Phường Cầu Ông Lãnh"
+		},
+		{
+			"id": "26755",
+			"name": "Phường Cô Giang"
+		},
+		{
+			"id": "26737",
+			"name": "Phường Đa Kao"
+		},
+		{
+			"id": "26758",
+			"name": "Phường Nguyễn Cư Trinh"
+		},
+		{
+			"id": "26746",
+			"name": "Phường Nguyễn Thái Bình"
+		},
+		{
+			"id": "26749",
+			"name": "Phường Phạm Ngũ Lão"
+		},
+		{
+			"id": "26734",
+			"name": "Phường Tân Định"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "017",
+	"name": "Huyện Đông Anh",
+	"data": [
+		{
+			"id": "00463",
+			"name": "Xã Bắc Hồng"
+		},
+		{
+			"id": "00505",
+			"name": "Xã Cổ Loa"
+		},
+		{
+			"id": "00499",
+			"name": "Xã Đại Mạch"
+		},
+		{
+			"id": "00454",
+			"name": "Thị trấn Đông Anh"
+		},
+		{
+			"id": "00523",
+			"name": "Xã Đông Hội"
+		},
+		{
+			"id": "00496",
+			"name": "Xã Dục Tú"
+		},
+		{
+			"id": "00508",
+			"name": "Xã Hải Bối"
+		},
+		{
+			"id": "00493",
+			"name": "Xã Kim Chung"
+		},
+		{
+			"id": "00490",
+			"name": "Xã Kim Nỗ"
+		},
+		{
+			"id": "00484",
+			"name": "Xã Liên Hà"
+		},
+		{
+			"id": "00520",
+			"name": "Xã Mai Lâm"
+		},
+		{
+			"id": "00469",
+			"name": "Xã Nam Hồng"
+		},
+		{
+			"id": "00466",
+			"name": "Xã Nguyên Khê"
+		},
+		{
+			"id": "00517",
+			"name": "Xã Tàm Xá"
+		},
+		{
+			"id": "00460",
+			"name": "Xã Thuỵ Lâm"
+		},
+		{
+			"id": "00472",
+			"name": "Xã Tiên Dương"
+		},
+		{
+			"id": "00478",
+			"name": "Xã Uy Nỗ"
+		},
+		{
+			"id": "00475",
+			"name": "Xã Vân Hà"
+		},
+		{
+			"id": "00481",
+			"name": "Xã Vân Nội"
+		},
+		{
+			"id": "00487",
+			"name": "Xã Việt Hùng"
+		},
+		{
+			"id": "00502",
+			"name": "Xã Vĩnh Ngọc"
+		},
+		{
+			"id": "00514",
+			"name": "Xã Võng La"
+		},
+		{
+			"id": "00511",
+			"name": "Xã Xuân Canh"
+		},
+		{
+			"id": "00457",
+			"name": "Xã Xuân Nộn"
+		}
+	]
+}

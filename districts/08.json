@@ -1,0 +1,34 @@
+{
+	"id": "08",
+	"name": "Tỉnh Tuyên Quang",
+	"data": [
+		{
+			"id": "073",
+			"name": "Huyện Chiêm Hóa"
+		},
+		{
+			"id": "074",
+			"name": "Huyện Hàm Yên"
+		},
+		{
+			"id": "071",
+			"name": "Huyện Lâm Bình"
+		},
+		{
+			"id": "072",
+			"name": "Huyện Na Hang"
+		},
+		{
+			"id": "076",
+			"name": "Huyện Sơn Dương"
+		},
+		{
+			"id": "070",
+			"name": "Thành phố Tuyên Quang"
+		},
+		{
+			"id": "075",
+			"name": "Huyện Yên Sơn"
+		}
+	]
+}

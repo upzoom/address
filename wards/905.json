@@ -1,0 +1,46 @@
+{
+	"id": "905",
+	"name": "Huyện Châu Thành",
+	"data": [
+		{
+			"id": "30898",
+			"name": "Xã Bình An"
+		},
+		{
+			"id": "30889",
+			"name": "Xã Giục Tượng"
+		},
+		{
+			"id": "30895",
+			"name": "Xã Minh Hòa"
+		},
+		{
+			"id": "30880",
+			"name": "Thị trấn Minh Lương"
+		},
+		{
+			"id": "30887",
+			"name": "Xã Mong Thọ"
+		},
+		{
+			"id": "30883",
+			"name": "Xã Mong Thọ A"
+		},
+		{
+			"id": "30886",
+			"name": "Xã Mong Thọ B"
+		},
+		{
+			"id": "30901",
+			"name": "Xã Thạnh Lộc"
+		},
+		{
+			"id": "30892",
+			"name": "Xã Vĩnh Hòa Hiệp"
+		},
+		{
+			"id": "30893",
+			"name": "Xã Vĩnh Hoà Phú"
+		}
+	]
+}

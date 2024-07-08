@@ -1,0 +1,38 @@
+{
+	"id": "024",
+	"name": "Thành phố Hà Giang",
+	"data": [
+		{
+			"id": "00697",
+			"name": "Phường Minh Khai"
+		},
+		{
+			"id": "00700",
+			"name": "Xã Ngọc Đường"
+		},
+		{
+			"id": "00692",
+			"name": "Phường Ngọc Hà"
+		},
+		{
+			"id": "00694",
+			"name": "Phường Nguyễn Trãi"
+		},
+		{
+			"id": "00946",
+			"name": "Xã Phương Độ"
+		},
+		{
+			"id": "00949",
+			"name": "Xã Phương Thiện"
+		},
+		{
+			"id": "00688",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "00691",
+			"name": "Phường Trần Phú"
+		}
+	]
+}

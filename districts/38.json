@@ -1,0 +1,114 @@
+{
+	"id": "38",
+	"name": "Tỉnh Thanh Hóa",
+	"data": [
+		{
+			"id": "386",
+			"name": "Huyện Bá Thước"
+		},
+		{
+			"id": "381",
+			"name": "Thị xã Bỉm Sơn"
+		},
+		{
+			"id": "390",
+			"name": "Huyện Cẩm Thủy"
+		},
+		{
+			"id": "405",
+			"name": "Huyện Đông Sơn"
+		},
+		{
+			"id": "392",
+			"name": "Huyện Hà Trung"
+		},
+		{
+			"id": "400",
+			"name": "Huyện Hậu Lộc"
+		},
+		{
+			"id": "399",
+			"name": "Huyện Hoằng Hóa"
+		},
+		{
+			"id": "388",
+			"name": "Huyện Lang Chánh"
+		},
+		{
+			"id": "384",
+			"name": "Huyện Mường Lát"
+		},
+		{
+			"id": "401",
+			"name": "Huyện Nga Sơn"
+		},
+		{
+			"id": "407",
+			"name": "Thị xã Nghi Sơn"
+		},
+		{
+			"id": "389",
+			"name": "Huyện Ngọc Lặc"
+		},
+		{
+			"id": "403",
+			"name": "Huyện Như Thanh"
+		},
+		{
+			"id": "402",
+			"name": "Huyện Như Xuân"
+		},
+		{
+			"id": "404",
+			"name": "Huyện Nông Cống"
+		},
+		{
+			"id": "385",
+			"name": "Huyện Quan Hóa"
+		},
+		{
+			"id": "387",
+			"name": "Huyện Quan Sơn"
+		},
+		{
+			"id": "406",
+			"name": "Huyện Quảng Xương"
+		},
+		{
+			"id": "382",
+			"name": "Thành phố Sầm Sơn"
+		},
+		{
+			"id": "391",
+			"name": "Huyện Thạch Thành"
+		},
+		{
+			"id": "380",
+			"name": "Thành phố Thanh Hóa"
+		},
+		{
+			"id": "398",
+			"name": "Huyện Thiệu Hóa"
+		},
+		{
+			"id": "395",
+			"name": "Huyện Thọ Xuân"
+		},
+		{
+			"id": "396",
+			"name": "Huyện Thường Xuân"
+		},
+		{
+			"id": "397",
+			"name": "Huyện Triệu Sơn"
+		},
+		{
+			"id": "393",
+			"name": "Huyện Vĩnh Lộc"
+		},
+		{
+			"id": "394",
+			"name": "Huyện Yên Định"
+		}
+	]
+}

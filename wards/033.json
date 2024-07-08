@@ -1,0 +1,78 @@
+{
+	"id": "033",
+	"name": "Huyện Xín Mần",
+	"data": [
+		{
+			"id": "01102",
+			"name": "Xã Bản Díu"
+		},
+		{
+			"id": "01135",
+			"name": "Xã Bản Ngò"
+		},
+		{
+			"id": "01138",
+			"name": "Xã Chế Là"
+		},
+		{
+			"id": "01105",
+			"name": "Xã Chí Cà"
+		},
+		{
+			"id": "01096",
+			"name": "Thị trấn Cốc Pài"
+		},
+		{
+			"id": "01123",
+			"name": "Xã Cốc Rế"
+		},
+		{
+			"id": "01150",
+			"name": "Xã Khuôn Lùng"
+		},
+		{
+			"id": "01147",
+			"name": "Xã Nà Chì"
+		},
+		{
+			"id": "01141",
+			"name": "Xã Nấm Dẩn"
+		},
+		{
+			"id": "01129",
+			"name": "Xã Nàn Ma"
+		},
+		{
+			"id": "01099",
+			"name": "Xã Nàn Xỉn"
+		},
+		{
+			"id": "01120",
+			"name": "Xã Pà Vầy Sủ"
+		},
+		{
+			"id": "01144",
+			"name": "Xã Quảng Nguyên"
+		},
+		{
+			"id": "01132",
+			"name": "Xã Tả Nhìu"
+		},
+		{
+			"id": "01114",
+			"name": "Xã Thèn Phàng"
+		},
+		{
+			"id": "01126",
+			"name": "Xã Thu Tà"
+		},
+		{
+			"id": "01117",
+			"name": "Xã Trung Thịnh"
+		},
+		{
+			"id": "01108",
+			"name": "Xã Xín Mần"
+		}
+	]
+}

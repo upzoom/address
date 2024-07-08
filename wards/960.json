@@ -1,0 +1,50 @@
+{
+	"id": "960",
+	"name": "Huyện Đông Hải",
+	"data": [
+		{
+			"id": "31990",
+			"name": "Xã An Phúc"
+		},
+		{
+			"id": "31987",
+			"name": "Xã An Trạch"
+		},
+		{
+			"id": "31988",
+			"name": "Xã An Trạch A"
+		},
+		{
+			"id": "31985",
+			"name": "Xã Điền Hải"
+		},
+		{
+			"id": "31993",
+			"name": "Xã Định Thành"
+		},
+		{
+			"id": "31996",
+			"name": "Xã Định Thành A"
+		},
+		{
+			"id": "31972",
+			"name": "Thị trấn Gành Hào"
+		},
+		{
+			"id": "31981",
+			"name": "Xã Long Điền"
+		},
+		{
+			"id": "31975",
+			"name": "Xã Long Điền Đông"
+		},
+		{
+			"id": "31978",
+			"name": "Xã Long Điền Đông A"
+		},
+		{
+			"id": "31984",
+			"name": "Xã Long Điền Tây"
+		}
+	]
+}

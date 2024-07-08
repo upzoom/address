@@ -1,0 +1,66 @@
+{
+	"id": "547",
+	"name": "Huyện Tây Sơn",
+	"data": [
+		{
+			"id": "21829",
+			"name": "Xã Bình Hòa"
+		},
+		{
+			"id": "21847",
+			"name": "Xã Bình Nghi"
+		},
+		{
+			"id": "21811",
+			"name": "Xã Bình Tân"
+		},
+		{
+			"id": "21823",
+			"name": "Xã Bình Thành"
+		},
+		{
+			"id": "21817",
+			"name": "Xã Bình Thuận"
+		},
+		{
+			"id": "21835",
+			"name": "Xã Bình Tường"
+		},
+		{
+			"id": "21808",
+			"name": "Thị trấn Phú Phong"
+		},
+		{
+			"id": "21826",
+			"name": "Xã Tây An"
+		},
+		{
+			"id": "21832",
+			"name": "Xã Tây Bình"
+		},
+		{
+			"id": "21820",
+			"name": "Xã Tây Giang"
+		},
+		{
+			"id": "21850",
+			"name": "Xã Tây Phú"
+		},
+		{
+			"id": "21814",
+			"name": "Xã Tây Thuận"
+		},
+		{
+			"id": "21838",
+			"name": "Xã Tây Vinh"
+		},
+		{
+			"id": "21844",
+			"name": "Xã Tây Xuân"
+		},
+		{
+			"id": "21841",
+			"name": "Xã Vĩnh An"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "505",
+	"name": "Huyện Đông Giang",
+	"data": [
+		{
+			"id": "20482",
+			"name": "Xã  Tư"
+		},
+		{
+			"id": "20488",
+			"name": "Xã A Rooi"
+		},
+		{
+			"id": "20479",
+			"name": "Xã A Ting"
+		},
+		{
+			"id": "20485",
+			"name": "Xã Ba"
+		},
+		{
+			"id": "20476",
+			"name": "Xã Jơ Ngây"
+		},
+		{
+			"id": "20497",
+			"name": "Xã Ka Dăng"
+		},
+		{
+			"id": "20494",
+			"name": "Xã Mà Cooi"
+		},
+		{
+			"id": "20467",
+			"name": "Thị trấn P Rao"
+		},
+		{
+			"id": "20473",
+			"name": "Xã Sông Kôn"
+		},
+		{
+			"id": "20470",
+			"name": "Xã Tà Lu"
+		},
+		{
+			"id": "20491",
+			"name": "Xã Za Hung"
+		}
+	]
+}

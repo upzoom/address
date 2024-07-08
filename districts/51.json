@@ -1,0 +1,58 @@
+{
+	"id": "51",
+	"name": "Tỉnh Quảng Ngãi",
+	"data": [
+		{
+			"id": "535",
+			"name": "Huyện Ba Tơ"
+		},
+		{
+			"id": "524",
+			"name": "Huyện Bình Sơn"
+		},
+		{
+			"id": "534",
+			"name": "Thị xã Đức Phổ"
+		},
+		{
+			"id": "536",
+			"name": "Huyện Lý Sơn"
+		},
+		{
+			"id": "531",
+			"name": "Huyện Minh Long"
+		},
+		{
+			"id": "533",
+			"name": "Huyện Mộ Đức"
+		},
+		{
+			"id": "532",
+			"name": "Huyện Nghĩa Hành"
+		},
+		{
+			"id": "522",
+			"name": "Thành phố Quảng Ngãi"
+		},
+		{
+			"id": "529",
+			"name": "Huyện Sơn Hà"
+		},
+		{
+			"id": "530",
+			"name": "Huyện Sơn Tây"
+		},
+		{
+			"id": "527",
+			"name": "Huyện Sơn Tịnh"
+		},
+		{
+			"id": "525",
+			"name": "Huyện Trà Bồng"
+		},
+		{
+			"id": "528",
+			"name": "Huyện Tư Nghĩa"
+		}
+	]
+}

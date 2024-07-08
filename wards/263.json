@@ -1,0 +1,62 @@
+{
+	"id": "263",
+	"name": "Huyện Gia Bình",
+	"data": [
+		{
+			"id": "09475",
+			"name": "Xã Bình Dương"
+		},
+		{
+			"id": "09466",
+			"name": "Xã Cao Đức"
+		},
+		{
+			"id": "09490",
+			"name": "Xã Đại Bái"
+		},
+		{
+			"id": "09469",
+			"name": "Xã Đại Lai"
+		},
+		{
+			"id": "09487",
+			"name": "Xã Đông Cứu"
+		},
+		{
+			"id": "09454",
+			"name": "Thị trấn Gia Bình"
+		},
+		{
+			"id": "09463",
+			"name": "Xã Giang Sơn"
+		},
+		{
+			"id": "09478",
+			"name": "Xã Lãng Ngâm"
+		},
+		{
+			"id": "09481",
+			"name": "Xã Nhân Thắng"
+		},
+		{
+			"id": "09493",
+			"name": "Xã Quỳnh Phú"
+		},
+		{
+			"id": "09472",
+			"name": "Xã Song Giang"
+		},
+		{
+			"id": "09460",
+			"name": "Xã Thái Bảo"
+		},
+		{
+			"id": "09457",
+			"name": "Xã Vạn Ninh"
+		},
+		{
+			"id": "09484",
+			"name": "Xã Xuân Lai"
+		}
+	]
+}

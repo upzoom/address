@@ -1,0 +1,98 @@
+{
+	"id": "298",
+	"name": "Huyện Tứ Kỳ",
+	"data": [
+		{
+			"id": "11125",
+			"name": "Xã An Thanh"
+		},
+		{
+			"id": "11092",
+			"name": "Xã Bình Lăng"
+		},
+		{
+			"id": "11095",
+			"name": "Xã Chí Minh"
+		},
+		{
+			"id": "11140",
+			"name": "Xã Cộng Lạc"
+		},
+		{
+			"id": "11119",
+			"name": "Xã Đại Hợp"
+		},
+		{
+			"id": "11083",
+			"name": "Xã Đại Sơn"
+		},
+		{
+			"id": "11110",
+			"name": "Xã Dân Chủ"
+		},
+		{
+			"id": "11149",
+			"name": "Xã Hà Kỳ"
+		},
+		{
+			"id": "11152",
+			"name": "Xã Hà Thanh"
+		},
+		{
+			"id": "11086",
+			"name": "Xã Hưng Đạo"
+		},
+		{
+			"id": "11128",
+			"name": "Xã Minh Đức"
+		},
+		{
+			"id": "11089",
+			"name": "Xã Ngọc Kỳ"
+		},
+		{
+			"id": "11146",
+			"name": "Xã Nguyên Giáp"
+		},
+		{
+			"id": "11137",
+			"name": "Xã Phượng Kỳ"
+		},
+		{
+			"id": "11116",
+			"name": "Xã Quang Khải"
+		},
+		{
+			"id": "11122",
+			"name": "Xã Quảng Nghiệp"
+		},
+		{
+			"id": "11101",
+			"name": "Xã Quang Phục"
+		},
+		{
+			"id": "11134",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "11098",
+			"name": "Xã Tái Sơn"
+		},
+		{
+			"id": "11113",
+			"name": "Xã Tân Kỳ"
+		},
+		{
+			"id": "11143",
+			"name": "Xã Tiên Động"
+		},
+		{
+			"id": "11074",
+			"name": "Thị trấn Tứ Kỳ"
+		},
+		{
+			"id": "11131",
+			"name": "Xã Văn Tố"
+		}
+	]
+}

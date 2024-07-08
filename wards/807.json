@@ -1,0 +1,66 @@
+{
+	"id": "807",
+	"name": "Huyện Cần Giuộc",
+	"data": [
+		{
+			"id": "28159",
+			"name": "Thị trấn Cần Giuộc"
+		},
+		{
+			"id": "28204",
+			"name": "Xã Đông Thạnh"
+		},
+		{
+			"id": "28198",
+			"name": "Xã Long An"
+		},
+		{
+			"id": "28168",
+			"name": "Xã Long Hậu"
+		},
+		{
+			"id": "28201",
+			"name": "Xã Long Phụng"
+		},
+		{
+			"id": "28165",
+			"name": "Xã Long Thượng"
+		},
+		{
+			"id": "28177",
+			"name": "Xã Mỹ Lộc"
+		},
+		{
+			"id": "28174",
+			"name": "Xã Phước Hậu"
+		},
+		{
+			"id": "28180",
+			"name": "Xã Phước Lại"
+		},
+		{
+			"id": "28183",
+			"name": "Xã Phước Lâm"
+		},
+		{
+			"id": "28162",
+			"name": "Xã Phước Lý"
+		},
+		{
+			"id": "28195",
+			"name": "Xã Phước Vĩnh Đông"
+		},
+		{
+			"id": "28192",
+			"name": "Xã Phước Vĩnh Tây"
+		},
+		{
+			"id": "28207",
+			"name": "Xã Tân Tập"
+		},
+		{
+			"id": "28189",
+			"name": "Xã Thuận Thành"
+		}
+	]
+}

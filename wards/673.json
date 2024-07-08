@@ -1,0 +1,50 @@
+{
+	"id": "673",
+	"name": "Thành phố Bảo Lộc",
+	"data": [
+		{
+			"id": "24823",
+			"name": "Phường 1"
+		},
+		{
+			"id": "24820",
+			"name": "Phường 2"
+		},
+		{
+			"id": "24826",
+			"name": "Phường B'lao"
+		},
+		{
+			"id": "24844",
+			"name": "Xã Đại Lào"
+		},
+		{
+			"id": "24832",
+			"name": "Xã Đạm Bri"
+		},
+		{
+			"id": "24841",
+			"name": "Xã Lộc Châu"
+		},
+		{
+			"id": "24838",
+			"name": "Xã Lộc Nga"
+		},
+		{
+			"id": "24814",
+			"name": "Phường Lộc Phát"
+		},
+		{
+			"id": "24829",
+			"name": "Phường Lộc Sơn"
+		},
+		{
+			"id": "24835",
+			"name": "Xã Lộc Thanh"
+		},
+		{
+			"id": "24817",
+			"name": "Phường Lộc Tiến"
+		}
+	]
+}

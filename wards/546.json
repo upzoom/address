@@ -1,0 +1,42 @@
+{
+	"id": "546",
+	"name": "Huyện Vĩnh Thạnh",
+	"data": [
+		{
+			"id": "21799",
+			"name": "Xã Vĩnh Hảo"
+		},
+		{
+			"id": "21796",
+			"name": "Xã Vĩnh Hiệp"
+		},
+		{
+			"id": "21801",
+			"name": "Xã Vĩnh Hòa"
+		},
+		{
+			"id": "21790",
+			"name": "Xã Vĩnh Kim"
+		},
+		{
+			"id": "21805",
+			"name": "Xã Vĩnh Quang"
+		},
+		{
+			"id": "21787",
+			"name": "Xã Vĩnh Sơn"
+		},
+		{
+			"id": "21786",
+			"name": "Thị trấn Vĩnh Thạnh"
+		},
+		{
+			"id": "21802",
+			"name": "Xã Vĩnh Thịnh"
+		},
+		{
+			"id": "21804",
+			"name": "Xã Vĩnh Thuận"
+		}
+	]
+}

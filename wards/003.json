@@ -1,0 +1,38 @@
+{
+	"id": "003",
+	"name": "Quận Tây Hồ",
+	"data": [
+		{
+			"id": "00109",
+			"name": "Phường Bưởi"
+		},
+		{
+			"id": "00094",
+			"name": "Phường Nhật Tân"
+		},
+		{
+			"id": "00091",
+			"name": "Phường Phú Thượng"
+		},
+		{
+			"id": "00100",
+			"name": "Phường Quảng An"
+		},
+		{
+			"id": "00112",
+			"name": "Phường Thụy Khuê"
+		},
+		{
+			"id": "00097",
+			"name": "Phường Tứ Liên"
+		},
+		{
+			"id": "00103",
+			"name": "Phường Xuân La"
+		},
+		{
+			"id": "00106",
+			"name": "Phường Yên Phụ"
+		}
+	]
+}

@@ -1,0 +1,138 @@
+{
+	"id": "343",
+	"name": "Huyện Kiến Xương",
+	"data": [
+		{
+			"id": "13087",
+			"name": "Xã An Bình"
+		},
+		{
+			"id": "13186",
+			"name": "Xã Bình Định"
+		},
+		{
+			"id": "13138",
+			"name": "Xã Bình Minh"
+		},
+		{
+			"id": "13096",
+			"name": "Xã Bình Nguyên"
+		},
+		{
+			"id": "13183",
+			"name": "Xã Bình Thanh"
+		},
+		{
+			"id": "13123",
+			"name": "Xã Đình Phùng"
+		},
+		{
+			"id": "13135",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "13093",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "13189",
+			"name": "Xã Hồng Tiến"
+		},
+		{
+			"id": "13075",
+			"name": "Thị trấn Kiến Xương"
+		},
+		{
+			"id": "13102",
+			"name": "Xã Lê Lợi"
+		},
+		{
+			"id": "13171",
+			"name": "Xã Minh Quang"
+		},
+		{
+			"id": "13177",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "13180",
+			"name": "Xã Nam Bình"
+		},
+		{
+			"id": "13120",
+			"name": "Xã Nam Cao"
+		},
+		{
+			"id": "13144",
+			"name": "Xã Quang Bình"
+		},
+		{
+			"id": "13132",
+			"name": "Xã Quang Lịch"
+		},
+		{
+			"id": "13162",
+			"name": "Xã Quang Minh"
+		},
+		{
+			"id": "13165",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "13081",
+			"name": "Xã Quốc Tuấn"
+		},
+		{
+			"id": "13090",
+			"name": "Xã Tây Sơn"
+		},
+		{
+			"id": "13114",
+			"name": "Xã Thanh Tân"
+		},
+		{
+			"id": "13117",
+			"name": "Xã Thượng Hiền"
+		},
+		{
+			"id": "13078",
+			"name": "Xã Trà Giang"
+		},
+		{
+			"id": "13129",
+			"name": "Xã Vũ An"
+		},
+		{
+			"id": "13174",
+			"name": "Xã Vũ Bình"
+		},
+		{
+			"id": "13156",
+			"name": "Xã Vũ Công"
+		},
+		{
+			"id": "13159",
+			"name": "Xã Vũ Hòa"
+		},
+		{
+			"id": "13111",
+			"name": "Xã Vũ Lễ"
+		},
+		{
+			"id": "13126",
+			"name": "Xã Vũ Ninh"
+		},
+		{
+			"id": "13141",
+			"name": "Xã Vũ Quí"
+		},
+		{
+			"id": "13153",
+			"name": "Xã Vũ Thắng"
+		},
+		{
+			"id": "13150",
+			"name": "Xã Vũ Trung"
+		}
+	]
+}

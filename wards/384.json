@@ -1,0 +1,38 @@
+{
+	"id": "384",
+	"name": "Huyện Mường Lát",
+	"data": [
+		{
+			"id": "14866",
+			"name": "Xã Mường Chanh"
+		},
+		{
+			"id": "14845",
+			"name": "Thị trấn Mường Lát"
+		},
+		{
+			"id": "14854",
+			"name": "Xã Mường Lý"
+		},
+		{
+			"id": "14864",
+			"name": "Xã Nhi Sơn"
+		},
+		{
+			"id": "14863",
+			"name": "Xã Pù Nhi"
+		},
+		{
+			"id": "14860",
+			"name": "Xã Quang Chiểu"
+		},
+		{
+			"id": "14848",
+			"name": "Xã Tam Chung"
+		},
+		{
+			"id": "14857",
+			"name": "Xã Trung Lý"
+		}
+	]
+}

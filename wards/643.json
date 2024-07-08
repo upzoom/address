@@ -1,0 +1,90 @@
+{
+	"id": "643",
+	"name": "Thành phố Buôn Ma Thuột",
+	"data": [
+		{
+			"id": "24160",
+			"name": "Xã Cư ÊBur"
+		},
+		{
+			"id": "24169",
+			"name": "Xã Ea Kao"
+		},
+		{
+			"id": "24151",
+			"name": "Phường Ea Tam"
+		},
+		{
+			"id": "24163",
+			"name": "Xã Ea Tu"
+		},
+		{
+			"id": "24175",
+			"name": "Xã Hòa Khánh"
+		},
+		{
+			"id": "24172",
+			"name": "Xã Hòa Phú"
+		},
+		{
+			"id": "24166",
+			"name": "Xã Hòa Thắng"
+		},
+		{
+			"id": "24157",
+			"name": "Xã Hòa Thuận"
+		},
+		{
+			"id": "24178",
+			"name": "Xã Hòa Xuân"
+		},
+		{
+			"id": "24154",
+			"name": "Phường Khánh Xuân"
+		},
+		{
+			"id": "24124",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "24121",
+			"name": "Phường Tân Hòa"
+		},
+		{
+			"id": "24118",
+			"name": "Phường Tân Lập"
+		},
+		{
+			"id": "24136",
+			"name": "Phường Tân Lợi"
+		},
+		{
+			"id": "24142",
+			"name": "Phường Tân Thành"
+		},
+		{
+			"id": "24145",
+			"name": "Phường Tân Tiến"
+		},
+		{
+			"id": "24133",
+			"name": "Phường Thắng Lợi"
+		},
+		{
+			"id": "24139",
+			"name": "Phường Thành Công"
+		},
+		{
+			"id": "24130",
+			"name": "Phường Thành Nhất"
+		},
+		{
+			"id": "24127",
+			"name": "Phường Thống Nhất"
+		},
+		{
+			"id": "24148",
+			"name": "Phường Tự An"
+		}
+	]
+}

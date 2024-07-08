@@ -1,0 +1,34 @@
+{
+	"id": "851",
+	"name": "Thị xã Duyên Hải",
+	"data": [
+		{
+			"id": "29512",
+			"name": "Phường 1"
+		},
+		{
+			"id": "29516",
+			"name": "Phường 2"
+		},
+		{
+			"id": "29524",
+			"name": "Xã Dân Thành"
+		},
+		{
+			"id": "29539",
+			"name": "Xã Hiệp Thạnh"
+		},
+		{
+			"id": "29518",
+			"name": "Xã Long Hữu"
+		},
+		{
+			"id": "29515",
+			"name": "Xã Long Toàn"
+		},
+		{
+			"id": "29527",
+			"name": "Xã Trường Long Hòa"
+		}
+	]
+}

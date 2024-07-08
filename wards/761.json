@@ -1,0 +1,50 @@
+{
+	"id": "761",
+	"name": "Quận 12",
+	"data": [
+		{
+			"id": "26779",
+			"name": "Phường An Phú Đông"
+		},
+		{
+			"id": "26788",
+			"name": "Phường Đông Hưng Thuận"
+		},
+		{
+			"id": "26770",
+			"name": "Phường Hiệp Thành"
+		},
+		{
+			"id": "26776",
+			"name": "Phường Tân Chánh Hiệp"
+		},
+		{
+			"id": "26787",
+			"name": "Phường Tân Hưng Thuận"
+		},
+		{
+			"id": "26782",
+			"name": "Phường Tân Thới Hiệp"
+		},
+		{
+			"id": "26791",
+			"name": "Phường Tân Thới Nhất"
+		},
+		{
+			"id": "26767",
+			"name": "Phường Thạnh Lộc"
+		},
+		{
+			"id": "26764",
+			"name": "Phường Thạnh Xuân"
+		},
+		{
+			"id": "26773",
+			"name": "Phường Thới An"
+		},
+		{
+			"id": "26785",
+			"name": "Phường Trung Mỹ Tây"
+		}
+	]
+}

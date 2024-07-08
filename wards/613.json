@@ -1,0 +1,42 @@
+{
+	"id": "613",
+	"name": "Huyện Kon Plông",
+	"data": [
+		{
+			"id": "23452",
+			"name": "Xã Đắk Nên"
+		},
+		{
+			"id": "23455",
+			"name": "Xã Đắk Ring"
+		},
+		{
+			"id": "23461",
+			"name": "Xã Đắk Tăng"
+		},
+		{
+			"id": "23476",
+			"name": "Xã Hiếu"
+		},
+		{
+			"id": "23458",
+			"name": "Xã Măng Buk"
+		},
+		{
+			"id": "23470",
+			"name": "Xã Măng Cành"
+		},
+		{
+			"id": "23473",
+			"name": "Thị trấn Măng Đen"
+		},
+		{
+			"id": "23464",
+			"name": "Xã Ngok Tem"
+		},
+		{
+			"id": "23467",
+			"name": "Xã Pờ Ê"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "616",
+	"name": "Huyện Sa Thầy",
+	"data": [
+		{
+			"id": "23534",
+			"name": "Xã Hơ Moong"
+		},
+		{
+			"id": "23536",
+			"name": "Xã Mô Rai"
+		},
+		{
+			"id": "23530",
+			"name": "Xã Rơ Kơi"
+		},
+		{
+			"id": "23545",
+			"name": "Xã Sa Bình"
+		},
+		{
+			"id": "23542",
+			"name": "Xã Sa Nghĩa"
+		},
+		{
+			"id": "23533",
+			"name": "Xã Sa Nhơn"
+		},
+		{
+			"id": "23539",
+			"name": "Xã Sa Sơn"
+		},
+		{
+			"id": "23527",
+			"name": "Thị trấn Sa Thầy"
+		},
+		{
+			"id": "23551",
+			"name": "Xã Ya Tăng"
+		},
+		{
+			"id": "23548",
+			"name": "Xã Ya Xiêr"
+		},
+		{
+			"id": "23554",
+			"name": "Xã Ya ly"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "351",
+	"name": "Huyện Thanh Liêm",
+	"data": [
+		{
+			"id": "13441",
+			"name": "Thị trấn Kiện Khê"
+		},
+		{
+			"id": "13456",
+			"name": "Xã Liêm Cần"
+		},
+		{
+			"id": "13450",
+			"name": "Xã Liêm Phong"
+		},
+		{
+			"id": "13483",
+			"name": "Xã Liêm Sơn"
+		},
+		{
+			"id": "13465",
+			"name": "Xã Liêm Thuận"
+		},
+		{
+			"id": "13480",
+			"name": "Xã Liêm Túc"
+		},
+		{
+			"id": "13474",
+			"name": "Thị trấn Tân Thanh"
+		},
+		{
+			"id": "13453",
+			"name": "Xã Thanh Hà"
+		},
+		{
+			"id": "13498",
+			"name": "Xã Thanh Hải"
+		},
+		{
+			"id": "13486",
+			"name": "Xã Thanh Hương"
+		},
+		{
+			"id": "13489",
+			"name": "Xã Thanh Nghị"
+		},
+		{
+			"id": "13495",
+			"name": "Xã Thanh Nguyên"
+		},
+		{
+			"id": "13471",
+			"name": "Xã Thanh Phong"
+		},
+		{
+			"id": "13492",
+			"name": "Xã Thanh Tâm"
+		},
+		{
+			"id": "13477",
+			"name": "Xã Thanh Tân"
+		},
+		{
+			"id": "13468",
+			"name": "Xã Thanh Thủy"
+		}
+	]
+}

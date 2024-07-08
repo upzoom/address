@@ -1,0 +1,46 @@
+{
+	"id": "698",
+	"name": "Huyện Phú Riềng",
+	"data": [
+		{
+			"id": "25244",
+			"name": "Xã Bình Sơn"
+		},
+		{
+			"id": "25243",
+			"name": "Xã Bình Tân"
+		},
+		{
+			"id": "25252",
+			"name": "Xã Bù Nho"
+		},
+		{
+			"id": "25240",
+			"name": "Xã Long Bình"
+		},
+		{
+			"id": "25255",
+			"name": "Xã Long Hà"
+		},
+		{
+			"id": "25246",
+			"name": "Xã Long Hưng"
+		},
+		{
+			"id": "25258",
+			"name": "Xã Long Tân"
+		},
+		{
+			"id": "25264",
+			"name": "Xã Phú Riềng"
+		},
+		{
+			"id": "25261",
+			"name": "Xã Phú Trung"
+		},
+		{
+			"id": "25250",
+			"name": "Xã Phước Tân"
+		}
+	]
+}

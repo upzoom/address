@@ -1,0 +1,58 @@
+{
+	"id": "598",
+	"name": "Huyện Hàm Thuận Nam",
+	"data": [
+		{
+			"id": "23116",
+			"name": "Xã Hàm Cần"
+		},
+		{
+			"id": "23128",
+			"name": "Xã Hàm Cường"
+		},
+		{
+			"id": "23125",
+			"name": "Xã Hàm Kiệm"
+		},
+		{
+			"id": "23137",
+			"name": "Xã Hàm Minh"
+		},
+		{
+			"id": "23131",
+			"name": "Xã Hàm Mỹ"
+		},
+		{
+			"id": "23122",
+			"name": "Xã Hàm Thạnh"
+		},
+		{
+			"id": "23119",
+			"name": "Xã Mương Mán"
+		},
+		{
+			"id": "23113",
+			"name": "Xã Mỹ Thạnh"
+		},
+		{
+			"id": "23134",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "23146",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "23143",
+			"name": "Xã Tân Thuận"
+		},
+		{
+			"id": "23110",
+			"name": "Thị trấn Thuận Nam"
+		},
+		{
+			"id": "23140",
+			"name": "Xã Thuận Quí"
+		}
+	]
+}

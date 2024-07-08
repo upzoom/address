@@ -1,0 +1,126 @@
+{
+	"id": "344",
+	"name": "Huyện Vũ Thư",
+	"data": [
+		{
+			"id": "13243",
+			"name": "Xã Bách Thuận"
+		},
+		{
+			"id": "13198",
+			"name": "Xã Đồng Thanh"
+		},
+		{
+			"id": "13231",
+			"name": "Xã Dũng Nghĩa"
+		},
+		{
+			"id": "13279",
+			"name": "Xã Duy Nhất"
+		},
+		{
+			"id": "13204",
+			"name": "Xã Hiệp Hòa"
+		},
+		{
+			"id": "13258",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "13195",
+			"name": "Xã Hồng Lý"
+		},
+		{
+			"id": "13282",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "13228",
+			"name": "Xã Minh Khai"
+		},
+		{
+			"id": "13222",
+			"name": "Xã Minh Lãng"
+		},
+		{
+			"id": "13234",
+			"name": "Xã Minh Quang"
+		},
+		{
+			"id": "13261",
+			"name": "Xã Nguyên Xá"
+		},
+		{
+			"id": "13207",
+			"name": "Xã Phúc Thành"
+		},
+		{
+			"id": "13249",
+			"name": "Xã Song An"
+		},
+		{
+			"id": "13213",
+			"name": "Xã Song Lãng"
+		},
+		{
+			"id": "13237",
+			"name": "Xã Tam Quang"
+		},
+		{
+			"id": "13216",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "13240",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "13210",
+			"name": "Xã Tân Phong"
+		},
+		{
+			"id": "13252",
+			"name": "Xã Trung An"
+		},
+		{
+			"id": "13246",
+			"name": "Xã Tự Tân"
+		},
+		{
+			"id": "13219",
+			"name": "Xã Việt Hùng"
+		},
+		{
+			"id": "13264",
+			"name": "Xã Việt Thuận"
+		},
+		{
+			"id": "13270",
+			"name": "Xã Vũ Đoài"
+		},
+		{
+			"id": "13255",
+			"name": "Xã Vũ Hội"
+		},
+		{
+			"id": "13192",
+			"name": "Thị trấn Vũ Thư"
+		},
+		{
+			"id": "13273",
+			"name": "Xã Vũ Tiến"
+		},
+		{
+			"id": "13276",
+			"name": "Xã Vũ Vân"
+		},
+		{
+			"id": "13267",
+			"name": "Xã Vũ Vinh"
+		},
+		{
+			"id": "13201",
+			"name": "Xã Xuân Hòa"
+		}
+	]
+}

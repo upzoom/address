@@ -1,0 +1,42 @@
+{
+	"id": "248",
+	"name": "Huyện Tam Đảo",
+	"data": [
+		{
+			"id": "08920",
+			"name": "Xã Bồ Lý"
+		},
+		{
+			"id": "08923",
+			"name": "Thị trấn Đại Đình"
+		},
+		{
+			"id": "08914",
+			"name": "Xã Đạo Trù"
+		},
+		{
+			"id": "08929",
+			"name": "Xã Hồ Sơn"
+		},
+		{
+			"id": "08911",
+			"name": "Thị trấn Hợp Châu"
+		},
+		{
+			"id": "08932",
+			"name": "Xã Minh Quang"
+		},
+		{
+			"id": "08908",
+			"name": "Thị trấn Tam Đảo"
+		},
+		{
+			"id": "08926",
+			"name": "Xã Tam Quan"
+		},
+		{
+			"id": "08917",
+			"name": "Xã Yên Dương"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "027",
+	"name": "Huyện Mèo Vạc",
+	"data": [
+		{
+			"id": "00799",
+			"name": "Xã Cán Chu Phìn"
+		},
+		{
+			"id": "00784",
+			"name": "Xã Giàng Chu Phìn"
+		},
+		{
+			"id": "00814",
+			"name": "Xã Khâu Vai"
+		},
+		{
+			"id": "00805",
+			"name": "Xã Lũng Chinh"
+		},
+		{
+			"id": "00802",
+			"name": "Xã Lũng Pù"
+		},
+		{
+			"id": "00769",
+			"name": "Thị trấn Mèo Vạc"
+		},
+		{
+			"id": "00811",
+			"name": "Xã Nậm Ban"
+		},
+		{
+			"id": "00817",
+			"name": "Xã Niêm Sơn"
+		},
+		{
+			"id": "00815",
+			"name": "Xã Niêm Tòng"
+		},
+		{
+			"id": "00781",
+			"name": "Xã Pả Vi"
+		},
+		{
+			"id": "00775",
+			"name": "Xã Pải Lủng"
+		},
+		{
+			"id": "00793",
+			"name": "Xã Sơn Vĩ"
+		},
+		{
+			"id": "00790",
+			"name": "Xã Sủng Máng"
+		},
+		{
+			"id": "00787",
+			"name": "Xã Sủng Trà"
+		},
+		{
+			"id": "00796",
+			"name": "Xã Tả Lủng"
+		},
+		{
+			"id": "00808",
+			"name": "Xã Tát Ngà"
+		},
+		{
+			"id": "00772",
+			"name": "Xã Thượng Phùng"
+		},
+		{
+			"id": "00778",
+			"name": "Xã Xín Cái"
+		}
+	]
+}

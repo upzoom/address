@@ -1,0 +1,46 @@
+{
+	"id": "491",
+	"name": "Quận Thanh Khê",
+	"data": [
+		{
+			"id": "20224",
+			"name": "Phường An Khê"
+		},
+		{
+			"id": "20215",
+			"name": "Phường Chính Gián"
+		},
+		{
+			"id": "20225",
+			"name": "Phường Hòa Khê"
+		},
+		{
+			"id": "20203",
+			"name": "Phường Tam Thuận"
+		},
+		{
+			"id": "20212",
+			"name": "Phường Tân Chính"
+		},
+		{
+			"id": "20221",
+			"name": "Phường Thạc Gián"
+		},
+		{
+			"id": "20207",
+			"name": "Phường Thanh Khê Đông"
+		},
+		{
+			"id": "20206",
+			"name": "Phường Thanh Khê Tây"
+		},
+		{
+			"id": "20218",
+			"name": "Phường Vĩnh Trung"
+		},
+		{
+			"id": "20209",
+			"name": "Phường Xuân Hà"
+		}
+	]
+}

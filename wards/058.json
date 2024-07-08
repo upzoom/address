@@ -1,0 +1,38 @@
+{
+	"id": "058",
+	"name": "Thành Phố Bắc Kạn",
+	"data": [
+		{
+			"id": "01840",
+			"name": "Phường Đức Xuân"
+		},
+		{
+			"id": "01849",
+			"name": "Xã Dương Quang"
+		},
+		{
+			"id": "01846",
+			"name": "Phường Huyền Tụng"
+		},
+		{
+			"id": "01834",
+			"name": "Phường Nguyễn Thị Minh Khai"
+		},
+		{
+			"id": "01852",
+			"name": "Xã Nông Thượng"
+		},
+		{
+			"id": "01843",
+			"name": "Phường Phùng Chí Kiên"
+		},
+		{
+			"id": "01837",
+			"name": "Phường Sông Cầu"
+		},
+		{
+			"id": "01855",
+			"name": "Phường Xuất Hóa"
+		}
+	]
+}

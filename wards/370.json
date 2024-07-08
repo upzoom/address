@@ -1,0 +1,42 @@
+{
+	"id": "370",
+	"name": "Thành phố Tam Điệp",
+	"data": [
+		{
+			"id": "14362",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "14380",
+			"name": "Xã Đông Sơn"
+		},
+		{
+			"id": "14368",
+			"name": "Phường Nam Sơn"
+		},
+		{
+			"id": "14377",
+			"name": "Xã Quang Sơn"
+		},
+		{
+			"id": "14375",
+			"name": "Phường Tân Bình"
+		},
+		{
+			"id": "14369",
+			"name": "Phường Tây Sơn"
+		},
+		{
+			"id": "14365",
+			"name": "Phường Trung Sơn"
+		},
+		{
+			"id": "14374",
+			"name": "Phường Yên Bình"
+		},
+		{
+			"id": "14371",
+			"name": "Xã Yên Sơn"
+		}
+	]
+}

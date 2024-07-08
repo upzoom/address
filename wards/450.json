@@ -1,0 +1,66 @@
+{
+	"id": "450",
+	"name": "Thành Phố Đồng Hới",
+	"data": [
+		{
+			"id": "18859",
+			"name": "Phường Bắc Lý"
+		},
+		{
+			"id": "18877",
+			"name": "Phường Bắc Nghĩa"
+		},
+		{
+			"id": "18889",
+			"name": "Xã Bảo Ninh"
+		},
+		{
+			"id": "18868",
+			"name": "Phường Đồng Hải"
+		},
+		{
+			"id": "18856",
+			"name": "Phường Đồng Phú"
+		},
+		{
+			"id": "18871",
+			"name": "Phường Đồng Sơn"
+		},
+		{
+			"id": "18898",
+			"name": "Xã Đức Ninh"
+		},
+		{
+			"id": "18880",
+			"name": "Phường Đức Ninh Đông"
+		},
+		{
+			"id": "18853",
+			"name": "Phường Hải Thành"
+		},
+		{
+			"id": "18886",
+			"name": "Xã Lộc Ninh"
+		},
+		{
+			"id": "18865",
+			"name": "Phường Nam Lý"
+		},
+		{
+			"id": "18892",
+			"name": "Xã Nghĩa Ninh"
+		},
+		{
+			"id": "18874",
+			"name": "Phường Phú Hải"
+		},
+		{
+			"id": "18883",
+			"name": "Xã Quang Phú"
+		},
+		{
+			"id": "18895",
+			"name": "Xã Thuận Đức"
+		}
+	]
+}

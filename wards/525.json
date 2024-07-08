@@ -1,0 +1,70 @@
+{
+	"id": "525",
+	"name": "Huyện Trà Bồng",
+	"data": [
+		{
+			"id": "21157",
+			"name": "Xã Hương Trà"
+		},
+		{
+			"id": "21148",
+			"name": "Xã Sơn Trà"
+		},
+		{
+			"id": "21127",
+			"name": "Xã Trà Bình"
+		},
+		{
+			"id": "21142",
+			"name": "Xã Trà Bùi"
+		},
+		{
+			"id": "21118",
+			"name": "Xã Trà Giang"
+		},
+		{
+			"id": "21124",
+			"name": "Xã Trà Hiệp"
+		},
+		{
+			"id": "21133",
+			"name": "Xã Trà Lâm"
+		},
+		{
+			"id": "21154",
+			"name": "Xã Trà Phong"
+		},
+		{
+			"id": "21130",
+			"name": "Xã Trà Phú"
+		},
+		{
+			"id": "21139",
+			"name": "Xã Trà Sơn"
+		},
+		{
+			"id": "21136",
+			"name": "Xã Trà Tân"
+		},
+		{
+			"id": "21166",
+			"name": "Xã Trà Tây"
+		},
+		{
+			"id": "21145",
+			"name": "Xã Trà Thanh"
+		},
+		{
+			"id": "21121",
+			"name": "Xã Trà Thủy"
+		},
+		{
+			"id": "21163",
+			"name": "Xã Trà Xinh"
+		},
+		{
+			"id": "21115",
+			"name": "Thị trấn Trà Xuân"
+		}
+	]
+}

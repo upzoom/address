@@ -1,0 +1,82 @@
+{
+	"id": "256",
+	"name": "Thành phố Bắc Ninh",
+	"data": [
+		{
+			"id": "09181",
+			"name": "Phường Đại Phúc"
+		},
+		{
+			"id": "09166",
+			"name": "Phường Đáp Cầu"
+		},
+		{
+			"id": "09331",
+			"name": "Phường Hạp Lĩnh"
+		},
+		{
+			"id": "09214",
+			"name": "Phường Hòa Long"
+		},
+		{
+			"id": "09325",
+			"name": "Phường Khắc Niệm"
+		},
+		{
+			"id": "09235",
+			"name": "Phường Khúc Xuyên"
+		},
+		{
+			"id": "09256",
+			"name": "Phường Kim Chân"
+		},
+		{
+			"id": "09172",
+			"name": "Phường Kinh Bắc"
+		},
+		{
+			"id": "09286",
+			"name": "Phường Nam Sơn"
+		},
+		{
+			"id": "09184",
+			"name": "Phường Ninh Xá"
+		},
+		{
+			"id": "09244",
+			"name": "Phường Phong Khê"
+		},
+		{
+			"id": "09187",
+			"name": "Phường Suối Hoa"
+		},
+		{
+			"id": "09169",
+			"name": "Phường Thị Cầu"
+		},
+		{
+			"id": "09178",
+			"name": "Phường Tiền An"
+		},
+		{
+			"id": "09226",
+			"name": "Phường Vạn An"
+		},
+		{
+			"id": "09271",
+			"name": "Phường Vân Dương"
+		},
+		{
+			"id": "09175",
+			"name": "Phường Vệ An"
+		},
+		{
+			"id": "09190",
+			"name": "Phường Võ Cường"
+		},
+		{
+			"id": "09163",
+			"name": "Phường Vũ Ninh"
+		}
+	]
+}

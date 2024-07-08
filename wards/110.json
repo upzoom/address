@@ -1,0 +1,54 @@
+{
+	"id": "110",
+	"name": "Huyện Than Uyên",
+	"data": [
+		{
+			"id": "03632",
+			"name": "Xã Hua Nà"
+		},
+		{
+			"id": "03643",
+			"name": "Xã Khoen On"
+		},
+		{
+			"id": "03631",
+			"name": "Xã Mường Cang"
+		},
+		{
+			"id": "03637",
+			"name": "Xã Mường Kim"
+		},
+		{
+			"id": "03625",
+			"name": "Xã Mường Mít"
+		},
+		{
+			"id": "03619",
+			"name": "Xã Mường Than"
+		},
+		{
+			"id": "03628",
+			"name": "Xã Pha Mu"
+		},
+		{
+			"id": "03618",
+			"name": "Xã Phúc Than"
+		},
+		{
+			"id": "03640",
+			"name": "Xã Tà Gia"
+		},
+		{
+			"id": "03634",
+			"name": "Xã Tà Hừa"
+		},
+		{
+			"id": "03638",
+			"name": "Xã Tà Mung"
+		},
+		{
+			"id": "03595",
+			"name": "Thị trấn Than Uyên"
+		}
+	]
+}

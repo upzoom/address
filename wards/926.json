@@ -1,0 +1,34 @@
+{
+	"id": "926",
+	"name": "Huyện Phong Điền",
+	"data": [
+		{
+			"id": "31303",
+			"name": "Xã Giai Xuân"
+		},
+		{
+			"id": "31312",
+			"name": "Xã Mỹ Khánh"
+		},
+		{
+			"id": "31300",
+			"name": "Xã Nhơn Ái"
+		},
+		{
+			"id": "31315",
+			"name": "Xã Nhơn Nghĩa"
+		},
+		{
+			"id": "31299",
+			"name": "Thị trấn Phong Điền"
+		},
+		{
+			"id": "31306",
+			"name": "Xã Tân Thới"
+		},
+		{
+			"id": "31309",
+			"name": "Xã Trường Long"
+		}
+	]
+}

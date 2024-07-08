@@ -1,0 +1,62 @@
+{
+	"id": "258",
+	"name": "Huyện Yên Phong",
+	"data": [
+		{
+			"id": "09193",
+			"name": "Thị trấn Chờ"
+		},
+		{
+			"id": "09229",
+			"name": "Xã Đông Phong"
+		},
+		{
+			"id": "09241",
+			"name": "Xã Đông Thọ"
+		},
+		{
+			"id": "09217",
+			"name": "Xã Đông Tiến"
+		},
+		{
+			"id": "09196",
+			"name": "Xã Dũng Liệt"
+		},
+		{
+			"id": "09211",
+			"name": "Xã Hòa Tiến"
+		},
+		{
+			"id": "09232",
+			"name": "Xã Long Châu"
+		},
+		{
+			"id": "09199",
+			"name": "Xã Tam Đa"
+		},
+		{
+			"id": "09202",
+			"name": "Xã Tam Giang"
+		},
+		{
+			"id": "09208",
+			"name": "Xã Thụy Hòa"
+		},
+		{
+			"id": "09223",
+			"name": "Xã Trung Nghĩa"
+		},
+		{
+			"id": "09238",
+			"name": "Xã Văn Môn"
+		},
+		{
+			"id": "09220",
+			"name": "Xã Yên Phụ"
+		},
+		{
+			"id": "09205",
+			"name": "Xã Yên Trung"
+		}
+	]
+}

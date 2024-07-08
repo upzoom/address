@@ -1,0 +1,54 @@
+{
+	"id": "706",
+	"name": "Huyện Tân Châu",
+	"data": [
+		{
+			"id": "25534",
+			"name": "Xã Suối Dây"
+		},
+		{
+			"id": "25531",
+			"name": "Xã Suối Ngô"
+		},
+		{
+			"id": "25516",
+			"name": "Thị trấn Tân Châu"
+		},
+		{
+			"id": "25522",
+			"name": "Xã Tân Đông"
+		},
+		{
+			"id": "25519",
+			"name": "Xã Tân Hà"
+		},
+		{
+			"id": "25537",
+			"name": "Xã Tân Hiệp"
+		},
+		{
+			"id": "25528",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "25525",
+			"name": "Xã Tân Hội"
+		},
+		{
+			"id": "25549",
+			"name": "Xã Tân Hưng"
+		},
+		{
+			"id": "25546",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "25543",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "25540",
+			"name": "Xã Thạnh Đông"
+		}
+	]
+}

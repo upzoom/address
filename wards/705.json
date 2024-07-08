@@ -1,0 +1,46 @@
+{
+	"id": "705",
+	"name": "Huyện Tân Biên",
+	"data": [
+		{
+			"id": "25504",
+			"name": "Xã Hòa Hiệp"
+		},
+		{
+			"id": "25510",
+			"name": "Xã Mỏ Công"
+		},
+		{
+			"id": "25486",
+			"name": "Thị trấn Tân Biên"
+		},
+		{
+			"id": "25495",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "25489",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "25507",
+			"name": "Xã Tân Phong"
+		},
+		{
+			"id": "25492",
+			"name": "Xã Thạnh Bắc"
+		},
+		{
+			"id": "25498",
+			"name": "Xã Thạnh Bình"
+		},
+		{
+			"id": "25501",
+			"name": "Xã Thạnh Tây"
+		},
+		{
+			"id": "25513",
+			"name": "Xã Trà Vong"
+		}
+	]
+}

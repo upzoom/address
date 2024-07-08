@@ -1,0 +1,78 @@
+{
+	"id": "221",
+	"name": "Huyện Yên Dũng",
+	"data": [
+		{
+			"id": "07738",
+			"name": "Xã Cảnh Thụy"
+		},
+		{
+			"id": "07750",
+			"name": "Xã Đồng Phúc"
+		},
+		{
+			"id": "07747",
+			"name": "Xã Đồng Việt"
+		},
+		{
+			"id": "07735",
+			"name": "Xã Đức Giang"
+		},
+		{
+			"id": "07690",
+			"name": "Xã Hương Gián"
+		},
+		{
+			"id": "07723",
+			"name": "Xã Lãng Sơn"
+		},
+		{
+			"id": "07684",
+			"name": "Xã Lão Hộ"
+		},
+		{
+			"id": "07681",
+			"name": "Thị trấn Nham Biền"
+		},
+		{
+			"id": "07708",
+			"name": "Xã Nội Hoàng"
+		},
+		{
+			"id": "07702",
+			"name": "Xã Quỳnh Sơn"
+		},
+		{
+			"id": "07682",
+			"name": "Thị trấn Tân An"
+		},
+		{
+			"id": "07717",
+			"name": "Xã Tân Liễu"
+		},
+		{
+			"id": "07729",
+			"name": "Xã Tiến Dũng"
+		},
+		{
+			"id": "07711",
+			"name": "Xã Tiền Phong"
+		},
+		{
+			"id": "07720",
+			"name": "Xã Trí Yên"
+		},
+		{
+			"id": "07741",
+			"name": "Xã Tư Mại"
+		},
+		{
+			"id": "07714",
+			"name": "Xã Xuân Phú"
+		},
+		{
+			"id": "07726",
+			"name": "Xã Yên Lư"
+		}
+	]
+}

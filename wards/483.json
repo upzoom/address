@@ -1,0 +1,46 @@
+{
+	"id": "483",
+	"name": "Huyện Nam Đông",
+	"data": [
+		{
+			"id": "20182",
+			"name": "Xã Hương Hữu"
+		},
+		{
+			"id": "20170",
+			"name": "Xã Hương Lộc"
+		},
+		{
+			"id": "20164",
+			"name": "Xã Hương Phú"
+		},
+		{
+			"id": "20167",
+			"name": "Xã Hương Sơn"
+		},
+		{
+			"id": "20179",
+			"name": "Xã Hương Xuân"
+		},
+		{
+			"id": "20161",
+			"name": "Thị trấn Khe Tre"
+		},
+		{
+			"id": "20185",
+			"name": "Xã Thượng Lộ"
+		},
+		{
+			"id": "20188",
+			"name": "Xã Thượng Long"
+		},
+		{
+			"id": "20191",
+			"name": "Xã Thượng Nhật"
+		},
+		{
+			"id": "20173",
+			"name": "Xã Thượng Quảng"
+		}
+	]
+}

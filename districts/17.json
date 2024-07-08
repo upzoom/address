@@ -1,0 +1,46 @@
+{
+	"id": "17",
+	"name": "Tỉnh Hoà Bình",
+	"data": [
+		{
+			"id": "154",
+			"name": "Huyện Cao Phong"
+		},
+		{
+			"id": "150",
+			"name": "Huyện Đà Bắc"
+		},
+		{
+			"id": "148",
+			"name": "Thành phố Hòa Bình"
+		},
+		{
+			"id": "153",
+			"name": "Huyện Kim Bôi"
+		},
+		{
+			"id": "157",
+			"name": "Huyện Lạc Sơn"
+		},
+		{
+			"id": "159",
+			"name": "Huyện Lạc Thủy"
+		},
+		{
+			"id": "152",
+			"name": "Huyện Lương Sơn"
+		},
+		{
+			"id": "156",
+			"name": "Huyện Mai Châu"
+		},
+		{
+			"id": "155",
+			"name": "Huyện Tân Lạc"
+		},
+		{
+			"id": "158",
+			"name": "Huyện Yên Thủy"
+		}
+	]
+}

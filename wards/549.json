@@ -1,0 +1,66 @@
+{
+	"id": "549",
+	"name": "Thị xã An Nhơn",
+	"data": [
+		{
+			"id": "21907",
+			"name": "Phường Bình Định"
+		},
+		{
+			"id": "21910",
+			"name": "Phường Đập Đá"
+		},
+		{
+			"id": "21928",
+			"name": "Xã Nhơn An"
+		},
+		{
+			"id": "21919",
+			"name": "Xã Nhơn Hạnh"
+		},
+		{
+			"id": "21922",
+			"name": "Xã Nhơn Hậu"
+		},
+		{
+			"id": "21943",
+			"name": "Phường Nhơn Hoà"
+		},
+		{
+			"id": "21934",
+			"name": "Phường Nhơn Hưng"
+		},
+		{
+			"id": "21937",
+			"name": "Xã Nhơn Khánh"
+		},
+		{
+			"id": "21940",
+			"name": "Xã Nhơn Lộc"
+		},
+		{
+			"id": "21913",
+			"name": "Xã Nhơn Mỹ"
+		},
+		{
+			"id": "21925",
+			"name": "Xã Nhơn Phong"
+		},
+		{
+			"id": "21931",
+			"name": "Xã Nhơn Phúc"
+		},
+		{
+			"id": "21946",
+			"name": "Xã Nhơn Tân"
+		},
+		{
+			"id": "21916",
+			"name": "Phường Nhơn Thành"
+		},
+		{
+			"id": "21949",
+			"name": "Xã Nhơn Thọ"
+		}
+	]
+}

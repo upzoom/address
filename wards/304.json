@@ -1,0 +1,54 @@
+{
+	"id": "304",
+	"name": "Quận Ngô Quyền",
+	"data": [
+		{
+			"id": "11344",
+			"name": "Phường Cầu Đất"
+		},
+		{
+			"id": "11338",
+			"name": "Phường Cầu Tre"
+		},
+		{
+			"id": "11359",
+			"name": "Phường Đằng Giang"
+		},
+		{
+			"id": "11350",
+			"name": "Phường Đông Khê"
+		},
+		{
+			"id": "11365",
+			"name": "Phường Đổng Quốc Bình"
+		},
+		{
+			"id": "11347",
+			"name": "Phường Gia Viên"
+		},
+		{
+			"id": "11341",
+			"name": "Phường Lạc Viên"
+		},
+		{
+			"id": "11362",
+			"name": "Phường Lạch Tray"
+		},
+		{
+			"id": "11356",
+			"name": "Phường Lê Lợi"
+		},
+		{
+			"id": "11329",
+			"name": "Phường Máy Chai"
+		},
+		{
+			"id": "11332",
+			"name": "Phường Máy Tơ"
+		},
+		{
+			"id": "11335",
+			"name": "Phường Vạn Mỹ"
+		}
+	]
+}

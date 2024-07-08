@@ -1,0 +1,54 @@
+{
+	"id": "387",
+	"name": "Huyện Quan Sơn",
+	"data": [
+		{
+			"id": "15025",
+			"name": "Xã Mường Mìn"
+		},
+		{
+			"id": "15013",
+			"name": "Xã Na Mèo"
+		},
+		{
+			"id": "15022",
+			"name": "Xã Sơn Điện"
+		},
+		{
+			"id": "15004",
+			"name": "Xã Sơn Hà"
+		},
+		{
+			"id": "15016",
+			"name": "Thị trấn Sơn Lư"
+		},
+		{
+			"id": "15010",
+			"name": "Xã Sơn Thủy"
+		},
+		{
+			"id": "15019",
+			"name": "Xã Tam Lư"
+		},
+		{
+			"id": "15007",
+			"name": "Xã Tam Thanh"
+		},
+		{
+			"id": "15001",
+			"name": "Xã Trung Hạ"
+		},
+		{
+			"id": "14998",
+			"name": "Xã Trung Thượng"
+		},
+		{
+			"id": "14999",
+			"name": "Xã Trung Tiến"
+		},
+		{
+			"id": "14995",
+			"name": "Xã Trung Xuân"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "62",
+	"name": "Tỉnh Kon Tum",
+	"data": [
+		{
+			"id": "610",
+			"name": "Huyện Đắk Glei"
+		},
+		{
+			"id": "615",
+			"name": "Huyện Đắk Hà"
+		},
+		{
+			"id": "612",
+			"name": "Huyện Đắk Tô"
+		},
+		{
+			"id": "618",
+			"name": "Huyện Ia H' Drai"
+		},
+		{
+			"id": "613",
+			"name": "Huyện Kon Plông"
+		},
+		{
+			"id": "614",
+			"name": "Huyện Kon Rẫy"
+		},
+		{
+			"id": "608",
+			"name": "Thành phố Kon Tum"
+		},
+		{
+			"id": "611",
+			"name": "Huyện Ngọc Hồi"
+		},
+		{
+			"id": "616",
+			"name": "Huyện Sa Thầy"
+		},
+		{
+			"id": "617",
+			"name": "Huyện Tu Mơ Rông"
+		}
+	]
+}

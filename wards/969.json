@@ -1,0 +1,50 @@
+{
+	"id": "969",
+	"name": "Huyện Cái Nước",
+	"data": [
+		{
+			"id": "32128",
+			"name": "Thị trấn Cái Nước"
+		},
+		{
+			"id": "32142",
+			"name": "Xã Đông Hưng"
+		},
+		{
+			"id": "32143",
+			"name": "Xã Đông Thới"
+		},
+		{
+			"id": "32141",
+			"name": "Xã Hoà Mỹ"
+		},
+		{
+			"id": "32140",
+			"name": "Xã Hưng Mỹ"
+		},
+		{
+			"id": "32131",
+			"name": "Xã Lương Thế Trân"
+		},
+		{
+			"id": "32134",
+			"name": "Xã Phú Hưng"
+		},
+		{
+			"id": "32137",
+			"name": "Xã Tân Hưng"
+		},
+		{
+			"id": "32146",
+			"name": "Xã Tân Hưng Đông"
+		},
+		{
+			"id": "32130",
+			"name": "Xã Thạnh Phú"
+		},
+		{
+			"id": "32149",
+			"name": "Xã Trần Thới"
+		}
+	]
+}

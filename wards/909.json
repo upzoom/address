@@ -1,0 +1,50 @@
+{
+	"id": "909",
+	"name": "Huyện An Minh",
+	"data": [
+		{
+			"id": "31024",
+			"name": "Xã Đông Hòa"
+		},
+		{
+			"id": "31033",
+			"name": "Xã Đông Hưng"
+		},
+		{
+			"id": "31036",
+			"name": "Xã Đông Hưng A"
+		},
+		{
+			"id": "31039",
+			"name": "Xã Đông Hưng B"
+		},
+		{
+			"id": "31030",
+			"name": "Xã Đông Thạnh"
+		},
+		{
+			"id": "31031",
+			"name": "Xã Tân Thạnh"
+		},
+		{
+			"id": "31018",
+			"name": "Thị trấn Thứ Mười Một"
+		},
+		{
+			"id": "31021",
+			"name": "Xã Thuận Hoà"
+		},
+		{
+			"id": "31042",
+			"name": "Xã Vân Khánh"
+		},
+		{
+			"id": "31045",
+			"name": "Xã Vân Khánh Đông"
+		},
+		{
+			"id": "31048",
+			"name": "Xã Vân Khánh Tây"
+		}
+	]
+}

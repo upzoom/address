@@ -1,0 +1,46 @@
+{
+	"id": "019",
+	"name": "Quận Nam Từ Liêm",
+	"data": [
+		{
+			"id": "00592",
+			"name": "Phường Cầu Diễn"
+		},
+		{
+			"id": "00634",
+			"name": "Phường Đại Mỗ"
+		},
+		{
+			"id": "00631",
+			"name": "Phường Mễ Trì"
+		},
+		{
+			"id": "00625",
+			"name": "Phường Mỹ Đình 1"
+		},
+		{
+			"id": "00626",
+			"name": "Phường Mỹ Đình 2"
+		},
+		{
+			"id": "00632",
+			"name": "Phường Phú Đô"
+		},
+		{
+			"id": "00623",
+			"name": "Phường Phương Canh"
+		},
+		{
+			"id": "00628",
+			"name": "Phường Tây Mỗ"
+		},
+		{
+			"id": "00637",
+			"name": "Phường Trung Văn"
+		},
+		{
+			"id": "00622",
+			"name": "Phường Xuân Phương"
+		}
+	]
+}

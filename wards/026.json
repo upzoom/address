@@ -1,0 +1,82 @@
+{
+	"id": "026",
+	"name": "Huyện Đồng Văn",
+	"data": [
+		{
+			"id": "00721",
+			"name": "Thị trấn Đồng Văn"
+		},
+		{
+			"id": "00757",
+			"name": "Xã Hố Quáng Phìn"
+		},
+		{
+			"id": "00715",
+			"name": "Xã Lũng Cú"
+		},
+		{
+			"id": "00763",
+			"name": "Xã Lũng Phìn"
+		},
+		{
+			"id": "00724",
+			"name": "Xã Lũng Táo"
+		},
+		{
+			"id": "00754",
+			"name": "Xã Lũng Thầu"
+		},
+		{
+			"id": "00718",
+			"name": "Xã Má Lé"
+		},
+		{
+			"id": "00712",
+			"name": "Thị trấn Phó Bảng"
+		},
+		{
+			"id": "00745",
+			"name": "Xã Phố Cáo"
+		},
+		{
+			"id": "00727",
+			"name": "Xã Phố Là"
+		},
+		{
+			"id": "00751",
+			"name": "Xã Sảng Tủng"
+		},
+		{
+			"id": "00748",
+			"name": "Xã Sính Lủng"
+		},
+		{
+			"id": "00733",
+			"name": "Xã Sủng Là"
+		},
+		{
+			"id": "00766",
+			"name": "Xã Sủng Trái"
+		},
+		{
+			"id": "00742",
+			"name": "Xã Tả Lủng"
+		},
+		{
+			"id": "00739",
+			"name": "Xã Tả Phìn"
+		},
+		{
+			"id": "00730",
+			"name": "Xã Thài Phìn Tủng"
+		},
+		{
+			"id": "00760",
+			"name": "Xã Vần Chải"
+		},
+		{
+			"id": "00736",
+			"name": "Xã Xà Phìn"
+		}
+	]
+}

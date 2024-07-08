@@ -1,0 +1,70 @@
+{
+	"id": "083",
+	"name": "Huyện Mường Khương",
+	"data": [
+		{
+			"id": "02788",
+			"name": "Xã Bản Lầu"
+		},
+		{
+			"id": "02797",
+			"name": "Xã Bản Sen"
+		},
+		{
+			"id": "02782",
+			"name": "Xã Cao Sơn"
+		},
+		{
+			"id": "02764",
+			"name": "Xã Dìn Chin"
+		},
+		{
+			"id": "02791",
+			"name": "Xã La Pan Tẩn"
+		},
+		{
+			"id": "02776",
+			"name": "Xã Lùng Khấu Nhin"
+		},
+		{
+			"id": "02785",
+			"name": "Xã Lùng Vai"
+		},
+		{
+			"id": "02761",
+			"name": "Thị trấn Mường Khương"
+		},
+		{
+			"id": "02770",
+			"name": "Xã Nậm Chảy"
+		},
+		{
+			"id": "02773",
+			"name": "Xã Nấm Lư"
+		},
+		{
+			"id": "02752",
+			"name": "Xã Pha Long"
+		},
+		{
+			"id": "02767",
+			"name": "Xã Tả Gia Khâu"
+		},
+		{
+			"id": "02755",
+			"name": "Xã Tả Ngải Chồ"
+		},
+		{
+			"id": "02794",
+			"name": "Xã Tả Thàng"
+		},
+		{
+			"id": "02779",
+			"name": "Xã Thanh Bình"
+		},
+		{
+			"id": "02758",
+			"name": "Xã Tung Chung Phố"
+		}
+	]
+}

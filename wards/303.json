@@ -1,0 +1,42 @@
+{
+	"id": "303",
+	"name": "Quận Hồng Bàng",
+	"data": [
+		{
+			"id": "11308",
+			"name": "Phường Hạ Lý"
+		},
+		{
+			"id": "11320",
+			"name": "Phường Hoàng Văn Thụ"
+		},
+		{
+			"id": "11299",
+			"name": "Phường Hùng Vương"
+		},
+		{
+			"id": "11311",
+			"name": "Phường Minh Khai"
+		},
+		{
+			"id": "11323",
+			"name": "Phường Phan Bội Châu"
+		},
+		{
+			"id": "11296",
+			"name": "Phường Quán Toan"
+		},
+		{
+			"id": "11302",
+			"name": "Phường Sở Dầu"
+		},
+		{
+			"id": "11305",
+			"name": "Phường Thượng Lý"
+		},
+		{
+			"id": "11314",
+			"name": "Phường Trại Chuối"
+		}
+	]
+}

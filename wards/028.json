@@ -1,0 +1,78 @@
+{
+	"id": "028",
+	"name": "Huyện Yên Minh",
+	"data": [
+		{
+			"id": "00832",
+			"name": "Xã Bạch Đích"
+		},
+		{
+			"id": "00850",
+			"name": "Xã Đông Minh"
+		},
+		{
+			"id": "00871",
+			"name": "Xã Du Già"
+		},
+		{
+			"id": "00868",
+			"name": "Xã Du Tiến"
+		},
+		{
+			"id": "00862",
+			"name": "Xã Đường Thượng"
+		},
+		{
+			"id": "00841",
+			"name": "Xã Hữu Vinh"
+		},
+		{
+			"id": "00844",
+			"name": "Xã Lao Và Chải"
+		},
+		{
+			"id": "00865",
+			"name": "Xã Lũng Hồ"
+		},
+		{
+			"id": "00847",
+			"name": "Xã Mậu Duệ"
+		},
+		{
+			"id": "00853",
+			"name": "Xã Mậu Long"
+		},
+		{
+			"id": "00835",
+			"name": "Xã Na Khê"
+		},
+		{
+			"id": "00856",
+			"name": "Xã Ngam La"
+		},
+		{
+			"id": "00859",
+			"name": "Xã Ngọc Long"
+		},
+		{
+			"id": "00826",
+			"name": "Xã Phú Lũng"
+		},
+		{
+			"id": "00838",
+			"name": "Xã Sủng Thài"
+		},
+		{
+			"id": "00829",
+			"name": "Xã Sủng Tráng"
+		},
+		{
+			"id": "00823",
+			"name": "Xã Thắng Mố"
+		},
+		{
+			"id": "00820",
+			"name": "Thị trấn Yên Minh"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "587",
+	"name": "Huyện Ninh Phước",
+	"data": [
+		{
+			"id": "22888",
+			"name": "Xã An Hải"
+		},
+		{
+			"id": "22870",
+			"name": "Thị trấn Phước Dân"
+		},
+		{
+			"id": "22894",
+			"name": "Xã Phước Hải"
+		},
+		{
+			"id": "22879",
+			"name": "Xã Phước Hậu"
+		},
+		{
+			"id": "22891",
+			"name": "Xã Phước Hữu"
+		},
+		{
+			"id": "22873",
+			"name": "Xã Phước Sơn"
+		},
+		{
+			"id": "22876",
+			"name": "Xã Phước Thái"
+		},
+		{
+			"id": "22882",
+			"name": "Xã Phước Thuận"
+		},
+		{
+			"id": "22912",
+			"name": "Xã Phước Vinh"
+		}
+	]
+}

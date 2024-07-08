@@ -1,0 +1,130 @@
+{
+	"id": "271",
+	"name": "Huyện Ba Vì",
+	"data": [
+		{
+			"id": "09697",
+			"name": "Xã Ba Trại"
+		},
+		{
+			"id": "09703",
+			"name": "Xã Ba Vì"
+		},
+		{
+			"id": "09673",
+			"name": "Xã Cẩm Lĩnh"
+		},
+		{
+			"id": "09688",
+			"name": "Xã Cam Thượng"
+		},
+		{
+			"id": "09637",
+			"name": "Xã Châu Sơn"
+		},
+		{
+			"id": "09667",
+			"name": "Xã Chu Minh"
+		},
+		{
+			"id": "09628",
+			"name": "Xã Cổ Đô"
+		},
+		{
+			"id": "09679",
+			"name": "Xã Đông Quang"
+		},
+		{
+			"id": "09655",
+			"name": "Xã Đồng Thái"
+		},
+		{
+			"id": "09712",
+			"name": "Xã Khánh Thượng"
+		},
+		{
+			"id": "09661",
+			"name": "Xã Minh Châu"
+		},
+		{
+			"id": "09700",
+			"name": "Xã Minh Quang"
+		},
+		{
+			"id": "09640",
+			"name": "Xã Phong Vân"
+		},
+		{
+			"id": "09649",
+			"name": "Xã Phú Châu"
+		},
+		{
+			"id": "09625",
+			"name": "Xã Phú Cường"
+		},
+		{
+			"id": "09643",
+			"name": "Xã Phú Đông"
+		},
+		{
+			"id": "09646",
+			"name": "Xã Phú Phương"
+		},
+		{
+			"id": "09658",
+			"name": "Xã Phú Sơn"
+		},
+		{
+			"id": "09676",
+			"name": "Xã Sơn Đà"
+		},
+		{
+			"id": "09631",
+			"name": "Xã Tản Hồng"
+		},
+		{
+			"id": "09694",
+			"name": "Xã Tản Lĩnh"
+		},
+		{
+			"id": "09619",
+			"name": "Thị trấn Tây Đằng"
+		},
+		{
+			"id": "09652",
+			"name": "Xã Thái Hòa"
+		},
+		{
+			"id": "09691",
+			"name": "Xã Thuần Mỹ"
+		},
+		{
+			"id": "09685",
+			"name": "Xã Thụy An"
+		},
+		{
+			"id": "09682",
+			"name": "Xã Tiên Phong"
+		},
+		{
+			"id": "09670",
+			"name": "Xã Tòng Bạt"
+		},
+		{
+			"id": "09706",
+			"name": "Xã Vân Hòa"
+		},
+		{
+			"id": "09634",
+			"name": "Xã Vạn Thắng"
+		},
+		{
+			"id": "09664",
+			"name": "Xã Vật Lại"
+		},
+		{
+			"id": "09709",
+			"name": "Xã Yên Bài"
+		}
+	]
+}

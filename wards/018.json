@@ -1,0 +1,94 @@
+{
+	"id": "018",
+	"name": "Huyện Gia Lâm",
+	"data": [
+		{
+			"id": "00583",
+			"name": "Xã Bát Tràng"
+		},
+		{
+			"id": "00553",
+			"name": "Xã Cổ Bi"
+		},
+		{
+			"id": "00577",
+			"name": "Xã Đa Tốn"
+		},
+		{
+			"id": "00556",
+			"name": "Xã Đặng Xá"
+		},
+		{
+			"id": "00538",
+			"name": "Xã Đình Xuyên"
+		},
+		{
+			"id": "00574",
+			"name": "Xã Đông Dư"
+		},
+		{
+			"id": "00541",
+			"name": "Xã Dương Hà"
+		},
+		{
+			"id": "00568",
+			"name": "Xã Dương Quang"
+		},
+		{
+			"id": "00571",
+			"name": "Xã Dương Xá"
+		},
+		{
+			"id": "00580",
+			"name": "Xã Kiêu Kỵ"
+		},
+		{
+			"id": "00586",
+			"name": "Xã Kim Lan"
+		},
+		{
+			"id": "00562",
+			"name": "Xã Kim Sơn"
+		},
+		{
+			"id": "00550",
+			"name": "Xã Lệ Chi"
+		},
+		{
+			"id": "00535",
+			"name": "Xã Ninh Hiệp"
+		},
+		{
+			"id": "00544",
+			"name": "Xã Phù Đổng"
+		},
+		{
+			"id": "00559",
+			"name": "Xã Phú Thị"
+		},
+		{
+			"id": "00565",
+			"name": "Thị trấn Trâu Quỳ"
+		},
+		{
+			"id": "00547",
+			"name": "Xã Trung Mầu"
+		},
+		{
+			"id": "00589",
+			"name": "Xã Văn Đức"
+		},
+		{
+			"id": "00529",
+			"name": "Xã Yên Thường"
+		},
+		{
+			"id": "00526",
+			"name": "Thị trấn Yên Viên"
+		},
+		{
+			"id": "00532",
+			"name": "Xã Yên Viên"
+		}
+	]
+}

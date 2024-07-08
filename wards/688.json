@@ -1,0 +1,34 @@
+{
+	"id": "688",
+	"name": "Thị xã Phước Long",
+	"data": [
+		{
+			"id": "25245",
+			"name": "Xã Long Giang"
+		},
+		{
+			"id": "25220",
+			"name": "Phường Long Phước"
+		},
+		{
+			"id": "25217",
+			"name": "Phường Long Thủy"
+		},
+		{
+			"id": "25219",
+			"name": "Phường Phước Bình"
+		},
+		{
+			"id": "25249",
+			"name": "Xã Phước Tín"
+		},
+		{
+			"id": "25237",
+			"name": "Phường Sơn Giang"
+		},
+		{
+			"id": "25216",
+			"name": "Phường Thác Mơ"
+		}
+	]
+}

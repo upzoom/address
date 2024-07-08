@@ -1,0 +1,86 @@
+{
+	"id": "231",
+	"name": "Huyện Hạ Hoà",
+	"data": [
+		{
+			"id": "08095",
+			"name": "Xã Ấm Hạ"
+		},
+		{
+			"id": "08125",
+			"name": "Xã Bằng Giã"
+		},
+		{
+			"id": "08056",
+			"name": "Xã Đại Phạm"
+		},
+		{
+			"id": "08062",
+			"name": "Xã Đan Thượng"
+		},
+		{
+			"id": "08092",
+			"name": "Xã Gia Điền"
+		},
+		{
+			"id": "08053",
+			"name": "Thị trấn Hạ Hoà"
+		},
+		{
+			"id": "08065",
+			"name": "Xã Hà Lương"
+		},
+		{
+			"id": "08080",
+			"name": "Xã Hiền Lương"
+		},
+		{
+			"id": "08104",
+			"name": "Xã Hương Xạ"
+		},
+		{
+			"id": "08122",
+			"name": "Xã Lang Sơn"
+		},
+		{
+			"id": "08140",
+			"name": "Xã Minh Côi"
+		},
+		{
+			"id": "08119",
+			"name": "Xã Minh Hạc"
+		},
+		{
+			"id": "08089",
+			"name": "Xã Phương Viên"
+		},
+		{
+			"id": "08071",
+			"name": "Xã Tứ Hiệp"
+		},
+		{
+			"id": "08134",
+			"name": "Xã Văn Lang"
+		},
+		{
+			"id": "08143",
+			"name": "Xã Vĩnh Chân"
+		},
+		{
+			"id": "08131",
+			"name": "Xã Vô Tranh"
+		},
+		{
+			"id": "08110",
+			"name": "Xã Xuân Áng"
+		},
+		{
+			"id": "08113",
+			"name": "Xã Yên Kỳ"
+		},
+		{
+			"id": "08128",
+			"name": "Xã Yên Luật"
+		}
+	]
+}

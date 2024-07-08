@@ -1,0 +1,70 @@
+{
+	"id": "402",
+	"name": "Huyện Như Xuân",
+	"data": [
+		{
+			"id": "16177",
+			"name": "Xã Bãi Trành"
+		},
+		{
+			"id": "16204",
+			"name": "Xã Bình Lương"
+		},
+		{
+			"id": "16198",
+			"name": "Xã Cát Tân"
+		},
+		{
+			"id": "16195",
+			"name": "Xã Cát Vân"
+		},
+		{
+			"id": "16186",
+			"name": "Xã Hóa Quỳ"
+		},
+		{
+			"id": "16201",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "16213",
+			"name": "Xã Thanh Hòa"
+		},
+		{
+			"id": "16219",
+			"name": "Xã Thanh Lâm"
+		},
+		{
+			"id": "16216",
+			"name": "Xã Thanh Phong"
+		},
+		{
+			"id": "16207",
+			"name": "Xã Thanh Quân"
+		},
+		{
+			"id": "16222",
+			"name": "Xã Thanh Sơn"
+		},
+		{
+			"id": "16210",
+			"name": "Xã Thanh Xuân"
+		},
+		{
+			"id": "16225",
+			"name": "Xã Thượng Ninh"
+		},
+		{
+			"id": "16183",
+			"name": "Xã Xuân Bình"
+		},
+		{
+			"id": "16180",
+			"name": "Xã Xuân Hòa"
+		},
+		{
+			"id": "16174",
+			"name": "Thị trấn Yên Cát"
+		}
+	]
+}

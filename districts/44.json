@@ -1,0 +1,38 @@
+{
+	"id": "44",
+	"name": "Tỉnh Quảng Bình",
+	"data": [
+		{
+			"id": "458",
+			"name": "Thị xã Ba Đồn"
+		},
+		{
+			"id": "455",
+			"name": "Huyện Bố Trạch"
+		},
+		{
+			"id": "450",
+			"name": "Thành Phố Đồng Hới"
+		},
+		{
+			"id": "457",
+			"name": "Huyện Lệ Thủy"
+		},
+		{
+			"id": "452",
+			"name": "Huyện Minh Hóa"
+		},
+		{
+			"id": "456",
+			"name": "Huyện Quảng Ninh"
+		},
+		{
+			"id": "454",
+			"name": "Huyện Quảng Trạch"
+		},
+		{
+			"id": "453",
+			"name": "Huyện Tuyên Hóa"
+		}
+	]
+}

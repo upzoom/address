@@ -1,0 +1,58 @@
+{
+	"id": "415",
+	"name": "Huyện Quế Phong",
+	"data": [
+		{
+			"id": "16774",
+			"name": "Xã Căm Muộn"
+		},
+		{
+			"id": "16759",
+			"name": "Xã Châu Kim"
+		},
+		{
+			"id": "16765",
+			"name": "Xã Châu Thôn"
+		},
+		{
+			"id": "16744",
+			"name": "Xã Đồng Văn"
+		},
+		{
+			"id": "16747",
+			"name": "Xã Hạnh Dịch"
+		},
+		{
+			"id": "16738",
+			"name": "Thị trấn Kim Sơn"
+		},
+		{
+			"id": "16763",
+			"name": "Xã Mường Nọc"
+		},
+		{
+			"id": "16753",
+			"name": "Xã Nậm Giải"
+		},
+		{
+			"id": "16768",
+			"name": "Xã Nậm Nhoóng"
+		},
+		{
+			"id": "16771",
+			"name": "Xã Quang Phong"
+		},
+		{
+			"id": "16741",
+			"name": "Xã Thông Thụ"
+		},
+		{
+			"id": "16750",
+			"name": "Xã Tiền Phong"
+		},
+		{
+			"id": "16756",
+			"name": "Xã Tri Lễ"
+		}
+	]
+}

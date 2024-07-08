@@ -1,0 +1,94 @@
+{
+	"id": "180",
+	"name": "Huyện Tràng Định",
+	"data": [
+		{
+			"id": "06010",
+			"name": "Xã Cao Minh"
+		},
+		{
+			"id": "06034",
+			"name": "Xã Chi Lăng"
+		},
+		{
+			"id": "06013",
+			"name": "Xã Chí Minh"
+		},
+		{
+			"id": "06040",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "06043",
+			"name": "Xã Đào Viên"
+		},
+		{
+			"id": "06046",
+			"name": "Xã Đề Thám"
+		},
+		{
+			"id": "06001",
+			"name": "Xã Đoàn Kết"
+		},
+		{
+			"id": "06025",
+			"name": "Xã Đội Cấn"
+		},
+		{
+			"id": "06055",
+			"name": "Xã Hùng Sơn"
+		},
+		{
+			"id": "06061",
+			"name": "Xã Hùng Việt"
+		},
+		{
+			"id": "06049",
+			"name": "Xã Kháng Chiến"
+		},
+		{
+			"id": "05998",
+			"name": "Xã Khánh Long"
+		},
+		{
+			"id": "06031",
+			"name": "Xã Kim Đồng"
+		},
+		{
+			"id": "06004",
+			"name": "Xã Quốc Khánh"
+		},
+		{
+			"id": "06058",
+			"name": "Xã Quốc Việt"
+		},
+		{
+			"id": "06028",
+			"name": "Xã Tân Minh"
+		},
+		{
+			"id": "06019",
+			"name": "Xã Tân Tiến"
+		},
+		{
+			"id": "06022",
+			"name": "Xã Tân Yên"
+		},
+		{
+			"id": "05995",
+			"name": "Thị trấn Thất Khê"
+		},
+		{
+			"id": "06016",
+			"name": "Xã Tri Phương"
+		},
+		{
+			"id": "06037",
+			"name": "Xã Trung Thành"
+		},
+		{
+			"id": "06007",
+			"name": "Xã Vĩnh Tiến"
+		}
+	]
+}

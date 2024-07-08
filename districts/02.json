@@ -1,0 +1,50 @@
+{
+	"id": "02",
+	"name": "Tỉnh Hà Giang",
+	"data": [
+		{
+			"id": "031",
+			"name": "Huyện Bắc Mê"
+		},
+		{
+			"id": "034",
+			"name": "Huyện Bắc Quang"
+		},
+		{
+			"id": "026",
+			"name": "Huyện Đồng Văn"
+		},
+		{
+			"id": "024",
+			"name": "Thành phố Hà Giang"
+		},
+		{
+			"id": "032",
+			"name": "Huyện Hoàng Su Phì"
+		},
+		{
+			"id": "027",
+			"name": "Huyện Mèo Vạc"
+		},
+		{
+			"id": "029",
+			"name": "Huyện Quản Bạ"
+		},
+		{
+			"id": "035",
+			"name": "Huyện Quang Bình"
+		},
+		{
+			"id": "030",
+			"name": "Huyện Vị Xuyên"
+		},
+		{
+			"id": "033",
+			"name": "Huyện Xín Mần"
+		},
+		{
+			"id": "028",
+			"name": "Huyện Yên Minh"
+		}
+	]
+}

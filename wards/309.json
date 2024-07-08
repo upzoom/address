@@ -1,0 +1,30 @@
+{
+	"id": "309",
+	"name": "Quận Dương Kinh",
+	"data": [
+		{
+			"id": "11689",
+			"name": "Phường Anh Dũng"
+		},
+		{
+			"id": "11683",
+			"name": "Phường Đa Phúc"
+		},
+		{
+			"id": "11692",
+			"name": "Phường Hải Thành"
+		},
+		{
+			"id": "11707",
+			"name": "Phường Hoà Nghĩa"
+		},
+		{
+			"id": "11686",
+			"name": "Phường Hưng Đạo"
+		},
+		{
+			"id": "11740",
+			"name": "Phường Tân Thành"
+		}
+	]
+}

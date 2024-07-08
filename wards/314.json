@@ -1,0 +1,78 @@
+{
+	"id": "314",
+	"name": "Huyện Kiến Thuỵ",
+	"data": [
+		{
+			"id": "11704",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "11728",
+			"name": "Xã Đại Hà"
+		},
+		{
+			"id": "11752",
+			"name": "Xã Đại Hợp"
+		},
+		{
+			"id": "11746",
+			"name": "Xã Đoàn Xá"
+		},
+		{
+			"id": "11695",
+			"name": "Xã Đông Phương"
+		},
+		{
+			"id": "11716",
+			"name": "Xã Du Lễ"
+		},
+		{
+			"id": "11701",
+			"name": "Xã Hữu Bằng"
+		},
+		{
+			"id": "11713",
+			"name": "Xã Kiến Quốc"
+		},
+		{
+			"id": "11725",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "11731",
+			"name": "Xã Ngũ Đoan"
+		},
+		{
+			"id": "11710",
+			"name": "Xã Ngũ Phúc"
+		},
+		{
+			"id": "11680",
+			"name": "Thị trấn Núi Đối"
+		},
+		{
+			"id": "11734",
+			"name": "Xã Tân Phong"
+		},
+		{
+			"id": "11743",
+			"name": "Xã Tân Trào"
+		},
+		{
+			"id": "11722",
+			"name": "Xã Thanh Sơn"
+		},
+		{
+			"id": "11698",
+			"name": "Xã Thuận Thiên"
+		},
+		{
+			"id": "11719",
+			"name": "Xã Thuỵ Hương"
+		},
+		{
+			"id": "11749",
+			"name": "Xã Tú Sơn"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "911",
+	"name": "Thành phố Phú Quốc",
+	"data": [
+		{
+			"id": "31081",
+			"name": "Phường An Thới"
+		},
+		{
+			"id": "31102",
+			"name": "Xã Bãi Thơm"
+		},
+		{
+			"id": "31084",
+			"name": "Xã Cửa Cạn"
+		},
+		{
+			"id": "31090",
+			"name": "Xã Cửa Dương"
+		},
+		{
+			"id": "31078",
+			"name": "Phường Dương Đông"
+		},
+		{
+			"id": "31096",
+			"name": "Xã Dương Tơ"
+		},
+		{
+			"id": "31087",
+			"name": "Xã Gành Dầu"
+		},
+		{
+			"id": "31093",
+			"name": "Xã Hàm Ninh"
+		},
+		{
+			"id": "31105",
+			"name": "Xã Thổ Châu"
+		}
+	]
+}

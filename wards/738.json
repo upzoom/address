@@ -1,0 +1,46 @@
+{
+	"id": "738",
+	"name": "Huyện Thống Nhất",
+	"data": [
+		{
+			"id": "26314",
+			"name": "Xã Bàu Hàm 2"
+		},
+		{
+			"id": "26326",
+			"name": "Thị trấn Dầu Giây"
+		},
+		{
+			"id": "26308",
+			"name": "Xã Gia Kiệm"
+		},
+		{
+			"id": "26299",
+			"name": "Xã Gia Tân 1"
+		},
+		{
+			"id": "26302",
+			"name": "Xã Gia Tân 2"
+		},
+		{
+			"id": "26305",
+			"name": "Xã Gia Tân 3"
+		},
+		{
+			"id": "26317",
+			"name": "Xã Hưng Lộc"
+		},
+		{
+			"id": "26320",
+			"name": "Xã Lộ 25"
+		},
+		{
+			"id": "26311",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "26323",
+			"name": "Xã Xuân Thiện"
+		}
+	]
+}

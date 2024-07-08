@@ -1,0 +1,106 @@
+{
+	"id": "356",
+	"name": "Thành phố Nam Định",
+	"data": [
+		{
+			"id": "13654",
+			"name": "Phường Bà Triệu"
+		},
+		{
+			"id": "13648",
+			"name": "Phường Cửa Bắc"
+		},
+		{
+			"id": "13690",
+			"name": "Phường Cửa Nam"
+		},
+		{
+			"id": "13633",
+			"name": "Phường Hạ Long"
+		},
+		{
+			"id": "13702",
+			"name": "Xã Lộc An"
+		},
+		{
+			"id": "13684",
+			"name": "Phường Lộc Hạ"
+		},
+		{
+			"id": "13693",
+			"name": "Phường Lộc Hòa"
+		},
+		{
+			"id": "13687",
+			"name": "Phường Lộc Vượng"
+		},
+		{
+			"id": "13699",
+			"name": "Phường Mỹ Xá"
+		},
+		{
+			"id": "13696",
+			"name": "Xã Nam Phong"
+		},
+		{
+			"id": "13705",
+			"name": "Xã Nam Vân"
+		},
+		{
+			"id": "13672",
+			"name": "Phường Năng Tĩnh"
+		},
+		{
+			"id": "13663",
+			"name": "Phường Ngô Quyền"
+		},
+		{
+			"id": "13651",
+			"name": "Phường Nguyễn Du"
+		},
+		{
+			"id": "13660",
+			"name": "Phường Phan Đình Phùng"
+		},
+		{
+			"id": "13645",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "13681",
+			"name": "Phường Thống Nhất"
+		},
+		{
+			"id": "13669",
+			"name": "Phường Trần Đăng Ninh"
+		},
+		{
+			"id": "13666",
+			"name": "Phường Trần Hưng Đạo"
+		},
+		{
+			"id": "13678",
+			"name": "Phường Trần Quang Khải"
+		},
+		{
+			"id": "13636",
+			"name": "Phường Trần Tế Xương"
+		},
+		{
+			"id": "13657",
+			"name": "Phường Trường Thi"
+		},
+		{
+			"id": "13675",
+			"name": "Phường Văn Miếu"
+		},
+		{
+			"id": "13639",
+			"name": "Phường Vị Hoàng"
+		},
+		{
+			"id": "13642",
+			"name": "Phường Vị Xuyên"
+		}
+	]
+}

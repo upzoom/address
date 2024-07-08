@@ -1,0 +1,38 @@
+{
+	"id": "86",
+	"name": "Tỉnh Vĩnh Long",
+	"data": [
+		{
+			"id": "859",
+			"name": "Huyện  Vũng Liêm"
+		},
+		{
+			"id": "861",
+			"name": "Thị xã Bình Minh"
+		},
+		{
+			"id": "863",
+			"name": "Huyện Bình Tân"
+		},
+		{
+			"id": "857",
+			"name": "Huyện Long Hồ"
+		},
+		{
+			"id": "858",
+			"name": "Huyện Mang Thít"
+		},
+		{
+			"id": "860",
+			"name": "Huyện Tam Bình"
+		},
+		{
+			"id": "862",
+			"name": "Huyện Trà Ôn"
+		},
+		{
+			"id": "855",
+			"name": "Thành phố Vĩnh Long"
+		}
+	]
+}

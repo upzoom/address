@@ -1,0 +1,42 @@
+{
+	"id": "530",
+	"name": "Huyện Sơn Tây",
+	"data": [
+		{
+			"id": "21331",
+			"name": "Xã Sơn Bua"
+		},
+		{
+			"id": "21340",
+			"name": "Xã Sơn Dung"
+		},
+		{
+			"id": "21346",
+			"name": "Xã Sơn Lập"
+		},
+		{
+			"id": "21335",
+			"name": "Xã Sơn Liên"
+		},
+		{
+			"id": "21341",
+			"name": "Xã Sơn Long"
+		},
+		{
+			"id": "21338",
+			"name": "Xã Sơn Màu"
+		},
+		{
+			"id": "21334",
+			"name": "Xã Sơn Mùa"
+		},
+		{
+			"id": "21337",
+			"name": "Xã Sơn Tân"
+		},
+		{
+			"id": "21343",
+			"name": "Xã Sơn Tinh"
+		}
+	]
+}

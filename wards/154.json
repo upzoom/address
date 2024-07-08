@@ -1,0 +1,46 @@
+{
+	"id": "154",
+	"name": "Huyện Cao Phong",
+	"data": [
+		{
+			"id": "05098",
+			"name": "Xã Bắc Phong"
+		},
+		{
+			"id": "05092",
+			"name": "Xã Bình Thanh"
+		},
+		{
+			"id": "05089",
+			"name": "Thị trấn Cao Phong"
+		},
+		{
+			"id": "05116",
+			"name": "Xã Dũng Phong"
+		},
+		{
+			"id": "05104",
+			"name": "Xã Hợp Phong"
+		},
+		{
+			"id": "05119",
+			"name": "Xã Nam Phong"
+		},
+		{
+			"id": "05110",
+			"name": "Xã Tây Phong"
+		},
+		{
+			"id": "05125",
+			"name": "Xã Thạch Yên"
+		},
+		{
+			"id": "05101",
+			"name": "Xã Thu Phong"
+		},
+		{
+			"id": "05095",
+			"name": "Xã Thung Nai"
+		}
+	]
+}

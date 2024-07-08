@@ -1,0 +1,66 @@
+{
+	"id": "070",
+	"name": "Thành phố Tuyên Quang",
+	"data": [
+		{
+			"id": "02503",
+			"name": "Xã An Khang"
+		},
+		{
+			"id": "02512",
+			"name": "Phường An Tường"
+		},
+		{
+			"id": "02524",
+			"name": "Phường Đội Cấn"
+		},
+		{
+			"id": "02218",
+			"name": "Phường Hưng Thành"
+		},
+		{
+			"id": "02497",
+			"name": "Xã Kim Phú"
+		},
+		{
+			"id": "02515",
+			"name": "Xã Lưỡng Vượng"
+		},
+		{
+			"id": "02203",
+			"name": "Phường Minh Xuân"
+		},
+		{
+			"id": "02509",
+			"name": "Phường Mỹ Lâm"
+		},
+		{
+			"id": "02212",
+			"name": "Phường Nông Tiến"
+		},
+		{
+			"id": "02200",
+			"name": "Phường Phan Thiết"
+		},
+		{
+			"id": "02216",
+			"name": "Phường Tân Hà"
+		},
+		{
+			"id": "02206",
+			"name": "Phường Tân Quang"
+		},
+		{
+			"id": "02521",
+			"name": "Xã Thái Long"
+		},
+		{
+			"id": "02209",
+			"name": "Xã Tràng Đà"
+		},
+		{
+			"id": "02215",
+			"name": "Phường Ỷ La"
+		}
+	]
+}

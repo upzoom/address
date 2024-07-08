@@ -1,0 +1,54 @@
+{
+	"id": "139",
+	"name": "Huyện Trạm Tấu",
+	"data": [
+		{
+			"id": "04612",
+			"name": "Xã Bản Công"
+		},
+		{
+			"id": "04615",
+			"name": "Xã Bản Mù"
+		},
+		{
+			"id": "04618",
+			"name": "Xã Hát Lìu"
+		},
+		{
+			"id": "04609",
+			"name": "Xã Làng Nhì"
+		},
+		{
+			"id": "04606",
+			"name": "Xã Pá Hu"
+		},
+		{
+			"id": "04591",
+			"name": "Xã Pá Lau"
+		},
+		{
+			"id": "04597",
+			"name": "Xã Phình Hồ"
+		},
+		{
+			"id": "04603",
+			"name": "Xã Tà Si Láng"
+		},
+		{
+			"id": "04585",
+			"name": "Thị trấn Trạm Tấu"
+		},
+		{
+			"id": "04600",
+			"name": "Xã Trạm Tấu"
+		},
+		{
+			"id": "04588",
+			"name": "Xã Túc Đán"
+		},
+		{
+			"id": "04594",
+			"name": "Xã Xà Hồ"
+		}
+	]
+}

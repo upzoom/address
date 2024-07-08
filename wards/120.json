@@ -1,0 +1,70 @@
+{
+	"id": "120",
+	"name": "Huyện Mường La",
+	"data": [
+		{
+			"id": "03832",
+			"name": "Xã Chiềng Ân"
+		},
+		{
+			"id": "03838",
+			"name": "Xã Chiềng Công"
+		},
+		{
+			"id": "03850",
+			"name": "Xã Chiềng Hoa"
+		},
+		{
+			"id": "03814",
+			"name": "Xã Chiềng Lao"
+		},
+		{
+			"id": "03829",
+			"name": "Xã Chiềng Muôn"
+		},
+		{
+			"id": "03844",
+			"name": "Xã Chiềng San"
+		},
+		{
+			"id": "03817",
+			"name": "Xã Hua Trai"
+		},
+		{
+			"id": "03808",
+			"name": "Thị trấn Ít Ong"
+		},
+		{
+			"id": "03847",
+			"name": "Xã Mường Bú"
+		},
+		{
+			"id": "03853",
+			"name": "Xã Mường Chùm"
+		},
+		{
+			"id": "03823",
+			"name": "Xã Mường Trai"
+		},
+		{
+			"id": "03811",
+			"name": "Xã Nậm Giôn"
+		},
+		{
+			"id": "03826",
+			"name": "Xã Nậm Păm"
+		},
+		{
+			"id": "03820",
+			"name": "Xã Ngọc Chiến"
+		},
+		{
+			"id": "03835",
+			"name": "Xã Pi Toong"
+		},
+		{
+			"id": "03841",
+			"name": "Xã Tạ Bú"
+		}
+	]
+}

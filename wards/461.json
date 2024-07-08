@@ -1,0 +1,42 @@
+{
+	"id": "461",
+	"name": "Thành phố Đông Hà",
+	"data": [
+		{
+			"id": "19333",
+			"name": "Phường 1"
+		},
+		{
+			"id": "19342",
+			"name": "Phường 2"
+		},
+		{
+			"id": "19354",
+			"name": "Phường 3"
+		},
+		{
+			"id": "19345",
+			"name": "Phường 4"
+		},
+		{
+			"id": "19348",
+			"name": "Phường 5"
+		},
+		{
+			"id": "19330",
+			"name": "Phường Đông Giang"
+		},
+		{
+			"id": "19336",
+			"name": "Phường Đông Lễ"
+		},
+		{
+			"id": "19351",
+			"name": "Phường Đông Lương"
+		},
+		{
+			"id": "19339",
+			"name": "Phường Đông Thanh"
+		}
+	]
+}

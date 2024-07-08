@@ -1,0 +1,98 @@
+{
+	"id": "522",
+	"name": "Thành phố Quảng Ngãi",
+	"data": [
+		{
+			"id": "21031",
+			"name": "Phường Chánh Lộ"
+		},
+		{
+			"id": "21010",
+			"name": "Phường Lê Hồng Phong"
+		},
+		{
+			"id": "21262",
+			"name": "Xã Nghĩa An"
+		},
+		{
+			"id": "21019",
+			"name": "Phường Nghĩa Chánh"
+		},
+		{
+			"id": "21037",
+			"name": "Xã Nghĩa Dõng"
+		},
+		{
+			"id": "21034",
+			"name": "Xã Nghĩa Dũng"
+		},
+		{
+			"id": "21256",
+			"name": "Xã Nghĩa Hà"
+		},
+		{
+			"id": "21028",
+			"name": "Phường Nghĩa Lộ"
+		},
+		{
+			"id": "21253",
+			"name": "Xã Nghĩa Phú"
+		},
+		{
+			"id": "21025",
+			"name": "Phường Nguyễn Nghiêm"
+		},
+		{
+			"id": "21016",
+			"name": "Phường Quảng Phú"
+		},
+		{
+			"id": "21232",
+			"name": "Xã Tịnh An"
+		},
+		{
+			"id": "21202",
+			"name": "Xã Tịnh Ấn Đông"
+		},
+		{
+			"id": "21223",
+			"name": "Xã Tịnh Ấn Tây"
+		},
+		{
+			"id": "21208",
+			"name": "Xã Tịnh Châu"
+		},
+		{
+			"id": "21187",
+			"name": "Xã Tịnh Hòa"
+		},
+		{
+			"id": "21211",
+			"name": "Xã Tịnh Khê"
+		},
+		{
+			"id": "21190",
+			"name": "Xã Tịnh Kỳ"
+		},
+		{
+			"id": "21214",
+			"name": "Xã Tịnh Long"
+		},
+		{
+			"id": "21199",
+			"name": "Xã Tịnh Thiện"
+		},
+		{
+			"id": "21022",
+			"name": "Phường Trần Hưng Đạo"
+		},
+		{
+			"id": "21013",
+			"name": "Phường Trần Phú"
+		},
+		{
+			"id": "21172",
+			"name": "Phường Trương Quang Trọng"
+		}
+	]
+}

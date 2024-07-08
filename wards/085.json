@@ -1,0 +1,82 @@
+{
+	"id": "085",
+	"name": "Huyện Bắc Hà",
+	"data": [
+		{
+			"id": "02839",
+			"name": "Thị trấn Bắc Hà"
+		},
+		{
+			"id": "02899",
+			"name": "Xã Bản Cái"
+		},
+		{
+			"id": "02869",
+			"name": "Xã Bản Liền"
+		},
+		{
+			"id": "02866",
+			"name": "Xã Bản Phố"
+		},
+		{
+			"id": "02890",
+			"name": "Xã Bảo Nhai"
+		},
+		{
+			"id": "02896",
+			"name": "Xã Cốc Lầu"
+		},
+		{
+			"id": "02878",
+			"name": "Xã Cốc Ly"
+		},
+		{
+			"id": "02863",
+			"name": "Xã Hoàng Thu Phố"
+		},
+		{
+			"id": "02842",
+			"name": "Xã Lùng Cải"
+		},
+		{
+			"id": "02848",
+			"name": "Xã Lùng Phình"
+		},
+		{
+			"id": "02875",
+			"name": "Xã Na Hối"
+		},
+		{
+			"id": "02884",
+			"name": "Xã Nậm Đét"
+		},
+		{
+			"id": "02887",
+			"name": "Xã Nậm Khánh"
+		},
+		{
+			"id": "02893",
+			"name": "Xã Nậm Lúc"
+		},
+		{
+			"id": "02881",
+			"name": "Xã Nậm Mòn"
+		},
+		{
+			"id": "02872",
+			"name": "Xã Tà Chải"
+		},
+		{
+			"id": "02854",
+			"name": "Xã Tả Củ Tỷ"
+		},
+		{
+			"id": "02851",
+			"name": "Xã Tả Van Chư"
+		},
+		{
+			"id": "02857",
+			"name": "Xã Thải Giàng Phố"
+		}
+	]
+}

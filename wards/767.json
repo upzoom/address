@@ -1,0 +1,50 @@
+{
+	"id": "767",
+	"name": "Quận Tân Phú",
+	"data": [
+		{
+			"id": "27037",
+			"name": "Phường Hiệp Tân"
+		},
+		{
+			"id": "27034",
+			"name": "Phường Hòa Thạnh"
+		},
+		{
+			"id": "27028",
+			"name": "Phường Phú Thạnh"
+		},
+		{
+			"id": "27025",
+			"name": "Phường Phú Thọ Hòa"
+		},
+		{
+			"id": "27031",
+			"name": "Phường Phú Trung"
+		},
+		{
+			"id": "27016",
+			"name": "Phường Sơn Kỳ"
+		},
+		{
+			"id": "27019",
+			"name": "Phường Tân Quý"
+		},
+		{
+			"id": "27010",
+			"name": "Phường Tân Sơn Nhì"
+		},
+		{
+			"id": "27022",
+			"name": "Phường Tân Thành"
+		},
+		{
+			"id": "27040",
+			"name": "Phường Tân Thới Hòa"
+		},
+		{
+			"id": "27013",
+			"name": "Phường Tây Thạnh"
+		}
+	]
+}

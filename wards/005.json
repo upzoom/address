@@ -1,0 +1,38 @@
+{
+	"id": "005",
+	"name": "Quận Cầu Giấy",
+	"data": [
+		{
+			"id": "00166",
+			"name": "Phường Dịch Vọng"
+		},
+		{
+			"id": "00167",
+			"name": "Phường Dịch Vọng Hậu"
+		},
+		{
+			"id": "00163",
+			"name": "Phường Mai Dịch"
+		},
+		{
+			"id": "00157",
+			"name": "Phường Nghĩa Đô"
+		},
+		{
+			"id": "00160",
+			"name": "Phường Nghĩa Tân"
+		},
+		{
+			"id": "00169",
+			"name": "Phường Quan Hoa"
+		},
+		{
+			"id": "00175",
+			"name": "Phường Trung Hoà"
+		},
+		{
+			"id": "00172",
+			"name": "Phường Yên Hoà"
+		}
+	]
+}

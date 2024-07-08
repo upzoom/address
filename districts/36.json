@@ -1,0 +1,46 @@
+{
+	"id": "36",
+	"name": "Tỉnh Nam Định",
+	"data": [
+		{
+			"id": "365",
+			"name": "Huyện Giao Thủy"
+		},
+		{
+			"id": "366",
+			"name": "Huyện Hải Hậu"
+		},
+		{
+			"id": "358",
+			"name": "Huyện Mỹ Lộc"
+		},
+		{
+			"id": "356",
+			"name": "Thành phố Nam Định"
+		},
+		{
+			"id": "362",
+			"name": "Huyện Nam Trực"
+		},
+		{
+			"id": "361",
+			"name": "Huyện Nghĩa Hưng"
+		},
+		{
+			"id": "363",
+			"name": "Huyện Trực Ninh"
+		},
+		{
+			"id": "359",
+			"name": "Huyện Vụ Bản"
+		},
+		{
+			"id": "364",
+			"name": "Huyện Xuân Trường"
+		},
+		{
+			"id": "360",
+			"name": "Huyện Ý Yên"
+		}
+	]
+}

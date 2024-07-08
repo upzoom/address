@@ -1,0 +1,62 @@
+{
+	"id": "086",
+	"name": "Huyện Bảo Thắng",
+	"data": [
+		{
+			"id": "02914",
+			"name": "Xã Bản Cầm"
+		},
+		{
+			"id": "02911",
+			"name": "Xã Bản Phiệt"
+		},
+		{
+			"id": "02923",
+			"name": "Xã Gia Phú"
+		},
+		{
+			"id": "02902",
+			"name": "Thị trấn N.T Phong Hải"
+		},
+		{
+			"id": "02905",
+			"name": "Thị trấn Phố Lu"
+		},
+		{
+			"id": "02920",
+			"name": "Xã Phong Niên"
+		},
+		{
+			"id": "02944",
+			"name": "Xã Phú Nhuận"
+		},
+		{
+			"id": "02938",
+			"name": "Xã Sơn Hà"
+		},
+		{
+			"id": "02929",
+			"name": "Xã Sơn Hải"
+		},
+		{
+			"id": "02908",
+			"name": "Thị trấn Tằng Loỏng"
+		},
+		{
+			"id": "02917",
+			"name": "Xã Thái Niên"
+		},
+		{
+			"id": "02935",
+			"name": "Xã Trì Quang"
+		},
+		{
+			"id": "02932",
+			"name": "Xã Xuân Giao"
+		},
+		{
+			"id": "02926",
+			"name": "Xã Xuân Quang"
+		}
+	]
+}

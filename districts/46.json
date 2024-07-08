@@ -1,0 +1,42 @@
+{
+	"id": "46",
+	"name": "Tỉnh Thừa Thiên Huế",
+	"data": [
+		{
+			"id": "481",
+			"name": "Huyện A Lưới"
+		},
+		{
+			"id": "474",
+			"name": "Thành phố Huế"
+		},
+		{
+			"id": "479",
+			"name": "Thị xã Hương Thủy"
+		},
+		{
+			"id": "480",
+			"name": "Thị xã Hương Trà"
+		},
+		{
+			"id": "483",
+			"name": "Huyện Nam Đông"
+		},
+		{
+			"id": "476",
+			"name": "Huyện Phong Điền"
+		},
+		{
+			"id": "482",
+			"name": "Huyện Phú Lộc"
+		},
+		{
+			"id": "478",
+			"name": "Huyện Phú Vang"
+		},
+		{
+			"id": "477",
+			"name": "Huyện Quảng Điền"
+		}
+	]
+}

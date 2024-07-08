@@ -1,0 +1,38 @@
+{
+	"id": "589",
+	"name": "Huyện Thuận Nam",
+	"data": [
+		{
+			"id": "22910",
+			"name": "Xã Cà Ná"
+		},
+		{
+			"id": "22900",
+			"name": "Xã Nhị Hà"
+		},
+		{
+			"id": "22909",
+			"name": "Xã Phước Diêm"
+		},
+		{
+			"id": "22903",
+			"name": "Xã Phước Dinh"
+		},
+		{
+			"id": "22885",
+			"name": "Xã Phước Hà"
+		},
+		{
+			"id": "22906",
+			"name": "Xã Phước Minh"
+		},
+		{
+			"id": "22897",
+			"name": "Xã Phước Nam"
+		},
+		{
+			"id": "22898",
+			"name": "Xã Phước Ninh"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "307",
+	"name": "Quận Kiến An",
+	"data": [
+		{
+			"id": "11434",
+			"name": "Phường Bắc Sơn"
+		},
+		{
+			"id": "11431",
+			"name": "Phường Đồng Hoà"
+		},
+		{
+			"id": "11429",
+			"name": "Phường Lãm Hà"
+		},
+		{
+			"id": "11437",
+			"name": "Phường Nam Sơn"
+		},
+		{
+			"id": "11440",
+			"name": "Phường Ngọc Sơn"
+		},
+		{
+			"id": "11449",
+			"name": "Phường Phù Liễn"
+		},
+		{
+			"id": "11428",
+			"name": "Phường Quán Trữ"
+		},
+		{
+			"id": "11443",
+			"name": "Phường Trần Thành Ngọ"
+		},
+		{
+			"id": "11452",
+			"name": "Phường Tràng Minh"
+		},
+		{
+			"id": "11446",
+			"name": "Phường Văn Đẩu"
+		}
+	]
+}

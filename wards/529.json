@@ -1,0 +1,62 @@
+{
+	"id": "529",
+	"name": "Huyện Sơn Hà",
+	"data": [
+		{
+			"id": "21289",
+			"name": "Thị trấn Di Lăng"
+		},
+		{
+			"id": "21328",
+			"name": "Xã Sơn Ba"
+		},
+		{
+			"id": "21301",
+			"name": "Xã Sơn Bao"
+		},
+		{
+			"id": "21316",
+			"name": "Xã Sơn Cao"
+		},
+		{
+			"id": "21307",
+			"name": "Xã Sơn Giang"
+		},
+		{
+			"id": "21292",
+			"name": "Xã Sơn Hạ"
+		},
+		{
+			"id": "21319",
+			"name": "Xã Sơn Hải"
+		},
+		{
+			"id": "21325",
+			"name": "Xã Sơn Kỳ"
+		},
+		{
+			"id": "21304",
+			"name": "Xã Sơn Linh"
+		},
+		{
+			"id": "21298",
+			"name": "Xã Sơn Nham"
+		},
+		{
+			"id": "21295",
+			"name": "Xã Sơn Thành"
+		},
+		{
+			"id": "21313",
+			"name": "Xã Sơn Thượng"
+		},
+		{
+			"id": "21322",
+			"name": "Xã Sơn Thủy"
+		},
+		{
+			"id": "21310",
+			"name": "Xã Sơn Trung"
+		}
+	]
+}

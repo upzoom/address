@@ -1,0 +1,46 @@
+{
+	"id": "060",
+	"name": "Huyện Pác Nặm",
+	"data": [
+		{
+			"id": "01876",
+			"name": "Xã An Thắng"
+		},
+		{
+			"id": "01858",
+			"name": "Xã Bằng Thành"
+		},
+		{
+			"id": "01864",
+			"name": "Xã Bộc Bố"
+		},
+		{
+			"id": "01885",
+			"name": "Xã Cao Tân"
+		},
+		{
+			"id": "01879",
+			"name": "Xã Cổ Linh"
+		},
+		{
+			"id": "01867",
+			"name": "Xã Công Bằng"
+		},
+		{
+			"id": "01870",
+			"name": "Xã Giáo Hiệu"
+		},
+		{
+			"id": "01882",
+			"name": "Xã Nghiên Loan"
+		},
+		{
+			"id": "01861",
+			"name": "Xã Nhạn Môn"
+		},
+		{
+			"id": "01873",
+			"name": "Xã Xuân La"
+		}
+	]
+}

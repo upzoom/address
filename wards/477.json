@@ -1,0 +1,50 @@
+{
+	"id": "477",
+	"name": "Huyện Quảng Điền",
+	"data": [
+		{
+			"id": "19888",
+			"name": "Xã Quảng An"
+		},
+		{
+			"id": "19879",
+			"name": "Xã Quảng Công"
+		},
+		{
+			"id": "19876",
+			"name": "Xã Quảng Lợi"
+		},
+		{
+			"id": "19873",
+			"name": "Xã Quảng Ngạn"
+		},
+		{
+			"id": "19897",
+			"name": "Xã Quảng Phú"
+		},
+		{
+			"id": "19882",
+			"name": "Xã Quảng Phước"
+		},
+		{
+			"id": "19870",
+			"name": "Xã Quảng Thái"
+		},
+		{
+			"id": "19891",
+			"name": "Xã Quảng Thành"
+		},
+		{
+			"id": "19894",
+			"name": "Xã Quảng Thọ"
+		},
+		{
+			"id": "19885",
+			"name": "Xã Quảng Vinh"
+		},
+		{
+			"id": "19867",
+			"name": "Thị trấn Sịa"
+		}
+	]
+}

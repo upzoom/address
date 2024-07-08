@@ -1,0 +1,50 @@
+{
+	"id": "096",
+	"name": "Huyện Mường Nhé",
+	"data": [
+		{
+			"id": "03157",
+			"name": "Xã Chung Chải"
+		},
+		{
+			"id": "03177",
+			"name": "Xã Huổi Lếnh"
+		},
+		{
+			"id": "03158",
+			"name": "Xã Leng Su Sìn"
+		},
+		{
+			"id": "03160",
+			"name": "Xã Mường Nhé"
+		},
+		{
+			"id": "03163",
+			"name": "Xã Mường Toong"
+		},
+		{
+			"id": "03162",
+			"name": "Xã Nậm Kè"
+		},
+		{
+			"id": "03161",
+			"name": "Xã Nậm Vì"
+		},
+		{
+			"id": "03159",
+			"name": "Xã Pá Mỳ"
+		},
+		{
+			"id": "03164",
+			"name": "Xã Quảng Lâm"
+		},
+		{
+			"id": "03155",
+			"name": "Xã Sen Thượng"
+		},
+		{
+			"id": "03154",
+			"name": "Xã Sín Thầu"
+		}
+	]
+}

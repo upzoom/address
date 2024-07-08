@@ -1,0 +1,142 @@
+{
+	"id": "769",
+	"name": "Thành phố Thủ Đức",
+	"data": [
+		{
+			"id": "27094",
+			"name": "Phường An Khánh"
+		},
+		{
+			"id": "27115",
+			"name": "Phường An Lợi Đông"
+		},
+		{
+			"id": "27091",
+			"name": "Phường An Phú"
+		},
+		{
+			"id": "26797",
+			"name": "Phường Bình Chiểu"
+		},
+		{
+			"id": "26824",
+			"name": "Phường Bình Thọ"
+		},
+		{
+			"id": "27097",
+			"name": "Phường Bình Trưng Đông"
+		},
+		{
+			"id": "27100",
+			"name": "Phường Bình Trưng Tây"
+		},
+		{
+			"id": "27109",
+			"name": "Phường Cát Lái"
+		},
+		{
+			"id": "26812",
+			"name": "Phường Hiệp Bình Chánh"
+		},
+		{
+			"id": "26809",
+			"name": "Phường Hiệp Bình Phước"
+		},
+		{
+			"id": "26839",
+			"name": "Phường Hiệp Phú"
+		},
+		{
+			"id": "26815",
+			"name": "Phường Linh Chiểu"
+		},
+		{
+			"id": "26821",
+			"name": "Phường Linh Đông"
+		},
+		{
+			"id": "26818",
+			"name": "Phường Linh Tây"
+		},
+		{
+			"id": "26800",
+			"name": "Phường Linh Trung"
+		},
+		{
+			"id": "26794",
+			"name": "Phường Linh Xuân"
+		},
+		{
+			"id": "26830",
+			"name": "Phường Long Bình"
+		},
+		{
+			"id": "26857",
+			"name": "Phường Long Phước"
+		},
+		{
+			"id": "26833",
+			"name": "Phường Long Thạnh Mỹ"
+		},
+		{
+			"id": "26860",
+			"name": "Phường Long Trường"
+		},
+		{
+			"id": "26866",
+			"name": "Phường Phú Hữu"
+		},
+		{
+			"id": "26863",
+			"name": "Phường Phước Bình"
+		},
+		{
+			"id": "26851",
+			"name": "Phường Phước Long A"
+		},
+		{
+			"id": "26848",
+			"name": "Phường Phước Long B"
+		},
+		{
+			"id": "26803",
+			"name": "Phường Tam Bình"
+		},
+		{
+			"id": "26806",
+			"name": "Phường Tam Phú"
+		},
+		{
+			"id": "26836",
+			"name": "Phường Tân Phú"
+		},
+		{
+			"id": "26842",
+			"name": "Phường Tăng Nhơn Phú A"
+		},
+		{
+			"id": "26845",
+			"name": "Phường Tăng Nhơn Phú B"
+		},
+		{
+			"id": "27112",
+			"name": "Phường Thạnh Mỹ Lợi"
+		},
+		{
+			"id": "27088",
+			"name": "Phường Thảo Điền"
+		},
+		{
+			"id": "27118",
+			"name": "Phường Thủ Thiêm"
+		},
+		{
+			"id": "26854",
+			"name": "Phường Trường Thạnh"
+		},
+		{
+			"id": "26827",
+			"name": "Phường Trường Thọ"
+		}
+	]
+}

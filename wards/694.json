@@ -1,0 +1,58 @@
+{
+	"id": "694",
+	"name": "Huyện Hớn Quản",
+	"data": [
+		{
+			"id": "25330",
+			"name": "Xã An Khương"
+		},
+		{
+			"id": "25339",
+			"name": "Xã An Phú"
+		},
+		{
+			"id": "25360",
+			"name": "Xã Đồng Nơ"
+		},
+		{
+			"id": "25348",
+			"name": "Xã Minh Đức"
+		},
+		{
+			"id": "25349",
+			"name": "Xã Minh Tâm"
+		},
+		{
+			"id": "25351",
+			"name": "Xã Phước An"
+		},
+		{
+			"id": "25361",
+			"name": "Xã Tân Hiệp"
+		},
+		{
+			"id": "25345",
+			"name": "Xã Tân Hưng"
+		},
+		{
+			"id": "25357",
+			"name": "Thị trấn Tân Khai"
+		},
+		{
+			"id": "25342",
+			"name": "Xã Tân Lợi"
+		},
+		{
+			"id": "25438",
+			"name": "Xã Tân Quan"
+		},
+		{
+			"id": "25327",
+			"name": "Xã Thanh An"
+		},
+		{
+			"id": "25354",
+			"name": "Xã Thanh Bình"
+		}
+	]
+}

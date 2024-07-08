@@ -1,0 +1,50 @@
+{
+	"id": "20",
+	"name": "Tỉnh Lạng Sơn",
+	"data": [
+		{
+			"id": "185",
+			"name": "Huyện Bắc Sơn"
+		},
+		{
+			"id": "181",
+			"name": "Huyện Bình Gia"
+		},
+		{
+			"id": "183",
+			"name": "Huyện Cao Lộc"
+		},
+		{
+			"id": "187",
+			"name": "Huyện Chi Lăng"
+		},
+		{
+			"id": "189",
+			"name": "Huyện Đình Lập"
+		},
+		{
+			"id": "186",
+			"name": "Huyện Hữu Lũng"
+		},
+		{
+			"id": "178",
+			"name": "Thành phố Lạng Sơn"
+		},
+		{
+			"id": "188",
+			"name": "Huyện Lộc Bình"
+		},
+		{
+			"id": "180",
+			"name": "Huyện Tràng Định"
+		},
+		{
+			"id": "182",
+			"name": "Huyện Văn Lãng"
+		},
+		{
+			"id": "184",
+			"name": "Huyện Văn Quan"
+		}
+	]
+}

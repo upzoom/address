@@ -1,0 +1,78 @@
+{
+	"id": "250",
+	"name": "Huyện Mê Linh",
+	"data": [
+		{
+			"id": "08973",
+			"name": "Thị trấn Chi Đông"
+		},
+		{
+			"id": "09004",
+			"name": "Xã Chu Phan"
+		},
+		{
+			"id": "08974",
+			"name": "Xã Đại Thịnh"
+		},
+		{
+			"id": "09016",
+			"name": "Xã Hoàng Kim"
+		},
+		{
+			"id": "08977",
+			"name": "Xã Kim Hoa"
+		},
+		{
+			"id": "08998",
+			"name": "Xã Liên Mạc"
+		},
+		{
+			"id": "09010",
+			"name": "Xã Mê Linh"
+		},
+		{
+			"id": "08989",
+			"name": "Thị trấn Quang Minh"
+		},
+		{
+			"id": "08995",
+			"name": "Xã Tam Đồng"
+		},
+		{
+			"id": "08980",
+			"name": "Xã Thạch Đà"
+		},
+		{
+			"id": "08992",
+			"name": "Xã Thanh Lâm"
+		},
+		{
+			"id": "09019",
+			"name": "Xã Tiền Phong"
+		},
+		{
+			"id": "08983",
+			"name": "Xã Tiến Thắng"
+		},
+		{
+			"id": "09007",
+			"name": "Xã Tiến Thịnh"
+		},
+		{
+			"id": "09022",
+			"name": "Xã Tráng Việt"
+		},
+		{
+			"id": "08986",
+			"name": "Xã Tự Lập"
+		},
+		{
+			"id": "09013",
+			"name": "Xã Văn Khê"
+		},
+		{
+			"id": "09001",
+			"name": "Xã Vạn Yên"
+		}
+	]
+}

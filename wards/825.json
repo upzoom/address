@@ -1,0 +1,30 @@
+{
+	"id": "825",
+	"name": "Huyện Tân Phú Đông",
+	"data": [
+		{
+			"id": "28750",
+			"name": "Xã Phú Đông"
+		},
+		{
+			"id": "28753",
+			"name": "Xã Phú Tân"
+		},
+		{
+			"id": "28696",
+			"name": "Xã Phú Thạnh"
+		},
+		{
+			"id": "28693",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "28699",
+			"name": "Xã Tân Thạnh"
+		},
+		{
+			"id": "28690",
+			"name": "Xã Tân Thới"
+		}
+	]
+}

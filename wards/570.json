@@ -1,0 +1,62 @@
+{
+	"id": "570",
+	"name": "Huyện Cam Lâm",
+	"data": [
+		{
+			"id": "22465",
+			"name": "Xã Cam An Bắc"
+		},
+		{
+			"id": "22471",
+			"name": "Xã Cam An Nam"
+		},
+		{
+			"id": "22453",
+			"name": "Thị trấn Cam Đức"
+		},
+		{
+			"id": "22441",
+			"name": "Xã Cam Hải Đông"
+		},
+		{
+			"id": "22444",
+			"name": "Xã Cam Hải Tây"
+		},
+		{
+			"id": "22450",
+			"name": "Xã Cam Hiệp Bắc"
+		},
+		{
+			"id": "22456",
+			"name": "Xã Cam Hiệp Nam"
+		},
+		{
+			"id": "22438",
+			"name": "Xã Cam Hòa"
+		},
+		{
+			"id": "22459",
+			"name": "Xã Cam Phước Tây"
+		},
+		{
+			"id": "22435",
+			"name": "Xã Cam Tân"
+		},
+		{
+			"id": "22462",
+			"name": "Xã Cam Thành Bắc"
+		},
+		{
+			"id": "22447",
+			"name": "Xã Sơn Tân"
+		},
+		{
+			"id": "22708",
+			"name": "Xã Suối Cát"
+		},
+		{
+			"id": "22711",
+			"name": "Xã Suối Tân"
+		}
+	]
+}

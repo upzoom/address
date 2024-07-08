@@ -1,0 +1,134 @@
+{
+	"id": "164",
+	"name": "Thành phố Thái Nguyên",
+	"data": [
+		{
+			"id": "05467",
+			"name": "Phường Cam Giá"
+		},
+		{
+			"id": "05695",
+			"name": "Xã Cao Ngạn"
+		},
+		{
+			"id": "05659",
+			"name": "Phường Chùa Hang"
+		},
+		{
+			"id": "05710",
+			"name": "Phường Đồng Bẩm"
+		},
+		{
+			"id": "05914",
+			"name": "Xã Đồng Liên"
+		},
+		{
+			"id": "05458",
+			"name": "Phường Đồng Quang"
+		},
+		{
+			"id": "05461",
+			"name": "Phường Gia Sàng"
+		},
+		{
+			"id": "05440",
+			"name": "Phường Hoàng Văn Thụ"
+		},
+		{
+			"id": "05473",
+			"name": "Phường Hương Sơn"
+		},
+		{
+			"id": "05713",
+			"name": "Xã Huống Thượng"
+		},
+		{
+			"id": "05701",
+			"name": "Xã Linh Sơn"
+		},
+		{
+			"id": "05449",
+			"name": "Phường Phan Đình Phùng"
+		},
+		{
+			"id": "05470",
+			"name": "Phường Phú Xá"
+		},
+		{
+			"id": "05485",
+			"name": "Xã Phúc Hà"
+		},
+		{
+			"id": "05494",
+			"name": "Xã Phúc Trìu"
+		},
+		{
+			"id": "05488",
+			"name": "Xã Phúc Xuân"
+		},
+		{
+			"id": "05431",
+			"name": "Phường Quán Triều"
+		},
+		{
+			"id": "05446",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "05434",
+			"name": "Phường Quang Vinh"
+		},
+		{
+			"id": "05491",
+			"name": "Xã Quyết Thắng"
+		},
+		{
+			"id": "05653",
+			"name": "Xã Sơn Cẩm"
+		},
+		{
+			"id": "05503",
+			"name": "Xã Tân Cương"
+		},
+		{
+			"id": "05464",
+			"name": "Phường Tân Lập"
+		},
+		{
+			"id": "05482",
+			"name": "Phường Tân Long"
+		},
+		{
+			"id": "05479",
+			"name": "Phường Tân Thành"
+		},
+		{
+			"id": "05452",
+			"name": "Phường Tân Thịnh"
+		},
+		{
+			"id": "05455",
+			"name": "Phường Thịnh Đán"
+		},
+		{
+			"id": "05497",
+			"name": "Xã Thịnh Đức"
+		},
+		{
+			"id": "05500",
+			"name": "Phường Tích Lương"
+		},
+		{
+			"id": "05476",
+			"name": "Phường Trung Thành"
+		},
+		{
+			"id": "05443",
+			"name": "Phường Trưng Vương"
+		},
+		{
+			"id": "05437",
+			"name": "Phường Túc Duyên"
+		}
+	]
+}

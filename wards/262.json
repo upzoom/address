@@ -1,0 +1,78 @@
+{
+	"id": "262",
+	"name": "Thị xã Thuận Thành",
+	"data": [
+		{
+			"id": "09418",
+			"name": "Phường An Bình"
+		},
+		{
+			"id": "09406",
+			"name": "Xã Đại Đồng Thành"
+		},
+		{
+			"id": "09415",
+			"name": "Xã Đình Tổ"
+		},
+		{
+			"id": "09424",
+			"name": "Phường Gia Đông"
+		},
+		{
+			"id": "09436",
+			"name": "Phường Hà Mãn"
+		},
+		{
+			"id": "09400",
+			"name": "Phường Hồ"
+		},
+		{
+			"id": "09403",
+			"name": "Xã Hoài Thượng"
+		},
+		{
+			"id": "09409",
+			"name": "Xã Mão Điền"
+		},
+		{
+			"id": "09448",
+			"name": "Xã Nghĩa Đạo"
+		},
+		{
+			"id": "09439",
+			"name": "Xã Ngũ Thái"
+		},
+		{
+			"id": "09442",
+			"name": "Xã Nguyệt Đức"
+		},
+		{
+			"id": "09445",
+			"name": "Phường Ninh Xá"
+		},
+		{
+			"id": "09412",
+			"name": "Phường Song Hồ"
+		},
+		{
+			"id": "09451",
+			"name": "Xã Song Liễu"
+		},
+		{
+			"id": "09427",
+			"name": "Phường Thanh Khương"
+		},
+		{
+			"id": "09430",
+			"name": "Phường Trạm Lộ"
+		},
+		{
+			"id": "09421",
+			"name": "Phường Trí Quả"
+		},
+		{
+			"id": "09433",
+			"name": "Phường Xuân Lâm"
+		}
+	]
+}

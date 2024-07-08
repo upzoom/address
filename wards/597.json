@@ -1,0 +1,74 @@
+{
+	"id": "597",
+	"name": "Huyện Hàm Thuận Bắc",
+	"data": [
+		{
+			"id": "23107",
+			"name": "Xã Đa Mi"
+		},
+		{
+			"id": "23074",
+			"name": "Xã Đông Giang"
+		},
+		{
+			"id": "23068",
+			"name": "Xã Đông Tiến"
+		},
+		{
+			"id": "23098",
+			"name": "Xã Hàm Chính"
+		},
+		{
+			"id": "23092",
+			"name": "Xã Hàm Đức"
+		},
+		{
+			"id": "23101",
+			"name": "Xã Hàm Hiệp"
+		},
+		{
+			"id": "23095",
+			"name": "Xã Hàm Liêm"
+		},
+		{
+			"id": "23077",
+			"name": "Xã Hàm Phú"
+		},
+		{
+			"id": "23104",
+			"name": "Xã Hàm Thắng"
+		},
+		{
+			"id": "23089",
+			"name": "Xã Hàm Trí"
+		},
+		{
+			"id": "23080",
+			"name": "Xã Hồng Liêm"
+		},
+		{
+			"id": "23086",
+			"name": "Xã Hồng Sơn"
+		},
+		{
+			"id": "23065",
+			"name": "Xã La Dạ"
+		},
+		{
+			"id": "23059",
+			"name": "Thị trấn Ma Lâm"
+		},
+		{
+			"id": "23062",
+			"name": "Thị trấn Phú Long"
+		},
+		{
+			"id": "23071",
+			"name": "Xã Thuận Hòa"
+		},
+		{
+			"id": "23083",
+			"name": "Xã Thuận Minh"
+		}
+	]
+}

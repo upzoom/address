@@ -1,0 +1,78 @@
+{
+	"id": "293",
+	"name": "Huyện Kim Thành",
+	"data": [
+		{
+			"id": "10798",
+			"name": "Xã Bình Dân"
+		},
+		{
+			"id": "10762",
+			"name": "Xã Cổ Dũng"
+		},
+		{
+			"id": "10756",
+			"name": "Xã Cộng Hòa"
+		},
+		{
+			"id": "10810",
+			"name": "Xã Đại Đức"
+		},
+		{
+			"id": "10804",
+			"name": "Xã Đồng Cẩm"
+		},
+		{
+			"id": "10780",
+			"name": "Xã Kim Anh"
+		},
+		{
+			"id": "10792",
+			"name": "Xã Kim Đính"
+		},
+		{
+			"id": "10783",
+			"name": "Xã Kim Liên"
+		},
+		{
+			"id": "10786",
+			"name": "Xã Kim Tân"
+		},
+		{
+			"id": "10771",
+			"name": "Xã Kim Xuyên"
+		},
+		{
+			"id": "10753",
+			"name": "Xã Lai Vu"
+		},
+		{
+			"id": "10807",
+			"name": "Xã Liên Hòa"
+		},
+		{
+			"id": "10777",
+			"name": "Xã Ngũ Phúc"
+		},
+		{
+			"id": "10750",
+			"name": "Thị trấn Phú Thái"
+		},
+		{
+			"id": "10774",
+			"name": "Xã Phúc Thành A"
+		},
+		{
+			"id": "10801",
+			"name": "Xã Tam Kỳ"
+		},
+		{
+			"id": "10759",
+			"name": "Xã Thượng Vũ"
+		},
+		{
+			"id": "10768",
+			"name": "Xã Tuấn Việt"
+		}
+	]
+}

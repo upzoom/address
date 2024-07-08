@@ -1,0 +1,46 @@
+{
+	"id": "754",
+	"name": "Thị xã Phú Mỹ",
+	"data": [
+		{
+			"id": "26728",
+			"name": "Xã Châu Pha"
+		},
+		{
+			"id": "26725",
+			"name": "Phường Hắc Dịch"
+		},
+		{
+			"id": "26719",
+			"name": "Phường Mỹ Xuân"
+		},
+		{
+			"id": "26704",
+			"name": "Phường Phú Mỹ"
+		},
+		{
+			"id": "26713",
+			"name": "Phường Phước Hoà"
+		},
+		{
+			"id": "26722",
+			"name": "Xã Sông Xoài"
+		},
+		{
+			"id": "26710",
+			"name": "Xã Tân Hải"
+		},
+		{
+			"id": "26707",
+			"name": "Xã Tân Hoà"
+		},
+		{
+			"id": "26716",
+			"name": "Phường Tân Phước"
+		},
+		{
+			"id": "26731",
+			"name": "Xã Tóc Tiên"
+		}
+	]
+}

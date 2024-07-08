@@ -1,0 +1,70 @@
+{
+	"id": "582",
+	"name": "Thành phố Phan Rang-Tháp Chàm",
+	"data": [
+		{
+			"id": "22744",
+			"name": "Phường Bảo An"
+		},
+		{
+			"id": "22765",
+			"name": "Phường Đài Sơn"
+		},
+		{
+			"id": "22762",
+			"name": "Phường Đạo Long"
+		},
+		{
+			"id": "22738",
+			"name": "Phường Đô Vinh"
+		},
+		{
+			"id": "22768",
+			"name": "Phường Đông Hải"
+		},
+		{
+			"id": "22759",
+			"name": "Phường Kinh Dinh"
+		},
+		{
+			"id": "22779",
+			"name": "Phường Mỹ Bình"
+		},
+		{
+			"id": "22771",
+			"name": "Phường Mỹ Đông"
+		},
+		{
+			"id": "22780",
+			"name": "Phường Mỹ Hải"
+		},
+		{
+			"id": "22753",
+			"name": "Phường Mỹ Hương"
+		},
+		{
+			"id": "22747",
+			"name": "Phường Phủ Hà"
+		},
+		{
+			"id": "22741",
+			"name": "Phường Phước Mỹ"
+		},
+		{
+			"id": "22756",
+			"name": "Phường Tấn Tài"
+		},
+		{
+			"id": "22774",
+			"name": "Xã Thành Hải"
+		},
+		{
+			"id": "22750",
+			"name": "Phường Thanh Sơn"
+		},
+		{
+			"id": "22777",
+			"name": "Phường Văn Hải"
+		}
+	]
+}

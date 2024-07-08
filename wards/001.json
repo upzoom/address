@@ -1,0 +1,60 @@
+{
+	"data": [
+		{
+			"id": "00007",
+			"name": "Phường Cống Vị"
+		},
+		{
+			"id": "00019",
+			"name": "Phường Điện Biên"
+		},
+		{
+			"id": "00022",
+			"name": "Phường Đội Cấn"
+		},
+		{
+			"id": "00031",
+			"name": "Phường Giảng Võ"
+		},
+		{
+			"id": "00028",
+			"name": "Phường Kim Mã"
+		},
+		{
+			"id": "00008",
+			"name": "Phường Liễu Giai"
+		},
+		{
+			"id": "00016",
+			"name": "Phường Ngọc Hà"
+		},
+		{
+			"id": "00025",
+			"name": "Phường Ngọc Khánh"
+		},
+		{
+			"id": "00010",
+			"name": "Phường Nguyễn Trung Trực"
+		},
+		{
+			"id": "00001",
+			"name": "Phường Phúc Xá"
+		},
+		{
+			"id": "00013",
+			"name": "Phường Quán Thánh"
+		},
+		{
+			"id": "00034",
+			"name": "Phường Thành Công"
+		},
+		{
+			"id": "00004",
+			"name": "Phường Trúc Bạch"
+		},
+		{
+			"id": "00006",
+			"name": "Phường Vĩnh Phúc"
+		}
+	]
+}

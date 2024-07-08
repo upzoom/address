@@ -1,0 +1,46 @@
+{
+	"id": "102",
+	"name": "Huyện Mường Ảng",
+	"data": [
+		{
+			"id": "03310",
+			"name": "Xã Ẳng Cang"
+		},
+		{
+			"id": "03307",
+			"name": "Xã Ẳng Nưa"
+		},
+		{
+			"id": "03292",
+			"name": "Xã Ẳng Tở"
+		},
+		{
+			"id": "03301",
+			"name": "Xã Búng Lao"
+		},
+		{
+			"id": "03256",
+			"name": "Thị trấn Mường Ảng"
+		},
+		{
+			"id": "03286",
+			"name": "Xã Mường Đăng"
+		},
+		{
+			"id": "03313",
+			"name": "Xã Mường Lạn"
+		},
+		{
+			"id": "03312",
+			"name": "Xã Nặm Lịch"
+		},
+		{
+			"id": "03287",
+			"name": "Xã Ngối Cáy"
+		},
+		{
+			"id": "03302",
+			"name": "Xã Xuân Lao"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "778",
+	"name": "Quận 7",
+	"data": [
+		{
+			"id": "27478",
+			"name": "Phường Bình Thuận"
+		},
+		{
+			"id": "27493",
+			"name": "Phường Phú Mỹ"
+		},
+		{
+			"id": "27484",
+			"name": "Phường Phú Thuận"
+		},
+		{
+			"id": "27475",
+			"name": "Phường Tân Hưng"
+		},
+		{
+			"id": "27472",
+			"name": "Phường Tân Kiểng"
+		},
+		{
+			"id": "27490",
+			"name": "Phường Tân Phong"
+		},
+		{
+			"id": "27487",
+			"name": "Phường Tân Phú"
+		},
+		{
+			"id": "27481",
+			"name": "Phường Tân Quy"
+		},
+		{
+			"id": "27466",
+			"name": "Phường Tân Thuận Đông"
+		},
+		{
+			"id": "27469",
+			"name": "Phường Tân Thuận Tây"
+		}
+	]
+}

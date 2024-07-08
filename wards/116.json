@@ -1,0 +1,54 @@
+{
+	"id": "116",
+	"name": "Thành phố Sơn La",
+	"data": [
+		{
+			"id": "03667",
+			"name": "Phường Chiềng An"
+		},
+		{
+			"id": "03658",
+			"name": "Xã Chiềng Cọ"
+		},
+		{
+			"id": "03670",
+			"name": "Phường Chiềng Cơi"
+		},
+		{
+			"id": "03661",
+			"name": "Xã Chiềng Đen"
+		},
+		{
+			"id": "03646",
+			"name": "Phường Chiềng Lề"
+		},
+		{
+			"id": "03673",
+			"name": "Xã Chiềng Ngần"
+		},
+		{
+			"id": "03679",
+			"name": "Phường Chiềng Sinh"
+		},
+		{
+			"id": "03664",
+			"name": "Xã Chiềng Xôm"
+		},
+		{
+			"id": "03676",
+			"name": "Xã Hua La"
+		},
+		{
+			"id": "03655",
+			"name": "Phường Quyết Tâm"
+		},
+		{
+			"id": "03652",
+			"name": "Phường Quyết Thắng"
+		},
+		{
+			"id": "03649",
+			"name": "Phường Tô Hiệu"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"id": "568",
+	"name": "Thành phố Nha Trang",
+	"data": [
+		{
+			"id": "22363",
+			"name": "Phường Lộc Thọ"
+		},
+		{
+			"id": "22336",
+			"name": "Phường Ngọc Hiệp"
+		},
+		{
+			"id": "22405",
+			"name": "Xã Phước Đồng"
+		},
+		{
+			"id": "22357",
+			"name": "Phường Phước Hải"
+		},
+		{
+			"id": "22372",
+			"name": "Phường Phước Hòa"
+		},
+		{
+			"id": "22378",
+			"name": "Phường Phước Long"
+		},
+		{
+			"id": "22360",
+			"name": "Phường Phước Tân"
+		},
+		{
+			"id": "22366",
+			"name": "Phường Phước Tiến"
+		},
+		{
+			"id": "22351",
+			"name": "Phường Phương Sài"
+		},
+		{
+			"id": "22354",
+			"name": "Phường Phương Sơn"
+		},
+		{
+			"id": "22369",
+			"name": "Phường Tân Lập"
+		},
+		{
+			"id": "22345",
+			"name": "Phường Vạn Thắng"
+		},
+		{
+			"id": "22348",
+			"name": "Phường Vạn Thạnh"
+		},
+		{
+			"id": "22330",
+			"name": "Phường Vĩnh Hải"
+		},
+		{
+			"id": "22399",
+			"name": "Xã Vĩnh Hiệp"
+		},
+		{
+			"id": "22327",
+			"name": "Phường Vĩnh Hòa"
+		},
+		{
+			"id": "22384",
+			"name": "Xã Vĩnh Lương"
+		},
+		{
+			"id": "22390",
+			"name": "Xã Vĩnh Ngọc"
+		},
+		{
+			"id": "22375",
+			"name": "Phường Vĩnh Nguyên"
+		},
+		{
+			"id": "22333",
+			"name": "Phường Vĩnh Phước"
+		},
+		{
+			"id": "22387",
+			"name": "Xã Vĩnh Phương"
+		},
+		{
+			"id": "22402",
+			"name": "Xã Vĩnh Thái"
+		},
+		{
+			"id": "22393",
+			"name": "Xã Vĩnh Thạnh"
+		},
+		{
+			"id": "22339",
+			"name": "Phường Vĩnh Thọ"
+		},
+		{
+			"id": "22396",
+			"name": "Xã Vĩnh Trung"
+		},
+		{
+			"id": "22381",
+			"name": "Phường Vĩnh Trường"
+		},
+		{
+			"id": "22342",
+			"name": "Phường Xương Huân"
+		}
+	]
+}

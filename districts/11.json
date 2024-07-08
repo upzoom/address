@@ -1,0 +1,46 @@
+{
+	"id": "11",
+	"name": "Tỉnh Điện Biên",
+	"data": [
+		{
+			"id": "100",
+			"name": "Huyện Điện Biên"
+		},
+		{
+			"id": "101",
+			"name": "Huyện Điện Biên Đông"
+		},
+		{
+			"id": "094",
+			"name": "Thành phố Điện Biên Phủ"
+		},
+		{
+			"id": "102",
+			"name": "Huyện Mường Ảng"
+		},
+		{
+			"id": "097",
+			"name": "Huyện Mường Chà"
+		},
+		{
+			"id": "095",
+			"name": "Thị Xã Mường Lay"
+		},
+		{
+			"id": "096",
+			"name": "Huyện Mường Nhé"
+		},
+		{
+			"id": "103",
+			"name": "Huyện Nậm Pồ"
+		},
+		{
+			"id": "098",
+			"name": "Huyện Tủa Chùa"
+		},
+		{
+			"id": "099",
+			"name": "Huyện Tuần Giáo"
+		}
+	]
+}

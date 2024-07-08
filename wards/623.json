@@ -1,0 +1,50 @@
+{
+	"id": "623",
+	"name": "Thị xã An Khê",
+	"data": [
+		{
+			"id": "23614",
+			"name": "Phường An Bình"
+		},
+		{
+			"id": "23620",
+			"name": "Phường An Phú"
+		},
+		{
+			"id": "23630",
+			"name": "Phường An Phước"
+		},
+		{
+			"id": "23623",
+			"name": "Phường An Tân"
+		},
+		{
+			"id": "23629",
+			"name": "Xã Cửu An"
+		},
+		{
+			"id": "23633",
+			"name": "Phường Ngô Mây"
+		},
+		{
+			"id": "23632",
+			"name": "Xã Song An"
+		},
+		{
+			"id": "23617",
+			"name": "Phường Tây Sơn"
+		},
+		{
+			"id": "23635",
+			"name": "Xã Thành An"
+		},
+		{
+			"id": "23626",
+			"name": "Xã Tú An"
+		},
+		{
+			"id": "23627",
+			"name": "Xã Xuân An"
+		}
+	]
+}

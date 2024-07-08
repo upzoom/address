@@ -1,0 +1,54 @@
+{
+	"id": "14",
+	"name": "Tỉnh Sơn La",
+	"data": [
+		{
+			"id": "121",
+			"name": "Huyện Bắc Yên"
+		},
+		{
+			"id": "125",
+			"name": "Huyện Mai Sơn"
+		},
+		{
+			"id": "123",
+			"name": "Huyện Mộc Châu"
+		},
+		{
+			"id": "120",
+			"name": "Huyện Mường La"
+		},
+		{
+			"id": "122",
+			"name": "Huyện Phù Yên"
+		},
+		{
+			"id": "118",
+			"name": "Huyện Quỳnh Nhai"
+		},
+		{
+			"id": "116",
+			"name": "Thành phố Sơn La"
+		},
+		{
+			"id": "126",
+			"name": "Huyện Sông Mã"
+		},
+		{
+			"id": "127",
+			"name": "Huyện Sốp Cộp"
+		},
+		{
+			"id": "119",
+			"name": "Huyện Thuận Châu"
+		},
+		{
+			"id": "128",
+			"name": "Huyện Vân Hồ"
+		},
+		{
+			"id": "124",
+			"name": "Huyện Yên Châu"
+		}
+	]
+}

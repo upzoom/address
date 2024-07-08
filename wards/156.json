@@ -1,0 +1,70 @@
+{
+	"id": "156",
+	"name": "Huyện Mai Châu",
+	"data": [
+		{
+			"id": "05227",
+			"name": "Xã Bao La"
+		},
+		{
+			"id": "05248",
+			"name": "Xã Chiềng Châu"
+		},
+		{
+			"id": "05224",
+			"name": "Xã Cun Pheo"
+		},
+		{
+			"id": "05221",
+			"name": "Xã Đồng Tân"
+		},
+		{
+			"id": "05212",
+			"name": "Xã Hang Kia"
+		},
+		{
+			"id": "05200",
+			"name": "Thị trấn Mai Châu"
+		},
+		{
+			"id": "05251",
+			"name": "Xã Mai Hạ"
+		},
+		{
+			"id": "05257",
+			"name": "Xã Mai Hịch"
+		},
+		{
+			"id": "05242",
+			"name": "Xã Nà Phòn"
+		},
+		{
+			"id": "05209",
+			"name": "Xã Pà Cò"
+		},
+		{
+			"id": "05245",
+			"name": "Xã Săm Khóe"
+		},
+		{
+			"id": "05206",
+			"name": "Xã Sơn Thủy"
+		},
+		{
+			"id": "04882",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "05254",
+			"name": "Xã Thành Sơn"
+		},
+		{
+			"id": "05233",
+			"name": "Xã Tòng Đậu"
+		},
+		{
+			"id": "05263",
+			"name": "Xã Vạn Mai"
+		}
+	]
+}

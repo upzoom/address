@@ -1,0 +1,70 @@
+{
+	"id": "476",
+	"name": "Huyện Phong Điền",
+	"data": [
+		{
+			"id": "19843",
+			"name": "Xã Điền Hải"
+		},
+		{
+			"id": "19834",
+			"name": "Xã Điền Hòa"
+		},
+		{
+			"id": "19822",
+			"name": "Xã Điền Hương"
+		},
+		{
+			"id": "19828",
+			"name": "Xã Điền Lộc"
+		},
+		{
+			"id": "19825",
+			"name": "Xã Điền Môn"
+		},
+		{
+			"id": "19858",
+			"name": "Xã Phong An"
+		},
+		{
+			"id": "19831",
+			"name": "Xã Phong Bình"
+		},
+		{
+			"id": "19837",
+			"name": "Xã Phong Chương"
+		},
+		{
+			"id": "19819",
+			"name": "Thị trấn Phong Điền"
+		},
+		{
+			"id": "19840",
+			"name": "Xã Phong Hải"
+		},
+		{
+			"id": "19852",
+			"name": "Xã Phong Hiền"
+		},
+		{
+			"id": "19846",
+			"name": "Xã Phong Hòa"
+		},
+		{
+			"id": "19855",
+			"name": "Xã Phong Mỹ"
+		},
+		{
+			"id": "19864",
+			"name": "Xã Phong Sơn"
+		},
+		{
+			"id": "19849",
+			"name": "Xã Phong Thu"
+		},
+		{
+			"id": "19861",
+			"name": "Xã Phong Xuân"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "392",
+	"name": "Huyện Hà Trung",
+	"data": [
+		{
+			"id": "15280",
+			"name": "Xã Hà Bắc"
+		},
+		{
+			"id": "15328",
+			"name": "Xã Hà Bình"
+		},
+		{
+			"id": "15334",
+			"name": "Xã Hà Châu"
+		},
+		{
+			"id": "15319",
+			"name": "Xã Hà Đông"
+		},
+		{
+			"id": "15292",
+			"name": "Xã Hà Giang"
+		},
+		{
+			"id": "15343",
+			"name": "Xã Hà Hải"
+		},
+		{
+			"id": "15331",
+			"name": "Xã Hà Lai"
+		},
+		{
+			"id": "15316",
+			"name": "Xã Hà Lĩnh"
+		},
+		{
+			"id": "15274",
+			"name": "Xã Hà Long"
+		},
+		{
+			"id": "15304",
+			"name": "Xã Hà Ngọc"
+		},
+		{
+			"id": "15313",
+			"name": "Xã Hà Sơn"
+		},
+		{
+			"id": "15322",
+			"name": "Xã Hà Tân"
+		},
+		{
+			"id": "15340",
+			"name": "Xã Hà Thái"
+		},
+		{
+			"id": "15325",
+			"name": "Xã Hà Tiến"
+		},
+		{
+			"id": "15271",
+			"name": "Thị trấn Hà Trung"
+		},
+		{
+			"id": "15277",
+			"name": "Xã Hà Vinh"
+		},
+		{
+			"id": "15283",
+			"name": "Xã Hoạt Giang"
+		},
+		{
+			"id": "15298",
+			"name": "Xã Lĩnh Toại"
+		},
+		{
+			"id": "15286",
+			"name": "Xã Yên Dương"
+		},
+		{
+			"id": "15307",
+			"name": "Xã Yến Sơn"
+		}
+	]
+}

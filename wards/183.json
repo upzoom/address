@@ -1,0 +1,94 @@
+{
+	"id": "183",
+	"name": "Huyện Cao Lộc",
+	"data": [
+		{
+			"id": "06190",
+			"name": "Xã Bảo Lâm"
+		},
+		{
+			"id": "06217",
+			"name": "Xã Bình Trung"
+		},
+		{
+			"id": "06196",
+			"name": "Xã Cao Lâu"
+		},
+		{
+			"id": "06187",
+			"name": "Thị trấn Cao Lộc"
+		},
+		{
+			"id": "06232",
+			"name": "Xã Công Sơn"
+		},
+		{
+			"id": "06184",
+			"name": "Thị trấn Đồng Đăng"
+		},
+		{
+			"id": "06235",
+			"name": "Xã Gia Cát"
+		},
+		{
+			"id": "06220",
+			"name": "Xã Hải Yến"
+		},
+		{
+			"id": "06223",
+			"name": "Xã Hòa Cư"
+		},
+		{
+			"id": "06205",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "06226",
+			"name": "Xã Hợp Thành"
+		},
+		{
+			"id": "06211",
+			"name": "Xã Lộc Yên"
+		},
+		{
+			"id": "06238",
+			"name": "Xã Mẫu Sơn"
+		},
+		{
+			"id": "06214",
+			"name": "Xã Phú Xá"
+		},
+		{
+			"id": "06244",
+			"name": "Xã Tân Liên"
+		},
+		{
+			"id": "06250",
+			"name": "Xã Tân Thành"
+		},
+		{
+			"id": "06199",
+			"name": "Xã Thạch Đạn"
+		},
+		{
+			"id": "06193",
+			"name": "Xã Thanh Lòa"
+		},
+		{
+			"id": "06208",
+			"name": "Xã Thụy Hùng"
+		},
+		{
+			"id": "06241",
+			"name": "Xã Xuân Long"
+		},
+		{
+			"id": "06202",
+			"name": "Xã Xuất Lễ"
+		},
+		{
+			"id": "06247",
+			"name": "Xã Yên Trạch"
+		}
+	]
+}

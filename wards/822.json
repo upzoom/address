@@ -1,0 +1,82 @@
+{
+	"id": "822",
+	"name": "Huyện Chợ Gạo",
+	"data": [
+		{
+			"id": "28639",
+			"name": "Xã An Thạnh Thủy"
+		},
+		{
+			"id": "28648",
+			"name": "Xã Bình Ninh"
+		},
+		{
+			"id": "28633",
+			"name": "Xã Bình Phan"
+		},
+		{
+			"id": "28621",
+			"name": "Xã Bình Phục Nhứt"
+		},
+		{
+			"id": "28594",
+			"name": "Thị trấn Chợ Gạo"
+		},
+		{
+			"id": "28624",
+			"name": "Xã Đăng Hưng Phước"
+		},
+		{
+			"id": "28645",
+			"name": "Xã Hòa Định"
+		},
+		{
+			"id": "28600",
+			"name": "Xã Hòa Tịnh"
+		},
+		{
+			"id": "28636",
+			"name": "Xã Long Bình Điền"
+		},
+		{
+			"id": "28612",
+			"name": "Xã Lương Hòa Lạc"
+		},
+		{
+			"id": "28603",
+			"name": "Xã Mỹ Tịnh An"
+		},
+		{
+			"id": "28609",
+			"name": "Xã Phú Kiết"
+		},
+		{
+			"id": "28618",
+			"name": "Xã Quơn Long"
+		},
+		{
+			"id": "28630",
+			"name": "Xã Song Bình"
+		},
+		{
+			"id": "28606",
+			"name": "Xã Tân Bình Thạnh"
+		},
+		{
+			"id": "28627",
+			"name": "Xã Tân Thuận Bình"
+		},
+		{
+			"id": "28615",
+			"name": "Xã Thanh Bình"
+		},
+		{
+			"id": "28597",
+			"name": "Xã Trung Hòa"
+		},
+		{
+			"id": "28642",
+			"name": "Xã Xuân Đông"
+		}
+	]
+}

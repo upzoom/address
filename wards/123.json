@@ -1,0 +1,66 @@
+{
+	"id": "123",
+	"name": "Huyện Mộc Châu",
+	"data": [
+		{
+			"id": "04012",
+			"name": "Xã Chiềng Hắc"
+		},
+		{
+			"id": "04024",
+			"name": "Xã Chiềng Khừa"
+		},
+		{
+			"id": "03985",
+			"name": "Xã Chiềng Sơn"
+		},
+		{
+			"id": "04030",
+			"name": "Xã Đông Sang"
+		},
+		{
+			"id": "04015",
+			"name": "Xã Hua Păng"
+		},
+		{
+			"id": "04045",
+			"name": "Xã Lóng Sập"
+		},
+		{
+			"id": "03979",
+			"name": "Thị trấn Mộc Châu"
+		},
+		{
+			"id": "04027",
+			"name": "Xã Mường Sang"
+		},
+		{
+			"id": "03982",
+			"name": "Thị trấn NT Mộc Châu"
+		},
+		{
+			"id": "04000",
+			"name": "Xã Nà Mường"
+		},
+		{
+			"id": "04033",
+			"name": "Xã Phiêng Luông"
+		},
+		{
+			"id": "03991",
+			"name": "Xã Qui Hướng"
+		},
+		{
+			"id": "04003",
+			"name": "Xã Tà Lai"
+		},
+		{
+			"id": "03988",
+			"name": "Xã Tân Hợp"
+		},
+		{
+			"id": "03997",
+			"name": "Xã Tân Lập"
+		}
+	]
+}

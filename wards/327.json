@@ -1,0 +1,74 @@
+{
+	"id": "327",
+	"name": "Huyện Yên Mỹ",
+	"data": [
+		{
+			"id": "12061",
+			"name": "Xã Đồng Than"
+		},
+		{
+			"id": "12055",
+			"name": "Xã Giai Phạm"
+		},
+		{
+			"id": "12070",
+			"name": "Xã Hoàn Long"
+		},
+		{
+			"id": "12067",
+			"name": "Xã Liêu Xá"
+		},
+		{
+			"id": "12097",
+			"name": "Xã Lý Thường Kiệt"
+		},
+		{
+			"id": "12091",
+			"name": "Xã Minh Châu"
+		},
+		{
+			"id": "12058",
+			"name": "Xã Nghĩa Hiệp"
+		},
+		{
+			"id": "12064",
+			"name": "Xã Ngọc Long"
+		},
+		{
+			"id": "12073",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "12100",
+			"name": "Xã Tân Việt"
+		},
+		{
+			"id": "12076",
+			"name": "Xã Thanh Long"
+		},
+		{
+			"id": "12085",
+			"name": "Xã Trung Hòa"
+		},
+		{
+			"id": "12094",
+			"name": "Xã Trung Hưng"
+		},
+		{
+			"id": "12082",
+			"name": "Xã Việt Cường"
+		},
+		{
+			"id": "12088",
+			"name": "Xã Yên Hòa"
+		},
+		{
+			"id": "12052",
+			"name": "Thị trấn Yên Mỹ"
+		},
+		{
+			"id": "12079",
+			"name": "Xã Yên Phú"
+		}
+	]
+}

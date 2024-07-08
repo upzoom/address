@@ -1,0 +1,38 @@
+{
+	"id": "902",
+	"name": "Huyện Kiên Lương",
+	"data": [
+		{
+			"id": "30808",
+			"name": "Xã Bình An"
+		},
+		{
+			"id": "30809",
+			"name": "Xã Bình Trị"
+		},
+		{
+			"id": "30805",
+			"name": "Xã Dương Hòa"
+		},
+		{
+			"id": "30802",
+			"name": "Xã Hòa Điền"
+		},
+		{
+			"id": "30814",
+			"name": "Xã Hòn Nghệ"
+		},
+		{
+			"id": "30790",
+			"name": "Xã Kiên Bình"
+		},
+		{
+			"id": "30787",
+			"name": "Thị trấn Kiên Lương"
+		},
+		{
+			"id": "30811",
+			"name": "Xã Sơn Hải"
+		}
+	]
+}

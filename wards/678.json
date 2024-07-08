@@ -1,0 +1,66 @@
+{
+	"id": "678",
+	"name": "Huyện Đức Trọng",
+	"data": [
+		{
+			"id": "24970",
+			"name": "Xã Bình Thạnh"
+		},
+		{
+			"id": "24994",
+			"name": "Xã Đà Loan"
+		},
+		{
+			"id": "24989",
+			"name": "Xã Đa Quyn"
+		},
+		{
+			"id": "24961",
+			"name": "Xã Hiệp An"
+		},
+		{
+			"id": "24967",
+			"name": "Xã Hiệp Thạnh"
+		},
+		{
+			"id": "24964",
+			"name": "Xã Liên Hiệp"
+		},
+		{
+			"id": "24958",
+			"name": "Thị trấn Liên Nghĩa"
+		},
+		{
+			"id": "24973",
+			"name": "Xã N'Thol Hạ"
+		},
+		{
+			"id": "24985",
+			"name": "Xã Ninh Gia"
+		},
+		{
+			"id": "24997",
+			"name": "Xã Ninh Loan"
+		},
+		{
+			"id": "24982",
+			"name": "Xã Phú Hội"
+		},
+		{
+			"id": "24991",
+			"name": "Xã Tà Hine"
+		},
+		{
+			"id": "24988",
+			"name": "Xã Tà Năng"
+		},
+		{
+			"id": "24976",
+			"name": "Xã Tân Hội"
+		},
+		{
+			"id": "24979",
+			"name": "Xã Tân Thành"
+		}
+	]
+}

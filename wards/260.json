@@ -1,0 +1,62 @@
+{
+	"id": "260",
+	"name": "Huyện Tiên Du",
+	"data": [
+		{
+			"id": "09364",
+			"name": "Xã Cảnh Hưng"
+		},
+		{
+			"id": "09355",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "09337",
+			"name": "Xã Hiên Vân"
+		},
+		{
+			"id": "09340",
+			"name": "Xã Hoàn Sơn"
+		},
+		{
+			"id": "09343",
+			"name": "Xã Lạc Vệ"
+		},
+		{
+			"id": "09334",
+			"name": "Xã Liên Bão"
+		},
+		{
+			"id": "09319",
+			"name": "Thị trấn Lim"
+		},
+		{
+			"id": "09361",
+			"name": "Xã Minh Đạo"
+		},
+		{
+			"id": "09328",
+			"name": "Xã Nội Duệ"
+		},
+		{
+			"id": "09349",
+			"name": "Xã Phật Tích"
+		},
+		{
+			"id": "09322",
+			"name": "Xã Phú Lâm"
+		},
+		{
+			"id": "09352",
+			"name": "Xã Tân Chi"
+		},
+		{
+			"id": "09358",
+			"name": "Xã Tri Phương"
+		},
+		{
+			"id": "09346",
+			"name": "Xã Việt Đoàn"
+		}
+	]
+}

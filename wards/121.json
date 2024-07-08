@@ -1,0 +1,70 @@
+{
+	"id": "121",
+	"name": "Huyện Bắc Yên",
+	"data": [
+		{
+			"id": "03856",
+			"name": "Thị trấn Bắc Yên"
+		},
+		{
+			"id": "03895",
+			"name": "Xã Chiềng Sại"
+		},
+		{
+			"id": "03877",
+			"name": "Xã Chim Vàn"
+		},
+		{
+			"id": "03862",
+			"name": "Xã Hang Chú"
+		},
+		{
+			"id": "03869",
+			"name": "Xã Háng Đồng"
+		},
+		{
+			"id": "03886",
+			"name": "Xã Hồng Ngài"
+		},
+		{
+			"id": "03890",
+			"name": "Xã Hua Nhàn"
+		},
+		{
+			"id": "03874",
+			"name": "Xã Làng Chếu"
+		},
+		{
+			"id": "03880",
+			"name": "Xã Mường Khoa"
+		},
+		{
+			"id": "03871",
+			"name": "Xã Pắc Ngà"
+		},
+		{
+			"id": "03859",
+			"name": "Xã Phiêng Ban"
+		},
+		{
+			"id": "03892",
+			"name": "Xã Phiêng Côn"
+		},
+		{
+			"id": "03883",
+			"name": "Xã Song Pe"
+		},
+		{
+			"id": "03889",
+			"name": "Xã Tạ Khoa"
+		},
+		{
+			"id": "03868",
+			"name": "Xã Tà Xùa"
+		},
+		{
+			"id": "03865",
+			"name": "Xã Xím Vàng"
+		}
+	]
+}

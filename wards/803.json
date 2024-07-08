@@ -1,0 +1,66 @@
+{
+	"id": "803",
+	"name": "Huyện Bến Lức",
+	"data": [
+		{
+			"id": "28012",
+			"name": "Xã An Thạnh"
+		},
+		{
+			"id": "27991",
+			"name": "Thị trấn Bến Lức"
+		},
+		{
+			"id": "28015",
+			"name": "Xã Bình Đức"
+		},
+		{
+			"id": "28024",
+			"name": "Xã Long Hiệp"
+		},
+		{
+			"id": "27997",
+			"name": "Xã Lương Bình"
+		},
+		{
+			"id": "28003",
+			"name": "Xã Lương Hòa"
+		},
+		{
+			"id": "28018",
+			"name": "Xã Mỹ Yên"
+		},
+		{
+			"id": "28033",
+			"name": "Xã Nhựt Chánh"
+		},
+		{
+			"id": "28030",
+			"name": "Xã Phước Lợi"
+		},
+		{
+			"id": "28009",
+			"name": "Xã Tân Bửu"
+		},
+		{
+			"id": "28006",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "28027",
+			"name": "Xã Thạnh Đức"
+		},
+		{
+			"id": "28000",
+			"name": "Xã Thạnh Hòa"
+		},
+		{
+			"id": "27994",
+			"name": "Xã Thạnh Lợi"
+		},
+		{
+			"id": "28021",
+			"name": "Xã Thanh Phú"
+		}
+	]
+}

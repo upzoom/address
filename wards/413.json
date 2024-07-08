@@ -1,0 +1,34 @@
+{
+	"id": "413",
+	"name": "Thị xã Cửa Lò",
+	"data": [
+		{
+			"id": "16729",
+			"name": "Phường Nghi Hải"
+		},
+		{
+			"id": "16726",
+			"name": "Phường Nghi Hòa"
+		},
+		{
+			"id": "16732",
+			"name": "Phường Nghi Hương"
+		},
+		{
+			"id": "16720",
+			"name": "Phường Nghi Tân"
+		},
+		{
+			"id": "16735",
+			"name": "Phường Nghi Thu"
+		},
+		{
+			"id": "16717",
+			"name": "Phường Nghi Thuỷ"
+		},
+		{
+			"id": "16723",
+			"name": "Phường Thu Thuỷ"
+		}
+	]
+}

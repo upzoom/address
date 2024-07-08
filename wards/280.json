@@ -1,0 +1,114 @@
+{
+	"id": "280",
+	"name": "Huyện Phú Xuyên",
+	"data": [
+		{
+			"id": "10342",
+			"name": "Xã Bạch Hạ"
+		},
+		{
+			"id": "10348",
+			"name": "Xã Châu Can"
+		},
+		{
+			"id": "10321",
+			"name": "Xã Chuyên Mỹ"
+		},
+		{
+			"id": "10291",
+			"name": "Xã Đại Thắng"
+		},
+		{
+			"id": "10336",
+			"name": "Xã Đại Xuyên"
+		},
+		{
+			"id": "10303",
+			"name": "Xã Hoàng Long"
+		},
+		{
+			"id": "10276",
+			"name": "Xã Hồng Minh"
+		},
+		{
+			"id": "10300",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "10324",
+			"name": "Xã Khai Thái"
+		},
+		{
+			"id": "10351",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "10309",
+			"name": "Xã Nam Phong"
+		},
+		{
+			"id": "10282",
+			"name": "Xã Nam Tiến"
+		},
+		{
+			"id": "10312",
+			"name": "Xã Nam Triều"
+		},
+		{
+			"id": "10270",
+			"name": "Thị trấn Phú Minh"
+		},
+		{
+			"id": "10294",
+			"name": "Xã Phú Túc"
+		},
+		{
+			"id": "10273",
+			"name": "Thị trấn Phú Xuyên"
+		},
+		{
+			"id": "10339",
+			"name": "Xã Phú Yên"
+		},
+		{
+			"id": "10327",
+			"name": "Xã Phúc Tiến"
+		},
+		{
+			"id": "10279",
+			"name": "Xã Phượng Dực"
+		},
+		{
+			"id": "10345",
+			"name": "Xã Quang Lãng"
+		},
+		{
+			"id": "10306",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "10318",
+			"name": "Xã Sơn Hà"
+		},
+		{
+			"id": "10315",
+			"name": "Xã Tân Dân"
+		},
+		{
+			"id": "10333",
+			"name": "Xã Tri Thủy"
+		},
+		{
+			"id": "10288",
+			"name": "Xã Tri Trung"
+		},
+		{
+			"id": "10297",
+			"name": "Xã Văn Hoàng"
+		},
+		{
+			"id": "10330",
+			"name": "Xã Vân Từ"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "502",
+	"name": "Thành phố Tam Kỳ",
+	"data": [
+		{
+			"id": "20341",
+			"name": "Phường An Mỹ"
+		},
+		{
+			"id": "20356",
+			"name": "Phường An Phú"
+		},
+		{
+			"id": "20350",
+			"name": "Phường An Sơn"
+		},
+		{
+			"id": "20347",
+			"name": "Phường An Xuân"
+		},
+		{
+			"id": "20344",
+			"name": "Phường Hòa Hương"
+		},
+		{
+			"id": "20375",
+			"name": "Phường Hoà Thuận"
+		},
+		{
+			"id": "20338",
+			"name": "Phường Phước Hòa"
+		},
+		{
+			"id": "20389",
+			"name": "Xã Tam Ngọc"
+		},
+		{
+			"id": "20371",
+			"name": "Xã Tam Phú"
+		},
+		{
+			"id": "20362",
+			"name": "Xã Tam Thăng"
+		},
+		{
+			"id": "20359",
+			"name": "Xã Tam Thanh"
+		},
+		{
+			"id": "20335",
+			"name": "Phường Tân Thạnh"
+		},
+		{
+			"id": "20353",
+			"name": "Phường Trường Xuân"
+		}
+	]
+}

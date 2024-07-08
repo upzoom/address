@@ -1,0 +1,82 @@
+{
+	"id": "181",
+	"name": "Huyện Bình Gia",
+	"data": [
+		{
+			"id": "06112",
+			"name": "Thị trấn Bình Gia"
+		},
+		{
+			"id": "06118",
+			"name": "Xã Bình La"
+		},
+		{
+			"id": "06103",
+			"name": "Xã Hòa Bình"
+		},
+		{
+			"id": "06073",
+			"name": "Xã Hoa Thám"
+		},
+		{
+			"id": "06100",
+			"name": "Xã Hoàng Văn Thụ"
+		},
+		{
+			"id": "06079",
+			"name": "Xã Hồng Phong"
+		},
+		{
+			"id": "06115",
+			"name": "Xã Hồng Thái"
+		},
+		{
+			"id": "06067",
+			"name": "Xã Hưng Đạo"
+		},
+		{
+			"id": "06094",
+			"name": "Xã Minh Khai"
+		},
+		{
+			"id": "06106",
+			"name": "Xã Mông Ân"
+		},
+		{
+			"id": "06088",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "06076",
+			"name": "Xã Quý Hòa"
+		},
+		{
+			"id": "06109",
+			"name": "Xã Tân Hòa"
+		},
+		{
+			"id": "06121",
+			"name": "Xã Tân Văn"
+		},
+		{
+			"id": "06085",
+			"name": "Xã Thiện Hòa"
+		},
+		{
+			"id": "06097",
+			"name": "Xã Thiện Long"
+		},
+		{
+			"id": "06091",
+			"name": "Xã Thiện Thuật"
+		},
+		{
+			"id": "06070",
+			"name": "Xã Vĩnh Yên"
+		},
+		{
+			"id": "06082",
+			"name": "Xã Yên Lỗ"
+		}
+	]
+}

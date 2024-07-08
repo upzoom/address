@@ -1,0 +1,58 @@
+{
+	"id": "492",
+	"name": "Quận Hải Châu",
+	"data": [
+		{
+			"id": "20251",
+			"name": "Phường Bình Hiên"
+		},
+		{
+			"id": "20254",
+			"name": "Phường Bình Thuận"
+		},
+		{
+			"id": "20236",
+			"name": "Phường Hải Châu  I"
+		},
+		{
+			"id": "20239",
+			"name": "Phường Hải Châu II"
+		},
+		{
+			"id": "20257",
+			"name": "Phường Hòa Cường Bắc"
+		},
+		{
+			"id": "20258",
+			"name": "Phường Hòa Cường Nam"
+		},
+		{
+			"id": "20246",
+			"name": "Phường Hòa Thuận Đông"
+		},
+		{
+			"id": "20245",
+			"name": "Phường Hòa Thuận Tây"
+		},
+		{
+			"id": "20248",
+			"name": "Phường Nam Dương"
+		},
+		{
+			"id": "20242",
+			"name": "Phường Phước Ninh"
+		},
+		{
+			"id": "20233",
+			"name": "Phường Thạch Thang"
+		},
+		{
+			"id": "20227",
+			"name": "Phường Thanh Bình"
+		},
+		{
+			"id": "20230",
+			"name": "Phường Thuận Phước"
+		}
+	]
+}

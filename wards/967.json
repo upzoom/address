@@ -1,0 +1,54 @@
+{
+	"id": "967",
+	"name": "Huyện Thới Bình",
+	"data": [
+		{
+			"id": "32068",
+			"name": "Xã Biển Bạch"
+		},
+		{
+			"id": "32074",
+			"name": "Xã Biển Bạch Đông"
+		},
+		{
+			"id": "32092",
+			"name": "Xã Hồ Thị Kỷ"
+		},
+		{
+			"id": "32069",
+			"name": "Xã Tân Bằng"
+		},
+		{
+			"id": "32086",
+			"name": "Xã Tân Lộc"
+		},
+		{
+			"id": "32083",
+			"name": "Xã Tân Lộc Bắc"
+		},
+		{
+			"id": "32089",
+			"name": "Xã Tân Lộc Đông"
+		},
+		{
+			"id": "32080",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "32065",
+			"name": "Thị trấn Thới Bình"
+		},
+		{
+			"id": "32077",
+			"name": "Xã Thới Bình"
+		},
+		{
+			"id": "32072",
+			"name": "Xã Trí Lực"
+		},
+		{
+			"id": "32071",
+			"name": "Xã Trí Phải"
+		}
+	]
+}

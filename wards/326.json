@@ -1,0 +1,50 @@
+{
+	"id": "326",
+	"name": "Huyện Văn Giang",
+	"data": [
+		{
+			"id": "12025",
+			"name": "Xã Cửu Cao"
+		},
+		{
+			"id": "12040",
+			"name": "Xã Liên Nghĩa"
+		},
+		{
+			"id": "12034",
+			"name": "Xã Long Hưng"
+		},
+		{
+			"id": "12049",
+			"name": "Xã Mễ Sở"
+		},
+		{
+			"id": "12031",
+			"name": "Xã Nghĩa Trụ"
+		},
+		{
+			"id": "12028",
+			"name": "Xã Phụng Công"
+		},
+		{
+			"id": "12043",
+			"name": "Xã Tân Tiến"
+		},
+		{
+			"id": "12046",
+			"name": "Xã Thắng Lợi"
+		},
+		{
+			"id": "12019",
+			"name": "Thị trấn Văn Giang"
+		},
+		{
+			"id": "12037",
+			"name": "Xã Vĩnh Khúc"
+		},
+		{
+			"id": "12022",
+			"name": "Xã Xuân Quan"
+		}
+	]
+}

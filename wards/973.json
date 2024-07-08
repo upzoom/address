@@ -1,0 +1,34 @@
+{
+	"id": "973",
+	"name": "Huyện Ngọc Hiển",
+	"data": [
+		{
+			"id": "32248",
+			"name": "Xã Đất Mũi"
+		},
+		{
+			"id": "32244",
+			"name": "Thị trấn Rạch Gốc"
+		},
+		{
+			"id": "32233",
+			"name": "Xã Tam Giang Tây"
+		},
+		{
+			"id": "32245",
+			"name": "Xã Tân Ân"
+		},
+		{
+			"id": "32236",
+			"name": "Xã Tân Ân Tây"
+		},
+		{
+			"id": "32242",
+			"name": "Xã Viên An"
+		},
+		{
+			"id": "32239",
+			"name": "Xã Viên An Đông"
+		}
+	]
+}

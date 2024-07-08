@@ -1,0 +1,46 @@
+{
+	"id": "712",
+	"name": "Thị xã Trảng Bàng",
+	"data": [
+		{
+			"id": "25735",
+			"name": "Phường An Hòa"
+		},
+		{
+			"id": "25732",
+			"name": "Phường An Tịnh"
+		},
+		{
+			"id": "25711",
+			"name": "Xã Đôn Thuận"
+		},
+		{
+			"id": "25723",
+			"name": "Phường Gia Bình"
+		},
+		{
+			"id": "25720",
+			"name": "Phường Gia Lộc"
+		},
+		{
+			"id": "25714",
+			"name": "Xã Hưng Thuận"
+		},
+		{
+			"id": "25717",
+			"name": "Phường Lộc Hưng"
+		},
+		{
+			"id": "25729",
+			"name": "Xã Phước Bình"
+		},
+		{
+			"id": "25738",
+			"name": "Xã Phước Chỉ"
+		},
+		{
+			"id": "25708",
+			"name": "Phường Trảng Bàng"
+		}
+	]
+}

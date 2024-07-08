@@ -1,0 +1,50 @@
+{
+	"id": "518",
+	"name": "Huyện Phú Ninh",
+	"data": [
+		{
+			"id": "20364",
+			"name": "Thị trấn Phú Thịnh"
+		},
+		{
+			"id": "20368",
+			"name": "Xã Tam An"
+		},
+		{
+			"id": "20387",
+			"name": "Xã Tam Đại"
+		},
+		{
+			"id": "20374",
+			"name": "Xã Tam Đàn"
+		},
+		{
+			"id": "20392",
+			"name": "Xã Tam Dân"
+		},
+		{
+			"id": "20395",
+			"name": "Xã Tam Lãnh"
+		},
+		{
+			"id": "20377",
+			"name": "Xã Tam Lộc"
+		},
+		{
+			"id": "20380",
+			"name": "Xã Tam Phước"
+		},
+		{
+			"id": "20386",
+			"name": "Xã Tam Thái"
+		},
+		{
+			"id": "20365",
+			"name": "Xã Tam Thành"
+		},
+		{
+			"id": "20383",
+			"name": "Xã Tam Vinh"
+		}
+	]
+}

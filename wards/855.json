@@ -1,0 +1,50 @@
+{
+	"id": "855",
+	"name": "Thành phố Vĩnh Long",
+	"data": [
+		{
+			"id": "29548",
+			"name": "Phường 1"
+		},
+		{
+			"id": "29551",
+			"name": "Phường 2"
+		},
+		{
+			"id": "29557",
+			"name": "Phường 3"
+		},
+		{
+			"id": "29554",
+			"name": "Phường 4"
+		},
+		{
+			"id": "29545",
+			"name": "Phường 5"
+		},
+		{
+			"id": "29560",
+			"name": "Phường 8"
+		},
+		{
+			"id": "29542",
+			"name": "Phường 9"
+		},
+		{
+			"id": "29566",
+			"name": "Phường Tân Hòa"
+		},
+		{
+			"id": "29569",
+			"name": "Phường Tân Hội"
+		},
+		{
+			"id": "29563",
+			"name": "Phường Tân Ngãi"
+		},
+		{
+			"id": "29572",
+			"name": "Phường Trường An"
+		}
+	]
+}

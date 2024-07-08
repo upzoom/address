@@ -1,0 +1,50 @@
+{
+	"id": "561",
+	"name": "Huyện Sông Hinh",
+	"data": [
+		{
+			"id": "22222",
+			"name": "Xã Đức Bình Đông"
+		},
+		{
+			"id": "22213",
+			"name": "Xã Đức Bình Tây"
+		},
+		{
+			"id": "22216",
+			"name": "Xã Ea Bá"
+		},
+		{
+			"id": "22210",
+			"name": "Xã Ea Lâm"
+		},
+		{
+			"id": "22225",
+			"name": "Xã EaBar"
+		},
+		{
+			"id": "22228",
+			"name": "Xã EaBia"
+		},
+		{
+			"id": "22231",
+			"name": "Xã EaTrol"
+		},
+		{
+			"id": "22237",
+			"name": "Xã Ealy"
+		},
+		{
+			"id": "22207",
+			"name": "Thị trấn Hai Riêng"
+		},
+		{
+			"id": "22219",
+			"name": "Xã Sơn Giang"
+		},
+		{
+			"id": "22234",
+			"name": "Xã Sông Hinh"
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "385",
+	"name": "Huyện Quan Hóa",
+	"data": [
+		{
+			"id": "14896",
+			"name": "Xã Hiền Chung"
+		},
+		{
+			"id": "14899",
+			"name": "Xã Hiền Kiệt"
+		},
+		{
+			"id": "14869",
+			"name": "Thị trấn Hồi Xuân"
+		},
+		{
+			"id": "14917",
+			"name": "Xã Nam Động"
+		},
+		{
+			"id": "14902",
+			"name": "Xã Nam Tiến"
+		},
+		{
+			"id": "14914",
+			"name": "Xã Nam Xuân"
+		},
+		{
+			"id": "14884",
+			"name": "Xã Phú Lệ"
+		},
+		{
+			"id": "14911",
+			"name": "Xã Phú Nghiêm"
+		},
+		{
+			"id": "14887",
+			"name": "Xã Phú Sơn"
+		},
+		{
+			"id": "14878",
+			"name": "Xã Phú Thanh"
+		},
+		{
+			"id": "14890",
+			"name": "Xã Phú Xuân"
+		},
+		{
+			"id": "14872",
+			"name": "Xã Thành Sơn"
+		},
+		{
+			"id": "14908",
+			"name": "Xã Thiên Phủ"
+		},
+		{
+			"id": "14875",
+			"name": "Xã Trung Sơn"
+		},
+		{
+			"id": "14881",
+			"name": "Xã Trung Thành"
+		}
+	]
+}

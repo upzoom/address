@@ -1,0 +1,42 @@
+{
+	"id": "26",
+	"name": "Tỉnh Vĩnh Phúc",
+	"data": [
+		{
+			"id": "249",
+			"name": "Huyện Bình Xuyên"
+		},
+		{
+			"id": "246",
+			"name": "Huyện Lập Thạch"
+		},
+		{
+			"id": "244",
+			"name": "Thành phố Phúc Yên"
+		},
+		{
+			"id": "253",
+			"name": "Huyện Sông Lô"
+		},
+		{
+			"id": "248",
+			"name": "Huyện Tam Đảo"
+		},
+		{
+			"id": "247",
+			"name": "Huyện Tam Dương"
+		},
+		{
+			"id": "252",
+			"name": "Huyện Vĩnh Tường"
+		},
+		{
+			"id": "243",
+			"name": "Thành phố Vĩnh Yên"
+		},
+		{
+			"id": "251",
+			"name": "Huyện Yên Lạc"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "594",
+	"name": "Thị xã La Gi",
+	"data": [
+		{
+			"id": "23237",
+			"name": "Phường Bình Tân"
+		},
+		{
+			"id": "23231",
+			"name": "Phường Phước Hội"
+		},
+		{
+			"id": "23232",
+			"name": "Phường Phước Lộc"
+		},
+		{
+			"id": "23235",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "23248",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "23245",
+			"name": "Xã Tân Hải"
+		},
+		{
+			"id": "23268",
+			"name": "Xã Tân Phước"
+		},
+		{
+			"id": "23234",
+			"name": "Phường Tân Thiện"
+		},
+		{
+			"id": "23246",
+			"name": "Xã Tân Tiến"
+		}
+	]
+}

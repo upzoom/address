@@ -1,0 +1,30 @@
+{
+	"id": "495",
+	"name": "Quận Cẩm Lệ",
+	"data": [
+		{
+			"id": "20306",
+			"name": "Phường Hòa An"
+		},
+		{
+			"id": "20305",
+			"name": "Phường Hòa Phát"
+		},
+		{
+			"id": "20312",
+			"name": "Phường Hòa Thọ Đông"
+		},
+		{
+			"id": "20311",
+			"name": "Phường Hòa Thọ Tây"
+		},
+		{
+			"id": "20314",
+			"name": "Phường Hòa Xuân"
+		},
+		{
+			"id": "20260",
+			"name": "Phường Khuê Trung"
+		}
+	]
+}

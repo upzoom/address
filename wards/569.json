@@ -1,0 +1,66 @@
+{
+	"id": "569",
+	"name": "Thành phố Cam Ranh",
+	"data": [
+		{
+			"id": "22423",
+			"name": "Phường Ba Ngòi"
+		},
+		{
+			"id": "22486",
+			"name": "Xã Cam Bình"
+		},
+		{
+			"id": "22483",
+			"name": "Xã Cam Lập"
+		},
+		{
+			"id": "22432",
+			"name": "Phường Cam Linh"
+		},
+		{
+			"id": "22417",
+			"name": "Phường Cam Lộc"
+		},
+		{
+			"id": "22429",
+			"name": "Phường Cam Lợi"
+		},
+		{
+			"id": "22408",
+			"name": "Phường Cam Nghĩa"
+		},
+		{
+			"id": "22420",
+			"name": "Phường Cam Phú"
+		},
+		{
+			"id": "22411",
+			"name": "Phường Cam Phúc Bắc"
+		},
+		{
+			"id": "22414",
+			"name": "Phường Cam Phúc Nam"
+		},
+		{
+			"id": "22474",
+			"name": "Xã Cam Phước Đông"
+		},
+		{
+			"id": "22468",
+			"name": "Xã Cam Thành Nam"
+		},
+		{
+			"id": "22480",
+			"name": "Xã Cam Thịnh Đông"
+		},
+		{
+			"id": "22477",
+			"name": "Xã Cam Thịnh Tây"
+		},
+		{
+			"id": "22426",
+			"name": "Phường Cam Thuận"
+		}
+	]
+}

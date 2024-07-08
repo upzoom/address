@@ -1,0 +1,46 @@
+{
+	"id": "703",
+	"name": "Thành phố Tây Ninh",
+	"data": [
+		{
+			"id": "25456",
+			"name": "Phường 1"
+		},
+		{
+			"id": "25468",
+			"name": "Phường 2"
+		},
+		{
+			"id": "25459",
+			"name": "Phường 3"
+		},
+		{
+			"id": "25462",
+			"name": "Phường 4"
+		},
+		{
+			"id": "25477",
+			"name": "Xã Bình Minh"
+		},
+		{
+			"id": "25465",
+			"name": "Phường Hiệp Ninh"
+		},
+		{
+			"id": "25480",
+			"name": "Phường Ninh Sơn"
+		},
+		{
+			"id": "25483",
+			"name": "Phường Ninh Thạnh"
+		},
+		{
+			"id": "25474",
+			"name": "Xã Tân Bình"
+		},
+		{
+			"id": "25471",
+			"name": "Xã Thạnh Tân"
+		}
+	]
+}

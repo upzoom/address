@@ -1,0 +1,46 @@
+{
+	"id": "725",
+	"name": "Thành phố Thuận An",
+	"data": [
+		{
+			"id": "25975",
+			"name": "Phường An Phú"
+		},
+		{
+			"id": "25981",
+			"name": "Xã An Sơn"
+		},
+		{
+			"id": "25963",
+			"name": "Phường An Thạnh"
+		},
+		{
+			"id": "25969",
+			"name": "Phường Bình Chuẩn"
+		},
+		{
+			"id": "25987",
+			"name": "Phường Bình Hòa"
+		},
+		{
+			"id": "25984",
+			"name": "Phường Bình Nhâm"
+		},
+		{
+			"id": "25978",
+			"name": "Phường Hưng Định"
+		},
+		{
+			"id": "25966",
+			"name": "Phường Lái Thiêu"
+		},
+		{
+			"id": "25972",
+			"name": "Phường Thuận Giao"
+		},
+		{
+			"id": "25990",
+			"name": "Phường Vĩnh Phú"
+		}
+	]
+}

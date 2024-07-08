@@ -1,0 +1,54 @@
+{
+	"id": "644",
+	"name": "Thị Xã Buôn Hồ",
+	"data": [
+		{
+			"id": "24308",
+			"name": "Phường An Bình"
+		},
+		{
+			"id": "24305",
+			"name": "Phường An Lạc"
+		},
+		{
+			"id": "24332",
+			"name": "Phường Bình Tân"
+		},
+		{
+			"id": "24337",
+			"name": "Xã Bình Thuận"
+		},
+		{
+			"id": "24340",
+			"name": "Xã Cư Bao"
+		},
+		{
+			"id": "24318",
+			"name": "Phường Đạt Hiếu"
+		},
+		{
+			"id": "24322",
+			"name": "Phường Đoàn Kết"
+		},
+		{
+			"id": "24325",
+			"name": "Xã Ea Blang"
+		},
+		{
+			"id": "24328",
+			"name": "Xã Ea Drông"
+		},
+		{
+			"id": "24334",
+			"name": "Xã Ea Siên"
+		},
+		{
+			"id": "24311",
+			"name": "Phường Thiện An"
+		},
+		{
+			"id": "24331",
+			"name": "Phường Thống Nhất"
+		}
+	]
+}

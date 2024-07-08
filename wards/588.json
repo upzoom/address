@@ -1,0 +1,30 @@
+{
+	"id": "588",
+	"name": "Huyện Thuận Bắc",
+	"data": [
+		{
+			"id": "22856",
+			"name": "Xã Bắc Phong"
+		},
+		{
+			"id": "22853",
+			"name": "Xã Bắc Sơn"
+		},
+		{
+			"id": "22840",
+			"name": "Xã Công Hải"
+		},
+		{
+			"id": "22849",
+			"name": "Xã Lợi Hải"
+		},
+		{
+			"id": "22837",
+			"name": "Xã Phước Chiến"
+		},
+		{
+			"id": "22843",
+			"name": "Xã Phước Kháng"
+		}
+	]
+}

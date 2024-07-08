@@ -1,0 +1,74 @@
+{
+	"id": "313",
+	"name": "Huyện An Lão",
+	"data": [
+		{
+			"id": "11629",
+			"name": "Thị trấn An Lão"
+		},
+		{
+			"id": "11677",
+			"name": "Xã An Thái"
+		},
+		{
+			"id": "11653",
+			"name": "Xã An Thắng"
+		},
+		{
+			"id": "11674",
+			"name": "Xã An Thọ"
+		},
+		{
+			"id": "11641",
+			"name": "Xã An Tiến"
+		},
+		{
+			"id": "11632",
+			"name": "Xã Bát Trang"
+		},
+		{
+			"id": "11671",
+			"name": "Xã Chiến Thắng"
+		},
+		{
+			"id": "11668",
+			"name": "Xã Mỹ Đức"
+		},
+		{
+			"id": "11644",
+			"name": "Xã Quang Hưng"
+		},
+		{
+			"id": "11647",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "11650",
+			"name": "Xã Quốc Tuấn"
+		},
+		{
+			"id": "11659",
+			"name": "Xã Tân Dân"
+		},
+		{
+			"id": "11665",
+			"name": "Xã Tân Viên"
+		},
+		{
+			"id": "11662",
+			"name": "Xã Thái Sơn"
+		},
+		{
+			"id": "11656",
+			"name": "Thị trấn Trường Sơn"
+		},
+		{
+			"id": "11638",
+			"name": "Xã Trường Thành"
+		},
+		{
+			"id": "11635",
+			"name": "Xã Trường Thọ"
+		}
+	]
+}

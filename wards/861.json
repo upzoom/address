@@ -1,0 +1,38 @@
+{
+	"id": "861",
+	"name": "Thị xã Bình Minh",
+	"data": [
+		{
+			"id": "29770",
+			"name": "Phường Cái Vồn"
+		},
+		{
+			"id": "29812",
+			"name": "Xã Đông Bình"
+		},
+		{
+			"id": "29809",
+			"name": "Xã Đông Thạnh"
+		},
+		{
+			"id": "29818",
+			"name": "Xã Đông Thành"
+		},
+		{
+			"id": "29813",
+			"name": "Phường Đông Thuận"
+		},
+		{
+			"id": "29815",
+			"name": "Xã Mỹ Hòa"
+		},
+		{
+			"id": "29771",
+			"name": "Phường Thành Phước"
+		},
+		{
+			"id": "29806",
+			"name": "Xã Thuận An"
+		}
+	]
+}

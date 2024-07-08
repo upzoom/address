@@ -1,0 +1,58 @@
+{
+	"id": "328",
+	"name": "Thị xã Mỹ Hào",
+	"data": [
+		{
+			"id": "12124",
+			"name": "Phường Bạch Sam"
+		},
+		{
+			"id": "12103",
+			"name": "Phường Bần Yên Nhân"
+		},
+		{
+			"id": "12109",
+			"name": "Xã Cẩm Xá"
+		},
+		{
+			"id": "12121",
+			"name": "Phường Dị Sử"
+		},
+		{
+			"id": "12112",
+			"name": "Xã Dương Quang"
+		},
+		{
+			"id": "12115",
+			"name": "Xã Hòa Phong"
+		},
+		{
+			"id": "12139",
+			"name": "Xã Hưng Long"
+		},
+		{
+			"id": "12127",
+			"name": "Phường Minh Đức"
+		},
+		{
+			"id": "12136",
+			"name": "Xã Ngọc Lâm"
+		},
+		{
+			"id": "12118",
+			"name": "Phường Nhân Hòa"
+		},
+		{
+			"id": "12106",
+			"name": "Phường Phan Đình Phùng"
+		},
+		{
+			"id": "12130",
+			"name": "Phường Phùng Chí Kiên"
+		},
+		{
+			"id": "12133",
+			"name": "Xã Xuân Dục"
+		}
+	]
+}

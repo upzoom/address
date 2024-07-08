@@ -1,0 +1,46 @@
+{
+	"id": "24",
+	"name": "Tỉnh Bắc Giang",
+	"data": [
+		{
+			"id": "213",
+			"name": "Thành phố Bắc Giang"
+		},
+		{
+			"id": "223",
+			"name": "Huyện Hiệp Hòa"
+		},
+		{
+			"id": "217",
+			"name": "Huyện Lạng Giang"
+		},
+		{
+			"id": "218",
+			"name": "Huyện Lục Nam"
+		},
+		{
+			"id": "219",
+			"name": "Huyện Lục Ngạn"
+		},
+		{
+			"id": "220",
+			"name": "Huyện Sơn Động"
+		},
+		{
+			"id": "216",
+			"name": "Huyện Tân Yên"
+		},
+		{
+			"id": "222",
+			"name": "Huyện Việt Yên"
+		},
+		{
+			"id": "221",
+			"name": "Huyện Yên Dũng"
+		},
+		{
+			"id": "215",
+			"name": "Huyện Yên Thế"
+		}
+	]
+}

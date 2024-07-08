@@ -1,0 +1,102 @@
+{
+	"id": "030",
+	"name": "Huyện Vị Xuyên",
+	"data": [
+		{
+			"id": "00976",
+			"name": "Xã Bạch Ngọc"
+		},
+		{
+			"id": "00952",
+			"name": "Xã Cao Bồ"
+		},
+		{
+			"id": "00955",
+			"name": "Xã Đạo Đức"
+		},
+		{
+			"id": "00709",
+			"name": "Xã Kim Linh"
+		},
+		{
+			"id": "00703",
+			"name": "Xã Kim Thạch"
+		},
+		{
+			"id": "00943",
+			"name": "Xã Lao Chải"
+		},
+		{
+			"id": "00961",
+			"name": "Xã Linh Hồ"
+		},
+		{
+			"id": "00919",
+			"name": "Xã Minh Tân"
+		},
+		{
+			"id": "00970",
+			"name": "Xã Ngọc Linh"
+		},
+		{
+			"id": "00973",
+			"name": "Xã Ngọc Minh"
+		},
+		{
+			"id": "00916",
+			"name": "Thị trấn Nông Trường Việt Lâm"
+		},
+		{
+			"id": "00934",
+			"name": "Xã Phong Quang"
+		},
+		{
+			"id": "00706",
+			"name": "Xã Phú Linh"
+		},
+		{
+			"id": "00940",
+			"name": "Xã Phương Tiến"
+		},
+		{
+			"id": "00964",
+			"name": "Xã Quảng Ngần"
+		},
+		{
+			"id": "00931",
+			"name": "Xã Thanh Đức"
+		},
+		{
+			"id": "00928",
+			"name": "Xã Thanh Thủy"
+		},
+		{
+			"id": "00922",
+			"name": "Xã Thuận Hoà"
+		},
+		{
+			"id": "00958",
+			"name": "Xã Thượng Sơn"
+		},
+		{
+			"id": "00979",
+			"name": "Xã Trung Thành"
+		},
+		{
+			"id": "00925",
+			"name": "Xã Tùng Bá"
+		},
+		{
+			"id": "00913",
+			"name": "Thị trấn Vị Xuyên"
+		},
+		{
+			"id": "00967",
+			"name": "Xã Việt Lâm"
+		},
+		{
+			"id": "00937",
+			"name": "Xã Xín Chải"
+		}
+	]
+}

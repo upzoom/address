@@ -1,0 +1,90 @@
+{
+	"id": "389",
+	"name": "Huyện Ngọc Lặc",
+	"data": [
+		{
+			"id": "15079",
+			"name": "Xã Cao Ngọc"
+		},
+		{
+			"id": "15100",
+			"name": "Xã Cao Thịnh"
+		},
+		{
+			"id": "15088",
+			"name": "Xã Đồng Thịnh"
+		},
+		{
+			"id": "15118",
+			"name": "Xã Kiên Thọ"
+		},
+		{
+			"id": "15064",
+			"name": "Xã Lam Sơn"
+		},
+		{
+			"id": "15097",
+			"name": "Xã Lộc Thịnh"
+		},
+		{
+			"id": "15124",
+			"name": "Xã Minh Sơn"
+		},
+		{
+			"id": "15121",
+			"name": "Xã Minh Tiến"
+		},
+		{
+			"id": "15067",
+			"name": "Xã Mỹ Tân"
+		},
+		{
+			"id": "15061",
+			"name": "Thị Trấn Ngọc Lặc"
+		},
+		{
+			"id": "15091",
+			"name": "Xã Ngọc Liên"
+		},
+		{
+			"id": "15094",
+			"name": "Xã Ngọc Sơn"
+		},
+		{
+			"id": "15103",
+			"name": "Xã Ngọc Trung"
+		},
+		{
+			"id": "15115",
+			"name": "Xã Nguyệt Ấn"
+		},
+		{
+			"id": "15112",
+			"name": "Xã Phúc Thịnh"
+		},
+		{
+			"id": "15106",
+			"name": "Xã Phùng Giáo"
+		},
+		{
+			"id": "15109",
+			"name": "Xã Phùng Minh"
+		},
+		{
+			"id": "15085",
+			"name": "Xã Quang Trung"
+		},
+		{
+			"id": "15073",
+			"name": "Xã Thạch Lập"
+		},
+		{
+			"id": "15070",
+			"name": "Xã Thúy Sơn"
+		},
+		{
+			"id": "15076",
+			"name": "Xã Vân Âm"
+		}
+	]
+}

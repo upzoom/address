@@ -1,0 +1,78 @@
+{
+	"id": "350",
+	"name": "Huyện Kim Bảng",
+	"data": [
+		{
+			"id": "13429",
+			"name": "Thị trấn Ba Sao"
+		},
+		{
+			"id": "13390",
+			"name": "Xã Đại Cương"
+		},
+		{
+			"id": "13405",
+			"name": "Xã Đồng Hóa"
+		},
+		{
+			"id": "13408",
+			"name": "Xã Hoàng Tây"
+		},
+		{
+			"id": "13420",
+			"name": "Xã Khả Phong"
+		},
+		{
+			"id": "13393",
+			"name": "Xã Lê Hồ"
+		},
+		{
+			"id": "13432",
+			"name": "Xã Liên Sơn"
+		},
+		{
+			"id": "13423",
+			"name": "Xã Ngọc Sơn"
+		},
+		{
+			"id": "13387",
+			"name": "Xã Nguyễn Úy"
+		},
+		{
+			"id": "13402",
+			"name": "Xã Nhật Tân"
+		},
+		{
+			"id": "13399",
+			"name": "Xã Nhật Tựu"
+		},
+		{
+			"id": "13384",
+			"name": "Thị trấn Quế"
+		},
+		{
+			"id": "13411",
+			"name": "Xã Tân Sơn"
+		},
+		{
+			"id": "13438",
+			"name": "Xã Thanh Sơn"
+		},
+		{
+			"id": "13435",
+			"name": "Xã Thi Sơn"
+		},
+		{
+			"id": "13414",
+			"name": "Xã Thụy Lôi"
+		},
+		{
+			"id": "13396",
+			"name": "Xã Tượng Lĩnh"
+		},
+		{
+			"id": "13417",
+			"name": "Xã Văn Xá"
+		}
+	]
+}

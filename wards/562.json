@@ -1,0 +1,50 @@
+{
+	"id": "562",
+	"name": "Huyện Tây Hoà",
+	"data": [
+		{
+			"id": "22252",
+			"name": "Xã Hòa Bình 1"
+		},
+		{
+			"id": "22276",
+			"name": "Xã Hòa Đồng"
+		},
+		{
+			"id": "22285",
+			"name": "Xã Hòa Mỹ Đông"
+		},
+		{
+			"id": "22288",
+			"name": "Xã Hòa Mỹ Tây"
+		},
+		{
+			"id": "22264",
+			"name": "Xã Hòa Phong"
+		},
+		{
+			"id": "22270",
+			"name": "Xã Hòa Phú"
+		},
+		{
+			"id": "22273",
+			"name": "Xã Hòa Tân Tây"
+		},
+		{
+			"id": "22294",
+			"name": "Xã Hòa Thịnh"
+		},
+		{
+			"id": "22255",
+			"name": "Thị trấn Phú Thứ"
+		},
+		{
+			"id": "22250",
+			"name": "Xã Sơn Thành Đông"
+		},
+		{
+			"id": "22249",
+			"name": "Xã Sơn Thành Tây"
+		}
+	]
+}

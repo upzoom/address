@@ -1,0 +1,42 @@
+{
+	"id": "15",
+	"name": "Tỉnh Yên Bái",
+	"data": [
+		{
+			"id": "135",
+			"name": "Huyện Lục Yên"
+		},
+		{
+			"id": "137",
+			"name": "Huyện Mù Căng Chải"
+		},
+		{
+			"id": "133",
+			"name": "Thị xã Nghĩa Lộ"
+		},
+		{
+			"id": "139",
+			"name": "Huyện Trạm Tấu"
+		},
+		{
+			"id": "138",
+			"name": "Huyện Trấn Yên"
+		},
+		{
+			"id": "140",
+			"name": "Huyện Văn Chấn"
+		},
+		{
+			"id": "136",
+			"name": "Huyện Văn Yên"
+		},
+		{
+			"id": "132",
+			"name": "Thành phố Yên Bái"
+		},
+		{
+			"id": "141",
+			"name": "Huyện Yên Bình"
+		}
+	]
+}

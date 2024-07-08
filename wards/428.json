@@ -1,0 +1,158 @@
+{
+	"id": "428",
+	"name": "Huyện Thanh Chương",
+	"data": [
+		{
+			"id": "17716",
+			"name": "Xã Cát Văn"
+		},
+		{
+			"id": "17749",
+			"name": "Xã Đại Đồng"
+		},
+		{
+			"id": "17764",
+			"name": "Xã Đồng Văn"
+		},
+		{
+			"id": "17722",
+			"name": "Xã Hạnh Lâm"
+		},
+		{
+			"id": "17759",
+			"name": "Xã Ngọc Lâm"
+		},
+		{
+			"id": "17767",
+			"name": "Xã Ngọc Sơn"
+		},
+		{
+			"id": "17728",
+			"name": "Xã Phong Thịnh"
+		},
+		{
+			"id": "17773",
+			"name": "Xã Thanh An"
+		},
+		{
+			"id": "17776",
+			"name": "Xã Thanh Chi"
+		},
+		{
+			"id": "17713",
+			"name": "Thị trấn Thanh Chương"
+		},
+		{
+			"id": "17752",
+			"name": "Xã Thanh Đồng"
+		},
+		{
+			"id": "17824",
+			"name": "Xã Thanh Đức"
+		},
+		{
+			"id": "17782",
+			"name": "Xã Thanh Dương"
+		},
+		{
+			"id": "17809",
+			"name": "Xã Thanh Giang"
+		},
+		{
+			"id": "17806",
+			"name": "Xã Thanh Hà"
+		},
+		{
+			"id": "17725",
+			"name": "Xã Thanh Hòa"
+		},
+		{
+			"id": "17758",
+			"name": "Xã Thanh Hương"
+		},
+		{
+			"id": "17800",
+			"name": "Xã Thanh Khai"
+		},
+		{
+			"id": "17788",
+			"name": "Xã Thanh Khê"
+		},
+		{
+			"id": "17815",
+			"name": "Xã Thanh Lâm"
+		},
+		{
+			"id": "17743",
+			"name": "Xã Thanh Liên"
+		},
+		{
+			"id": "17761",
+			"name": "Xã Thanh Lĩnh"
+		},
+		{
+			"id": "17794",
+			"name": "Xã Thanh Long"
+		},
+		{
+			"id": "17785",
+			"name": "Xã Thanh Lương"
+		},
+		{
+			"id": "17818",
+			"name": "Xã Thanh Mai"
+		},
+		{
+			"id": "17734",
+			"name": "Xã Thanh Mỹ"
+		},
+		{
+			"id": "17755",
+			"name": "Xã Thanh Ngọc"
+		},
+		{
+			"id": "17719",
+			"name": "Xã Thanh Nho"
+		},
+		{
+			"id": "17731",
+			"name": "Xã Thanh Phong"
+		},
+		{
+			"id": "17723",
+			"name": "Xã Thanh Sơn"
+		},
+		{
+			"id": "17770",
+			"name": "Xã Thanh Thịnh"
+		},
+		{
+			"id": "17797",
+			"name": "Xã Thanh Thủy"
+		},
+		{
+			"id": "17737",
+			"name": "Xã Thanh Tiên"
+		},
+		{
+			"id": "17812",
+			"name": "Xã Thanh Tùng"
+		},
+		{
+			"id": "17821",
+			"name": "Xã Thanh Xuân"
+		},
+		{
+			"id": "17803",
+			"name": "Xã Thanh Yên"
+		},
+		{
+			"id": "17791",
+			"name": "Xã Võ Liệt"
+		},
+		{
+			"id": "17779",
+			"name": "Xã Xuân Tường"
+		}
+	]
+}

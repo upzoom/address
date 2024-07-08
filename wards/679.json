@@ -1,0 +1,82 @@
+{
+	"id": "679",
+	"name": "Huyện Di Linh",
+	"data": [
+		{
+			"id": "25033",
+			"name": "Xã Bảo Thuận"
+		},
+		{
+			"id": "25000",
+			"name": "Thị trấn Di Linh"
+		},
+		{
+			"id": "25018",
+			"name": "Xã Đinh Lạc"
+		},
+		{
+			"id": "25024",
+			"name": "Xã Đinh Trang Hòa"
+		},
+		{
+			"id": "25003",
+			"name": "Xã Đinh Trang Thượng"
+		},
+		{
+			"id": "25051",
+			"name": "Xã Gia Bắc"
+		},
+		{
+			"id": "25015",
+			"name": "Xã Gia Hiệp"
+		},
+		{
+			"id": "25030",
+			"name": "Xã Gung Ré"
+		},
+		{
+			"id": "25045",
+			"name": "Xã Hòa Bắc"
+		},
+		{
+			"id": "25042",
+			"name": "Xã Hòa Nam"
+		},
+		{
+			"id": "25036",
+			"name": "Xã Hòa Ninh"
+		},
+		{
+			"id": "25039",
+			"name": "Xã Hòa Trung"
+		},
+		{
+			"id": "25027",
+			"name": "Xã Liên Đầm"
+		},
+		{
+			"id": "25048",
+			"name": "Xã Sơn Điền"
+		},
+		{
+			"id": "25021",
+			"name": "Xã Tam Bố"
+		},
+		{
+			"id": "25009",
+			"name": "Xã Tân Châu"
+		},
+		{
+			"id": "25007",
+			"name": "Xã Tân Lâm"
+		},
+		{
+			"id": "25012",
+			"name": "Xã Tân Nghĩa"
+		},
+		{
+			"id": "25006",
+			"name": "Xã Tân Thượng"
+		}
+	]
+}

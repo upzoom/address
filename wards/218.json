@@ -1,0 +1,106 @@
+{
+	"id": "218",
+	"name": "Huyện Lục Nam",
+	"data": [
+		{
+			"id": "07513",
+			"name": "Xã Bắc Lũng"
+		},
+		{
+			"id": "07462",
+			"name": "Xã Bảo Đài"
+		},
+		{
+			"id": "07459",
+			"name": "Xã Bảo Sơn"
+		},
+		{
+			"id": "07492",
+			"name": "Xã Bình Sơn"
+		},
+		{
+			"id": "07519",
+			"name": "Xã Cẩm Lý"
+		},
+		{
+			"id": "07480",
+			"name": "Xã Chu Điện"
+		},
+		{
+			"id": "07483",
+			"name": "Xã Cương Sơn"
+		},
+		{
+			"id": "07522",
+			"name": "Xã Đan Hội"
+		},
+		{
+			"id": "07444",
+			"name": "Thị trấn Đồi Ngô"
+		},
+		{
+			"id": "07450",
+			"name": "Xã Đông Hưng"
+		},
+		{
+			"id": "07453",
+			"name": "Xã Đông Phú"
+		},
+		{
+			"id": "07504",
+			"name": "Xã Huyền Sơn"
+		},
+		{
+			"id": "07501",
+			"name": "Xã Khám Lạng"
+		},
+		{
+			"id": "07495",
+			"name": "Xã Lan Mẫu"
+		},
+		{
+			"id": "07510",
+			"name": "Xã Lục Sơn"
+		},
+		{
+			"id": "07486",
+			"name": "Xã Nghĩa Phương"
+		},
+		{
+			"id": "07477",
+			"name": "Thị trấn Phương Sơn"
+		},
+		{
+			"id": "07456",
+			"name": "Xã Tam Dị"
+		},
+		{
+			"id": "07465",
+			"name": "Xã Thanh Lâm"
+		},
+		{
+			"id": "07468",
+			"name": "Xã Tiên Nha"
+		},
+		{
+			"id": "07471",
+			"name": "Xã Trường Giang"
+		},
+		{
+			"id": "07507",
+			"name": "Xã Trường Sơn"
+		},
+		{
+			"id": "07489",
+			"name": "Xã Vô Tranh"
+		},
+		{
+			"id": "07516",
+			"name": "Xã Vũ Xá"
+		},
+		{
+			"id": "07498",
+			"name": "Xã Yên Sơn"
+		}
+	]
+}

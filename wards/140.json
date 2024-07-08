@@ -1,0 +1,102 @@
+{
+	"id": "140",
+	"name": "Huyện Văn Chấn",
+	"data": [
+		{
+			"id": "04645",
+			"name": "Xã An Lương"
+		},
+		{
+			"id": "04702",
+			"name": "Xã Bình Thuận"
+		},
+		{
+			"id": "04693",
+			"name": "Xã Cát Thịnh"
+		},
+		{
+			"id": "04699",
+			"name": "Xã Chấn Thịnh"
+		},
+		{
+			"id": "04687",
+			"name": "Xã Đại Lịch"
+		},
+		{
+			"id": "04690",
+			"name": "Xã Đồng Khê"
+		},
+		{
+			"id": "04636",
+			"name": "Xã Gia Hội"
+		},
+		{
+			"id": "04708",
+			"name": "Xã Minh An"
+		},
+		{
+			"id": "04621",
+			"name": "Thị trấn NT Liên Sơn"
+		},
+		{
+			"id": "04627",
+			"name": "Thị trấn NT Trần Phú"
+		},
+		{
+			"id": "04633",
+			"name": "Xã Nậm Búng"
+		},
+		{
+			"id": "04648",
+			"name": "Xã Nậm Lành"
+		},
+		{
+			"id": "04642",
+			"name": "Xã Nậm Mười"
+		},
+		{
+			"id": "04666",
+			"name": "Xã Nghĩa Sơn"
+		},
+		{
+			"id": "04711",
+			"name": "Xã Nghĩa Tâm"
+		},
+		{
+			"id": "04651",
+			"name": "Xã Sơn Lương"
+		},
+		{
+			"id": "04672",
+			"name": "Thị trấn Sơn Thịnh"
+		},
+		{
+			"id": "04639",
+			"name": "Xã Sùng Đô"
+		},
+		{
+			"id": "04669",
+			"name": "Xã Suối Bu"
+		},
+		{
+			"id": "04657",
+			"name": "Xã Suối Giàng"
+		},
+		{
+			"id": "04654",
+			"name": "Xã Suối Quyền"
+		},
+		{
+			"id": "04696",
+			"name": "Xã Tân Thịnh"
+		},
+		{
+			"id": "04705",
+			"name": "Xã Thượng Bằng La"
+		},
+		{
+			"id": "04630",
+			"name": "Xã Tú Lệ"
+		}
+	]
+}

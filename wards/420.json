@@ -1,0 +1,90 @@
+{
+	"id": "420",
+	"name": "Huyện Quỳ Hợp",
+	"data": [
+		{
+			"id": "17095",
+			"name": "Xã Bắc Sơn"
+		},
+		{
+			"id": "17062",
+			"name": "Xã Châu Cường"
+		},
+		{
+			"id": "17080",
+			"name": "Xã Châu Đình"
+		},
+		{
+			"id": "17044",
+			"name": "Xã Châu Hồng"
+		},
+		{
+			"id": "17056",
+			"name": "Xã Châu Lộc"
+		},
+		{
+			"id": "17089",
+			"name": "Xã Châu Lý"
+		},
+		{
+			"id": "17065",
+			"name": "Xã Châu Quang"
+		},
+		{
+			"id": "17077",
+			"name": "Xã Châu Thái"
+		},
+		{
+			"id": "17050",
+			"name": "Xã Châu Thành"
+		},
+		{
+			"id": "17041",
+			"name": "Xã Châu Tiến"
+		},
+		{
+			"id": "17047",
+			"name": "Xã Đồng Hợp"
+		},
+		{
+			"id": "17092",
+			"name": "Xã Hạ Sơn"
+		},
+		{
+			"id": "17053",
+			"name": "Xã Liên Hợp"
+		},
+		{
+			"id": "17071",
+			"name": "Xã Minh Hợp"
+		},
+		{
+			"id": "17086",
+			"name": "Xã Nam Sơn"
+		},
+		{
+			"id": "17074",
+			"name": "Xã Nghĩa Xuân"
+		},
+		{
+			"id": "17035",
+			"name": "Thị trấn Quỳ Hợp"
+		},
+		{
+			"id": "17059",
+			"name": "Xã Tam Hợp"
+		},
+		{
+			"id": "17068",
+			"name": "Xã Thọ Hợp"
+		},
+		{
+			"id": "17083",
+			"name": "Xã Văn Lợi"
+		},
+		{
+			"id": "17038",
+			"name": "Xã Yên Hợp"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "892",
+	"name": "Huyện Châu Thành",
+	"data": [
+		{
+			"id": "30589",
+			"name": "Thị trấn An Châu"
+		},
+		{
+			"id": "30592",
+			"name": "Xã An Hòa"
+		},
+		{
+			"id": "30607",
+			"name": "Xã Bình Hòa"
+		},
+		{
+			"id": "30601",
+			"name": "Xã Bình Thạnh"
+		},
+		{
+			"id": "30595",
+			"name": "Xã Cần Đăng"
+		},
+		{
+			"id": "30613",
+			"name": "Xã Hòa Bình Thạnh"
+		},
+		{
+			"id": "30622",
+			"name": "Xã Tân Phú"
+		},
+		{
+			"id": "30610",
+			"name": "Xã Vĩnh An"
+		},
+		{
+			"id": "30604",
+			"name": "Thị trấn Vĩnh Bình"
+		},
+		{
+			"id": "30598",
+			"name": "Xã Vĩnh Hanh"
+		},
+		{
+			"id": "30616",
+			"name": "Xã Vĩnh Lợi"
+		},
+		{
+			"id": "30619",
+			"name": "Xã Vĩnh Nhuận"
+		},
+		{
+			"id": "30625",
+			"name": "Xã Vĩnh Thành"
+		}
+	]
+}

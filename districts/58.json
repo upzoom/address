@@ -1,0 +1,34 @@
+{
+	"id": "58",
+	"name": "Tỉnh Ninh Thuận",
+	"data": [
+		{
+			"id": "584",
+			"name": "Huyện Bác Ái"
+		},
+		{
+			"id": "586",
+			"name": "Huyện Ninh Hải"
+		},
+		{
+			"id": "587",
+			"name": "Huyện Ninh Phước"
+		},
+		{
+			"id": "585",
+			"name": "Huyện Ninh Sơn"
+		},
+		{
+			"id": "582",
+			"name": "Thành phố Phan Rang-Tháp Chàm"
+		},
+		{
+			"id": "588",
+			"name": "Huyện Thuận Bắc"
+		},
+		{
+			"id": "589",
+			"name": "Huyện Thuận Nam"
+		}
+	]
+}

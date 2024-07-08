@@ -1,0 +1,74 @@
+{
+	"id": "080",
+	"name": "Thành phố Lào Cai",
+	"data": [
+		{
+			"id": "02668",
+			"name": "Phường Bắc Cường"
+		},
+		{
+			"id": "02650",
+			"name": "Phường Bắc Lệnh"
+		},
+		{
+			"id": "02658",
+			"name": "Phường Bình Minh"
+		},
+		{
+			"id": "02674",
+			"name": "Xã Cam Đường"
+		},
+		{
+			"id": "02644",
+			"name": "Phường Cốc Lếu"
+		},
+		{
+			"id": "02746",
+			"name": "Xã Cốc San"
+		},
+		{
+			"id": "02662",
+			"name": "Xã Đồng Tuyển"
+		},
+		{
+			"id": "02635",
+			"name": "Phường Duyên Hải"
+		},
+		{
+			"id": "02680",
+			"name": "Xã Hợp Thành"
+		},
+		{
+			"id": "02647",
+			"name": "Phường Kim Tân"
+		},
+		{
+			"id": "02641",
+			"name": "Phường Lào Cai"
+		},
+		{
+			"id": "02671",
+			"name": "Phường Nam Cường"
+		},
+		{
+			"id": "02653",
+			"name": "Phường Pom Hán"
+		},
+		{
+			"id": "02677",
+			"name": "Xã Tả Phời"
+		},
+		{
+			"id": "02659",
+			"name": "Xã Thống Nhất"
+		},
+		{
+			"id": "02665",
+			"name": "Xã Vạn Hoà"
+		},
+		{
+			"id": "02656",
+			"name": "Phường Xuân Tăng"
+		}
+	]
+}

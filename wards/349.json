@@ -1,0 +1,70 @@
+{
+	"id": "349",
+	"name": "Thị xã Duy Tiên",
+	"data": [
+		{
+			"id": "13333",
+			"name": "Phường Bạch Thượng"
+		},
+		{
+			"id": "13330",
+			"name": "Phường Châu Giang"
+		},
+		{
+			"id": "13345",
+			"name": "Xã Chuyên Ngoại"
+		},
+		{
+			"id": "13321",
+			"name": "Phường Đồng Văn"
+		},
+		{
+			"id": "13342",
+			"name": "Phường Duy Hải"
+		},
+		{
+			"id": "13336",
+			"name": "Phường Duy Minh"
+		},
+		{
+			"id": "13324",
+			"name": "Phường Hòa Mạc"
+		},
+		{
+			"id": "13357",
+			"name": "Phường Hoàng Đông"
+		},
+		{
+			"id": "13327",
+			"name": "Xã Mộc Bắc"
+		},
+		{
+			"id": "13339",
+			"name": "Xã Mộc Nam"
+		},
+		{
+			"id": "13363",
+			"name": "Xã Tiên Ngoại"
+		},
+		{
+			"id": "13354",
+			"name": "Phường Tiên Nội"
+		},
+		{
+			"id": "13369",
+			"name": "Xã Tiên Sơn"
+		},
+		{
+			"id": "13351",
+			"name": "Xã Trác Văn"
+		},
+		{
+			"id": "13348",
+			"name": "Phường Yên Bắc"
+		},
+		{
+			"id": "13360",
+			"name": "Xã Yên Nam"
+		}
+	]
+}

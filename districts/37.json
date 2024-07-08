@@ -1,0 +1,38 @@
+{
+	"id": "37",
+	"name": "Tỉnh Ninh Bình",
+	"data": [
+		{
+			"id": "373",
+			"name": "Huyện Gia Viễn"
+		},
+		{
+			"id": "374",
+			"name": "Huyện Hoa Lư"
+		},
+		{
+			"id": "376",
+			"name": "Huyện Kim Sơn"
+		},
+		{
+			"id": "372",
+			"name": "Huyện Nho Quan"
+		},
+		{
+			"id": "369",
+			"name": "Thành phố Ninh Bình"
+		},
+		{
+			"id": "370",
+			"name": "Thành phố Tam Điệp"
+		},
+		{
+			"id": "375",
+			"name": "Huyện Yên Khánh"
+		},
+		{
+			"id": "377",
+			"name": "Huyện Yên Mô"
+		}
+	]
+}

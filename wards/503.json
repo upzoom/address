@@ -1,0 +1,58 @@
+{
+	"id": "503",
+	"name": "Thành phố Hội An",
+	"data": [
+		{
+			"id": "20419",
+			"name": "Phường Cẩm An"
+		},
+		{
+			"id": "20413",
+			"name": "Phường Cẩm Châu"
+		},
+		{
+			"id": "20422",
+			"name": "Xã Cẩm Hà"
+		},
+		{
+			"id": "20425",
+			"name": "Xã Cẩm Kim"
+		},
+		{
+			"id": "20428",
+			"name": "Phường Cẩm Nam"
+		},
+		{
+			"id": "20404",
+			"name": "Phường Cẩm Phô"
+		},
+		{
+			"id": "20431",
+			"name": "Xã Cẩm Thanh"
+		},
+		{
+			"id": "20416",
+			"name": "Phường Cửa Đại"
+		},
+		{
+			"id": "20398",
+			"name": "Phường Minh An"
+		},
+		{
+			"id": "20410",
+			"name": "Phường Sơn Phong"
+		},
+		{
+			"id": "20401",
+			"name": "Phường Tân An"
+		},
+		{
+			"id": "20434",
+			"name": "Xã Tân Hiệp"
+		},
+		{
+			"id": "20407",
+			"name": "Phường Thanh Hà"
+		}
+	]
+}

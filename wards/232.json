@@ -1,0 +1,82 @@
+{
+	"id": "232",
+	"name": "Huyện Thanh Ba",
+	"data": [
+		{
+			"id": "08206",
+			"name": "Xã Chí Tiên"
+		},
+		{
+			"id": "08161",
+			"name": "Xã Đại An"
+		},
+		{
+			"id": "08221",
+			"name": "Xã Đỗ Sơn"
+		},
+		{
+			"id": "08224",
+			"name": "Xã Đỗ Xuyên"
+		},
+		{
+			"id": "08158",
+			"name": "Xã Đông Lĩnh"
+		},
+		{
+			"id": "08209",
+			"name": "Xã Đông Thành"
+		},
+		{
+			"id": "08170",
+			"name": "Xã Đồng Xuân"
+		},
+		{
+			"id": "08164",
+			"name": "Xã Hanh Cù"
+		},
+		{
+			"id": "08203",
+			"name": "Xã Hoàng Cương"
+		},
+		{
+			"id": "08197",
+			"name": "Xã Khải Xuân"
+		},
+		{
+			"id": "08227",
+			"name": "Xã Lương Lỗ"
+		},
+		{
+			"id": "08200",
+			"name": "Xã Mạn Lạn"
+		},
+		{
+			"id": "08179",
+			"name": "Xã Ninh Dân"
+		},
+		{
+			"id": "08173",
+			"name": "Xã Quảng Yên"
+		},
+		{
+			"id": "08215",
+			"name": "Xã Sơn Cương"
+		},
+		{
+			"id": "08152",
+			"name": "Thị trấn Thanh Ba"
+		},
+		{
+			"id": "08218",
+			"name": "Xã Thanh Hà"
+		},
+		{
+			"id": "08156",
+			"name": "Xã Vân Lĩnh"
+		},
+		{
+			"id": "08194",
+			"name": "Xã Võ Lao"
+		}
+	]
+}

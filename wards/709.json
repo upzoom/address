@@ -1,0 +1,38 @@
+{
+	"id": "709",
+	"name": "Thị xã Hòa Thành",
+	"data": [
+		{
+			"id": "25633",
+			"name": "Phường Hiệp Tân"
+		},
+		{
+			"id": "25630",
+			"name": "Phường Long Hoa"
+		},
+		{
+			"id": "25636",
+			"name": "Phường Long Thành Bắc"
+		},
+		{
+			"id": "25651",
+			"name": "Xã Long Thành Nam"
+		},
+		{
+			"id": "25645",
+			"name": "Phường Long Thành Trung"
+		},
+		{
+			"id": "25642",
+			"name": "Xã Trường Đông"
+		},
+		{
+			"id": "25639",
+			"name": "Xã Trường Hòa"
+		},
+		{
+			"id": "25648",
+			"name": "Xã Trường Tây"
+		}
+	]
+}

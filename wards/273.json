@@ -1,0 +1,70 @@
+{
+	"id": "273",
+	"name": "Huyện Đan Phượng",
+	"data": [
+		{
+			"id": "09823",
+			"name": "Xã Đan Phượng"
+		},
+		{
+			"id": "09826",
+			"name": "Xã Đồng Tháp"
+		},
+		{
+			"id": "09805",
+			"name": "Xã Hạ Mỗ"
+		},
+		{
+			"id": "09796",
+			"name": "Xã Hồng Hà"
+		},
+		{
+			"id": "09802",
+			"name": "Xã Liên Hà"
+		},
+		{
+			"id": "09799",
+			"name": "Xã Liên Hồng"
+		},
+		{
+			"id": "09808",
+			"name": "Xã Liên Trung"
+		},
+		{
+			"id": "09784",
+			"name": "Thị trấn Phùng"
+		},
+		{
+			"id": "09811",
+			"name": "Xã Phương Đình"
+		},
+		{
+			"id": "09829",
+			"name": "Xã Song Phượng"
+		},
+		{
+			"id": "09817",
+			"name": "Xã Tân Hội"
+		},
+		{
+			"id": "09820",
+			"name": "Xã Tân Lập"
+		},
+		{
+			"id": "09790",
+			"name": "Xã Thọ An"
+		},
+		{
+			"id": "09793",
+			"name": "Xã Thọ Xuân"
+		},
+		{
+			"id": "09814",
+			"name": "Xã Thượng Mỗ"
+		},
+		{
+			"id": "09787",
+			"name": "Xã Trung Châu"
+		}
+	]
+}

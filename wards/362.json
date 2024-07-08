@@ -1,0 +1,86 @@
+{
+	"id": "362",
+	"name": "Huyện Nam Trực",
+	"data": [
+		{
+			"id": "14011",
+			"name": "Xã Bình Minh"
+		},
+		{
+			"id": "13972",
+			"name": "Xã Điền Xá"
+		},
+		{
+			"id": "14014",
+			"name": "Xã Đồng Sơn"
+		},
+		{
+			"id": "13984",
+			"name": "Xã Hồng Quang"
+		},
+		{
+			"id": "13990",
+			"name": "Xã Nam Cường"
+		},
+		{
+			"id": "14002",
+			"name": "Xã Nam Dương"
+		},
+		{
+			"id": "13966",
+			"name": "Thị trấn Nam Giang"
+		},
+		{
+			"id": "14020",
+			"name": "Xã Nam Hải"
+		},
+		{
+			"id": "13999",
+			"name": "Xã Nam Hoa"
+		},
+		{
+			"id": "13993",
+			"name": "Xã Nam Hồng"
+		},
+		{
+			"id": "13996",
+			"name": "Xã Nam Hùng"
+		},
+		{
+			"id": "14008",
+			"name": "Xã Nam Lợi"
+		},
+		{
+			"id": "13969",
+			"name": "Xã Nam Mỹ"
+		},
+		{
+			"id": "14023",
+			"name": "Xã Nam Thái"
+		},
+		{
+			"id": "13978",
+			"name": "Xã Nam Thắng"
+		},
+		{
+			"id": "14005",
+			"name": "Xã Nam Thanh"
+		},
+		{
+			"id": "14017",
+			"name": "Xã Nam Tiến"
+		},
+		{
+			"id": "13981",
+			"name": "Xã Nam Toàn"
+		},
+		{
+			"id": "13975",
+			"name": "Xã Nghĩa An"
+		},
+		{
+			"id": "13987",
+			"name": "Xã Tân Thịnh"
+		}
+	]
+}

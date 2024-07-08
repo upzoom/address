@@ -1,0 +1,50 @@
+{
+	"id": "512",
+	"name": "Huyện Hiệp Đức",
+	"data": [
+		{
+			"id": "20767",
+			"name": "Xã Bình Lâm"
+		},
+		{
+			"id": "20788",
+			"name": "Xã Bình Sơn"
+		},
+		{
+			"id": "20758",
+			"name": "Xã Hiệp Hòa"
+		},
+		{
+			"id": "20761",
+			"name": "Xã Hiệp Thuận"
+		},
+		{
+			"id": "20776",
+			"name": "Xã Phước Gia"
+		},
+		{
+			"id": "20773",
+			"name": "Xã Phước Trà"
+		},
+		{
+			"id": "20782",
+			"name": "Xã Quế Lưu"
+		},
+		{
+			"id": "20764",
+			"name": "Xã Quế Thọ"
+		},
+		{
+			"id": "20770",
+			"name": "Xã Sông Trà"
+		},
+		{
+			"id": "20779",
+			"name": "Thị trấn Tân Bình"
+		},
+		{
+			"id": "20785",
+			"name": "Xã Thăng Phước"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "707",
+	"name": "Huyện Dương Minh Châu",
+	"data": [
+		{
+			"id": "25567",
+			"name": "Xã Bàu Năng"
+		},
+		{
+			"id": "25576",
+			"name": "Xã Bến Củi"
+		},
+		{
+			"id": "25573",
+			"name": "Xã Cầu Khởi"
+		},
+		{
+			"id": "25570",
+			"name": "Xã Chà Là"
+		},
+		{
+			"id": "25552",
+			"name": "Thị trấn Dương Minh Châu"
+		},
+		{
+			"id": "25579",
+			"name": "Xã Lộc Ninh"
+		},
+		{
+			"id": "25558",
+			"name": "Xã Phan"
+		},
+		{
+			"id": "25564",
+			"name": "Xã Phước Minh"
+		},
+		{
+			"id": "25561",
+			"name": "Xã Phước Ninh"
+		},
+		{
+			"id": "25555",
+			"name": "Xã Suối Đá"
+		},
+		{
+			"id": "25582",
+			"name": "Xã Truông Mít"
+		}
+	]
+}

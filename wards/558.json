@@ -1,0 +1,50 @@
+{
+	"id": "558",
+	"name": "Huyện Đồng Xuân",
+	"data": [
+		{
+			"id": "22084",
+			"name": "Xã Đa Lộc"
+		},
+		{
+			"id": "22081",
+			"name": "Thị trấn La Hai"
+		},
+		{
+			"id": "22087",
+			"name": "Xã Phú Mỡ"
+		},
+		{
+			"id": "22090",
+			"name": "Xã Xuân Lãnh"
+		},
+		{
+			"id": "22093",
+			"name": "Xã Xuân Long"
+		},
+		{
+			"id": "22111",
+			"name": "Xã Xuân Phước"
+		},
+		{
+			"id": "22096",
+			"name": "Xã Xuân Quang 1"
+		},
+		{
+			"id": "22102",
+			"name": "Xã Xuân Quang 2"
+		},
+		{
+			"id": "22108",
+			"name": "Xã Xuân Quang 3"
+		},
+		{
+			"id": "22099",
+			"name": "Xã Xuân Sơn Bắc"
+		},
+		{
+			"id": "22105",
+			"name": "Xã Xuân Sơn Nam"
+		}
+	]
+}

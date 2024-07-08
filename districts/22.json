@@ -1,0 +1,58 @@
+{
+	"id": "22",
+	"name": "Tỉnh Quảng Ninh",
+	"data": [
+		{
+			"id": "202",
+			"name": "Huyện Ba Chẽ"
+		},
+		{
+			"id": "198",
+			"name": "Huyện Bình Liêu"
+		},
+		{
+			"id": "195",
+			"name": "Thành phố Cẩm Phả"
+		},
+		{
+			"id": "207",
+			"name": "Huyện Cô Tô"
+		},
+		{
+			"id": "200",
+			"name": "Huyện Đầm Hà"
+		},
+		{
+			"id": "205",
+			"name": "Thị xã Đông Triều"
+		},
+		{
+			"id": "193",
+			"name": "Thành phố Hạ Long"
+		},
+		{
+			"id": "201",
+			"name": "Huyện Hải Hà"
+		},
+		{
+			"id": "194",
+			"name": "Thành phố Móng Cái"
+		},
+		{
+			"id": "206",
+			"name": "Thị xã Quảng Yên"
+		},
+		{
+			"id": "199",
+			"name": "Huyện Tiên Yên"
+		},
+		{
+			"id": "196",
+			"name": "Thành phố Uông Bí"
+		},
+		{
+			"id": "203",
+			"name": "Huyện Vân Đồn"
+		}
+	]
+}

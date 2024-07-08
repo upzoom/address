@@ -1,0 +1,54 @@
+{
+	"id": "098",
+	"name": "Huyện Tủa Chùa",
+	"data": [
+		{
+			"id": "03220",
+			"name": "Xã Huổi Só"
+		},
+		{
+			"id": "03229",
+			"name": "Xã Lao Xả Phình"
+		},
+		{
+			"id": "03250",
+			"name": "Xã Mường Báng"
+		},
+		{
+			"id": "03247",
+			"name": "Xã Mường Đun"
+		},
+		{
+			"id": "03244",
+			"name": "Xã Sáng Nhè"
+		},
+		{
+			"id": "03241",
+			"name": "Xã Sính Phình"
+		},
+		{
+			"id": "03232",
+			"name": "Xã Tả Phìn"
+		},
+		{
+			"id": "03226",
+			"name": "Xã Tả Sìn Thàng"
+		},
+		{
+			"id": "03238",
+			"name": "Xã Trung Thu"
+		},
+		{
+			"id": "03217",
+			"name": "Thị trấn Tủa Chùa"
+		},
+		{
+			"id": "03235",
+			"name": "Xã Tủa Thàng"
+		},
+		{
+			"id": "03223",
+			"name": "Xã Xín Chải"
+		}
+	]
+}

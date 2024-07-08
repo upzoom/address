@@ -1,0 +1,34 @@
+{
+	"id": "850",
+	"name": "Huyện Duyên Hải",
+	"data": [
+		{
+			"id": "29500",
+			"name": "Xã Đôn Châu"
+		},
+		{
+			"id": "29497",
+			"name": "Xã Đôn Xuân"
+		},
+		{
+			"id": "29536",
+			"name": "Xã Đông Hải"
+		},
+		{
+			"id": "29521",
+			"name": "Xã Long Khánh"
+		},
+		{
+			"id": "29513",
+			"name": "Thị trấn Long Thành"
+		},
+		{
+			"id": "29533",
+			"name": "Xã Long Vĩnh"
+		},
+		{
+			"id": "29530",
+			"name": "Xã Ngũ Lạc"
+		}
+	]
+}

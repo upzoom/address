@@ -1,0 +1,94 @@
+{
+	"id": "622",
+	"name": "Thành phố Pleiku",
+	"data": [
+		{
+			"id": "23602",
+			"name": "Xã An Phú"
+		},
+		{
+			"id": "23590",
+			"name": "Xã Biển Hồ"
+		},
+		{
+			"id": "23586",
+			"name": "Phường Chi Lăng"
+		},
+		{
+			"id": "23599",
+			"name": "Xã Chư Á"
+		},
+		{
+			"id": "23560",
+			"name": "Phường Diên Hồng"
+		},
+		{
+			"id": "23605",
+			"name": "Xã Diên Phú"
+		},
+		{
+			"id": "23579",
+			"name": "Phường Đống Đa"
+		},
+		{
+			"id": "23611",
+			"name": "Xã Gào"
+		},
+		{
+			"id": "23572",
+			"name": "Phường Hoa Lư"
+		},
+		{
+			"id": "23569",
+			"name": "Phường Hội Phú"
+		},
+		{
+			"id": "23566",
+			"name": "Phường Hội Thương"
+		},
+		{
+			"id": "23608",
+			"name": "Xã Ia Kênh"
+		},
+		{
+			"id": "23563",
+			"name": "Phường Ia Kring"
+		},
+		{
+			"id": "23570",
+			"name": "Phường Phù Đổng"
+		},
+		{
+			"id": "23593",
+			"name": "Xã Tân Sơn"
+		},
+		{
+			"id": "23575",
+			"name": "Phường Tây Sơn"
+		},
+		{
+			"id": "23582",
+			"name": "Phường Thắng Lợi"
+		},
+		{
+			"id": "23578",
+			"name": "Phường Thống Nhất"
+		},
+		{
+			"id": "23581",
+			"name": "Phường Trà Bá"
+		},
+		{
+			"id": "23596",
+			"name": "Xã Trà Đa"
+		},
+		{
+			"id": "23557",
+			"name": "Phường Yên Đỗ"
+		},
+		{
+			"id": "23584",
+			"name": "Phường Yên Thế"
+		}
+	]
+}

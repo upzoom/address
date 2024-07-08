@@ -1,0 +1,42 @@
+{
+	"id": "665",
+	"name": "Huyện Đắk Song",
+	"data": [
+		{
+			"id": "24719",
+			"name": "Xã Đắk Hòa"
+		},
+		{
+			"id": "24718",
+			"name": "Xã Đắk Môl"
+		},
+		{
+			"id": "24727",
+			"name": "Xã Đắk N'Dung"
+		},
+		{
+			"id": "24717",
+			"name": "Thị trấn Đức An"
+		},
+		{
+			"id": "24721",
+			"name": "Xã Nam Bình"
+		},
+		{
+			"id": "24728",
+			"name": "Xã Nâm N'Jang"
+		},
+		{
+			"id": "24722",
+			"name": "Xã Thuận Hà"
+		},
+		{
+			"id": "24724",
+			"name": "Xã Thuận Hạnh"
+		},
+		{
+			"id": "24730",
+			"name": "Xã Trường Xuân"
+		}
+	]
+}

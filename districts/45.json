@@ -1,0 +1,46 @@
+{
+	"id": "45",
+	"name": "Tỉnh Quảng Trị",
+	"data": [
+		{
+			"id": "468",
+			"name": "Huyện Cam Lộ"
+		},
+		{
+			"id": "471",
+			"name": "Huyện Cồn Cỏ"
+		},
+		{
+			"id": "467",
+			"name": "Huyện Đa Krông"
+		},
+		{
+			"id": "461",
+			"name": "Thành phố Đông Hà"
+		},
+		{
+			"id": "466",
+			"name": "Huyện Gio Linh"
+		},
+		{
+			"id": "470",
+			"name": "Huyện Hải Lăng"
+		},
+		{
+			"id": "465",
+			"name": "Huyện Hướng Hóa"
+		},
+		{
+			"id": "462",
+			"name": "Thị xã Quảng Trị"
+		},
+		{
+			"id": "469",
+			"name": "Huyện Triệu Phong"
+		},
+		{
+			"id": "464",
+			"name": "Huyện Vĩnh Linh"
+		}
+	]
+}

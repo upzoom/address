@@ -1,0 +1,54 @@
+{
+	"id": "189",
+	"name": "Huyện Đình Lập",
+	"data": [
+		{
+			"id": "06646",
+			"name": "Xã Bắc Lãng"
+		},
+		{
+			"id": "06619",
+			"name": "Xã Bắc Xa"
+		},
+		{
+			"id": "06622",
+			"name": "Xã Bính Xá"
+		},
+		{
+			"id": "06637",
+			"name": "Xã Châu Sơn"
+		},
+		{
+			"id": "06634",
+			"name": "Xã Cường Lợi"
+		},
+		{
+			"id": "06613",
+			"name": "Thị trấn Đình Lập"
+		},
+		{
+			"id": "06628",
+			"name": "Xã Đình Lập"
+		},
+		{
+			"id": "06643",
+			"name": "Xã Đồng Thắng"
+		},
+		{
+			"id": "06625",
+			"name": "Xã Kiên Mộc"
+		},
+		{
+			"id": "06640",
+			"name": "Xã Lâm Ca"
+		},
+		{
+			"id": "06616",
+			"name": "Thị trấn NT Thái Bình"
+		},
+		{
+			"id": "06631",
+			"name": "Xã Thái Bình"
+		}
+	]
+}

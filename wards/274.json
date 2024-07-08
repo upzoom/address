@@ -1,0 +1,86 @@
+{
+	"id": "274",
+	"name": "Huyện Hoài Đức",
+	"data": [
+		{
+			"id": "09877",
+			"name": "Xã An Khánh"
+		},
+		{
+			"id": "09880",
+			"name": "Xã An Thượng"
+		},
+		{
+			"id": "09850",
+			"name": "Xã Cát Quế"
+		},
+		{
+			"id": "09865",
+			"name": "Xã Đắc Sở"
+		},
+		{
+			"id": "09844",
+			"name": "Xã Di Trạch"
+		},
+		{
+			"id": "09892",
+			"name": "Xã Đông La"
+		},
+		{
+			"id": "09847",
+			"name": "Xã Đức Giang"
+		},
+		{
+			"id": "09835",
+			"name": "Xã Đức Thượng"
+		},
+		{
+			"id": "09841",
+			"name": "Xã Dương Liễu"
+		},
+		{
+			"id": "09853",
+			"name": "Xã Kim Chung"
+		},
+		{
+			"id": "09889",
+			"name": "Xã La Phù"
+		},
+		{
+			"id": "09868",
+			"name": "Xã Lại Yên"
+		},
+		{
+			"id": "09838",
+			"name": "Xã Minh Khai"
+		},
+		{
+			"id": "09859",
+			"name": "Xã Sơn Đồng"
+		},
+		{
+			"id": "09874",
+			"name": "Xã Song Phương"
+		},
+		{
+			"id": "09871",
+			"name": "Xã Tiền Yên"
+		},
+		{
+			"id": "09832",
+			"name": "Thị trấn Trạm Trôi"
+		},
+		{
+			"id": "09862",
+			"name": "Xã Vân Canh"
+		},
+		{
+			"id": "09883",
+			"name": "Xã Vân Côn"
+		},
+		{
+			"id": "09856",
+			"name": "Xã Yên Sở"
+		}
+	]
+}

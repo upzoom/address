@@ -1,0 +1,30 @@
+{
+	"id": "308",
+	"name": "Quận Đồ Sơn",
+	"data": [
+		{
+			"id": "11467",
+			"name": "Phường Bàng La"
+		},
+		{
+			"id": "11458",
+			"name": "Phường Hải Sơn"
+		},
+		{
+			"id": "11737",
+			"name": "Phường Hợp Đức"
+		},
+		{
+			"id": "11465",
+			"name": "Phường Minh Đức"
+		},
+		{
+			"id": "11455",
+			"name": "Phường Ngọc Xuyên"
+		},
+		{
+			"id": "11461",
+			"name": "Phường Vạn Hương"
+		}
+	]
+}

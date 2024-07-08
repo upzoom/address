@@ -1,0 +1,70 @@
+{
+	"id": "296",
+	"name": "Huyện Bình Giang",
+	"data": [
+		{
+			"id": "10975",
+			"name": "Xã Bình Minh"
+		},
+		{
+			"id": "10996",
+			"name": "Xã Bình Xuyên"
+		},
+		{
+			"id": "10984",
+			"name": "Xã Cổ Bì"
+		},
+		{
+			"id": "10978",
+			"name": "Xã Hồng Khê"
+		},
+		{
+			"id": "10954",
+			"name": "Xã Hùng Thắng"
+		},
+		{
+			"id": "10945",
+			"name": "Thị trấn Kẻ Sặt"
+		},
+		{
+			"id": "10963",
+			"name": "Xã Long Xuyên"
+		},
+		{
+			"id": "10987",
+			"name": "Xã Nhân Quyền"
+		},
+		{
+			"id": "10972",
+			"name": "Xã Tân Hồng"
+		},
+		{
+			"id": "10966",
+			"name": "Xã Tân Việt"
+		},
+		{
+			"id": "10990",
+			"name": "Xã Thái Dương"
+		},
+		{
+			"id": "10993",
+			"name": "Xã Thái Hòa"
+		},
+		{
+			"id": "10981",
+			"name": "Xã Thái Học"
+		},
+		{
+			"id": "10969",
+			"name": "Xã Thúc Kháng"
+		},
+		{
+			"id": "10960",
+			"name": "Xã Vĩnh Hồng"
+		},
+		{
+			"id": "10951",
+			"name": "Xã Vĩnh Hưng"
+		}
+	]
+}

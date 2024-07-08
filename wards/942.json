@@ -1,0 +1,38 @@
+{
+	"id": "942",
+	"name": "Huyện Châu Thành",
+	"data": [
+		{
+			"id": "31594",
+			"name": "Xã An Hiệp"
+		},
+		{
+			"id": "31600",
+			"name": "Xã An Ninh"
+		},
+		{
+			"id": "31569",
+			"name": "Thị trấn Châu Thành"
+		},
+		{
+			"id": "31570",
+			"name": "Xã Hồ Đắc Kiện"
+		},
+		{
+			"id": "31573",
+			"name": "Xã Phú Tâm"
+		},
+		{
+			"id": "31582",
+			"name": "Xã Phú Tân"
+		},
+		{
+			"id": "31585",
+			"name": "Xã Thiện Mỹ"
+		},
+		{
+			"id": "31576",
+			"name": "Xã Thuận Hòa"
+		}
+	]
+}

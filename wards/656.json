@@ -1,0 +1,50 @@
+{
+	"id": "656",
+	"name": "Huyện Lắk",
+	"data": [
+		{
+			"id": "24586",
+			"name": "Xã Bông Krang"
+		},
+		{
+			"id": "24595",
+			"name": "Xã Buôn Tría"
+		},
+		{
+			"id": "24592",
+			"name": "Xã Buôn Triết"
+		},
+		{
+			"id": "24589",
+			"name": "Xã Đắk Liêng"
+		},
+		{
+			"id": "24601",
+			"name": "Xã Đắk Nuê"
+		},
+		{
+			"id": "24598",
+			"name": "Xã Đắk Phơi"
+		},
+		{
+			"id": "24610",
+			"name": "Xã Ea R'Bin"
+		},
+		{
+			"id": "24604",
+			"name": "Xã Krông Nô"
+		},
+		{
+			"id": "24580",
+			"name": "Thị trấn Liên Sơn"
+		},
+		{
+			"id": "24607",
+			"name": "Xã Nam Ka"
+		},
+		{
+			"id": "24583",
+			"name": "Xã Yang Tao"
+		}
+	]
+}

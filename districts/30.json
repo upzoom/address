@@ -1,0 +1,54 @@
+{
+	"id": "30",
+	"name": "Tỉnh Hải Dương",
+	"data": [
+		{
+			"id": "296",
+			"name": "Huyện Bình Giang"
+		},
+		{
+			"id": "295",
+			"name": "Huyện Cẩm Giàng"
+		},
+		{
+			"id": "290",
+			"name": "Thành phố Chí Linh"
+		},
+		{
+			"id": "297",
+			"name": "Huyện Gia Lộc"
+		},
+		{
+			"id": "288",
+			"name": "Thành phố Hải Dương"
+		},
+		{
+			"id": "293",
+			"name": "Huyện Kim Thành"
+		},
+		{
+			"id": "292",
+			"name": "Thị xã Kinh Môn"
+		},
+		{
+			"id": "291",
+			"name": "Huyện Nam Sách"
+		},
+		{
+			"id": "299",
+			"name": "Huyện Ninh Giang"
+		},
+		{
+			"id": "294",
+			"name": "Huyện Thanh Hà"
+		},
+		{
+			"id": "300",
+			"name": "Huyện Thanh Miện"
+		},
+		{
+			"id": "298",
+			"name": "Huyện Tứ Kỳ"
+		}
+	]
+}

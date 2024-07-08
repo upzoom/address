@@ -1,0 +1,38 @@
+{
+	"id": "585",
+	"name": "Huyện Ninh Sơn",
+	"data": [
+		{
+			"id": "22825",
+			"name": "Xã Hòa Sơn"
+		},
+		{
+			"id": "22813",
+			"name": "Xã Lâm Sơn"
+		},
+		{
+			"id": "22816",
+			"name": "Xã Lương Sơn"
+		},
+		{
+			"id": "22828",
+			"name": "Xã Ma Nới"
+		},
+		{
+			"id": "22822",
+			"name": "Xã Mỹ Sơn"
+		},
+		{
+			"id": "22831",
+			"name": "Xã Nhơn Sơn"
+		},
+		{
+			"id": "22819",
+			"name": "Xã Quảng Sơn"
+		},
+		{
+			"id": "22810",
+			"name": "Thị trấn Tân Sơn"
+		}
+	]
+}

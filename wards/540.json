@@ -1,0 +1,90 @@
+{
+	"id": "540",
+	"name": "Thành phố Quy Nhơn",
+	"data": [
+		{
+			"id": "21589",
+			"name": "Phường Bùi Thị Xuân"
+		},
+		{
+			"id": "21556",
+			"name": "Phường Đống Đa"
+		},
+		{
+			"id": "21595",
+			"name": "Phường Ghềnh Ráng"
+		},
+		{
+			"id": "21562",
+			"name": "Phường Hải Cảng"
+		},
+		{
+			"id": "21571",
+			"name": "Phường Lê Hồng Phong"
+		},
+		{
+			"id": "21583",
+			"name": "Phường Lê Lợi"
+		},
+		{
+			"id": "21580",
+			"name": "Phường Lý Thường Kiệt"
+		},
+		{
+			"id": "21577",
+			"name": "Phường Ngô Mây"
+		},
+		{
+			"id": "21592",
+			"name": "Phường Nguyễn Văn Cừ"
+		},
+		{
+			"id": "21550",
+			"name": "Phường Nhơn Bình"
+		},
+		{
+			"id": "21607",
+			"name": "Xã Nhơn Châu"
+		},
+		{
+			"id": "21604",
+			"name": "Xã Nhơn Hải"
+		},
+		{
+			"id": "21601",
+			"name": "Xã Nhơn Hội"
+		},
+		{
+			"id": "21598",
+			"name": "Xã Nhơn Lý"
+		},
+		{
+			"id": "21553",
+			"name": "Phường Nhơn Phú"
+		},
+		{
+			"id": "21991",
+			"name": "Xã Phước Mỹ"
+		},
+		{
+			"id": "21565",
+			"name": "Phường Quang Trung"
+		},
+		{
+			"id": "21568",
+			"name": "Phường Thị Nại"
+		},
+		{
+			"id": "21574",
+			"name": "Phường Trần Hưng Đạo"
+		},
+		{
+			"id": "21586",
+			"name": "Phường Trần Phú"
+		},
+		{
+			"id": "21559",
+			"name": "Phường Trần Quang Diệu"
+		}
+	]
+}
