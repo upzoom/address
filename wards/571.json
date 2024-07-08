@@ -1,58 +1,50 @@
 {
-	"id": "571",
-	"name": "Huyện Vạn Ninh",
+	"id": 571,
+	"name": "HUYỆN PHÚ GIÁO",
 	"data": [
 		{
-			"id": "22492",
-			"name": "Xã Đại Lãnh"
+			"id": 9827,
+			"name": "THỊ TRẤN PHƯỚC VĨNH"
 		},
 		{
-			"id": "22501",
-			"name": "Xã Vạn Bình"
+			"id": 9828,
+			"name": "XÃ AN LINH"
 		},
 		{
-			"id": "22489",
-			"name": "Thị trấn Vạn Giã"
+			"id": 9829,
+			"name": "XÃ PHƯỚC SANG"
 		},
 		{
-			"id": "22525",
-			"name": "Xã Vạn Hưng"
+			"id": 9830,
+			"name": "XÃ AN THÁI"
 		},
 		{
-			"id": "22507",
-			"name": "Xã Vạn Khánh"
+			"id": 9831,
+			"name": "XÃ AN LONG"
 		},
 		{
-			"id": "22498",
-			"name": "Xã Vạn Long"
+			"id": 9832,
+			"name": "XÃ AN BÌNH"
 		},
 		{
-			"id": "22513",
-			"name": "Xã Vạn Lương"
+			"id": 9833,
+			"name": "XÃ TÂN HIỆP"
 		},
 		{
-			"id": "22510",
-			"name": "Xã Vạn Phú"
+			"id": 9834,
+			"name": "XÃ TAM LẬP"
 		},
 		{
-			"id": "22495",
-			"name": "Xã Vạn Phước"
+			"id": 9835,
+			"name": "XÃ TÂN LONG"
 		},
 		{
-			"id": "22516",
-			"name": "Xã Vạn Thắng"
+			"id": 9836,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "22519",
-			"name": "Xã Vạn Thạnh"
-		},
-		{
-			"id": "22504",
-			"name": "Xã Vạn Thọ"
-		},
-		{
-			"id": "22522",
-			"name": "Xã Xuân Sơn"
+			"id": 9837,
+			"name": "XÃ PHƯỚC HÒA"
 		}
 	]
 }

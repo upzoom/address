@@ -1,0 +1,42 @@
+{
+	"id": 538,
+	"name": "HUYỆN BÁC ÁI",
+	"data": [
+		{
+			"id": 9497,
+			"name": "XÃ PHƯỚC TÂN"
+		},
+		{
+			"id": 9498,
+			"name": "XÃ PHƯỚC CHÍNH"
+		},
+		{
+			"id": 9499,
+			"name": "XÃ PHƯỚC BÌNH"
+		},
+		{
+			"id": 9500,
+			"name": "XÃ PHƯỚC HÒA"
+		},
+		{
+			"id": 9501,
+			"name": "XÃ PHƯỚC TIẾN"
+		},
+		{
+			"id": 9502,
+			"name": "XÃ PHƯỚC THÀNH"
+		},
+		{
+			"id": 9503,
+			"name": "XÃ PHƯỚC THẮNG"
+		},
+		{
+			"id": 9504,
+			"name": "XÃ PHƯỚC TRUNG"
+		},
+		{
+			"id": 9505,
+			"name": "XÃ PHƯỚC ĐẠI"
+		}
+	]
+}

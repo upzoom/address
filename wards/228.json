@@ -1,42 +1,82 @@
 {
-	"id": "228",
-	"name": "Thị xã Phú Thọ",
+	"id": 228,
+	"name": "HUYỆN BẠCH THÔNG",
 	"data": [
 		{
-			"id": "07948",
-			"name": "Phường Âu Cơ"
+			"id": 3936,
+			"name": "XÃ QUANG THUẬN"
 		},
 		{
-			"id": "07951",
-			"name": "Xã Hà Lộc"
+			"id": 3937,
+			"name": "XÃ ĐÔN PHONG"
 		},
 		{
-			"id": "07963",
-			"name": "Xã Hà Thạch"
+			"id": 3938,
+			"name": "XÃ DƯƠNG PHONG"
 		},
 		{
-			"id": "07942",
-			"name": "Phường Hùng Vương"
+			"id": 3939,
+			"name": "XÃ MỸ THANH"
 		},
 		{
-			"id": "07945",
-			"name": "Phường Phong Châu"
+			"id": 3940,
+			"name": "XÃ CAO SƠN"
 		},
 		{
-			"id": "07954",
-			"name": "Xã Phú Hộ"
+			"id": 3941,
+			"name": "XÃ VI HƯƠNG"
 		},
 		{
-			"id": "07960",
-			"name": "Xã Thanh Minh"
+			"id": 3942,
+			"name": "XÃ HÀ VỊ"
 		},
 		{
-			"id": "07966",
-			"name": "Phường Thanh Vinh"
+			"id": 3943,
+			"name": "XÃ LỤC BÌNH"
 		},
 		{
-			"id": "07957",
-			"name": "Xã Văn Lung"
+			"id": 3944,
+			"name": "XÃ TÚ TRĨ"
+		},
+		{
+			"id": 3945,
+			"name": "XÃ CẨM GIÀNG"
+		},
+		{
+			"id": 3946,
+			"name": "XÃ TÂN TIẾN"
+		},
+		{
+			"id": 3947,
+			"name": "XÃ QUÂN BÌNH"
+		},
+		{
+			"id": 3948,
+			"name": "THỊ TRẤN PHỦ THÔNG"
+		},
+		{
+			"id": 3949,
+			"name": "XÃ SỸ BÌNH"
+		},
+		{
+			"id": 3950,
+			"name": "XÃ VŨ MUỘN"
+		},
+		{
+			"id": 3951,
+			"name": "XÃ NGUYÊN PHÚC"
+		},
+		{
+			"id": 3952,
+			"name": "XÃ PHƯƠNG LINH"
+		},
+		{
+			"id": 26135,
+			"name": "XÃ QUÂN HÀ"
+		},
+		{
+			"id": 26134,
+			"name": "XÃ TÂN TÚ"
 		}
 	]
 }

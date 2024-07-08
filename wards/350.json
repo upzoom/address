@@ -1,78 +1,114 @@
 {
-	"id": "350",
-	"name": "Huyện Kim Bảng",
+	"id": 350,
+	"name": "HUYỆN HẬU LỘC",
 	"data": [
 		{
-			"id": "13429",
-			"name": "Thị trấn Ba Sao"
+			"id": 6454,
+			"name": "XÃ HƯNG LỘC"
 		},
 		{
-			"id": "13390",
-			"name": "Xã Đại Cương"
+			"id": 6455,
+			"name": "XÃ PHÚ LỘC"
 		},
 		{
-			"id": "13405",
-			"name": "Xã Đồng Hóa"
+			"id": 18466,
+			"name": "XÃ HOA LỘC"
 		},
 		{
-			"id": "13408",
-			"name": "Xã Hoàng Tây"
+			"id": 6456,
+			"name": "THỊ TRẤN HẬU LỘC"
 		},
 		{
-			"id": "13420",
-			"name": "Xã Khả Phong"
+			"id": 6457,
+			"name": "XÃ CHÂU LỘC"
 		},
 		{
-			"id": "13393",
-			"name": "Xã Lê Hồ"
+			"id": 6458,
+			"name": "XÃ ĐA LỘC"
 		},
 		{
-			"id": "13432",
-			"name": "Xã Liên Sơn"
+			"id": 6459,
+			"name": "XÃ TRIỆU LỘC"
 		},
 		{
-			"id": "13423",
-			"name": "Xã Ngọc Sơn"
+			"id": 6460,
+			"name": "XÃ THÀNH LỘC"
 		},
 		{
-			"id": "13387",
-			"name": "Xã Nguyễn Úy"
+			"id": 6461,
+			"name": "XÃ TIÊN LỘC"
 		},
 		{
-			"id": "13402",
-			"name": "Xã Nhật Tân"
+			"id": 6462,
+			"name": "XÃ ĐỒNG LỘC"
 		},
 		{
-			"id": "13399",
-			"name": "Xã Nhật Tựu"
+			"id": 6463,
+			"name": "XÃ PHONG LỘC"
 		},
 		{
-			"id": "13384",
-			"name": "Thị trấn Quế"
+			"id": 6464,
+			"name": "XÃ CẦU LỘC"
 		},
 		{
-			"id": "13411",
-			"name": "Xã Tân Sơn"
+			"id": 6465,
+			"name": "XÃ LỘC SƠN"
 		},
 		{
-			"id": "13438",
-			"name": "Xã Thanh Sơn"
+			"id": 6466,
+			"name": "XÃ LỘC TÂN"
 		},
 		{
-			"id": "13435",
-			"name": "Xã Thi Sơn"
+			"id": 6467,
+			"name": "XÃ THỊNH LỘC"
 		},
 		{
-			"id": "13414",
-			"name": "Xã Thụy Lôi"
+			"id": 6468,
+			"name": "XÃ LIÊN LỘC"
 		},
 		{
-			"id": "13396",
-			"name": "Xã Tượng Lĩnh"
+			"id": 6469,
+			"name": "XÃ TUY LỘC"
 		},
 		{
-			"id": "13417",
-			"name": "Xã Văn Xá"
+			"id": 6470,
+			"name": "XÃ QUANG LỘC"
+		},
+		{
+			"id": 6471,
+			"name": "XÃ THUẦN LỘC"
+		},
+		{
+			"id": 6472,
+			"name": "XÃ VĂN LỘC"
+		},
+		{
+			"id": 6473,
+			"name": "XÃ HÒA LỘC"
+		},
+		{
+			"id": 6474,
+			"name": "XÃ XUÂN LỘC"
+		},
+		{
+			"id": 6475,
+			"name": "XÃ HẢI LỘC"
+		},
+		{
+			"id": 6476,
+			"name": "XÃ MINH LỘC"
+		},
+		{
+			"id": 6477,
+			"name": "XÃ NGƯ LỘC"
+		},
+		{
+			"id": 6478,
+			"name": "XÃ MỸ LỘC"
+		},
+		{
+			"id": 6479,
+			"name": "XÃ ĐẠI LỘC"
 		}
 	]
 }

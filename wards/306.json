@@ -1,38 +1,106 @@
 {
-	"id": "306",
-	"name": "Quận Hải An",
+	"id": 306,
+	"name": "HUYỆN SÌN HỒ",
 	"data": [
 		{
-			"id": "11422",
-			"name": "Phường Cát Bi"
+			"id": 18447,
+			"name": "XÃ LÙNG THÀNG"
 		},
 		{
-			"id": "11416",
-			"name": "Phường Đằng Hải"
+			"id": 18448,
+			"name": "XÃ PA KHÓA"
 		},
 		{
-			"id": "11413",
-			"name": "Phường Đằng Lâm"
+			"id": 5548,
+			"name": "XÃ HỒNG THU"
 		},
 		{
-			"id": "11410",
-			"name": "Phường Đông Hải 1"
+			"id": 5549,
+			"name": "XÃ LÊ LỢI"
 		},
 		{
-			"id": "11411",
-			"name": "Phường Đông Hải 2"
+			"id": 5550,
+			"name": "XÃ MA QUAI"
 		},
 		{
-			"id": "11419",
-			"name": "Phường Nam Hải"
+			"id": 5551,
+			"name": "XÃ NẬM BAN"
 		},
 		{
-			"id": "11414",
-			"name": "Phường Thành Tô"
+			"id": 5552,
+			"name": "XÃ NẬM CHA"
 		},
 		{
-			"id": "11425",
-			"name": "Phường Tràng Cát"
+			"id": 5553,
+			"name": "XÃ NẬM CUỔI"
+		},
+		{
+			"id": 5554,
+			"name": "XÃ NẬM HÃN"
+		},
+		{
+			"id": 5555,
+			"name": "XÃ NẬM MẠ"
+		},
+		{
+			"id": 5556,
+			"name": "XÃ NẬM TĂM"
+		},
+		{
+			"id": 5557,
+			"name": "XÃ NOONG HẺO"
+		},
+		{
+			"id": 5558,
+			"name": "XÃ PHÌN HỒ"
+		},
+		{
+			"id": 5559,
+			"name": "XÃ PHÚ ĐAO"
+		},
+		{
+			"id": 5560,
+			"name": "XÃ PU SAM CÁP"
+		},
+		{
+			"id": 5561,
+			"name": "XÃ SÀ DỀ PHÌN"
+		},
+		{
+			"id": 5562,
+			"name": "XÃ TẢ NGẢO"
+		},
+		{
+			"id": 5563,
+			"name": "XÃ TỦA SÍN CHẢI"
+		},
+		{
+			"id": 5541,
+			"name": "XÃ CHĂN NƯA"
+		},
+		{
+			"id": 5542,
+			"name": "XÃ LÀNG MÔ"
+		},
+		{
+			"id": 5543,
+			"name": "XÃ PA TẦN"
+		},
+		{
+			"id": 5544,
+			"name": "XÃ PHĂNG SÔ LIN"
+		},
+		{
+			"id": 5545,
+			"name": "XÃ TẢ PHÌN"
+		},
+		{
+			"id": 5546,
+			"name": "THỊ TRẤN SÌN HỒ"
+		},
+		{
+			"id": 5547,
+			"name": "XÃ CĂN CO"
 		}
 	]
 }

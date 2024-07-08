@@ -1,50 +1,54 @@
 {
-	"id": "673",
-	"name": "Thành phố Bảo Lộc",
+	"id": 673,
+	"name": "HUYỆN AN MINH",
 	"data": [
 		{
-			"id": "24823",
-			"name": "Phường 1"
+			"id": 11233,
+			"name": "TT THỨ 11"
 		},
 		{
-			"id": "24820",
-			"name": "Phường 2"
+			"id": 11234,
+			"name": "XÃ ĐÔNG THẠNH"
 		},
 		{
-			"id": "24826",
-			"name": "Phường B'lao"
+			"id": 11235,
+			"name": "XÃ TÂN THẠNH"
 		},
 		{
-			"id": "24844",
-			"name": "Xã Đại Lào"
+			"id": 11236,
+			"name": "XÃ THUẬN HÒA"
 		},
 		{
-			"id": "24832",
-			"name": "Xã Đạm Bri"
+			"id": 11237,
+			"name": "XÃ VÂN KHÁNH ĐÔNG"
 		},
 		{
-			"id": "24841",
-			"name": "Xã Lộc Châu"
+			"id": 11238,
+			"name": "XÃ ĐÔNG HƯNG"
 		},
 		{
-			"id": "24838",
-			"name": "Xã Lộc Nga"
+			"id": 11239,
+			"name": "XÃ ĐÔNG HƯNG A"
 		},
 		{
-			"id": "24814",
-			"name": "Phường Lộc Phát"
+			"id": 11240,
+			"name": "XÃ ĐÔNG HÒA"
 		},
 		{
-			"id": "24829",
-			"name": "Phường Lộc Sơn"
+			"id": 11241,
+			"name": "XÃ VÂN KHÁNH TÂY"
 		},
 		{
-			"id": "24835",
-			"name": "Xã Lộc Thanh"
+			"id": 11242,
+			"name": "XÃ VÂN KHÁNH"
 		},
 		{
-			"id": "24817",
-			"name": "Phường Lộc Tiến"
+			"id": 11243,
+			"name": "XÃ ĐÔNG HƯNG B"
+		},
+		{
+			"id": 11244,
+			"name": "THI TRẤN AN MINH"
 		}
 	]
 }

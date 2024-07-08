@@ -1,46 +1,66 @@
 {
-	"id": "307",
-	"name": "Quận Kiến An",
+	"id": 307,
+	"name": "HUYỆN THAN UYÊN",
 	"data": [
 		{
-			"id": "11434",
-			"name": "Phường Bắc Sơn"
+			"id": 5564,
+			"name": "XÃ MƯỜNG KIM"
 		},
 		{
-			"id": "11431",
-			"name": "Phường Đồng Hoà"
+			"id": 5565,
+			"name": "XÃ MƯỜNG THAN"
 		},
 		{
-			"id": "11429",
-			"name": "Phường Lãm Hà"
+			"id": 5566,
+			"name": "XÃ NÀ CANG"
 		},
 		{
-			"id": "11437",
-			"name": "Phường Nam Sơn"
+			"id": 5567,
+			"name": "XÃ TÀ GIA"
 		},
 		{
-			"id": "11440",
-			"name": "Phường Ngọc Sơn"
+			"id": 5568,
+			"name": "THỊ TRẤN THAN UYÊN"
 		},
 		{
-			"id": "11449",
-			"name": "Phường Phù Liễn"
+			"id": 5569,
+			"name": "XÃ HỐ MÍT"
 		},
 		{
-			"id": "11428",
-			"name": "Phường Quán Trữ"
+			"id": 5570,
+			"name": "XÃ KHOEN ON"
 		},
 		{
-			"id": "11443",
-			"name": "Phường Trần Thành Ngọ"
+			"id": 5571,
+			"name": "XÃ MƯỜNG MÍT"
 		},
 		{
-			"id": "11452",
-			"name": "Phường Tràng Minh"
+			"id": 5572,
+			"name": "XÃ PHA MU"
 		},
 		{
-			"id": "11446",
-			"name": "Phường Văn Đẩu"
+			"id": 5573,
+			"name": "XÃ TÀ HỪA"
+		},
+		{
+			"id": 5574,
+			"name": "XÃ MƯỜNG CANG"
+		},
+		{
+			"id": 5575,
+			"name": "XÃ PHÚC KHOA"
+		},
+		{
+			"id": 5576,
+			"name": "XÃ PHÚC THAN"
+		},
+		{
+			"id": 5577,
+			"name": "XÃ TÀ MUNG"
+		},
+		{
+			"id": 5578,
+			"name": "XÃ HUA NÀ"
 		}
 	]
 }

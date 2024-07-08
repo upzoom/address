@@ -1,82 +1,114 @@
 {
-	"id": "232",
-	"name": "Huyện Thanh Ba",
+	"id": 232,
+	"name": "HUYỆN HỮU LŨNG",
 	"data": [
 		{
-			"id": "08206",
-			"name": "Xã Chí Tiên"
+			"id": 4008,
+			"name": "XÃ CAI KINH"
 		},
 		{
-			"id": "08161",
-			"name": "Xã Đại An"
+			"id": 4009,
+			"name": "XÃ ĐÔ LƯƠNG"
 		},
 		{
-			"id": "08221",
-			"name": "Xã Đỗ Sơn"
+			"id": 4010,
+			"name": "XÃ ĐỒNG TIẾN"
 		},
 		{
-			"id": "08224",
-			"name": "Xã Đỗ Xuyên"
+			"id": 4011,
+			"name": "XÃ HỒ SƠN"
 		},
 		{
-			"id": "08158",
-			"name": "Xã Đông Lĩnh"
+			"id": 4012,
+			"name": "XÃ HÒA BÌNH"
 		},
 		{
-			"id": "08209",
-			"name": "Xã Đông Thành"
+			"id": 4013,
+			"name": "XÃ HÒA LẠC"
 		},
 		{
-			"id": "08170",
-			"name": "Xã Đồng Xuân"
+			"id": 4014,
+			"name": "XÃ HÒA SƠN"
 		},
 		{
-			"id": "08164",
-			"name": "Xã Hanh Cù"
+			"id": 4015,
+			"name": "XÃ HÒA THẮNG"
 		},
 		{
-			"id": "08203",
-			"name": "Xã Hoàng Cương"
+			"id": 4016,
+			"name": "XÃ HỮU LIÊN"
 		},
 		{
-			"id": "08197",
-			"name": "Xã Khải Xuân"
+			"id": 4017,
+			"name": "XÃ MINH HÒA"
 		},
 		{
-			"id": "08227",
-			"name": "Xã Lương Lỗ"
+			"id": 4018,
+			"name": "XÃ QUYẾT THẮNG"
 		},
 		{
-			"id": "08200",
-			"name": "Xã Mạn Lạn"
+			"id": 4019,
+			"name": "XÃ SƠN HÀ"
 		},
 		{
-			"id": "08179",
-			"name": "Xã Ninh Dân"
+			"id": 4020,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "08173",
-			"name": "Xã Quảng Yên"
+			"id": 4021,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "08215",
-			"name": "Xã Sơn Cương"
+			"id": 4022,
+			"name": "XÃ THANH SƠN"
 		},
 		{
-			"id": "08152",
-			"name": "Thị trấn Thanh Ba"
+			"id": 4023,
+			"name": "XÃ THIÊN KY"
 		},
 		{
-			"id": "08218",
-			"name": "Xã Thanh Hà"
+			"id": 4024,
+			"name": "XÃ VĂN NHAM"
 		},
 		{
-			"id": "08156",
-			"name": "Xã Vân Lĩnh"
+			"id": 4025,
+			"name": "XÃ YÊN BÌNH"
 		},
 		{
-			"id": "08194",
-			"name": "Xã Võ Lao"
+			"id": 4026,
+			"name": "XÃ YÊN SƠN"
+		},
+		{
+			"id": 4027,
+			"name": "XÃ YÊN THỊNH"
+		},
+		{
+			"id": 4028,
+			"name": "XÃ YÊN VƯỢNG"
+		},
+		{
+			"id": 4029,
+			"name": "XÃ ĐỒNG TÂN"
+		},
+		{
+			"id": 4030,
+			"name": "XÃ MINH SƠN"
+		},
+		{
+			"id": 4031,
+			"name": "XÃ MINH TIẾN"
+		},
+		{
+			"id": 4032,
+			"name": "XÃ NHẬT TIẾN"
+		},
+		{
+			"id": 4033,
+			"name": "THỊ TRẤN HỮU LŨNG"
+		},
+		{
+			"id": 26299,
+			"name": "XÃ THIỆN TÂN"
 		}
 	]
 }

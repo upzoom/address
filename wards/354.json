@@ -1,0 +1,94 @@
+{
+	"id": 354,
+	"name": "HUYỆN CẨM THỦY",
+	"data": [
+		{
+			"id": 16989,
+			"name": "XÃ CẨM TÂM"
+		},
+		{
+			"id": 26233,
+			"name": "THỊ TRẤN PHONG SƠN"
+		},
+		{
+			"id": 6531,
+			"name": "XÃ CẨM THỦY"
+		},
+		{
+			"id": 6532,
+			"name": "XÃ CẨM LIÊN"
+		},
+		{
+			"id": 6533,
+			"name": "XÃ CẨM CHÂU"
+		},
+		{
+			"id": 6534,
+			"name": "XÃ PHÚC DO"
+		},
+		{
+			"id": 6535,
+			"name": "XÃ CẨM SƠN"
+		},
+		{
+			"id": 6536,
+			"name": "THỊ TRẤN CẨM THỦY"
+		},
+		{
+			"id": 6537,
+			"name": "XÃ CẨM QUÝ"
+		},
+		{
+			"id": 6538,
+			"name": "XÃ CẨM THÀNH"
+		},
+		{
+			"id": 6539,
+			"name": "XÃ CẨM LƯƠNG"
+		},
+		{
+			"id": 6540,
+			"name": "XÃ CẨM GIANG"
+		},
+		{
+			"id": 6541,
+			"name": "XÃ CẨM THẠCH"
+		},
+		{
+			"id": 6542,
+			"name": "XÃ CẨM BÌNH"
+		},
+		{
+			"id": 6543,
+			"name": "XÃ CẨM TÚ"
+		},
+		{
+			"id": 6544,
+			"name": "XÃ CẨM NGỌC"
+		},
+		{
+			"id": 6545,
+			"name": "XÃ CẨM TÂN"
+		},
+		{
+			"id": 6546,
+			"name": "XÃ CẨM VÂN"
+		},
+		{
+			"id": 6547,
+			"name": "XÃ CẨM LONG"
+		},
+		{
+			"id": 6548,
+			"name": "XÃ CẨM YÊN"
+		},
+		{
+			"id": 6549,
+			"name": "XÃ CẨM PHÚ"
+		},
+		{
+			"id": 6550,
+			"name": "XÃ CẨM PHONG"
+		}
+	]
+}

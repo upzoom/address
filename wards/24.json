@@ -1,0 +1,94 @@
+{
+	"id": 24,
+	"name": "QUẬN ĐỐNG ĐA",
+	"data": [
+		{
+			"id": 13329,
+			"name": "PHƯỜNG PHƯƠNG MAI"
+		},
+		{
+			"id": 469,
+			"name": "PHƯỜNG Ô CHỢ DỪA"
+		},
+		{
+			"id": 470,
+			"name": "PHƯỜNG VĂN CHƯƠNG"
+		},
+		{
+			"id": 471,
+			"name": "PHƯỜNG TRUNG PHỤNG"
+		},
+		{
+			"id": 472,
+			"name": "PHƯỜNG KHÂM THIÊN"
+		},
+		{
+			"id": 473,
+			"name": "PHƯỜNG HÀNG BỘT"
+		},
+		{
+			"id": 474,
+			"name": "PHƯỜNG THỔ QUAN"
+		},
+		{
+			"id": 475,
+			"name": "PHƯỜNG CÁT LINH"
+		},
+		{
+			"id": 476,
+			"name": "PHƯỜNG QUỐC TỬ GIÁM"
+		},
+		{
+			"id": 477,
+			"name": "PHƯỜNG KHƯƠNG THƯỢNG"
+		},
+		{
+			"id": 478,
+			"name": "PHƯỜNG PHƯƠNG MAI"
+		},
+		{
+			"id": 479,
+			"name": "PHƯỜNG NGÃ TƯ SỞ"
+		},
+		{
+			"id": 480,
+			"name": "PHƯỜNG LÁNG HẠ"
+		},
+		{
+			"id": 481,
+			"name": "PHƯỜNG THỊNH QUANG"
+		},
+		{
+			"id": 482,
+			"name": "PHƯỜNG LÁNG THƯỢNG"
+		},
+		{
+			"id": 483,
+			"name": "PHƯỜNG TRUNG LIỆT"
+		},
+		{
+			"id": 484,
+			"name": "PHƯỜNG TRUNG TỰ"
+		},
+		{
+			"id": 485,
+			"name": "PHƯỜNG KIM LIÊN"
+		},
+		{
+			"id": 486,
+			"name": "PHƯỜNG NAM ĐỒNG"
+		},
+		{
+			"id": 487,
+			"name": "PHƯỜNG PHƯƠNG LIÊN"
+		},
+		{
+			"id": 488,
+			"name": "PHƯỜNG VĂN MIẾU"
+		},
+		{
+			"id": 489,
+			"name": "PHƯỜNG QUANG TRUNG"
+		}
+	]
+}

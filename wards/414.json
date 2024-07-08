@@ -1,42 +1,70 @@
 {
-	"id": "414",
-	"name": "Thị xã Thái Hoà",
+	"id": 414,
+	"name": "HUYỆN PHÚ VANG",
 	"data": [
 		{
-			"id": "17017",
-			"name": "Xã Đông Hiếu"
+			"id": 7823,
+			"name": "XÃ PHÚ LƯƠNG"
 		},
 		{
-			"id": "16939",
-			"name": "Phường Hoà Hiếu"
+			"id": 7825,
+			"name": "XÃ VINH AN"
 		},
 		{
-			"id": "17003",
-			"name": "Phường Long Sơn"
+			"id": 7827,
+			"name": "XÃ PHÚ DIÊN"
 		},
 		{
-			"id": "17008",
-			"name": "Xã Nghĩa Mỹ"
+			"id": 7828,
+			"name": "XÃ VINH PHÚ"
 		},
 		{
-			"id": "17014",
-			"name": "Xã Nghĩa Thuận"
+			"id": 7830,
+			"name": "XÃ PHÚ XUÂN"
 		},
 		{
-			"id": "17005",
-			"name": "Xã Nghĩa Tiến"
+			"id": 7831,
+			"name": "XÃ VINH XUÂN"
 		},
 		{
-			"id": "16993",
-			"name": "Phường Quang Phong"
+			"id": 7833,
+			"name": "XÃ PHÚ AN"
 		},
 		{
-			"id": "16994",
-			"name": "Phường Quang Tiến"
+			"id": 7834,
+			"name": "THỊ TRẤN PHÚ ĐA"
 		},
 		{
-			"id": "17011",
-			"name": "Xã Tây Hiếu"
+			"id": 7835,
+			"name": "XÃ PHÚ MỸ"
+		},
+		{
+			"id": 7836,
+			"name": "XÃ PHÚ THUẬN"
+		},
+		{
+			"id": 7837,
+			"name": "XÃ PHÚ HẢI"
+		},
+		{
+			"id": 7838,
+			"name": "XÃ VINH THÁI"
+		},
+		{
+			"id": 7840,
+			"name": "XÃ PHÚ HỒ"
+		},
+		{
+			"id": 7841,
+			"name": "XÃ VINH THANH"
+		},
+		{
+			"id": 7842,
+			"name": "XÃ VINH HÀ"
+		},
+		{
+			"id": 26163,
+			"name": "XÃ PHÚ GIA"
 		}
 	]
 }

@@ -1,0 +1,42 @@
+{
+	"id": 70,
+	"name": "QUẬN HẢI AN",
+	"data": [
+		{
+			"id": 1168,
+			"name": "PHƯỜNG NAM HẢI"
+		},
+		{
+			"id": 1169,
+			"name": "PHƯỜNG ĐẰNG HẢI"
+		},
+		{
+			"id": 1170,
+			"name": "PHƯỜNG THÀNH TÔ"
+		},
+		{
+			"id": 1171,
+			"name": "PHƯỜNG TRÀNG CÁT"
+		},
+		{
+			"id": 1172,
+			"name": "PHƯỜNG ĐÔNG HẢI 2"
+		},
+		{
+			"id": 1173,
+			"name": "PHƯỜNG ĐẰNG LÂM"
+		},
+		{
+			"id": 1174,
+			"name": "PHƯỜNG ĐẰNG GIANG"
+		},
+		{
+			"id": 1175,
+			"name": "PHƯỜNG CÁT BI"
+		},
+		{
+			"id": 1176,
+			"name": "PHƯỜNG ĐÔNG HẢI 1"
+		}
+	]
+}

@@ -1,34 +1,50 @@
 {
-	"id": "647",
-	"name": "Huyện Buôn Đôn",
+	"id": 647,
+	"name": "THÀNH PHỐ VĨNH LONG",
 	"data": [
 		{
-			"id": "24247",
-			"name": "Xã Cuôr KNia"
+			"id": 10877,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "24250",
-			"name": "Xã Ea Bar"
+			"id": 10878,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "24238",
-			"name": "Xã Ea Huar"
+			"id": 10879,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "24253",
-			"name": "Xã Ea Nuôl"
+			"id": 10880,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "24241",
-			"name": "Xã Ea Wer"
+			"id": 10881,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "24235",
-			"name": "Xã Krông Na"
+			"id": 10882,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "24244",
-			"name": "Xã Tân Hoà"
+			"id": 10883,
+			"name": "PHƯỜNG 9"
+		},
+		{
+			"id": 10884,
+			"name": "XÃ TRƯỜNG AN"
+		},
+		{
+			"id": 10885,
+			"name": "XÃ TÂN NGÃI"
+		},
+		{
+			"id": 10886,
+			"name": "XÃ TÂN HÒA"
+		},
+		{
+			"id": 10887,
+			"name": "XÃ TÂN HỘI"
 		}
 	]
 }

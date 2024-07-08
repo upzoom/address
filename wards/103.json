@@ -1,66 +1,46 @@
 {
-	"id": "103",
-	"name": "Huyện Nậm Pồ",
+	"id": 103,
+	"name": "HUYỆN CHÂU THÀNH A",
 	"data": [
 		{
-			"id": "03166",
-			"name": "Xã Chà Cang"
+			"id": 1528,
+			"name": "XÃ THẠNH XUÂN"
 		},
 		{
-			"id": "03187",
-			"name": "Xã Chà Nưa"
+			"id": 1529,
+			"name": "XÃ TÂN HÒA"
 		},
 		{
-			"id": "03175",
-			"name": "Xã Chà Tở"
+			"id": 1530,
+			"name": "XÃ TRƯỜNG LONG TÂY"
 		},
 		{
-			"id": "03170",
-			"name": "Xã Nà Bủng"
+			"id": 1531,
+			"name": "XÃ TRƯỜNG LONG A"
 		},
 		{
-			"id": "03167",
-			"name": "Xã Na Cô Sa"
+			"id": 1532,
+			"name": "XÃ NHƠN NGHĨA A"
 		},
 		{
-			"id": "03169",
-			"name": "Xã Nà Hỳ"
+			"id": 1533,
+			"name": "TT. BẢY NGÀN"
 		},
 		{
-			"id": "03168",
-			"name": "Xã Nà Khoa"
+			"id": 1534,
+			"name": "TT RẠCH GÒI"
 		},
 		{
-			"id": "03173",
-			"name": "Xã Nậm Chua"
+			"id": 1535,
+			"name": "XÃ TÂN PHÚ THẠNH"
 		},
 		{
-			"id": "03174",
-			"name": "Xã Nậm Khăn"
+			"id": 1536,
+			"name": "TT CÁI TẮC"
 		},
 		{
-			"id": "03171",
-			"name": "Xã Nậm Nhừ"
-		},
-		{
-			"id": "03156",
-			"name": "Xã Nậm Tin"
-		},
-		{
-			"id": "03165",
-			"name": "Xã Pa Tần"
-		},
-		{
-			"id": "03198",
-			"name": "Xã Phìn Hồ"
-		},
-		{
-			"id": "03199",
-			"name": "Xã Si Pa Phìn"
-		},
-		{
-			"id": "03176",
-			"name": "Xã Vàng Đán"
+			"id": 1537,
+			"name": "TT MỘT NGÀN"
 		}
 	]
 }

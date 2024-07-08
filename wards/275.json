@@ -1,90 +1,150 @@
 {
-	"id": "275",
-	"name": "Huyện Quốc Oai",
+	"id": 275,
+	"name": "HUYỆN CẨM KHÊ",
 	"data": [
 		{
-			"id": "09943",
-			"name": "Xã Cấn Hữu"
+			"id": 17004,
+			"name": "THỊ TRẤN SÔNG THAO"
 		},
 		{
-			"id": "09931",
-			"name": "Xã Cộng Hòa"
+			"id": 4952,
+			"name": "XÃ VĂN KHÚC"
 		},
 		{
-			"id": "09937",
-			"name": "Xã Đại Thành"
+			"id": 4953,
+			"name": "XÃ ĐIÊU LƯƠNG"
 		},
 		{
-			"id": "09919",
-			"name": "Xã Đồng Quang"
+			"id": 4954,
+			"name": "XÃ ĐỒNG LƯƠNG"
 		},
 		{
-			"id": "04939",
-			"name": "Xã Đông Xuân"
+			"id": 4955,
+			"name": "XÃ PHÚ KHÊ"
 		},
 		{
-			"id": "09952",
-			"name": "Xã Đông Yên"
+			"id": 4956,
+			"name": "THỊ TRẤN ĐÔNG PHÚ"
 		},
 		{
-			"id": "09949",
-			"name": "Xã Hòa Thạch"
+			"id": 4957,
+			"name": "XÃ PHÚ LẠC"
 		},
 		{
-			"id": "09913",
-			"name": "Xã Liệp Tuyết"
+			"id": 4958,
+			"name": "XÃ PHÙNG XÁ"
 		},
 		{
-			"id": "09928",
-			"name": "Xã Nghĩa Hương"
+			"id": 4959,
+			"name": "XÃ PHƯƠNG XÁ"
 		},
 		{
-			"id": "09907",
-			"name": "Xã Ngọc Liệp"
+			"id": 4960,
+			"name": "XÃ SƠN NGA"
 		},
 		{
-			"id": "09910",
-			"name": "Xã Ngọc Mỹ"
+			"id": 4961,
+			"name": "XÃ SAI NGA"
 		},
 		{
-			"id": "09922",
-			"name": "Xã Phú Cát"
+			"id": 4962,
+			"name": "XÃ THANH NGA"
 		},
 		{
-			"id": "09940",
-			"name": "Xã Phú Mãn"
+			"id": 4963,
+			"name": "XÃ SƠN TÌNH"
 		},
 		{
-			"id": "09901",
-			"name": "Xã Phượng Cách"
+			"id": 4964,
+			"name": "XÃ XƯƠNG THỊNH"
 		},
 		{
-			"id": "09895",
-			"name": "Thị trấn Quốc Oai"
+			"id": 4965,
+			"name": "XÃ YÊN TẬP"
 		},
 		{
-			"id": "09898",
-			"name": "Xã Sài Sơn"
+			"id": 4966,
+			"name": "XÃ TÙNG KHÊ"
 		},
 		{
-			"id": "09946",
-			"name": "Xã Tân Hòa"
+			"id": 4967,
+			"name": "XÃ CẤP DẪN"
 		},
 		{
-			"id": "09934",
-			"name": "Xã Tân Phú"
+			"id": 4968,
+			"name": "XÃ CÁT TRÙ"
 		},
 		{
-			"id": "09916",
-			"name": "Xã Thạch Thán"
+			"id": 4969,
+			"name": "XÃ HIỀN ĐA"
 		},
 		{
-			"id": "09925",
-			"name": "Xã Tuyết Nghĩa"
+			"id": 4970,
+			"name": "XÃ TUY LỘC"
 		},
 		{
-			"id": "09904",
-			"name": "Xã Yên Sơn"
+			"id": 4971,
+			"name": "XÃ TA XÁ"
+		},
+		{
+			"id": 4972,
+			"name": "XÃ TỈNH CƯƠNG"
+		},
+		{
+			"id": 4973,
+			"name": "XÃ ĐỒNG CAM"
+		},
+		{
+			"id": 4974,
+			"name": "XÃ CHƯƠNG XÁ"
+		},
+		{
+			"id": 4975,
+			"name": "XÃ NGÔ XÁ"
+		},
+		{
+			"id": 4976,
+			"name": "XÃ PHƯỢNG VĨ"
+		},
+		{
+			"id": 4977,
+			"name": "XÃ YÊN DƯỠNG"
+		},
+		{
+			"id": 4978,
+			"name": "XÃ TIÊN LƯƠNG"
+		},
+		{
+			"id": 4979,
+			"name": "XÃ TAM SƠN"
+		},
+		{
+			"id": 4980,
+			"name": "XÃ HƯƠNG LUNG"
+		},
+		{
+			"id": 4981,
+			"name": "XÃ THỤY LIỄU"
+		},
+		{
+			"id": 4982,
+			"name": "XÃ VĂN BÁN"
+		},
+		{
+			"id": 4983,
+			"name": "XÃ SƠN TÌNH"
+		},
+		{
+			"id": 26283,
+			"name": "XÃ HÙNG VIỆT"
+		},
+		{
+			"id": 26282,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 26281,
+			"name": "THỊ TRẤN CẨM KHÊ"
 		}
 	]
 }

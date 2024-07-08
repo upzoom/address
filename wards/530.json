@@ -1,42 +1,46 @@
 {
-	"id": "530",
-	"name": "Huyện Sơn Tây",
+	"id": 530,
+	"name": "HUYỆN ĐẠ HUOAI",
 	"data": [
 		{
-			"id": "21331",
-			"name": "Xã Sơn Bua"
+			"id": 9399,
+			"name": "THỊ TRẤN ĐẠM'RI"
 		},
 		{
-			"id": "21340",
-			"name": "Xã Sơn Dung"
+			"id": 9400,
+			"name": "XÃ HÀ LÂM"
 		},
 		{
-			"id": "21346",
-			"name": "Xã Sơn Lập"
+			"id": 9401,
+			"name": "XÃ ĐẠM'RI"
 		},
 		{
-			"id": "21335",
-			"name": "Xã Sơn Liên"
+			"id": 9402,
+			"name": "XÃ ĐẠP'LOA"
 		},
 		{
-			"id": "21341",
-			"name": "Xã Sơn Long"
+			"id": 9403,
+			"name": "THỊ TRẤN MADAGOIL"
 		},
 		{
-			"id": "21338",
-			"name": "Xã Sơn Màu"
+			"id": 9404,
+			"name": "XÃ ĐẠ TỒN"
 		},
 		{
-			"id": "21334",
-			"name": "Xã Sơn Mùa"
+			"id": 9405,
+			"name": "XÃ ĐẠ OAI"
 		},
 		{
-			"id": "21337",
-			"name": "Xã Sơn Tân"
+			"id": 9406,
+			"name": "XÃ PHƯỚC LỘC"
 		},
 		{
-			"id": "21343",
-			"name": "Xã Sơn Tinh"
+			"id": 9407,
+			"name": "XÃ ĐOÀN KẾT"
+		},
+		{
+			"id": 9408,
+			"name": "XÃ MADAGUOIL"
 		}
 	]
 }

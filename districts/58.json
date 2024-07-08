@@ -1,34 +1,42 @@
 {
-	"id": "58",
-	"name": "Tỉnh Ninh Thuận",
+	"id": 58,
+	"name": "Bến Tre",
 	"data": [
 		{
-			"id": "584",
-			"name": "Huyện Bác Ái"
+			"id": 650,
+			"name": "HUYỆN BA TRI"
 		},
 		{
-			"id": "586",
-			"name": "Huyện Ninh Hải"
+			"id": 651,
+			"name": "HUYỆN CHỢ LÁCH"
 		},
 		{
-			"id": "587",
-			"name": "Huyện Ninh Phước"
+			"id": 652,
+			"name": "HUYỆN BÌNH ĐẠI"
 		},
 		{
-			"id": "585",
-			"name": "Huyện Ninh Sơn"
+			"id": 653,
+			"name": "HUYỆN MỎ CÀY NAM"
 		},
 		{
-			"id": "582",
-			"name": "Thành phố Phan Rang-Tháp Chàm"
+			"id": 654,
+			"name": "HUYỆN MỎ CÀY BẮC"
 		},
 		{
-			"id": "588",
-			"name": "Huyện Thuận Bắc"
+			"id": 655,
+			"name": "HUYỆN THẠNH PHÚ"
 		},
 		{
-			"id": "589",
-			"name": "Huyện Thuận Nam"
+			"id": 656,
+			"name": "HUYỆN GIỒNG TRÔM"
+		},
+		{
+			"id": 657,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 658,
+			"name": "THÀNH PHỐ BẾN TRE"
 		}
 	]
 }

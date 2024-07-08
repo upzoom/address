@@ -1,46 +1,150 @@
 {
-	"id": "388",
-	"name": "Huyện Lang Chánh",
+	"id": 388,
+	"name": "HUYỆN HƯƠNG SƠN",
 	"data": [
 		{
-			"id": "15058",
-			"name": "Xã Đồng Lương"
+			"id": 7323,
+			"name": "THỊ TRẤN PHỐ CHÂU"
 		},
 		{
-			"id": "15040",
-			"name": "Xã Giao An"
+			"id": 7324,
+			"name": "THỊ TRẤN TÂY SƠN"
 		},
 		{
-			"id": "15043",
-			"name": "Xã Giao Thiện"
+			"id": 7325,
+			"name": "XÃ SƠN TÂY"
 		},
 		{
-			"id": "15052",
-			"name": "Xã Lâm Phú"
+			"id": 7326,
+			"name": "XÃ SƠN KIM 1"
 		},
 		{
-			"id": "15055",
-			"name": "Thị trấn Lang Chánh"
+			"id": 7327,
+			"name": "XÃ SƠN KIM 2"
 		},
 		{
-			"id": "15049",
-			"name": "Xã Tam Văn"
+			"id": 7328,
+			"name": "XÃ SƠN HỒNG"
 		},
 		{
-			"id": "15046",
-			"name": "Xã Tân Phúc"
+			"id": 7329,
+			"name": "XÃ SƠN LĨNH"
 		},
 		{
-			"id": "15037",
-			"name": "Xã Trí Nang"
+			"id": 7330,
+			"name": "XÃ SƠN DIỆM"
 		},
 		{
-			"id": "15031",
-			"name": "Xã Yên Khương"
+			"id": 7331,
+			"name": "XÃ SƠN QUANG"
 		},
 		{
-			"id": "15034",
-			"name": "Xã Yên Thắng"
+			"id": 7332,
+			"name": "XÃ SƠN GIANG"
+		},
+		{
+			"id": 7333,
+			"name": "XÃ SƠN LÂM"
+		},
+		{
+			"id": 7334,
+			"name": "XÃ SƠN HÀM"
+		},
+		{
+			"id": 7335,
+			"name": "XÃ SƠN TRUNG"
+		},
+		{
+			"id": 7336,
+			"name": "XÃ SƠN PHÚ"
+		},
+		{
+			"id": 7337,
+			"name": "XÃ SƠN TRƯỜNG"
+		},
+		{
+			"id": 7338,
+			"name": "XÃ SƠN PHÚC"
+		},
+		{
+			"id": 7339,
+			"name": "XÃ SƠN MAI,"
+		},
+		{
+			"id": 7340,
+			"name": "XÃ SƠN THỦY"
+		},
+		{
+			"id": 7341,
+			"name": "XÃ SƠN BẰNG"
+		},
+		{
+			"id": 7342,
+			"name": "XÃ SƠN NINH"
+		},
+		{
+			"id": 7343,
+			"name": "XÃ SƠN THỊNH"
+		},
+		{
+			"id": 7344,
+			"name": "XÃ SƠN HÒA"
+		},
+		{
+			"id": 7345,
+			"name": "XÃ SƠN AN"
+		},
+		{
+			"id": 7346,
+			"name": "XÃ SƠN LỄ"
+		},
+		{
+			"id": 7347,
+			"name": "XÃ SƠN TIẾN"
+		},
+		{
+			"id": 7348,
+			"name": "XÃ SƠN CHÂU"
+		},
+		{
+			"id": 7349,
+			"name": "XÃ SƠN BÌNH"
+		},
+		{
+			"id": 7350,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 7351,
+			"name": "XÃ SƠN TRÀ"
+		},
+		{
+			"id": 7352,
+			"name": "XÃ SƠN LONG"
+		},
+		{
+			"id": 7353,
+			"name": "XÃ SƠN TÂN"
+		},
+		{
+			"id": 7354,
+			"name": "XÃ SƠN MỸ"
+		},
+		{
+			"id": 26204,
+			"name": "XÃ AN HÒA THỊNH"
+		},
+		{
+			"id": 26201,
+			"name": "XÃ KIM HOA"
+		},
+		{
+			"id": 26202,
+			"name": "XÃ QUANG DIỆM"
+		},
+		{
+			"id": 26203,
+			"name": "XÃ TÂN MỸ HÀ"
 		}
 	]
 }

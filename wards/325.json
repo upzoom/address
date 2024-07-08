@@ -1,50 +1,86 @@
 {
-	"id": "325",
-	"name": "Huyện Văn Lâm",
+	"id": 325,
+	"name": "HUYỆN LẠC THỦY",
 	"data": [
 		{
-			"id": "11992",
-			"name": "Xã Chỉ Đạo"
+			"id": 26312,
+			"name": "XÃ PHÚ NGHĨA"
 		},
 		{
-			"id": "11995",
-			"name": "Xã Đại Đồng"
+			"id": 5851,
+			"name": "XÃ ĐỒNG TÂM"
 		},
 		{
-			"id": "12004",
-			"name": "Xã Đình Dù"
+			"id": 5852,
+			"name": "THỊ TRẤN THANH HÀ"
 		},
 		{
-			"id": "11989",
-			"name": "Xã Lạc Đạo"
+			"id": 5853,
+			"name": "XÃ PHÚ THÀNH"
 		},
 		{
-			"id": "12016",
-			"name": "Xã Lạc Hồng"
+			"id": 5854,
+			"name": "XÃ HƯNG THI"
 		},
 		{
-			"id": "12010",
-			"name": "Xã Lương Tài"
+			"id": 5855,
+			"name": "XÃ AN BÌNH"
 		},
 		{
-			"id": "12007",
-			"name": "Xã Minh Hải"
+			"id": 5856,
+			"name": "XÃ AN LẠC"
 		},
 		{
-			"id": "11986",
-			"name": "Thị trấn Như Quỳnh"
+			"id": 5857,
+			"name": "XÃ LIÊN HÒA"
 		},
 		{
-			"id": "12001",
-			"name": "Xã Tân Quang"
+			"id": 5858,
+			"name": "XÃ THANH NÔNG"
 		},
 		{
-			"id": "12013",
-			"name": "Xã Trưng Trắc"
+			"id": 5859,
+			"name": "XÃ CỐ NGHĨA"
 		},
 		{
-			"id": "11998",
-			"name": "Xã Việt Hưng"
+			"id": 5860,
+			"name": "XÃ PHÚ LÃO"
+		},
+		{
+			"id": 5861,
+			"name": "XÃ LẠC LONG"
+		},
+		{
+			"id": 5862,
+			"name": "XÃ QUAN DỤ"
+		},
+		{
+			"id": 5863,
+			"name": "XÃ YÊN BỒNG"
+		},
+		{
+			"id": 5864,
+			"name": "XÃ ĐỒNG MÔN"
+		},
+		{
+			"id": 5865,
+			"name": "XÃ LIÊN HOÀN"
+		},
+		{
+			"id": 5866,
+			"name": "THỊ TRẤN CHI NÊ"
+		},
+		{
+			"id": 5867,
+			"name": "XÃ KHOAN  DỤ"
+		},
+		{
+			"id": 26311,
+			"name": "XÃ THỐNG NHẤT"
+		},
+		{
+			"id": 26313,
+			"name": "THỊ TRẤN BA HÀNG ĐỒI"
 		}
 	]
 }

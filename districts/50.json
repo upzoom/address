@@ -1,0 +1,42 @@
+{
+	"id": 50,
+	"name": "Bình Dương",
+	"data": [
+		{
+			"id": 565,
+			"name": "THỊ XÃ TÂN UYÊN"
+		},
+		{
+			"id": 566,
+			"name": "THÀNH PHỐ DĨ AN"
+		},
+		{
+			"id": 567,
+			"name": "THỊ XÃ BẾN CÁT"
+		},
+		{
+			"id": 568,
+			"name": "HUYỆN BÀU BÀNG"
+		},
+		{
+			"id": 569,
+			"name": "HUYỆN BẮC TÂN UYÊN"
+		},
+		{
+			"id": 570,
+			"name": "THÀNH PHỐ THUẬN AN"
+		},
+		{
+			"id": 571,
+			"name": "HUYỆN PHÚ GIÁO"
+		},
+		{
+			"id": 572,
+			"name": "HUYỆN DẦU TIẾNG"
+		},
+		{
+			"id": 573,
+			"name": "THÀNH PHỐ THỦ DẦU MỘT"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 57,
+	"name": "QUẬN ĐỒ SƠN",
+	"data": [
+		{
+			"id": 963,
+			"name": "PHƯỜNG BÀNG LA"
+		},
+		{
+			"id": 964,
+			"name": "PHƯỜNG HỢP ĐỨC"
+		},
+		{
+			"id": 965,
+			"name": "PHƯỜNG NGỌC HẢI"
+		},
+		{
+			"id": 966,
+			"name": "PHƯỜNG NGỌC XUYÊN"
+		},
+		{
+			"id": 967,
+			"name": "PHƯỜNG MINH ĐỨC"
+		},
+		{
+			"id": 968,
+			"name": "PHƯỜNG VẠN HƯƠNG"
+		},
+		{
+			"id": 969,
+			"name": "PHƯỜNG VẠN SƠN"
+		},
+		{
+			"id": 26263,
+			"name": "PHƯỜNG HẢI SƠN"
+		}
+	]
+}

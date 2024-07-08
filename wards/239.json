@@ -1,50 +1,86 @@
 {
-	"id": "239",
-	"name": "Huyện Thanh Thuỷ",
+	"id": 239,
+	"name": "HUYỆN BÌNH GIA",
 	"data": [
 		{
-			"id": "08680",
-			"name": "Xã Bảo Yên"
+			"id": 4161,
+			"name": "XÃ BÌNH LA"
 		},
 		{
-			"id": "08662",
-			"name": "Xã Đào Xá"
+			"id": 4162,
+			"name": "XÃ HÒA BÌNH"
 		},
 		{
-			"id": "08683",
-			"name": "Xã Đoan Hạ"
+			"id": 4163,
+			"name": "XÃ HOA THÁM"
 		},
 		{
-			"id": "08686",
-			"name": "Xã Đồng Trung"
+			"id": 4164,
+			"name": "XÃ HỒNG PHONG"
 		},
 		{
-			"id": "08689",
-			"name": "Xã Hoàng Xá"
+			"id": 4165,
+			"name": "XÃ HƯNG ĐẠO"
 		},
 		{
-			"id": "08677",
-			"name": "Xã Sơn Thủy"
+			"id": 4166,
+			"name": "XÃ QUANG TRUNG"
 		},
 		{
-			"id": "08671",
-			"name": "Xã Tân Phương"
+			"id": 4167,
+			"name": "XÃ QUÝ HÒA"
 		},
 		{
-			"id": "08665",
-			"name": "Xã Thạch Đồng"
+			"id": 4168,
+			"name": "XÃ TÂN HÒA"
 		},
 		{
-			"id": "08674",
-			"name": "Thị trấn Thanh Thủy"
+			"id": 4169,
+			"name": "XÃ THIỆN HÒA"
 		},
 		{
-			"id": "08701",
-			"name": "Xã Tu Vũ"
+			"id": 4170,
+			"name": "XÃ THIỆN LONG"
 		},
 		{
-			"id": "08668",
-			"name": "Xã Xuân Lộc"
+			"id": 4171,
+			"name": "XÃ THIỆN THUẬT"
+		},
+		{
+			"id": 4172,
+			"name": "XÃ VĨNH YÊN"
+		},
+		{
+			"id": 4173,
+			"name": "XÃ YÊN LỖ"
+		},
+		{
+			"id": 4174,
+			"name": "XÃ HOÀNG VĂN THỤ"
+		},
+		{
+			"id": 4175,
+			"name": "XÃ MINH KHAI"
+		},
+		{
+			"id": 4176,
+			"name": "XÃ MÔNG ÂN"
+		},
+		{
+			"id": 4177,
+			"name": "XÃ TÂN VĂN"
+		},
+		{
+			"id": 4178,
+			"name": "XÃ TÔ HIỆU"
+		},
+		{
+			"id": 4179,
+			"name": "THỊ TRẤN BÌNH GIA"
+		},
+		{
+			"id": 4180,
+			"name": "XÃ HỒNG THÁI"
 		}
 	]
 }

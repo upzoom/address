@@ -1,90 +1,70 @@
 {
-	"id": "188",
-	"name": "Huyện Lộc Bình",
+	"id": 188,
+	"name": "HUYỆN HOA LƯ",
 	"data": [
 		{
-			"id": "06610",
-			"name": "Xã Ái Quốc"
+			"id": 3234,
+			"name": "XÃ NINH SƠN"
 		},
 		{
-			"id": "06553",
-			"name": "Xã Đồng Bục"
+			"id": 3235,
+			"name": "LÀNG LA MAI"
 		},
 		{
-			"id": "06592",
-			"name": "Xã Đông Quan"
+			"id": 3236,
+			"name": "XÃ NINH GIANG"
 		},
 		{
-			"id": "06550",
-			"name": "Xã Hữu Khánh"
+			"id": 3237,
+			"name": "XÃ NINH HOÀ"
 		},
 		{
-			"id": "06598",
-			"name": "Xã Hữu Lân"
+			"id": 3238,
+			"name": "XÃ NINH KHANG"
 		},
 		{
-			"id": "06544",
-			"name": "Xã Khánh Xuân"
+			"id": 3239,
+			"name": "XÃ NINH KHÁNH"
 		},
 		{
-			"id": "06565",
-			"name": "Xã Khuất Xá"
+			"id": 3240,
+			"name": "XÃ NINH MỸ"
 		},
 		{
-			"id": "06529",
-			"name": "Thị trấn Lộc Bình"
+			"id": 3241,
+			"name": "XÃ NINH NHẤT"
 		},
 		{
-			"id": "06601",
-			"name": "Xã Lợi Bác"
+			"id": 3242,
+			"name": "XÃ NINH THẮNG"
 		},
 		{
-			"id": "06532",
-			"name": "Xã Mẫu Sơn"
+			"id": 3243,
+			"name": "XÃ NINH XUÂN"
 		},
 		{
-			"id": "06595",
-			"name": "Xã Minh Hiệp"
+			"id": 3244,
+			"name": "XÃ TRƯỜNG YÊN"
 		},
 		{
-			"id": "06526",
-			"name": "Thị trấn Na Dương"
+			"id": 3245,
+			"name": "THỊ TRẤN THIÊN TÔN"
 		},
 		{
-			"id": "06604",
-			"name": "Xã Nam Quan"
+			"id": 3246,
+			"name": "XÃ NINH TIẾN"
 		},
 		{
-			"id": "06589",
-			"name": "Xã Sàn Viên"
+			"id": 3247,
+			"name": "XÃ NINH HẢI"
 		},
 		{
-			"id": "06559",
-			"name": "Xã Tam Gia"
+			"id": 3248,
+			"name": "XÃ NINH VÂN"
 		},
 		{
-			"id": "06577",
-			"name": "Xã Thống Nhất"
-		},
-		{
-			"id": "06574",
-			"name": "Xã Tĩnh Bắc"
-		},
-		{
-			"id": "06562",
-			"name": "Xã Tú Đoạn"
-		},
-		{
-			"id": "06547",
-			"name": "Xã Tú Mịch"
-		},
-		{
-			"id": "06607",
-			"name": "Xã Xuân Dương"
-		},
-		{
-			"id": "06541",
-			"name": "Xã Yên Khoái"
+			"id": 3249,
+			"name": "XÃ NINH AN"
 		}
 	]
 }

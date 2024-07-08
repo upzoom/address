@@ -1,94 +1,50 @@
 {
-	"id": "423",
-	"name": "Huyện Tân Kỳ",
+	"id": 423,
+	"name": "HUYỆN PHÚ NINH",
 	"data": [
 		{
-			"id": "17287",
-			"name": "Xã Đồng Văn"
+			"id": 7977,
+			"name": "THỊ TRẤN PHÚ THỊNH"
 		},
 		{
-			"id": "17278",
-			"name": "Xã Giai Xuân"
+			"id": 7978,
+			"name": "XÃ TAM ĐẠI"
 		},
 		{
-			"id": "17317",
-			"name": "Xã Hương Sơn"
+			"id": 7979,
+			"name": "XÃ TAM PHƯỚC"
 		},
 		{
-			"id": "17314",
-			"name": "Xã Kỳ Sơn"
+			"id": 7980,
+			"name": "XÃ TAM VINH"
 		},
 		{
-			"id": "17320",
-			"name": "Xã Kỳ Tân"
+			"id": 7981,
+			"name": "XÃ TAM DÂN"
 		},
 		{
-			"id": "17281",
-			"name": "Xã Nghĩa Bình"
+			"id": 7982,
+			"name": "XÃ TAM THÀNH"
 		},
 		{
-			"id": "17284",
-			"name": "Xã Nghĩa Đồng"
+			"id": 7983,
+			"name": "XÃ TAM LỘC"
 		},
 		{
-			"id": "17308",
-			"name": "Xã Nghĩa Dũng"
+			"id": 7984,
+			"name": "XÃ TAM AN"
 		},
 		{
-			"id": "17326",
-			"name": "Xã Nghĩa Hành"
+			"id": 7985,
+			"name": "XÃ TAM ĐÀN"
 		},
 		{
-			"id": "17296",
-			"name": "Xã Nghĩa Hoàn"
+			"id": 7986,
+			"name": "XÃ TAM THÁI"
 		},
 		{
-			"id": "17293",
-			"name": "Xã Nghĩa Hợp"
-		},
-		{
-			"id": "17299",
-			"name": "Xã Nghĩa Phúc"
-		},
-		{
-			"id": "17290",
-			"name": "Xã Nghĩa Thái"
-		},
-		{
-			"id": "17323",
-			"name": "Xã Phú Sơn"
-		},
-		{
-			"id": "17305",
-			"name": "Xã Tân An"
-		},
-		{
-			"id": "17269",
-			"name": "Xã Tân Hợp"
-		},
-		{
-			"id": "17325",
-			"name": "Xã Tân Hương"
-		},
-		{
-			"id": "17266",
-			"name": "Thị trấn Tân Kỳ"
-		},
-		{
-			"id": "17311",
-			"name": "Xã Tân Long"
-		},
-		{
-			"id": "17272",
-			"name": "Xã Tân Phú"
-		},
-		{
-			"id": "17275",
-			"name": "Xã Tân Xuân"
-		},
-		{
-			"id": "17302",
-			"name": "Xã Tiên Kỳ"
+			"id": 7987,
+			"name": "XÃ TAM LÃNH"
 		}
 	]
 }

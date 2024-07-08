@@ -1,74 +1,190 @@
 {
-	"id": "377",
-	"name": "Huyện Yên Mô",
+	"id": 377,
+	"name": "HUYỆN QUỲNH LƯU",
 	"data": [
 		{
-			"id": "14707",
-			"name": "Xã Khánh Dương"
+			"id": 7052,
+			"name": "XÃ QUỲNH LẬP"
 		},
 		{
-			"id": "14713",
-			"name": "Xã Khánh Thịnh"
+			"id": 7053,
+			"name": "XÃ QUỲNH LIÊN"
 		},
 		{
-			"id": "14704",
-			"name": "Xã Khánh Thượng"
+			"id": 7054,
+			"name": "XÃ QUỲNH LỘC"
 		},
 		{
-			"id": "14710",
-			"name": "Xã Mai Sơn"
+			"id": 7055,
+			"name": "XÃ QUỲNH LONG"
 		},
 		{
-			"id": "14746",
-			"name": "Xã Yên Đồng"
+			"id": 7056,
+			"name": "XÃ QUỲNH LƯƠNG"
 		},
 		{
-			"id": "14722",
-			"name": "Xã Yên Hòa"
+			"id": 7057,
+			"name": "XÃ QUỲNH MINH"
 		},
 		{
-			"id": "14731",
-			"name": "Xã Yên Hưng"
+			"id": 7058,
+			"name": "THỊ TRẤN HOÀNG MAI"
 		},
 		{
-			"id": "14752",
-			"name": "Xã Yên Lâm"
+			"id": 7059,
+			"name": "XÃ AN HÒA"
 		},
 		{
-			"id": "14743",
-			"name": "Xã Yên Mạc"
+			"id": 7060,
+			"name": "XÃ QUỲNH BÁ"
 		},
 		{
-			"id": "14740",
-			"name": "Xã Yên Mỹ"
+			"id": 7061,
+			"name": "XÃ QUỲNH DĨ"
 		},
 		{
-			"id": "14737",
-			"name": "Xã Yên Nhân"
+			"id": 7062,
+			"name": "XÃ QUỲNH DIỆN"
 		},
 		{
-			"id": "14719",
-			"name": "Xã Yên Phong"
+			"id": 7063,
+			"name": "XÃ QUỲNH GIANG"
 		},
 		{
-			"id": "14749",
-			"name": "Xã Yên Thái"
+			"id": 7064,
+			"name": "XÃ QUỲNH HẬU"
 		},
 		{
-			"id": "14725",
-			"name": "Xã Yên Thắng"
+			"id": 7065,
+			"name": "XÃ QUỲNH HOA"
 		},
 		{
-			"id": "14734",
-			"name": "Xã Yên Thành"
+			"id": 7066,
+			"name": "XÃ QUỲNH HỒNG"
 		},
 		{
-			"id": "14701",
-			"name": "Thị trấn Yên Thịnh"
+			"id": 7067,
+			"name": "XÃ QUỲNH HƯNG"
 		},
 		{
-			"id": "14728",
-			"name": "Xã Yên Từ"
+			"id": 7068,
+			"name": "XÃ QUỲNH LÂM"
+		},
+		{
+			"id": 7069,
+			"name": "XÃ QUỲNH THẠCH"
+		},
+		{
+			"id": 7070,
+			"name": "XÃ QUỲNH VĂN"
+		},
+		{
+			"id": 7071,
+			"name": "XÃ QUỲNH YÊN"
+		},
+		{
+			"id": 7072,
+			"name": "XÃ SƠN HÀI"
+		},
+		{
+			"id": 7073,
+			"name": "THỊ TRẤN CẦU GIÁT"
+		},
+		{
+			"id": 7074,
+			"name": "XÃ MAI HÙNG"
+		},
+		{
+			"id": 7075,
+			"name": "XÃ NGỌC SƠN"
+		},
+		{
+			"id": 7076,
+			"name": "XÃ QUỲNH BẢNG"
+		},
+		{
+			"id": 7077,
+			"name": "XÃ QUỲNH CHÂU"
+		},
+		{
+			"id": 7078,
+			"name": "XÃ QUỲNH ĐÔI"
+		},
+		{
+			"id": 7079,
+			"name": "XÃ TÂN SƠN"
+		},
+		{
+			"id": 7080,
+			"name": "XÃ TÂN THẮNG"
+		},
+		{
+			"id": 7081,
+			"name": "XÃ TIẾN THỦY"
+		},
+		{
+			"id": 7082,
+			"name": "XÃ QUỲNH VĨNH"
+		},
+		{
+			"id": 7083,
+			"name": "XÃ QUỲNH XUÂN"
+		},
+		{
+			"id": 7084,
+			"name": "XÃ QUỲNH MỸ"
+		},
+		{
+			"id": 7085,
+			"name": "XÃ QUỲNH NGHĨA"
+		},
+		{
+			"id": 7086,
+			"name": "XÃ QUỲNH NGỌC"
+		},
+		{
+			"id": 7087,
+			"name": "XÃ QUỲNH PHƯƠNG"
+		},
+		{
+			"id": 7088,
+			"name": "XÃ QUỲNH TAM"
+		},
+		{
+			"id": 7089,
+			"name": "XÃ QUỲNH TÂN"
+		},
+		{
+			"id": 7090,
+			"name": "XÃ QUỲNH THẮNG"
+		},
+		{
+			"id": 7091,
+			"name": "XÃ QUỲNH THANH"
+		},
+		{
+			"id": 7092,
+			"name": "XÃ QUỲNH THIỆN"
+		},
+		{
+			"id": 7093,
+			"name": "XÃ QUỲNH THỌ"
+		},
+		{
+			"id": 7094,
+			"name": "XÃ QUỲNH THUẬN"
+		},
+		{
+			"id": 7095,
+			"name": "XÃ QUỲNH TRANG"
+		},
+		{
+			"id": 7096,
+			"name": "XÃ QUỲNH VINH"
+		},
+		{
+			"id": 7097,
+			"name": "XÃ QUỲNH THƯƠNG"
 		}
 	]
 }

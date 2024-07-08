@@ -1,0 +1,94 @@
+{
+	"id": 36,
+	"name": "HUYỆN CỦ CHI",
+	"data": [
+		{
+			"id": 687,
+			"name": "THỊ TRẤN CỦ CHI"
+		},
+		{
+			"id": 688,
+			"name": "XÃ TÂN PHÚ TRUNG"
+		},
+		{
+			"id": 689,
+			"name": "XÃ TÂN THÔNG HỘI"
+		},
+		{
+			"id": 690,
+			"name": "XÃ PHƯỚC VĨNH AN"
+		},
+		{
+			"id": 691,
+			"name": "XÃ TÂN AN HỘI"
+		},
+		{
+			"id": 692,
+			"name": "XÃ TRUNG LẬP"
+		},
+		{
+			"id": 693,
+			"name": "XÃ TRUNG LẬP HẠ"
+		},
+		{
+			"id": 694,
+			"name": "XÃ PHẠM VĂN CỘI"
+		},
+		{
+			"id": 695,
+			"name": "XÃ NHUẬN ĐỨC"
+		},
+		{
+			"id": 696,
+			"name": "XÃ TÂN THẠNH ĐÔNG"
+		},
+		{
+			"id": 697,
+			"name": "XÃ TÂN THẠNH TÂY"
+		},
+		{
+			"id": 698,
+			"name": "XÃ HOÀ PHÚ"
+		},
+		{
+			"id": 699,
+			"name": "XÃ TRUNG AN"
+		},
+		{
+			"id": 700,
+			"name": "XÃ PHÚ HOÀ ĐÔNG"
+		},
+		{
+			"id": 701,
+			"name": "XÃ PHƯỚC HIỆP"
+		},
+		{
+			"id": 702,
+			"name": "XÃ PHƯỚC THẠNH"
+		},
+		{
+			"id": 703,
+			"name": "XÃ THÁI MỸ"
+		},
+		{
+			"id": 704,
+			"name": "XÃ BÌNH MỸ"
+		},
+		{
+			"id": 705,
+			"name": "XÃ AN PHÚ"
+		},
+		{
+			"id": 706,
+			"name": "XÃ TRUNG LẬP THƯỢNG"
+		},
+		{
+			"id": 707,
+			"name": "XÃ AN NHƠN TÂY"
+		},
+		{
+			"id": 708,
+			"name": "XÃ PHÚ MỸ HƯNG"
+		}
+	]
+}

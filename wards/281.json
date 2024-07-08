@@ -1,122 +1,114 @@
 {
-	"id": "281",
-	"name": "Huyện Ứng Hòa",
+	"id": 281,
+	"name": "HUYỆN HIỆP HÒA",
 	"data": [
 		{
-			"id": "10372",
-			"name": "Xã Cao Thành"
+			"id": 5093,
+			"name": "THỊ TRẤN THẮNG"
 		},
 		{
-			"id": "10432",
-			"name": "Xã Đại Cường"
+			"id": 5094,
+			"name": "XÃ ĐỒNG TÂN"
 		},
 		{
-			"id": "10423",
-			"name": "Xã Đại Hùng"
+			"id": 5095,
+			"name": "XÃ THANH VÂN"
 		},
 		{
-			"id": "10420",
-			"name": "Xã Đội Bình"
+			"id": 5096,
+			"name": "XÃ HOÀNG LƯƠNG"
 		},
 		{
-			"id": "10426",
-			"name": "Xã Đông Lỗ"
+			"id": 5097,
+			"name": "XÃ HOÀNG THANH"
 		},
 		{
-			"id": "10390",
-			"name": "Xã Đồng Tân"
+			"id": 5098,
+			"name": "XÃ HOÀNG AN"
 		},
 		{
-			"id": "10381",
-			"name": "Xã Đồng Tiến"
+			"id": 5099,
+			"name": "XÃ NGỌC SƠN"
 		},
 		{
-			"id": "10402",
-			"name": "Xã Hòa Lâm"
+			"id": 5100,
+			"name": "XÃ THÁI SƠN"
 		},
 		{
-			"id": "10414",
-			"name": "Xã Hòa Nam"
+			"id": 5101,
+			"name": "XÃ HÒA SƠN"
 		},
 		{
-			"id": "10417",
-			"name": "Xã Hòa Phú"
+			"id": 5102,
+			"name": "XÃ ĐỨC THẮNG"
 		},
 		{
-			"id": "10363",
-			"name": "Xã Hoa Sơn"
+			"id": 5103,
+			"name": "XÃ DANH THẮNG"
 		},
 		{
-			"id": "10405",
-			"name": "Xã Hòa Xá"
+			"id": 5104,
+			"name": "XÃ THƯỜNG THẮNG"
 		},
 		{
-			"id": "10438",
-			"name": "Xã Hồng Quang"
+			"id": 5105,
+			"name": "XÃ LƯƠNG PHONG"
 		},
 		{
-			"id": "10411",
-			"name": "Xã Kim Đường"
+			"id": 5106,
+			"name": "XÃ HÙNG SƠN"
 		},
 		{
-			"id": "10375",
-			"name": "Xã Liên Bạt"
+			"id": 5107,
+			"name": "XÃ ĐOAN BÁI"
 		},
 		{
-			"id": "10435",
-			"name": "Xã Lưu Hoàng"
+			"id": 5108,
+			"name": "XÃ ĐÔNG LỘ"
 		},
 		{
-			"id": "10399",
-			"name": "Xã Minh Đức"
+			"id": 5109,
+			"name": "XÃ CHÂU MINH"
 		},
 		{
-			"id": "10429",
-			"name": "Xã Phù Lưu"
+			"id": 5110,
+			"name": "XÃ MAI ĐÌNH"
 		},
 		{
-			"id": "10384",
-			"name": "Xã Phương Tú"
+			"id": 5111,
+			"name": "XÃ XUÂN CẨM"
 		},
 		{
-			"id": "10366",
-			"name": "Xã Quảng Phú Cầu"
+			"id": 5112,
+			"name": "XÃ HƯƠNG LÂM"
 		},
 		{
-			"id": "10378",
-			"name": "Xã Sơn Công"
+			"id": 5113,
+			"name": "XÃ ĐẠI THANH"
 		},
 		{
-			"id": "10393",
-			"name": "Xã Tảo Dương Văn"
+			"id": 5114,
+			"name": "XÃ HỢP THỊNH"
 		},
 		{
-			"id": "10408",
-			"name": "Xã Trầm Lộng"
+			"id": 5115,
+			"name": "XÃ MAI TRUNG"
 		},
 		{
-			"id": "10387",
-			"name": "Xã Trung Tú"
+			"id": 5116,
+			"name": "XÃ QUANG MINH"
 		},
 		{
-			"id": "10369",
-			"name": "Xã Trường Thịnh"
+			"id": 5117,
+			"name": "XÃ BẮC LÝ"
 		},
 		{
-			"id": "10354",
-			"name": "Thị trấn Vân Đình"
+			"id": 5118,
+			"name": "XÃ HOÀNG VÂN"
 		},
 		{
-			"id": "10396",
-			"name": "Xã Vạn Thái"
-		},
-		{
-			"id": "10357",
-			"name": "Xã Viên An"
-		},
-		{
-			"id": "10360",
-			"name": "Xã Viên Nội"
+			"id": 5119,
+			"name": "XÃ DĨNH TRÌ"
 		}
 	]
 }

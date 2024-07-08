@@ -1,106 +1,118 @@
 {
-	"id": "288",
-	"name": "Thành phố Hải Dương",
+	"id": 288,
+	"name": "HUYỆN SƠN ĐỘNG",
 	"data": [
 		{
-			"id": "10660",
-			"name": "Phường Ái Quốc"
+			"id": 26292,
+			"name": "XÃ PHÚC SƠN"
 		},
 		{
-			"id": "10663",
-			"name": "Xã An Thượng"
+			"id": 5270,
+			"name": "THỊ TRẤN AN CHÂU"
 		},
 		{
-			"id": "10510",
-			"name": "Phường Bình Hàn"
+			"id": 5271,
+			"name": "XÃ THẠCH SƠN"
 		},
 		{
-			"id": "10507",
-			"name": "Phường Cẩm Thượng"
+			"id": 5272,
+			"name": "XÃ VÂN SƠN"
 		},
 		{
-			"id": "11017",
-			"name": "Xã Gia Xuyên"
+			"id": 5273,
+			"name": "XÃ HỮU HẢI"
 		},
 		{
-			"id": "10537",
-			"name": "Phường Hải Tân"
+			"id": 5274,
+			"name": "XÃ HỮU SẢN"
 		},
 		{
-			"id": "10534",
-			"name": "Phường Lê Thanh Nghị"
+			"id": 5275,
+			"name": "XÃ PHÚC THẮNG"
 		},
 		{
-			"id": "11005",
-			"name": "Xã Liên Hồng"
+			"id": 5276,
+			"name": "XÃ AN BÁ"
 		},
 		{
-			"id": "10672",
-			"name": "Phường Nam Đồng"
+			"id": 5277,
+			"name": "XÃ YÊN ĐỊNH"
 		},
 		{
-			"id": "10513",
-			"name": "Phường Ngọc Châu"
+			"id": 5278,
+			"name": "XÃ LỆ VIỄN"
 		},
 		{
-			"id": "11077",
-			"name": "Xã Ngọc Sơn"
+			"id": 5279,
+			"name": "XÃ TUẤN ĐẠO"
 		},
 		{
-			"id": "10519",
-			"name": "Phường Nguyễn Trãi"
+			"id": 5280,
+			"name": "XÃ DƯƠNG HƯU"
 		},
 		{
-			"id": "10514",
-			"name": "Phường Nhị Châu"
+			"id": 5281,
+			"name": "XÃ BỒNG AM"
 		},
 		{
-			"id": "10522",
-			"name": "Phường Phạm Ngũ Lão"
+			"id": 5282,
+			"name": "XÃ LONG SƠN"
 		},
 		{
-			"id": "10516",
-			"name": "Phường Quang Trung"
+			"id": 5283,
+			"name": "THỊ TRẤN THANH SƠN"
 		},
 		{
-			"id": "10822",
-			"name": "Xã Quyết Thắng"
+			"id": 5284,
+			"name": "XÃ THANH LUẬN"
 		},
 		{
-			"id": "10532",
-			"name": "Phường Tân Bình"
+			"id": 5285,
+			"name": "XÃ QUẾ SƠN"
 		},
 		{
-			"id": "11011",
-			"name": "Phường Tân Hưng"
+			"id": 5286,
+			"name": "XÃ CHIÊN SƠN"
 		},
 		{
-			"id": "11002",
-			"name": "Phường Thạch Khôi"
+			"id": 5287,
+			"name": "XÃ GIÁO LIÊM"
 		},
 		{
-			"id": "10531",
-			"name": "Phường Thanh Bình"
+			"id": 5288,
+			"name": "XÃ VĨNH KHƯƠNG"
 		},
 		{
-			"id": "10837",
-			"name": "Xã Tiền Tiến"
+			"id": 5289,
+			"name": "XÃ CẨM ĐÀN"
 		},
 		{
-			"id": "10525",
-			"name": "Phường Trần Hưng Đạo"
+			"id": 5290,
+			"name": "XÃ AN LẠC"
 		},
 		{
-			"id": "10528",
-			"name": "Phường Trần Phú"
+			"id": 5291,
+			"name": "XÃ AN LẬP"
 		},
 		{
-			"id": "10540",
-			"name": "Phường Tứ Minh"
+			"id": 5292,
+			"name": "XÃ AN CHÂU"
 		},
 		{
-			"id": "10543",
-			"name": "Phường Việt Hoà"
+			"id": 5293,
+			"name": "XÃ TUẤN MẬU"
+		},
+		{
+			"id": 26291,
+			"name": "XÃ VĨNH AN"
+		},
+		{
+			"id": 26294,
+			"name": "THỊ TRẤN TÂY YÊN TỬ"
+		},
+		{
+			"id": 26293,
+			"name": "XÃ ĐẠI SƠN"
 		}
 	]
 }

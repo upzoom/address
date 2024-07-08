@@ -1,38 +1,98 @@
 {
-	"id": "178",
-	"name": "Thành phố Lạng Sơn",
+	"id": 178,
+	"name": "THÀNH PHỐ THÁI BÌNH",
 	"data": [
 		{
-			"id": "05983",
-			"name": "Phường Chi Lăng"
+			"id": 2953,
+			"name": "PHƯỜNG BỒ XUYÊN"
 		},
 		{
-			"id": "05980",
-			"name": "Phường Đông Kinh"
+			"id": 2954,
+			"name": "PHƯỜNG ĐỀ THÁM"
 		},
 		{
-			"id": "05986",
-			"name": "Xã Hoàng Đồng"
+			"id": 2955,
+			"name": "XÃ ĐÔNG HÒA"
 		},
 		{
-			"id": "05971",
-			"name": "Phường Hoàng Văn Thụ"
+			"id": 2956,
+			"name": "PHƯỜNG HOÀNG DIỆU"
 		},
 		{
-			"id": "05992",
-			"name": "Xã Mai Pha"
+			"id": 2957,
+			"name": "PHƯỜNG TIỀN PHONG"
 		},
 		{
-			"id": "05989",
-			"name": "Xã Quảng Lạc"
+			"id": 2958,
+			"name": "PHƯỜNG LÊ HỒNG PHONG"
 		},
 		{
-			"id": "05974",
-			"name": "Phường Tam Thanh"
+			"id": 2959,
+			"name": "PHƯỜNG KỲ BÁ"
 		},
 		{
-			"id": "05977",
-			"name": "Phường Vĩnh Trại"
+			"id": 2960,
+			"name": "PHƯỜNG TRẦN LÃM"
+		},
+		{
+			"id": 2961,
+			"name": "XÃ VŨ LẠC"
+		},
+		{
+			"id": 2962,
+			"name": "XÃ VŨ CHÍNH"
+		},
+		{
+			"id": 2963,
+			"name": "XÃ VŨ PHÚC"
+		},
+		{
+			"id": 2964,
+			"name": "PHƯỜNG PHÚC KHÁNH"
+		},
+		{
+			"id": 2965,
+			"name": "PHƯỜNG PHÚ XUÂN"
+		},
+		{
+			"id": 2966,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 2967,
+			"name": "PHƯỜNG TRẦN HƯNG ĐẠO"
+		},
+		{
+			"id": 2968,
+			"name": "KCN NGUYỄN ĐỨC CẢNH"
+		},
+		{
+			"id": 2969,
+			"name": "KCN PHONG PHÚ"
+		},
+		{
+			"id": 2970,
+			"name": "KCN PHÚ KHÁNH"
+		},
+		{
+			"id": 2971,
+			"name": "XÃ ĐÔNG THỌ"
+		},
+		{
+			"id": 2972,
+			"name": "XÃ TÂN BÌNH"
+		},
+		{
+			"id": 2973,
+			"name": "XÃ PHÚ XUÂN"
+		},
+		{
+			"id": 26259,
+			"name": "XÃ ĐÔNG MỸ"
+		},
+		{
+			"id": 26258,
+			"name": "XÃ VŨ ĐÔNG"
 		}
 	]
 }

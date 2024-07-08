@@ -1,38 +1,82 @@
 {
-	"id": "660",
-	"name": "Thành phố Gia Nghĩa",
+	"id": 660,
+	"name": "HUYỆN GIỒNG RIỀNG",
 	"data": [
 		{
-			"id": "24628",
-			"name": "Xã Đắk Nia"
+			"id": 11093,
+			"name": "XÃ HÒA THUẬN"
 		},
 		{
-			"id": "24618",
-			"name": "Xã Đăk R'Moan"
+			"id": 11094,
+			"name": "XÃ NGỌC CHÚC"
 		},
 		{
-			"id": "24611",
-			"name": "Phường Nghĩa Đức"
+			"id": 11095,
+			"name": "XÃ NGỌC THUẬN"
 		},
 		{
-			"id": "24614",
-			"name": "Phường Nghĩa Phú"
+			"id": 11096,
+			"name": "XÃ NGỌC THÀNH"
 		},
 		{
-			"id": "24615",
-			"name": "Phường Nghĩa Tân"
+			"id": 11097,
+			"name": "XÃ HÒA HƯNG"
 		},
 		{
-			"id": "24612",
-			"name": "Phường Nghĩa Thành"
+			"id": 11098,
+			"name": "XÃ HÒA AN"
 		},
 		{
-			"id": "24617",
-			"name": "Phường Nghĩa Trung"
+			"id": 11099,
+			"name": "XÃ VĨNH THẠNH"
 		},
 		{
-			"id": "24619",
-			"name": "Phường Quảng Thành"
+			"id": 11100,
+			"name": "XÃ VĨNH PHÚ"
+		},
+		{
+			"id": 11101,
+			"name": "XÃ BÀN THẠCH"
+		},
+		{
+			"id": 11102,
+			"name": "TT GIỒNG RIỀNG"
+		},
+		{
+			"id": 11103,
+			"name": "XÃ LONG THẠNH"
+		},
+		{
+			"id": 11104,
+			"name": "XÃ HÒA LỢI"
+		},
+		{
+			"id": 11105,
+			"name": "XÃ THẠNH HÒA"
+		},
+		{
+			"id": 11106,
+			"name": "XÃ THẠNH LỘC"
+		},
+		{
+			"id": 11107,
+			"name": "XÃ THẠNH HƯNG"
+		},
+		{
+			"id": 11108,
+			"name": "XÃ THẠNH PHƯỚC"
+		},
+		{
+			"id": 11109,
+			"name": "XÃ NGỌC HÒA"
+		},
+		{
+			"id": 11110,
+			"name": "XÃ THANH BÌNH"
+		},
+		{
+			"id": 11111,
+			"name": "XÃ BÀN TÂN ĐỊNH"
 		}
 	]
 }

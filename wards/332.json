@@ -1,66 +1,122 @@
 {
-	"id": "332",
-	"name": "Huyện Tiên Lữ",
+	"id": 332,
+	"name": "HUYỆN LẠC SƠN",
 	"data": [
 		{
-			"id": "12355",
-			"name": "Xã An Viên"
+			"id": 5987,
+			"name": "XÃ PHÚ LƯỢNG"
 		},
 		{
-			"id": "12376",
-			"name": "Xã Cương Chính"
+			"id": 5988,
+			"name": "XÃ CHÍ ĐẠO"
 		},
 		{
-			"id": "12349",
-			"name": "Xã Dị Chế"
+			"id": 5989,
+			"name": "XÃ VĂN SƠN"
 		},
 		{
-			"id": "12358",
-			"name": "Xã Đức Thắng"
+			"id": 5990,
+			"name": "XÃ TUÂN ĐẠO"
 		},
 		{
-			"id": "12364",
-			"name": "Xã Hải Triều"
+			"id": 5991,
+			"name": "XÃ MỸ THÀNH"
 		},
 		{
-			"id": "12340",
-			"name": "Xã Hưng Đạo"
+			"id": 5992,
+			"name": "XÃ NGỌC SƠN"
 		},
 		{
-			"id": "12352",
-			"name": "Xã Lệ Xá"
+			"id": 5993,
+			"name": "XÃ TÂN MỸ"
 		},
 		{
-			"id": "12379",
-			"name": "Xã Minh Phượng"
+			"id": 5994,
+			"name": "THỊ TRẤN VỤ BẢN"
 		},
 		{
-			"id": "12343",
-			"name": "Xã Ngô Quyền"
+			"id": 5995,
+			"name": "XÃ PHÚC TUY"
 		},
 		{
-			"id": "12346",
-			"name": "Xã Nhật Tân"
+			"id": 5996,
+			"name": "XÃ CHÍ THIỆN"
 		},
 		{
-			"id": "12370",
-			"name": "Xã Thiện Phiến"
+			"id": 5997,
+			"name": "XÃ THƯỢNG CỐC"
 		},
 		{
-			"id": "12367",
-			"name": "Xã Thủ Sỹ"
+			"id": 5998,
+			"name": "XÃ QUÝ HÒA"
 		},
 		{
-			"id": "12373",
-			"name": "Xã Thụy Lôi"
+			"id": 5999,
+			"name": "XÃ MIỀN ĐỒI"
 		},
 		{
-			"id": "12361",
-			"name": "Xã Trung Dũng"
+			"id": 6000,
+			"name": "XÃ TỰ DO"
 		},
 		{
-			"id": "12337",
-			"name": "Thị trấn Vương"
+			"id": 6001,
+			"name": "XÃ YÊN NGHIỆP"
+		},
+		{
+			"id": 6002,
+			"name": "XÃ NHÂN NGHĨA"
+		},
+		{
+			"id": 6003,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 6004,
+			"name": "XÃ VĂN NGHĨA"
+		},
+		{
+			"id": 6005,
+			"name": "XÃ NGỌC LÂU"
+		},
+		{
+			"id": 6006,
+			"name": "XÃ LIÊN VŨ"
+		},
+		{
+			"id": 6007,
+			"name": "XÃ BÌNH HẺM"
+		},
+		{
+			"id": 6008,
+			"name": "XÃ XUẤT HÓA"
+		},
+		{
+			"id": 6009,
+			"name": "XÃ ÂN  NGHĨA"
+		},
+		{
+			"id": 6010,
+			"name": "XÃ YÊN  PHÚ"
+		},
+		{
+			"id": 6011,
+			"name": "XÃ VŨ LÂM"
+		},
+		{
+			"id": 6012,
+			"name": "XÃ BÌNH CẢNG"
+		},
+		{
+			"id": 6013,
+			"name": "XÃ BÌNH CHÂN"
+		},
+		{
+			"id": 6014,
+			"name": "XÃ ĐỊNH CƯ"
+		},
+		{
+			"id": 6015,
+			"name": "XÃ HƯƠNG NHƯỢNG"
 		}
 	]
 }

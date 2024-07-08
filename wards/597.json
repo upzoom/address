@@ -1,74 +1,58 @@
 {
-	"id": "597",
-	"name": "Huyện Hàm Thuận Bắc",
+	"id": 597,
+	"name": "HUYỆN XUYÊN MỘC",
 	"data": [
 		{
-			"id": "23107",
-			"name": "Xã Đa Mi"
+			"id": 10226,
+			"name": "XÃ PHƯỚC THUẬN"
 		},
 		{
-			"id": "23074",
-			"name": "Xã Đông Giang"
+			"id": 10227,
+			"name": "TT PHƯỚC BỬU"
 		},
 		{
-			"id": "23068",
-			"name": "Xã Đông Tiến"
+			"id": 10228,
+			"name": "XÃ PHƯỚC TÂN"
 		},
 		{
-			"id": "23098",
-			"name": "Xã Hàm Chính"
+			"id": 10229,
+			"name": "XÃ XUYÊN MỘC"
 		},
 		{
-			"id": "23092",
-			"name": "Xã Hàm Đức"
+			"id": 10230,
+			"name": "XÃ BÔNG TRANG"
 		},
 		{
-			"id": "23101",
-			"name": "Xã Hàm Hiệp"
+			"id": 10231,
+			"name": "XÃ BÀU LÂM"
 		},
 		{
-			"id": "23095",
-			"name": "Xã Hàm Liêm"
+			"id": 10232,
+			"name": "TT HÒA BÌNH"
 		},
 		{
-			"id": "23077",
-			"name": "Xã Hàm Phú"
+			"id": 10233,
+			"name": "XÃ HÒA HƯNG"
 		},
 		{
-			"id": "23104",
-			"name": "Xã Hàm Thắng"
+			"id": 10234,
+			"name": "XÃ HÒA HIỆP"
 		},
 		{
-			"id": "23089",
-			"name": "Xã Hàm Trí"
+			"id": 10235,
+			"name": "XÃ HÒA HỘI"
 		},
 		{
-			"id": "23080",
-			"name": "Xã Hồng Liêm"
+			"id": 10236,
+			"name": "XÃ BƯNG RIỀNG"
 		},
 		{
-			"id": "23086",
-			"name": "Xã Hồng Sơn"
+			"id": 10237,
+			"name": "XÃ TÂN LÂM"
 		},
 		{
-			"id": "23065",
-			"name": "Xã La Dạ"
-		},
-		{
-			"id": "23059",
-			"name": "Thị trấn Ma Lâm"
-		},
-		{
-			"id": "23062",
-			"name": "Thị trấn Phú Long"
-		},
-		{
-			"id": "23071",
-			"name": "Xã Thuận Hòa"
-		},
-		{
-			"id": "23083",
-			"name": "Xã Thuận Minh"
+			"id": 10238,
+			"name": "XÃ BÌNH CHÂU"
 		}
 	]
 }

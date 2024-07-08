@@ -1,66 +1,58 @@
 {
-	"id": "549",
-	"name": "Thị xã An Nhơn",
+	"id": 549,
+	"name": "HUYỆN HỚN QUẢN",
 	"data": [
 		{
-			"id": "21907",
-			"name": "Phường Bình Định"
+			"id": 9605,
+			"name": "XÃ TÂN KHAI"
 		},
 		{
-			"id": "21910",
-			"name": "Phường Đập Đá"
+			"id": 9606,
+			"name": "XÃ TÂN LỢI"
 		},
 		{
-			"id": "21928",
-			"name": "Xã Nhơn An"
+			"id": 9607,
+			"name": "XÃ TÂN HƯNG"
 		},
 		{
-			"id": "21919",
-			"name": "Xã Nhơn Hạnh"
+			"id": 9608,
+			"name": "XÃ AN KHƯƠNG"
 		},
 		{
-			"id": "21922",
-			"name": "Xã Nhơn Hậu"
+			"id": 9609,
+			"name": "XÃ ĐỒNG NƠ"
 		},
 		{
-			"id": "21943",
-			"name": "Phường Nhơn Hoà"
+			"id": 9610,
+			"name": "XÃ MINH ĐỨC"
 		},
 		{
-			"id": "21934",
-			"name": "Phường Nhơn Hưng"
+			"id": 9611,
+			"name": "XÃ MINH TÂM"
 		},
 		{
-			"id": "21937",
-			"name": "Xã Nhơn Khánh"
+			"id": 9612,
+			"name": "XÃ THANH AN"
 		},
 		{
-			"id": "21940",
-			"name": "Xã Nhơn Lộc"
+			"id": 9613,
+			"name": "XÃ PHƯỚC AN"
 		},
 		{
-			"id": "21913",
-			"name": "Xã Nhơn Mỹ"
+			"id": 9614,
+			"name": "XÃ THANH BÌNH"
 		},
 		{
-			"id": "21925",
-			"name": "Xã Nhơn Phong"
+			"id": 9615,
+			"name": "XÃ TÂN HIỆP"
 		},
 		{
-			"id": "21931",
-			"name": "Xã Nhơn Phúc"
+			"id": 9616,
+			"name": "XÃ AN PHÚ"
 		},
 		{
-			"id": "21946",
-			"name": "Xã Nhơn Tân"
-		},
-		{
-			"id": "21916",
-			"name": "Phường Nhơn Thành"
-		},
-		{
-			"id": "21949",
-			"name": "Xã Nhơn Thọ"
+			"id": 9617,
+			"name": "XÃ TÂN QUANG"
 		}
 	]
 }

@@ -1,42 +1,50 @@
 {
-	"id": "56",
-	"name": "Tỉnh Khánh Hòa",
+	"id": 56,
+	"name": "An Giang",
 	"data": [
 		{
-			"id": "570",
-			"name": "Huyện Cam Lâm"
+			"id": 631,
+			"name": "THÀNH PHỐ CHÂU ĐỐC"
 		},
 		{
-			"id": "569",
-			"name": "Thành phố Cam Ranh"
+			"id": 632,
+			"name": "HUYỆN PHÚ TÂN"
 		},
 		{
-			"id": "574",
-			"name": "Huyện Diên Khánh"
+			"id": 633,
+			"name": "THÀNH PHỐ LONG XUYÊN"
 		},
 		{
-			"id": "575",
-			"name": "Huyện Khánh Sơn"
+			"id": 634,
+			"name": "HUYỆN AN PHÚ"
 		},
 		{
-			"id": "573",
-			"name": "Huyện Khánh Vĩnh"
+			"id": 635,
+			"name": "HUYỆN CHỢ MỚI"
 		},
 		{
-			"id": "568",
-			"name": "Thành phố Nha Trang"
+			"id": 636,
+			"name": "HUYỆN CHÂU PHÚ"
 		},
 		{
-			"id": "572",
-			"name": "Thị xã Ninh Hòa"
+			"id": 637,
+			"name": "THỊ XÃ TÂN CHÂU"
 		},
 		{
-			"id": "576",
-			"name": "Huyện Trường Sa"
+			"id": 638,
+			"name": "HUYỆN TỊNH BIÊN"
 		},
 		{
-			"id": "571",
-			"name": "Huyện Vạn Ninh"
+			"id": 639,
+			"name": "HUYỆN TRI TÔN"
+		},
+		{
+			"id": 640,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 641,
+			"name": "HUYỆN THOẠI SƠN"
 		}
 	]
 }

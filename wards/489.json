@@ -1,0 +1,42 @@
+{
+	"id": 489,
+	"name": "HUYỆN ĐẮK TÔ",
+	"data": [
+		{
+			"id": 8893,
+			"name": "THỊ TRẤN ĐĂK TÔ"
+		},
+		{
+			"id": 8894,
+			"name": "XÃ NGOK TỤ"
+		},
+		{
+			"id": 8895,
+			"name": "XÃ VĂN LEM"
+		},
+		{
+			"id": 8896,
+			"name": "XÃ KON ĐÀO"
+		},
+		{
+			"id": 8897,
+			"name": "XÃ TÂN CẢNH"
+		},
+		{
+			"id": 8898,
+			"name": "XÃ DIÊN BÌNH"
+		},
+		{
+			"id": 8899,
+			"name": "XÃ PÔ KÔ"
+		},
+		{
+			"id": 8900,
+			"name": "XÃ ĐĂK RƠ NGA"
+		},
+		{
+			"id": 8901,
+			"name": "XÃ ĐĂK TRĂM"
+		}
+	]
+}

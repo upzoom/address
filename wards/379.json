@@ -1,0 +1,118 @@
+{
+	"id": 379,
+	"name": "HUYỆN NGHĨA ĐÀN",
+	"data": [
+		{
+			"id": 7123,
+			"name": "XÃ NGHĨA AN"
+		},
+		{
+			"id": 7124,
+			"name": "XÃ NGHĨA ĐỨC"
+		},
+		{
+			"id": 7125,
+			"name": "XÃ NGHĨA HIẾU"
+		},
+		{
+			"id": 7126,
+			"name": "XÃ NGHĨA HỒNG"
+		},
+		{
+			"id": 7127,
+			"name": "XÃ NGHĨA HƯNG"
+		},
+		{
+			"id": 7128,
+			"name": "XÃ NGHĨA KHÁNH"
+		},
+		{
+			"id": 7129,
+			"name": "XÃ NGHĨA LIÊN"
+		},
+		{
+			"id": 7130,
+			"name": "XÃ NGHĨA LỢI"
+		},
+		{
+			"id": 7131,
+			"name": "XÃ NGHĨA LONG"
+		},
+		{
+			"id": 7132,
+			"name": "XÃ NGHĨA MAI"
+		},
+		{
+			"id": 7133,
+			"name": "XÃ NGHĨA MINH"
+		},
+		{
+			"id": 7134,
+			"name": "XÃ NGHĨA QUANG"
+		},
+		{
+			"id": 7135,
+			"name": "XÃ NGHĨA TÂN"
+		},
+		{
+			"id": 7136,
+			"name": "XÃ NGHĨA THẮNG"
+		},
+		{
+			"id": 7137,
+			"name": "XÃ NGHĨA XUÂN"
+		},
+		{
+			"id": 7138,
+			"name": "XÃ NGHĨA YÊN"
+		},
+		{
+			"id": 7139,
+			"name": "XÃ NGHĨA HỘI"
+		},
+		{
+			"id": 7140,
+			"name": "XÃ NGHĨA BÌNH"
+		},
+		{
+			"id": 7141,
+			"name": "XÃ NGHĨA PHÚ"
+		},
+		{
+			"id": 7142,
+			"name": "XÃ NGHĨA THỌ"
+		},
+		{
+			"id": 7143,
+			"name": "XÃ NGHĨA LẠC"
+		},
+		{
+			"id": 7144,
+			"name": "XÃ NGHĨA TRUNG"
+		},
+		{
+			"id": 7145,
+			"name": "XÃ NGHĨA SƠN"
+		},
+		{
+			"id": 7146,
+			"name": "XÃ NGHĨA LÂM"
+		},
+		{
+			"id": 7147,
+			"name": "XÃ NGHĨA LỘC"
+		},
+		{
+			"id": 7148,
+			"name": "XÃ NGHĨA THỊNH"
+		},
+		{
+			"id": 7149,
+			"name": "THỊ TRẤN NGHĨA ĐÀN"
+		},
+		{
+			"id": 26216,
+			"name": "XÃ NGHĨA THÀNH"
+		}
+	]
+}

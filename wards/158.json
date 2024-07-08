@@ -1,50 +1,82 @@
 {
-	"id": "158",
-	"name": "Huyện Yên Thủy",
+	"id": 158,
+	"name": "HUYỆN KIM BẢNG",
 	"data": [
 		{
-			"id": "05365",
-			"name": "Xã Bảo Hiệu"
+			"id": 2433,
+			"name": "THỊ TRẤN QUẾ"
 		},
 		{
-			"id": "05368",
-			"name": "Xã Đa Phúc"
+			"id": 2434,
+			"name": "THỊ TRẤN BA SAO"
 		},
 		{
-			"id": "05380",
-			"name": "Xã Đoàn Kết"
+			"id": 2435,
+			"name": "XÃ NGUYỄN ÚY"
 		},
 		{
-			"id": "05353",
-			"name": "Thị trấn Hàng Trạm"
+			"id": 2436,
+			"name": "XÃ LÊ HỒ"
 		},
 		{
-			"id": "05371",
-			"name": "Xã Hữu Lợi"
+			"id": 2437,
+			"name": "XÃ ĐẠI CƯƠNG"
 		},
 		{
-			"id": "05362",
-			"name": "Xã Lạc Lương"
+			"id": 2438,
+			"name": "XÃ NHẬT TỰU"
 		},
 		{
-			"id": "05356",
-			"name": "Xã Lạc Sỹ"
+			"id": 2439,
+			"name": "XÃ HOÀNG TÂY"
 		},
 		{
-			"id": "05374",
-			"name": "Xã Lạc Thịnh"
+			"id": 2440,
+			"name": "XÃ NHẬT TÂN"
 		},
 		{
-			"id": "05389",
-			"name": "Xã Ngọc Lương"
+			"id": 2441,
+			"name": "XÃ VÂN XÁ"
 		},
 		{
-			"id": "05383",
-			"name": "Xã Phú Lai"
+			"id": 2442,
+			"name": "XÃ KIM BÌNH"
 		},
 		{
-			"id": "05386",
-			"name": "Xã Yên Trị"
+			"id": 2443,
+			"name": "XÃ ĐỒNG HÓA"
+		},
+		{
+			"id": 2444,
+			"name": "XÃ TƯỢNG LĨNH"
+		},
+		{
+			"id": 2445,
+			"name": "XÃ TÂN SƠN"
+		},
+		{
+			"id": 2446,
+			"name": "XÃ KHẢ PHONG"
+		},
+		{
+			"id": 2447,
+			"name": "XÃ THỤY LÔI"
+		},
+		{
+			"id": 2448,
+			"name": "XÃ NGỌC SƠN"
+		},
+		{
+			"id": 2449,
+			"name": "XÃ THI SƠN"
+		},
+		{
+			"id": 2450,
+			"name": "XÃ THANH SƠN"
+		},
+		{
+			"id": 2451,
+			"name": "XÃ LIÊN SƠN"
 		}
 	]
 }

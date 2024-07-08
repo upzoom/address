@@ -1,18 +1,46 @@
 {
-	"id": "207",
-	"name": "Huyện Cô Tô",
+	"id": 207,
+	"name": "HUYỆN THÔNG NÔNG",
 	"data": [
 		{
-			"id": "07192",
-			"name": "Thị trấn Cô Tô"
+			"id": 3561,
+			"name": "XÃ VỊ QUANG"
 		},
 		{
-			"id": "07195",
-			"name": "Xã Đồng Tiến"
+			"id": 3562,
+			"name": "XÃ LƯƠNG THÔNG"
 		},
 		{
-			"id": "07198",
-			"name": "Xã Thanh Lân"
+			"id": 3563,
+			"name": "XÃ NGỌC ĐỘNG"
+		},
+		{
+			"id": 3564,
+			"name": "XÃ LƯƠNG CAN"
+		},
+		{
+			"id": 3565,
+			"name": "XÃ THANH LONG"
+		},
+		{
+			"id": 3566,
+			"name": "XÃ BÌNH LÃNG"
+		},
+		{
+			"id": 3567,
+			"name": "XÃ CẦN NÔNG"
+		},
+		{
+			"id": 3568,
+			"name": "THỊ TRẤN THÔNG NÔNG"
+		},
+		{
+			"id": 3570,
+			"name": "XÃ CẦN YÊN"
+		},
+		{
+			"id": 3571,
+			"name": "XÃ YÊN SƠN"
 		}
 	]
 }

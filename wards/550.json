@@ -1,58 +1,34 @@
 {
-	"id": "550",
-	"name": "Huyện Tuy Phước",
+	"id": 550,
+	"name": "THỊ XÃ BÌNH LONG",
 	"data": [
 		{
-			"id": "21955",
-			"name": "Thị trấn Diêu Trì"
+			"id": 9618,
+			"name": "XÃ THANH LƯƠNG"
 		},
 		{
-			"id": "21985",
-			"name": "Xã Phước An"
+			"id": 9619,
+			"name": "XÃ THANH PHÚ"
 		},
 		{
-			"id": "21973",
-			"name": "Xã Phước Hiệp"
+			"id": 9620,
+			"name": "PHƯỜNG AN LỘC"
 		},
 		{
-			"id": "21967",
-			"name": "Xã Phước Hòa"
+			"id": 9621,
+			"name": "PHƯỜNG HƯNG CHIẾN"
 		},
 		{
-			"id": "21961",
-			"name": "Xã Phước Hưng"
+			"id": 9622,
+			"name": "PHƯỜNG PHÚ THỊNH"
 		},
 		{
-			"id": "21976",
-			"name": "Xã Phước Lộc"
+			"id": 9623,
+			"name": "PHƯỜNG PHÚ ĐỨC"
 		},
 		{
-			"id": "21979",
-			"name": "Xã Phước Nghĩa"
-		},
-		{
-			"id": "21964",
-			"name": "Xã Phước Quang"
-		},
-		{
-			"id": "21970",
-			"name": "Xã Phước Sơn"
-		},
-		{
-			"id": "21958",
-			"name": "Xã Phước Thắng"
-		},
-		{
-			"id": "21988",
-			"name": "Xã Phước Thành"
-		},
-		{
-			"id": "21982",
-			"name": "Xã Phước Thuận"
-		},
-		{
-			"id": "21952",
-			"name": "Thị trấn Tuy Phước"
+			"id": 9624,
+			"name": "XÃ THANH BÌNH"
 		}
 	]
 }

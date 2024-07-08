@@ -1,98 +1,50 @@
 {
-	"id": "419",
-	"name": "Huyện Nghĩa Đàn",
+	"id": 419,
+	"name": "HUYỆN QUẢNG ĐIỀN",
 	"data": [
 		{
-			"id": "17023",
-			"name": "Xã Nghĩa An"
+			"id": 7912,
+			"name": "THỊ TRẤN SỊA"
 		},
 		{
-			"id": "16960",
-			"name": "Xã Nghĩa Bình"
+			"id": 7913,
+			"name": "XÃ QUẢNG PHƯỚC"
 		},
 		{
-			"id": "16941",
-			"name": "Thị trấn Nghĩa Đàn"
+			"id": 7914,
+			"name": "XÃ QUẢNG VINH"
 		},
 		{
-			"id": "17020",
-			"name": "Xã Nghĩa Đức"
+			"id": 7915,
+			"name": "XÃ QUẢNG PHÚ"
 		},
 		{
-			"id": "16996",
-			"name": "Xã Nghĩa Hiếu"
+			"id": 7916,
+			"name": "XÃ QUẢNG THÀNH"
 		},
 		{
-			"id": "16984",
-			"name": "Xã Nghĩa Hội"
+			"id": 7917,
+			"name": "XÃ QUẢNG CÔNG"
 		},
 		{
-			"id": "16975",
-			"name": "Xã Nghĩa Hồng"
+			"id": 7918,
+			"name": "XÃ QUẢNG NGẠN"
 		},
 		{
-			"id": "16972",
-			"name": "Xã Nghĩa Hưng"
+			"id": 7919,
+			"name": "XÃ QUẢNG AN"
 		},
 		{
-			"id": "17032",
-			"name": "Xã Nghĩa Khánh"
+			"id": 7920,
+			"name": "XÃ QUẢNG LỢI"
 		},
 		{
-			"id": "16948",
-			"name": "Xã Nghĩa Lạc"
+			"id": 7921,
+			"name": "XÃ QUẢNG THÁI"
 		},
 		{
-			"id": "16951",
-			"name": "Xã Nghĩa Lâm"
-		},
-		{
-			"id": "17029",
-			"name": "Xã Nghĩa Lộc"
-		},
-		{
-			"id": "16957",
-			"name": "Xã Nghĩa Lợi"
-		},
-		{
-			"id": "17026",
-			"name": "Xã Nghĩa Long"
-		},
-		{
-			"id": "16942",
-			"name": "Xã Nghĩa Mai"
-		},
-		{
-			"id": "16966",
-			"name": "Xã Nghĩa Minh"
-		},
-		{
-			"id": "16969",
-			"name": "Xã Nghĩa Phú"
-		},
-		{
-			"id": "16954",
-			"name": "Xã Nghĩa Sơn"
-		},
-		{
-			"id": "16987",
-			"name": "Xã Nghĩa Thành"
-		},
-		{
-			"id": "16978",
-			"name": "Xã Nghĩa Thịnh"
-		},
-		{
-			"id": "16963",
-			"name": "Xã Nghĩa Thọ"
-		},
-		{
-			"id": "16981",
-			"name": "Xã Nghĩa Trung"
-		},
-		{
-			"id": "16945",
-			"name": "Xã Nghĩa Yên"
+			"id": 7922,
+			"name": "XÃ QUẢNG THỌ"
 		}
 	]
 }

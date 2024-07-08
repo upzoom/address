@@ -1,74 +1,126 @@
 {
-	"id": "352",
-	"name": "Huyện Bình Lục",
+	"id": 352,
+	"name": "HUYỆN HÀ TRUNG",
 	"data": [
 		{
-			"id": "13552",
-			"name": "Xã An Đổ"
+			"id": 18452,
+			"name": "THỊ TRẤN HÀ TRUNG"
 		},
 		{
-			"id": "13561",
-			"name": "Xã An Lão"
+			"id": 6497,
+			"name": "THỊ TRẤN ĐÒ LÈN"
 		},
 		{
-			"id": "13528",
-			"name": "Xã An Ninh"
+			"id": 6498,
+			"name": "XÃ HÀ TÂN"
 		},
 		{
-			"id": "13540",
-			"name": "Xã An Nội"
+			"id": 6499,
+			"name": "XÃ HÀ NGỌC"
 		},
 		{
-			"id": "13501",
-			"name": "Thị trấn Bình Mỹ"
+			"id": 6500,
+			"name": "XÃ HÀ LÂM"
 		},
 		{
-			"id": "13504",
-			"name": "Xã Bình Nghĩa"
+			"id": 6501,
+			"name": "XÃ HÀ THÁI"
 		},
 		{
-			"id": "13531",
-			"name": "Xã Bồ Đề"
+			"id": 6502,
+			"name": "XÃ HÀ PHÚ"
 		},
 		{
-			"id": "13534",
-			"name": "Xã Bối Cầu"
+			"id": 6503,
+			"name": "XÃ HÀ PHONG"
 		},
 		{
-			"id": "13525",
-			"name": "Xã Đồn Xá"
+			"id": 6504,
+			"name": "XÃ HÀ NINH"
 		},
 		{
-			"id": "13516",
-			"name": "Xã Đồng Du"
+			"id": 6505,
+			"name": "XÃ HÀ HẢI"
 		},
 		{
-			"id": "13522",
-			"name": "Xã Hưng Công"
+			"id": 6506,
+			"name": "XÃ HÀ TOẠI"
 		},
 		{
-			"id": "13555",
-			"name": "Xã La Sơn"
+			"id": 6507,
+			"name": "XÃ HÀ THANH"
 		},
 		{
-			"id": "13519",
-			"name": "Xã Ngọc Lũ"
+			"id": 6508,
+			"name": "XÃ HÀ CHÂU"
 		},
 		{
-			"id": "13558",
-			"name": "Xã Tiêu Động"
+			"id": 6509,
+			"name": "XÃ HÀ VÂN"
 		},
 		{
-			"id": "13510",
-			"name": "Xã Tràng An"
+			"id": 6510,
+			"name": "XÃ HÀ DƯƠNG"
 		},
 		{
-			"id": "13546",
-			"name": "Xã Trung Lương"
+			"id": 6511,
+			"name": "XÃ HÀ ĐÔNG"
 		},
 		{
-			"id": "13543",
-			"name": "Xã Vũ Bản"
+			"id": 6512,
+			"name": "XÃ HÀ BÌNH"
+		},
+		{
+			"id": 6513,
+			"name": "XÃ HÀ LAI"
+		},
+		{
+			"id": 6514,
+			"name": "XÃ HÀ VINH"
+		},
+		{
+			"id": 6515,
+			"name": "XÃ HÀ YÊN"
+		},
+		{
+			"id": 6516,
+			"name": "XÃ HÀ SƠN"
+		},
+		{
+			"id": 6517,
+			"name": "XÃ HÀ LONG"
+		},
+		{
+			"id": 6518,
+			"name": "XÃ HÀ GIANG"
+		},
+		{
+			"id": 6519,
+			"name": "XÃ HÀ BẮC"
+		},
+		{
+			"id": 6520,
+			"name": "XÃ HÀ TIẾN"
+		},
+		{
+			"id": 6521,
+			"name": "XÃ HÀ LĨNH"
+		},
+		{
+			"id": 26229,
+			"name": "XÃ YẾN SƠN"
+		},
+		{
+			"id": 26231,
+			"name": "XÃ YÊN DƯƠNG"
+		},
+		{
+			"id": 26230,
+			"name": "XÃ LĨNH TOẠI"
+		},
+		{
+			"id": 26232,
+			"name": "XÃ HOẠT GIANG"
 		}
 	]
 }

@@ -1,54 +1,86 @@
 {
-	"id": "645",
-	"name": "Huyện Ea H'leo",
+	"id": 645,
+	"name": "HUYỆN VŨNG LIÊM",
 	"data": [
 		{
-			"id": "24194",
-			"name": "Xã Cư A Mung"
+			"id": 10838,
+			"name": "HIẾU THUẬN"
 		},
 		{
-			"id": "24196",
-			"name": "Xã Cư Mốt"
+			"id": 10839,
+			"name": "HIẾU NHƠN"
 		},
 		{
-			"id": "24205",
-			"name": "Xã Dliê Yang"
+			"id": 10840,
+			"name": "TRUNG AN"
 		},
 		{
-			"id": "24181",
-			"name": "Thị trấn Ea Drăng"
+			"id": 10841,
+			"name": "HIẾU THÀNH"
 		},
 		{
-			"id": "24184",
-			"name": "Xã Ea H'leo"
+			"id": 10842,
+			"name": "HIẾU NGHĨA"
 		},
 		{
-			"id": "24199",
-			"name": "Xã Ea Hiao"
+			"id": 10843,
+			"name": "TT VŨNG LIÊM"
 		},
 		{
-			"id": "24202",
-			"name": "Xã Ea Khal"
+			"id": 10844,
+			"name": "XÃ QƯỚI AN"
 		},
 		{
-			"id": "24208",
-			"name": "Xã Ea Nam"
+			"id": 10845,
+			"name": "TRUNG THÀNH TÂY"
 		},
 		{
-			"id": "24190",
-			"name": "Xã Ea Ral"
+			"id": 10846,
+			"name": "TRUNG THÀNH"
 		},
 		{
-			"id": "24187",
-			"name": "Xã Ea Sol"
+			"id": 10847,
+			"name": "TRUNG HIẾU"
 		},
 		{
-			"id": "24207",
-			"name": "Xã Ea Tir"
+			"id": 10848,
+			"name": "HIẾU PHỤNG"
 		},
 		{
-			"id": "24193",
-			"name": "Xã Ea Wy"
+			"id": 10849,
+			"name": "TÂN AN LUÔNG"
+		},
+		{
+			"id": 10850,
+			"name": "TÂN QUỚI TRUNG"
+		},
+		{
+			"id": 10851,
+			"name": "QUỚI THIỆN"
+		},
+		{
+			"id": 10852,
+			"name": "TRUNG CHÁNH"
+		},
+		{
+			"id": 10853,
+			"name": "TRUNG HIỆP"
+		},
+		{
+			"id": 10854,
+			"name": "THANH BÌNH"
+		},
+		{
+			"id": 10855,
+			"name": "TRUNG THÀNH ĐÔNG"
+		},
+		{
+			"id": 10856,
+			"name": "TRUNG NGÃI"
+		},
+		{
+			"id": 10857,
+			"name": "TRUNG NGHĨA"
 		}
 	]
 }

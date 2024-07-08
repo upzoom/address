@@ -1,50 +1,46 @@
 {
-	"id": "558",
-	"name": "Huyện Đồng Xuân",
+	"id": 558,
+	"name": "THÀNH PHỐ TÂY NINH",
 	"data": [
 		{
-			"id": "22084",
-			"name": "Xã Đa Lộc"
+			"id": 9703,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "22081",
-			"name": "Thị trấn La Hai"
+			"id": 9704,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "22087",
-			"name": "Xã Phú Mỡ"
+			"id": 9705,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "22090",
-			"name": "Xã Xuân Lãnh"
+			"id": 9706,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "22093",
-			"name": "Xã Xuân Long"
+			"id": 9707,
+			"name": "XÃ BÌNH MINH"
 		},
 		{
-			"id": "22111",
-			"name": "Xã Xuân Phước"
+			"id": 9708,
+			"name": "XÃ NINH SƠN"
 		},
 		{
-			"id": "22096",
-			"name": "Xã Xuân Quang 1"
+			"id": 9709,
+			"name": "XÃ NINH THẠNH"
 		},
 		{
-			"id": "22102",
-			"name": "Xã Xuân Quang 2"
+			"id": 9710,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "22108",
-			"name": "Xã Xuân Quang 3"
+			"id": 9711,
+			"name": "XÃ THẠNH TÂN"
 		},
 		{
-			"id": "22099",
-			"name": "Xã Xuân Sơn Bắc"
-		},
-		{
-			"id": "22105",
-			"name": "Xã Xuân Sơn Nam"
+			"id": 9712,
+			"name": "PHƯỜNG HIỆP NINH"
 		}
 	]
 }

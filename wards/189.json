@@ -1,54 +1,42 @@
 {
-	"id": "189",
-	"name": "Huyện Đình Lập",
+	"id": 189,
+	"name": "THÀNH PHỐ TAM ĐIỆP",
 	"data": [
 		{
-			"id": "06646",
-			"name": "Xã Bắc Lãng"
+			"id": 3250,
+			"name": "PHƯỜNG BẮC SƠN"
 		},
 		{
-			"id": "06619",
-			"name": "Xã Bắc Xa"
+			"id": 3251,
+			"name": "XÃ ĐÔNG SƠN"
 		},
 		{
-			"id": "06622",
-			"name": "Xã Bính Xá"
+			"id": 3252,
+			"name": "PHƯỜNG NAM SƠN"
 		},
 		{
-			"id": "06637",
-			"name": "Xã Châu Sơn"
+			"id": 3253,
+			"name": "XÃ QUANG SƠN"
 		},
 		{
-			"id": "06634",
-			"name": "Xã Cường Lợi"
+			"id": 3254,
+			"name": "PHƯỜNG TÂN BÌNH"
 		},
 		{
-			"id": "06613",
-			"name": "Thị trấn Đình Lập"
+			"id": 3255,
+			"name": "PHƯỜNG TÂY SƠN"
 		},
 		{
-			"id": "06628",
-			"name": "Xã Đình Lập"
+			"id": 3256,
+			"name": "PHƯỜNG TRUNG SƠN"
 		},
 		{
-			"id": "06643",
-			"name": "Xã Đồng Thắng"
+			"id": 3257,
+			"name": "PHƯỜNG YÊN BÌNH"
 		},
 		{
-			"id": "06625",
-			"name": "Xã Kiên Mộc"
-		},
-		{
-			"id": "06640",
-			"name": "Xã Lâm Ca"
-		},
-		{
-			"id": "06616",
-			"name": "Thị trấn NT Thái Bình"
-		},
-		{
-			"id": "06631",
-			"name": "Xã Thái Bình"
+			"id": 3258,
+			"name": "PHƯỜNG YÊN SƠN"
 		}
 	]
 }

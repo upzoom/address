@@ -1,162 +1,54 @@
 {
-	"id": "426",
-	"name": "Huyện Yên Thành",
+	"id": 426,
+	"name": "HUYỆN NAM GIANG",
 	"data": [
 		{
-			"id": "17569",
-			"name": "Xã Bắc Thành"
+			"id": 8018,
+			"name": "THỊ TRẤN THẠNH MỸ"
 		},
 		{
-			"id": "17605",
-			"name": "Xã Bảo Thành"
+			"id": 8019,
+			"name": "XÃ CÀ DY"
 		},
 		{
-			"id": "17611",
-			"name": "Xã Công Thành"
+			"id": 8020,
+			"name": "XÃ TÀ BHINH"
 		},
 		{
-			"id": "17599",
-			"name": "Xã Đại Thành"
+			"id": 8021,
+			"name": "XÃ ĐAC PRINH"
 		},
 		{
-			"id": "17527",
-			"name": "Xã Đô Thành"
+			"id": 8022,
+			"name": "XÃ ĐAC PRE"
 		},
 		{
-			"id": "17545",
-			"name": "Xã Đồng Thành"
+			"id": 8023,
+			"name": "XÃ LA DÊÊ"
 		},
 		{
-			"id": "17518",
-			"name": "Xã Đức Thành"
+			"id": 8024,
+			"name": "XÃ LA ÊE"
 		},
 		{
-			"id": "17524",
-			"name": "Xã Hậu Thành"
+			"id": 8025,
+			"name": "XÃ CHÀ VÀI"
 		},
 		{
-			"id": "17551",
-			"name": "Xã Hoa Thành"
+			"id": 8026,
+			"name": "XÃ ZUÔIH"
 		},
 		{
-			"id": "17542",
-			"name": "Xã Hồng Thành"
+			"id": 8027,
+			"name": "XÃ ĐẮC TÔI"
 		},
 		{
-			"id": "17563",
-			"name": "Xã Hợp Thành"
+			"id": 8028,
+			"name": "XÃ TÀ PƠƠ"
 		},
 		{
-			"id": "17525",
-			"name": "Xã Hùng Thành"
-		},
-		{
-			"id": "17593",
-			"name": "Xã Khánh Thành"
-		},
-		{
-			"id": "17521",
-			"name": "Xã Kim Thành"
-		},
-		{
-			"id": "17512",
-			"name": "Xã Lăng Thành"
-		},
-		{
-			"id": "17602",
-			"name": "Xã Liên Thành"
-		},
-		{
-			"id": "17578",
-			"name": "Xã Long Thành"
-		},
-		{
-			"id": "17590",
-			"name": "Xã Lý Thành"
-		},
-		{
-			"id": "17509",
-			"name": "Xã Mã Thành"
-		},
-		{
-			"id": "17581",
-			"name": "Xã Minh Thành"
-		},
-		{
-			"id": "17608",
-			"name": "Xã Mỹ Thành"
-		},
-		{
-			"id": "17584",
-			"name": "Xã Nam Thành"
-		},
-		{
-			"id": "17572",
-			"name": "Xã Nhân Thành"
-		},
-		{
-			"id": "17548",
-			"name": "Xã Phú Thành"
-		},
-		{
-			"id": "17539",
-			"name": "Xã Phúc Thành"
-		},
-		{
-			"id": "17533",
-			"name": "Xã Quang Thành"
-		},
-		{
-			"id": "17614",
-			"name": "Xã Sơn Thành"
-		},
-		{
-			"id": "17515",
-			"name": "Xã Tân Thành"
-		},
-		{
-			"id": "17554",
-			"name": "Xã Tăng Thành"
-		},
-		{
-			"id": "17536",
-			"name": "Xã Tây Thành"
-		},
-		{
-			"id": "17560",
-			"name": "Xã Thịnh Thành"
-		},
-		{
-			"id": "17530",
-			"name": "Xã Thọ Thành"
-		},
-		{
-			"id": "17510",
-			"name": "Xã Tiến Thành"
-		},
-		{
-			"id": "17575",
-			"name": "Xã Trung Thành"
-		},
-		{
-			"id": "17557",
-			"name": "Xã Văn Thành"
-		},
-		{
-			"id": "17596",
-			"name": "Xã Viên Thành"
-		},
-		{
-			"id": "17587",
-			"name": "Xã Vĩnh Thành"
-		},
-		{
-			"id": "17566",
-			"name": "Xã Xuân Thành"
-		},
-		{
-			"id": "17506",
-			"name": "Thị trấn Yên Thành"
+			"id": 8029,
+			"name": "XÃ CHƠ CHUN"
 		}
 	]
 }

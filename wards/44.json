@@ -1,0 +1,70 @@
+{
+	"id": 44,
+	"name": "QUẬN GÒ VẤP",
+	"data": [
+		{
+			"id": 782,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 783,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 784,
+			"name": "PHƯỜNG 5"
+		},
+		{
+			"id": 785,
+			"name": "PHƯỜNG 11"
+		},
+		{
+			"id": 786,
+			"name": "PHƯỜNG 12"
+		},
+		{
+			"id": 787,
+			"name": "PHƯỜNG 13"
+		},
+		{
+			"id": 788,
+			"name": "PHƯỜNG 14"
+		},
+		{
+			"id": 789,
+			"name": "PHƯỜNG 15"
+		},
+		{
+			"id": 790,
+			"name": "PHƯỜNG 16"
+		},
+		{
+			"id": 791,
+			"name": "PHƯỜNG 17"
+		},
+		{
+			"id": 792,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 793,
+			"name": "PHƯỜNG 6"
+		},
+		{
+			"id": 794,
+			"name": "PHƯỜNG 7"
+		},
+		{
+			"id": 795,
+			"name": "PHƯỜNG 8"
+		},
+		{
+			"id": 796,
+			"name": "PHƯỜNG 9"
+		},
+		{
+			"id": 797,
+			"name": "PHƯỜNG 10"
+		}
+	]
+}

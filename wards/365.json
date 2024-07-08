@@ -1,94 +1,46 @@
 {
-	"id": "365",
-	"name": "Huyện Giao Thủy",
+	"id": 365,
+	"name": "THỊ XÃ THÁI HÒA",
 	"data": [
 		{
-			"id": "14206",
-			"name": "Xã Bạch Long"
+			"id": 6770,
+			"name": "XÃ NGHĨA HÒA"
 		},
 		{
-			"id": "14170",
-			"name": "Xã Bình Hòa"
+			"id": 6771,
+			"name": "XÃ TÂY HIẾU"
 		},
 		{
-			"id": "14182",
-			"name": "Xã Giao An"
+			"id": 6772,
+			"name": "PHƯỜNG QUANG PHONG"
 		},
 		{
-			"id": "14188",
-			"name": "Xã Giao Châu"
+			"id": 6773,
+			"name": "PHƯỜNG QUANG TIẾN"
 		},
 		{
-			"id": "14176",
-			"name": "Xã Giao Hà"
+			"id": 6774,
+			"name": "PHƯỜNG LONG SƠN"
 		},
 		{
-			"id": "14203",
-			"name": "Xã Giao Hải"
+			"id": 6775,
+			"name": "XÃ NGHĨA TIẾN"
 		},
 		{
-			"id": "14155",
-			"name": "Xã Giao Hương"
+			"id": 6776,
+			"name": "XÃ NGHĨA MỸ"
 		},
 		{
-			"id": "14185",
-			"name": "Xã Giao Lạc"
+			"id": 6777,
+			"name": "XÃ NGHĨA THUẬN"
 		},
 		{
-			"id": "14209",
-			"name": "Xã Giao Long"
+			"id": 6778,
+			"name": "XÃ ĐÔNG HIẾU"
 		},
 		{
-			"id": "14179",
-			"name": "Xã Giao Nhân"
-		},
-		{
-			"id": "14212",
-			"name": "Xã Giao Phong"
-		},
-		{
-			"id": "14191",
-			"name": "Xã Giao Tân"
-		},
-		{
-			"id": "14164",
-			"name": "Xã Giao Thanh"
-		},
-		{
-			"id": "14161",
-			"name": "Xã Giao Thiện"
-		},
-		{
-			"id": "14200",
-			"name": "Xã Giao Thịnh"
-		},
-		{
-			"id": "14173",
-			"name": "Xã Giao Tiến"
-		},
-		{
-			"id": "14197",
-			"name": "Xã Giao Xuân"
-		},
-		{
-			"id": "14194",
-			"name": "Xã Giao Yến"
-		},
-		{
-			"id": "14167",
-			"name": "Xã Hoành Sơn"
-		},
-		{
-			"id": "14158",
-			"name": "Xã Hồng Thuận"
-		},
-		{
-			"id": "14149",
-			"name": "Thị trấn Ngô Đồng"
-		},
-		{
-			"id": "14152",
-			"name": "Thị trấn Quất Lâm"
+			"id": 6779,
+			"name": "PHƯỜNG HÒA HIẾU"
 		}
 	]
 }

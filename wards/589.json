@@ -1,38 +1,62 @@
 {
-	"id": "589",
-	"name": "Huyện Thuận Nam",
+	"id": 589,
+	"name": "HUYỆN ĐỨC LINH",
 	"data": [
 		{
-			"id": "22910",
-			"name": "Xã Cà Ná"
+			"id": 10120,
+			"name": "XÃ ĐỨC CHÍNH"
 		},
 		{
-			"id": "22900",
-			"name": "Xã Nhị Hà"
+			"id": 10121,
+			"name": "XÃ VÕ ĐẮC"
 		},
 		{
-			"id": "22909",
-			"name": "Xã Phước Diêm"
+			"id": 10122,
+			"name": "XÃ NAM CHÍNH"
 		},
 		{
-			"id": "22903",
-			"name": "Xã Phước Dinh"
+			"id": 10123,
+			"name": "THỊ TRẤN ĐỨC TÀI"
 		},
 		{
-			"id": "22885",
-			"name": "Xã Phước Hà"
+			"id": 10124,
+			"name": "THỊ TRẤN VÕ XU"
 		},
 		{
-			"id": "22906",
-			"name": "Xã Phước Minh"
+			"id": 10125,
+			"name": "XÃ ĐỨC HẠNH"
 		},
 		{
-			"id": "22897",
-			"name": "Xã Phước Nam"
+			"id": 10126,
+			"name": "XÃ VŨ HÒA"
 		},
 		{
-			"id": "22898",
-			"name": "Xã Phước Ninh"
+			"id": 10127,
+			"name": "XÃ ĐỨC TÍN"
+		},
+		{
+			"id": 10128,
+			"name": "XÃ TÂN HÀ"
+		},
+		{
+			"id": 10129,
+			"name": "XÃ MÊ PU"
+		},
+		{
+			"id": 10130,
+			"name": "XÃ TRÀ TÂN"
+		},
+		{
+			"id": 10131,
+			"name": "XÃ ĐA KAI"
+		},
+		{
+			"id": 10132,
+			"name": "XÃ ĐÔNG HÀ"
+		},
+		{
+			"id": 10133,
+			"name": "XÃ SÙNG NHƠN"
 		}
 	]
 }

@@ -1,46 +1,162 @@
 {
-	"id": "244",
-	"name": "Thành phố Phúc Yên",
+	"id": 244,
+	"name": "HUYỆN SƠN DƯƠNG",
 	"data": [
 		{
-			"id": "08752",
-			"name": "Xã Cao Minh"
+			"id": 4263,
+			"name": "XÃ ĐỒNG QUÝ"
 		},
 		{
-			"id": "08747",
-			"name": "Phường Đồng Xuân"
+			"id": 4264,
+			"name": "XÃ THANH PHÁT"
 		},
 		{
-			"id": "08737",
-			"name": "Phường Hùng Vương"
+			"id": 4265,
+			"name": "XÃ KHÁNG NHẬT"
 		},
 		{
-			"id": "08755",
-			"name": "Phường Nam Viêm"
+			"id": 4266,
+			"name": "XÃ THIÊN TUẾ"
 		},
 		{
-			"id": "08749",
-			"name": "Xã Ngọc Thanh"
+			"id": 4267,
+			"name": "XÃ SƠN NAM"
 		},
 		{
-			"id": "08743",
-			"name": "Phường Phúc Thắng"
+			"id": 4268,
+			"name": "XÃ ĐÔNG THỌ"
 		},
 		{
-			"id": "08758",
-			"name": "Phường Tiền Châu"
+			"id": 4269,
+			"name": "XÃ VĂN PHÚ"
 		},
 		{
-			"id": "08740",
-			"name": "Phường Trưng Nhị"
+			"id": 4270,
+			"name": "XÃ CHI THIẾT"
 		},
 		{
-			"id": "08734",
-			"name": "Phường Trưng Trắc"
+			"id": 4271,
+			"name": "XÃ TAM ĐA"
 		},
 		{
-			"id": "08746",
-			"name": "Phường Xuân Hoà"
+			"id": 4272,
+			"name": "XÃ KỲ LÂM"
+		},
+		{
+			"id": 4273,
+			"name": "THỊ TRẤN SƠN DƯƠNG"
+		},
+		{
+			"id": 4274,
+			"name": "XÃ PHÚC ỨNG"
+		},
+		{
+			"id": 4275,
+			"name": "XÃ THIỆN KẾ"
+		},
+		{
+			"id": 4276,
+			"name": "XÃ LÂM XUYÊN"
+		},
+		{
+			"id": 4277,
+			"name": "XÃ TRUNG YÊN"
+		},
+		{
+			"id": 4278,
+			"name": "XÃ LƯƠNG THIỆN"
+		},
+		{
+			"id": 4279,
+			"name": "XÃ HỢP THÀNH"
+		},
+		{
+			"id": 4280,
+			"name": "XÃ TÂN TRÀO"
+		},
+		{
+			"id": 4281,
+			"name": "XÃ MINH THANH"
+		},
+		{
+			"id": 4282,
+			"name": "XÃ HÀO PHÚ"
+		},
+		{
+			"id": 4283,
+			"name": "XÃ HỒNG LẠC"
+		},
+		{
+			"id": 4284,
+			"name": "XÃ HỢP HÒA"
+		},
+		{
+			"id": 4285,
+			"name": "XÃ THỊNH TIẾN"
+		},
+		{
+			"id": 4286,
+			"name": "XÃ TÚ THỊNH"
+		},
+		{
+			"id": 4287,
+			"name": "XÃ ĐẠI PHÚ"
+		},
+		{
+			"id": 4288,
+			"name": "XÃ TUÂN LỘ"
+		},
+		{
+			"id": 4289,
+			"name": "XÃ NINH LAI"
+		},
+		{
+			"id": 4290,
+			"name": "XÃ SẦM DƯƠNG"
+		},
+		{
+			"id": 4291,
+			"name": "XÃ ĐÔNG LỢI"
+		},
+		{
+			"id": 4292,
+			"name": "XÃ VÂN SƠN"
+		},
+		{
+			"id": 4293,
+			"name": "XÃ QUYẾT THẮNG"
+		},
+		{
+			"id": 4294,
+			"name": "XÃ VĨNH LỢI"
+		},
+		{
+			"id": 4295,
+			"name": "XÃ LÂM PHIÊN"
+		},
+		{
+			"id": 4296,
+			"name": "XÃ PHÚ LƯƠNG"
+		},
+		{
+			"id": 4297,
+			"name": "XÃ THƯỢNG ẤM"
+		},
+		{
+			"id": 4298,
+			"name": "XÃ CẤP TIẾN"
+		},
+		{
+			"id": 4299,
+			"name": "XÃ BÌNH YÊN"
+		},
+		{
+			"id": 26333,
+			"name": "XÃ TRƯỜNG SINH"
+		},
+		{
+			"id": 26334,
+			"name": "XÃ TÂN THANH"
 		}
 	]
 }

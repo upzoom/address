@@ -1,34 +1,18 @@
 {
-	"id": "493",
-	"name": "Quận Sơn Trà",
+	"id": 493,
+	"name": "HUYỆN IA H'DRAI",
 	"data": [
 		{
-			"id": "20272",
-			"name": "Phường An Hải Bắc"
+			"id": 8929,
+			"name": "IA TƠI"
 		},
 		{
-			"id": "20281",
-			"name": "Phường An Hải Đông"
+			"id": 8930,
+			"name": "IA ĐAI"
 		},
 		{
-			"id": "20278",
-			"name": "Phường An Hải Tây"
-		},
-		{
-			"id": "20269",
-			"name": "Phường Mân Thái"
-		},
-		{
-			"id": "20266",
-			"name": "Phường Nại Hiên Đông"
-		},
-		{
-			"id": "20275",
-			"name": "Phường Phước Mỹ"
-		},
-		{
-			"id": "20263",
-			"name": "Phường Thọ Quang"
+			"id": 8931,
+			"name": "IA DOM"
 		}
 	]
 }

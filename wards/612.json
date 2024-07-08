@@ -1,42 +1,50 @@
 {
-	"id": "612",
-	"name": "Huyện Đắk Tô",
+	"id": 612,
+	"name": "HUYỆN THẠNH HÓA",
 	"data": [
 		{
-			"id": "23427",
-			"name": "Xã Đắk Rơ Nga"
+			"id": 10407,
+			"name": "THỊ TRẤN THẠNH HÓA"
 		},
 		{
-			"id": "23401",
-			"name": "Thị trấn Đắk Tô"
+			"id": 10408,
+			"name": "XÃ TÂN HIỆP"
 		},
 		{
-			"id": "23430",
-			"name": "Xã Đắk Trăm"
+			"id": 10409,
+			"name": "XÃ THUẬN BÌNH"
 		},
 		{
-			"id": "23440",
-			"name": "Xã Diên Bình"
+			"id": 10410,
+			"name": "XÃ THẠNH PHƯỚC"
 		},
 		{
-			"id": "23434",
-			"name": "Xã Kon Đào"
+			"id": 10411,
+			"name": "XÃ THẠNH PHÚ"
 		},
 		{
-			"id": "23428",
-			"name": "Xã Ngọk Tụ"
+			"id": 10412,
+			"name": "XÃ THUẬN NGHĨA HÒA"
 		},
 		{
-			"id": "23443",
-			"name": "Xã Pô Kô"
+			"id": 10413,
+			"name": "XÃ THUỶ ĐÔNG"
 		},
 		{
-			"id": "23437",
-			"name": "Xã Tân Cảnh"
+			"id": 10414,
+			"name": "XÃ THỦY TÂY"
 		},
 		{
-			"id": "23431",
-			"name": "Xã Văn Lem"
+			"id": 10415,
+			"name": "XÃ TÂN TÂY"
+		},
+		{
+			"id": 10416,
+			"name": "XÃ TÂN ĐÔNG"
+		},
+		{
+			"id": 10417,
+			"name": "XÃ THANH AN"
 		}
 	]
 }

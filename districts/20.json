@@ -1,50 +1,42 @@
 {
-	"id": "20",
-	"name": "Tỉnh Lạng Sơn",
+	"id": 20,
+	"name": "Lào Cai",
 	"data": [
 		{
-			"id": "185",
-			"name": "Huyện Bắc Sơn"
+			"id": 214,
+			"name": "THÀNH PHỐ LÀO CAI"
 		},
 		{
-			"id": "181",
-			"name": "Huyện Bình Gia"
+			"id": 215,
+			"name": "THỊ XÃ SA PA"
 		},
 		{
-			"id": "183",
-			"name": "Huyện Cao Lộc"
+			"id": 216,
+			"name": "HUYỆN MƯỜNG KHƯƠNG"
 		},
 		{
-			"id": "187",
-			"name": "Huyện Chi Lăng"
+			"id": 217,
+			"name": "HUYỆN BÁT XÁT"
 		},
 		{
-			"id": "189",
-			"name": "Huyện Đình Lập"
+			"id": 218,
+			"name": "HUYỆN VĂN BÀN"
 		},
 		{
-			"id": "186",
-			"name": "Huyện Hữu Lũng"
+			"id": 219,
+			"name": "HUYỆN BẮC HÀ"
 		},
 		{
-			"id": "178",
-			"name": "Thành phố Lạng Sơn"
+			"id": 220,
+			"name": "HUYỆN SI MA CAI"
 		},
 		{
-			"id": "188",
-			"name": "Huyện Lộc Bình"
+			"id": 221,
+			"name": "HUYỆN BẢO YÊN"
 		},
 		{
-			"id": "180",
-			"name": "Huyện Tràng Định"
-		},
-		{
-			"id": "182",
-			"name": "Huyện Văn Lãng"
-		},
-		{
-			"id": "184",
-			"name": "Huyện Văn Quan"
+			"id": 222,
+			"name": "HUYỆN BẢO THẮNG"
 		}
 	]
 }

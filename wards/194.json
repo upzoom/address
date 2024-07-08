@@ -1,74 +1,86 @@
 {
-	"id": "194",
-	"name": "Thành phố Móng Cái",
+	"id": 194,
+	"name": "HUYỆN XÍN MẦN",
 	"data": [
 		{
-			"id": "06727",
-			"name": "Xã Bắc Sơn"
+			"id": 18460,
+			"name": "XÃ XÍN MẦN"
 		},
 		{
-			"id": "06751",
-			"name": "Phường Bình Ngọc"
+			"id": 3338,
+			"name": "THỊ TRẤN XÍ MẦN"
 		},
 		{
-			"id": "06730",
-			"name": "Xã Hải Đông"
+			"id": 3339,
+			"name": "XÃ NÀ TRÌ"
 		},
 		{
-			"id": "06742",
-			"name": "Phường Hải Hoà"
+			"id": 3340,
+			"name": "TRẤN TRẤN CỐC PÀI"
 		},
 		{
-			"id": "06724",
-			"name": "Xã Hải Sơn"
+			"id": 3341,
+			"name": "XÃ NGÁN CHIÊN"
 		},
 		{
-			"id": "06733",
-			"name": "Xã Hải Tiến"
+			"id": 3342,
+			"name": "XÃ BẢN RÍU"
 		},
 		{
-			"id": "06745",
-			"name": "Xã Hải Xuân"
+			"id": 3343,
+			"name": "XÃ CỐC RẾ"
 		},
 		{
-			"id": "06736",
-			"name": "Phường Hải Yên"
+			"id": 3344,
+			"name": "XÃ TRUNG THỊNH"
 		},
 		{
-			"id": "06718",
-			"name": "Phường Hoà Lạc"
+			"id": 3345,
+			"name": "XÃ THU TÀ"
 		},
 		{
-			"id": "06709",
-			"name": "Phường Ka Long"
+			"id": 3346,
+			"name": "XÃ QUẢNG NGUYÊN"
 		},
 		{
-			"id": "06715",
-			"name": "Phường Ninh Dương"
+			"id": 3347,
+			"name": "XÃ TẢ NHÌU"
 		},
 		{
-			"id": "06739",
-			"name": "Xã Quảng Nghĩa"
+			"id": 3348,
+			"name": "XÃ NÀN XỈN"
 		},
 		{
-			"id": "06721",
-			"name": "Phường Trà Cổ"
+			"id": 3349,
+			"name": "XÃ THÈN PHÀNG"
 		},
 		{
-			"id": "06712",
-			"name": "Phường Trần Phú"
+			"id": 3350,
+			"name": "XÃ PÀ VẦY SỦ"
 		},
 		{
-			"id": "06748",
-			"name": "Xã Vạn Ninh"
+			"id": 3351,
+			"name": "XÃ NÀN MA"
 		},
 		{
-			"id": "06757",
-			"name": "Xã Vĩnh Thực"
+			"id": 3352,
+			"name": "XÃ BẢN NGÒ"
 		},
 		{
-			"id": "06754",
-			"name": "Xã Vĩnh Trung"
+			"id": 3353,
+			"name": "XÃ CHẾ LÀ"
+		},
+		{
+			"id": 3354,
+			"name": "XÃ NẤM DẦN"
+		},
+		{
+			"id": 3355,
+			"name": "XÃ KHUÔN LÙNG"
+		},
+		{
+			"id": 3356,
+			"name": "XÃ CHÍ CÀ"
 		}
 	]
 }

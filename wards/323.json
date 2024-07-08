@@ -1,74 +1,38 @@
 {
-	"id": "323",
-	"name": "Thành phố Hưng Yên",
+	"id": 323,
+	"name": "HUYỆN SỐP CỘP",
 	"data": [
 		{
-			"id": "11956",
-			"name": "Phường An Tảo"
+			"id": 5831,
+			"name": "XÃ XAM KHA"
 		},
 		{
-			"id": "11983",
-			"name": "Xã Bảo Khê"
+			"id": 5832,
+			"name": "XÃ PÚNG BÁNH"
 		},
 		{
-			"id": "11953",
-			"name": "Phường Hiến Nam"
+			"id": 5833,
+			"name": "XÃ SỐP CỘP"
 		},
 		{
-			"id": "12388",
-			"name": "Xã Hoàng Hanh"
+			"id": 5834,
+			"name": "XÃ DỒM CANG"
 		},
 		{
-			"id": "11968",
-			"name": "Phường Hồng Châu"
+			"id": 5835,
+			"name": "XÃ NẬM LẠNH"
 		},
 		{
-			"id": "11977",
-			"name": "Xã Hồng Nam"
+			"id": 5836,
+			"name": "XÃ MƯỜNG LÈO"
 		},
 		{
-			"id": "12334",
-			"name": "Xã Hùng Cường"
+			"id": 5837,
+			"name": "XÃ MƯỜNG VÀ"
 		},
 		{
-			"id": "11950",
-			"name": "Phường Lam Sơn"
-		},
-		{
-			"id": "11959",
-			"name": "Phường Lê Lợi"
-		},
-		{
-			"id": "11974",
-			"name": "Xã Liên Phương"
-		},
-		{
-			"id": "11962",
-			"name": "Phường Minh Khai"
-		},
-		{
-			"id": "12331",
-			"name": "Xã Phú Cường"
-		},
-		{
-			"id": "12382",
-			"name": "Xã Phương Chiểu"
-		},
-		{
-			"id": "11980",
-			"name": "Xã Quảng Châu"
-		},
-		{
-			"id": "11965",
-			"name": "Phường Quang Trung"
-		},
-		{
-			"id": "12385",
-			"name": "Xã Tân Hưng"
-		},
-		{
-			"id": "11971",
-			"name": "Xã Trung Nghĩa"
+			"id": 5838,
+			"name": "XÃ MƯỜNG LẠN"
 		}
 	]
 }

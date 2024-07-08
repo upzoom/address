@@ -1,58 +1,62 @@
 {
-	"id": "503",
-	"name": "Thành phố Hội An",
+	"id": 503,
+	"name": "HUYỆN KBANG",
 	"data": [
 		{
-			"id": "20419",
-			"name": "Phường Cẩm An"
+			"id": 9063,
+			"name": "THỊ TRẤN KBANG"
 		},
 		{
-			"id": "20413",
-			"name": "Phường Cẩm Châu"
+			"id": 9064,
+			"name": "XÃ  ĐÔNG"
 		},
 		{
-			"id": "20422",
-			"name": "Xã Cẩm Hà"
+			"id": 9065,
+			"name": "XÃ NGHĨA AN"
 		},
 		{
-			"id": "20425",
-			"name": "Xã Cẩm Kim"
+			"id": 9066,
+			"name": "XÃ TƠ TUNG"
 		},
 		{
-			"id": "20428",
-			"name": "Phường Cẩm Nam"
+			"id": 9067,
+			"name": "XÃ KON LƠNG KHƠNG"
 		},
 		{
-			"id": "20404",
-			"name": "Phường Cẩm Phô"
+			"id": 9068,
+			"name": "XÃ SƠ LANG"
 		},
 		{
-			"id": "20431",
-			"name": "Xã Cẩm Thanh"
+			"id": 9069,
+			"name": "XÃ SƠ PAI"
 		},
 		{
-			"id": "20416",
-			"name": "Phường Cửa Đại"
+			"id": 9070,
+			"name": "XÃ K'ROONG"
 		},
 		{
-			"id": "20398",
-			"name": "Phường Minh An"
+			"id": 9071,
+			"name": "XÃ ĐĂK H'LƠ"
 		},
 		{
-			"id": "20410",
-			"name": "Phường Sơn Phong"
+			"id": 9072,
+			"name": "XÃ ĐĂK ROONG"
 		},
 		{
-			"id": "20401",
-			"name": "Phường Tân An"
+			"id": 9073,
+			"name": "XÃ ĐĂK SA MAR"
 		},
 		{
-			"id": "20434",
-			"name": "Xã Tân Hiệp"
+			"id": 9074,
+			"name": "XÃ KON PLA"
 		},
 		{
-			"id": "20407",
-			"name": "Phường Thanh Hà"
+			"id": 9075,
+			"name": "XÃ KON PNE"
+		},
+		{
+			"id": 9076,
+			"name": "XÃ LƠ KU"
 		}
 	]
 }

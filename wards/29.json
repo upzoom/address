@@ -1,0 +1,74 @@
+{
+	"id": 29,
+	"name": "HUYỆN TỪ LIÊM",
+	"data": [
+		{
+			"id": 566,
+			"name": "XÃ CỔ NHUẾ"
+		},
+		{
+			"id": 567,
+			"name": "XÃ XUÂN ĐỈNH"
+		},
+		{
+			"id": 568,
+			"name": "PHƯỜNG ĐẠI MỖ"
+		},
+		{
+			"id": 569,
+			"name": "PHƯỜNG MỸ ĐÌNH"
+		},
+		{
+			"id": 570,
+			"name": "PHƯỜNG MỄ TRÌ"
+		},
+		{
+			"id": 571,
+			"name": "PHƯỜNG CẦU DIỄN"
+		},
+		{
+			"id": 572,
+			"name": "XÃ ĐÔNG NGẠC"
+		},
+		{
+			"id": 573,
+			"name": "XÃ NGHĨA ĐÔ"
+		},
+		{
+			"id": 574,
+			"name": "XÃ CHÈM"
+		},
+		{
+			"id": 575,
+			"name": "XÃ PHÚ DIỄN"
+		},
+		{
+			"id": 576,
+			"name": "PHƯỜNG MAI DỊCH"
+		},
+		{
+			"id": 577,
+			"name": "XÃ TÂY MỖ"
+		},
+		{
+			"id": 578,
+			"name": "XÃ THƯỢNG CÁT"
+		},
+		{
+			"id": 579,
+			"name": "XÃ THỤY PHƯƠNG"
+		},
+		{
+			"id": 580,
+			"name": "XÃ TÂY TỰU"
+		},
+		{
+			"id": 581,
+			"name": "XÃ XUÂN PHƯƠNG"
+		},
+		{
+			"id": 582,
+			"name": "XÃ TRUNG VĂN"
+		}
+	]
+}

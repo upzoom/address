@@ -1,46 +1,118 @@
 {
-	"id": "725",
-	"name": "Thành phố Thuận An",
+	"id": 725,
+	"name": "HUYỆN QUẢNG HÒA",
 	"data": [
 		{
-			"id": "25975",
-			"name": "Phường An Phú"
+			"id": 20517,
+			"name": "XÃ HOÀNG HẢI"
 		},
 		{
-			"id": "25981",
-			"name": "Xã An Sơn"
+			"id": 20521,
+			"name": "XÃ TRIỆU ẨU"
 		},
 		{
-			"id": "25963",
-			"name": "Phường An Thạnh"
+			"id": 20524,
+			"name": "XÃ HẠNH PHÚC"
 		},
 		{
-			"id": "25969",
-			"name": "Phường Bình Chuẩn"
+			"id": 20526,
+			"name": "XÃ LƯƠNG THIỆN"
 		},
 		{
-			"id": "25987",
-			"name": "Phường Bình Hòa"
+			"id": 20532,
+			"name": "XÃ QUỐC PHONG"
 		},
 		{
-			"id": "25984",
-			"name": "Phường Bình Nhâm"
+			"id": 20533,
+			"name": "XÃ TỰ DO"
 		},
 		{
-			"id": "25978",
-			"name": "Phường Hưng Định"
+			"id": 20534,
+			"name": "XÃ BÌNH LĂNG"
 		},
 		{
-			"id": "25966",
-			"name": "Phường Lái Thiêu"
+			"id": 20535,
+			"name": "XÃ QUỐC DÂN"
 		},
 		{
-			"id": "25972",
-			"name": "Phường Thuận Giao"
+			"id": 20515,
+			"name": "XÃ ĐẠI SƠN"
 		},
 		{
-			"id": "25990",
-			"name": "Phường Vĩnh Phú"
+			"id": 20516,
+			"name": "XÃ MỸ HƯNG"
+		},
+		{
+			"id": 20520,
+			"name": "NGỌC ĐỘNG"
+		},
+		{
+			"id": 20523,
+			"name": "XÃ HỒNG QUANG"
+		},
+		{
+			"id": 20525,
+			"name": "THỊ TRẤN TÀ LÙNG"
+		},
+		{
+			"id": 20537,
+			"name": "XÃ CHÍ THẢO"
+		},
+		{
+			"id": 20514,
+			"name": "XÃ HỒNG ĐẠI"
+		},
+		{
+			"id": 20518,
+			"name": "XÃ QUỐC TOẢN"
+		},
+		{
+			"id": 20519,
+			"name": "XÃ CÁCH LINH"
+		},
+		{
+			"id": 20527,
+			"name": "XÃ TIÊN THÀNH"
+		},
+		{
+			"id": 20528,
+			"name": "THỊ TRẤN HOÀ THUẬN"
+		},
+		{
+			"id": 20530,
+			"name": "XÃ PHI HẢI"
+		},
+		{
+			"id": 20531,
+			"name": "XÃ QUẢNG HƯNG"
+		},
+		{
+			"id": 20512,
+			"name": "XÃ ĐOÀI KHÔN"
+		},
+		{
+			"id": 20513,
+			"name": "XÃ CAI BỘ"
+		},
+		{
+			"id": 20522,
+			"name": "XÃ HỒNG ĐỊNH"
+		},
+		{
+			"id": 20529,
+			"name": "THỊ TRẤN QUẢNG UYÊN"
+		},
+		{
+			"id": 20536,
+			"name": "XÃ PHÚC SEN"
+		},
+		{
+			"id": 20594,
+			"name": "XÃ ĐỘC LẬP"
+		},
+		{
+			"id": 25648,
+			"name": "XÃ BẾ VĂN ĐÀN"
 		}
 	]
 }

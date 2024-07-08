@@ -1,66 +1,118 @@
 {
-	"id": "168",
-	"name": "Huyện Phú Lương",
+	"id": 168,
+	"name": "THÀNH PHỐ NAM ĐỊNH",
 	"data": [
 		{
-			"id": "05650",
-			"name": "Xã Cổ Lũng"
+			"id": 2637,
+			"name": "PHƯỜNG BÀ TRIỆU"
 		},
 		{
-			"id": "05629",
-			"name": "Xã Động Đạt"
+			"id": 2638,
+			"name": "PHƯỜNG CỬA BẮC"
 		},
 		{
-			"id": "05611",
-			"name": "Thị trấn Đu"
+			"id": 2639,
+			"name": "PHƯỜNG CỬA NAM"
 		},
 		{
-			"id": "05608",
-			"name": "Thị trấn Giang Tiên"
+			"id": 2640,
+			"name": "PHƯỜNG HẠ LONG"
 		},
 		{
-			"id": "05638",
-			"name": "Xã Hợp Thành"
+			"id": 2641,
+			"name": "XÃ LỘC AN"
 		},
 		{
-			"id": "05626",
-			"name": "Xã Ôn Lương"
+			"id": 2642,
+			"name": "PHƯỜNG LỘC HẠ"
 		},
 		{
-			"id": "05644",
-			"name": "Xã Phấn Mễ"
+			"id": 2643,
+			"name": "XÃ LỘC HÒA"
 		},
 		{
-			"id": "05635",
-			"name": "Xã Phú Đô"
+			"id": 2644,
+			"name": "PHƯỜNG LỘC VƯỢNG"
 		},
 		{
-			"id": "05632",
-			"name": "Xã Phủ Lý"
+			"id": 2645,
+			"name": "XÃ MỸ XÁ"
 		},
 		{
-			"id": "05641",
-			"name": "Xã Tức Tranh"
+			"id": 2646,
+			"name": "XÃ NAM PHONG"
 		},
 		{
-			"id": "05647",
-			"name": "Xã Vô Tranh"
+			"id": 2647,
+			"name": "XÃ NAM VÂN"
 		},
 		{
-			"id": "05620",
-			"name": "Xã Yên Đổ"
+			"id": 2648,
+			"name": "PHƯỜNG NĂNG TĨNH"
 		},
 		{
-			"id": "05623",
-			"name": "Xã Yên Lạc"
+			"id": 2649,
+			"name": "PHƯỜNG NGUYỄN DU"
 		},
 		{
-			"id": "05614",
-			"name": "Xã Yên Ninh"
+			"id": 2650,
+			"name": "PHƯỜNG PHAN ĐÌNH PHÙNG"
 		},
 		{
-			"id": "05617",
-			"name": "Xã Yên Trạch"
+			"id": 2651,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 2652,
+			"name": "PHƯỜNG TRẦN ĐĂNG NINH"
+		},
+		{
+			"id": 2653,
+			"name": "PHƯỜNG TRẦN HƯNG ĐẠO"
+		},
+		{
+			"id": 2654,
+			"name": "PHƯỜNG NGÔ QUYỀN"
+		},
+		{
+			"id": 2655,
+			"name": "PHƯỜNG TRẦN QUANG KHẢI"
+		},
+		{
+			"id": 2656,
+			"name": "PHƯỜNG TRẦN TẾ XƯƠNG"
+		},
+		{
+			"id": 2657,
+			"name": "PHƯỜNG TRƯỜNG THI"
+		},
+		{
+			"id": 2658,
+			"name": "PHƯỜNG VĂN MIẾU"
+		},
+		{
+			"id": 2659,
+			"name": "PHƯỜNG VỊ HOÀNG"
+		},
+		{
+			"id": 2660,
+			"name": "PHƯỜNG VỊ XUYÊN"
+		},
+		{
+			"id": 2661,
+			"name": "PHƯỜNG THỐNG NHẤT"
+		},
+		{
+			"id": 2662,
+			"name": "PHƯỜNG NGUYỄN TRÃI"
+		},
+		{
+			"id": 2663,
+			"name": "XÃ AN XÁ"
+		},
+		{
+			"id": 2664,
+			"name": "PHƯỜNG HÒA XÁ"
 		}
 	]
 }

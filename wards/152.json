@@ -1,50 +1,58 @@
 {
-	"id": "152",
-	"name": "Huyện Lương Sơn",
+	"id": 152,
+	"name": "THỊ XÃ MỸ HÀO",
 	"data": [
 		{
-			"id": "05008",
-			"name": "Xã Cao Dương"
+			"id": 2326,
+			"name": "THỊ TRẤN BẦN YÊN NHÂN"
 		},
 		{
-			"id": "04957",
-			"name": "Xã Cao Sơn"
+			"id": 2327,
+			"name": "XÃ PHAN ĐÌNH PHÙNG"
 		},
 		{
-			"id": "04960",
-			"name": "Xã Cư Yên"
+			"id": 2328,
+			"name": "XÃ NHÂN HÒA"
 		},
 		{
-			"id": "04945",
-			"name": "Xã Hòa Sơn"
+			"id": 2329,
+			"name": "XÃ DỊ SỬ"
 		},
 		{
-			"id": "04942",
-			"name": "Xã Lâm Sơn"
+			"id": 2330,
+			"name": "XÃ HƯNG LONG"
 		},
 		{
-			"id": "04969",
-			"name": "Xã Liên Sơn"
+			"id": 2331,
+			"name": "XÃ PHÙNG CHÍ KIÊN"
 		},
 		{
-			"id": "04924",
-			"name": "Thị trấn Lương Sơn"
+			"id": 2332,
+			"name": "XÃ CẨM XÁ"
 		},
 		{
-			"id": "04954",
-			"name": "Xã Nhuận Trạch"
+			"id": 2333,
+			"name": "XÃ DƯƠNG QUANG"
 		},
 		{
-			"id": "04951",
-			"name": "Xã Tân Vinh"
+			"id": 2334,
+			"name": "XÃ BẠCH SAM"
 		},
 		{
-			"id": "05047",
-			"name": "Xã Thanh Cao"
+			"id": 2335,
+			"name": "XÃ XUÂN DỤC"
 		},
 		{
-			"id": "05041",
-			"name": "Xã Thanh Sơn"
+			"id": 2336,
+			"name": "XÃ NGỌC LÂM"
+		},
+		{
+			"id": 2337,
+			"name": "XÃ MINH ĐỨC"
+		},
+		{
+			"id": 2338,
+			"name": "XÃ HÒA PHONG"
 		}
 	]
 }

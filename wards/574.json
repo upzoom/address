@@ -1,78 +1,86 @@
 {
-	"id": "574",
-	"name": "Huyện Diên Khánh",
+	"id": 574,
+	"name": "HUYỆN TRẢNG BOM",
 	"data": [
 		{
-			"id": "22696",
-			"name": "Xã Bình Lộc"
+			"id": 9864,
+			"name": "THỊ TRẤN TRẢNG BOM"
 		},
 		{
-			"id": "22693",
-			"name": "Xã Diên An"
+			"id": 9865,
+			"name": "XÃ AN VIỄN"
 		},
 		{
-			"id": "22657",
-			"name": "Xã Diên Điền"
+			"id": 9866,
+			"name": "XÃ BÀU HÀM 1"
 		},
 		{
-			"id": "22666",
-			"name": "Xã Diên Đồng"
+			"id": 9867,
+			"name": "XÃ BÌNH MINH"
 		},
 		{
-			"id": "22684",
-			"name": "Xã Diên Hòa"
+			"id": 9868,
+			"name": "XÃ CÂY GÁO"
 		},
 		{
-			"id": "22651",
-			"name": "Thị trấn Diên Khánh"
+			"id": 9869,
+			"name": "XÃ ĐÔNG HÒA"
 		},
 		{
-			"id": "22678",
-			"name": "Xã Diên Lạc"
+			"id": 9870,
+			"name": "XÃ GIANG ĐIỀN"
 		},
 		{
-			"id": "22654",
-			"name": "Xã Diên Lâm"
+			"id": 9871,
+			"name": "XÃ HƯNG THỊNH"
 		},
 		{
-			"id": "22669",
-			"name": "Xã Diên Phú"
+			"id": 9872,
+			"name": "XÃ QUẢNG TIẾN"
 		},
 		{
-			"id": "22675",
-			"name": "Xã Diên Phước"
+			"id": 9873,
+			"name": "XÃ SÔNG THAO"
 		},
 		{
-			"id": "22663",
-			"name": "Xã Diên Sơn"
+			"id": 9874,
+			"name": "XÃ SÔNG TRẦU"
 		},
 		{
-			"id": "22681",
-			"name": "Xã Diên Tân"
+			"id": 9875,
+			"name": "XÃ TÂY HÒA"
 		},
 		{
-			"id": "22687",
-			"name": "Xã Diên Thạnh"
+			"id": 9876,
+			"name": "XÃ THANH BÌNH"
 		},
 		{
-			"id": "22672",
-			"name": "Xã Diên Thọ"
+			"id": 9877,
+			"name": "XÃ TRUNG HÒA"
 		},
 		{
-			"id": "22690",
-			"name": "Xã Diên Toàn"
+			"id": 9878,
+			"name": "XÃ BẮC SƠN"
 		},
 		{
-			"id": "22660",
-			"name": "Xã Diên Xuân"
+			"id": 9879,
+			"name": "XÃ ĐỒI 61"
 		},
 		{
-			"id": "22702",
-			"name": "Xã Suối Hiệp"
+			"id": 9880,
+			"name": "XÃ HỐ NAI 3"
 		},
 		{
-			"id": "22705",
-			"name": "Xã Suối Tiên"
+			"id": 9881,
+			"name": "KCN GIANG ĐIỀN"
+		},
+		{
+			"id": 9882,
+			"name": "KCN HỐ NAI"
+		},
+		{
+			"id": 9883,
+			"name": "KCN BÀU XÉO"
 		}
 	]
 }

@@ -1,50 +1,54 @@
 {
-	"id": "512",
-	"name": "Huyện Hiệp Đức",
+	"id": 512,
+	"name": "HUYỆN KRÔNG NĂNG",
 	"data": [
 		{
-			"id": "20767",
-			"name": "Xã Bình Lâm"
+			"id": 9165,
+			"name": "XÃ CƯ KLÔNG"
 		},
 		{
-			"id": "20788",
-			"name": "Xã Bình Sơn"
+			"id": 9166,
+			"name": "XÃ ĐLIÊ YA"
 		},
 		{
-			"id": "20758",
-			"name": "Xã Hiệp Hòa"
+			"id": 9167,
+			"name": "XÃ EA DĂH"
 		},
 		{
-			"id": "20761",
-			"name": "Xã Hiệp Thuận"
+			"id": 9168,
+			"name": "XÃ EA HỒ"
 		},
 		{
-			"id": "20776",
-			"name": "Xã Phước Gia"
+			"id": 9169,
+			"name": "XÃ EA PUK"
 		},
 		{
-			"id": "20773",
-			"name": "Xã Phước Trà"
+			"id": 9170,
+			"name": "XÃ EA TAM"
 		},
 		{
-			"id": "20782",
-			"name": "Xã Quế Lưu"
+			"id": 9171,
+			"name": "XÃ EA TÂN"
 		},
 		{
-			"id": "20764",
-			"name": "Xã Quế Thọ"
+			"id": 9172,
+			"name": "XÃ EA TOH"
 		},
 		{
-			"id": "20770",
-			"name": "Xã Sông Trà"
+			"id": 9173,
+			"name": "XÃ PHÚ LỘC"
 		},
 		{
-			"id": "20779",
-			"name": "Thị trấn Tân Bình"
+			"id": 9174,
+			"name": "XÃ PHÚ XUÂN"
 		},
 		{
-			"id": "20785",
-			"name": "Xã Thăng Phước"
+			"id": 9175,
+			"name": "XÃ TAM GIANG"
+		},
+		{
+			"id": 9176,
+			"name": "THỊ TRẤN KRÔNG NĂNG"
 		}
 	]
 }

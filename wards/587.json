@@ -1,42 +1,54 @@
 {
-	"id": "587",
-	"name": "Huyện Ninh Phước",
+	"id": 587,
+	"name": "HUYỆN TUY PHONG",
 	"data": [
 		{
-			"id": "22888",
-			"name": "Xã An Hải"
+			"id": 10092,
+			"name": "THỊ TRẤN LIÊN HƯƠNG"
 		},
 		{
-			"id": "22870",
-			"name": "Thị trấn Phước Dân"
+			"id": 10093,
+			"name": "XÃ HÒA MINH"
 		},
 		{
-			"id": "22894",
-			"name": "Xã Phước Hải"
+			"id": 10094,
+			"name": "XÃ CHÍ CÔNG"
 		},
 		{
-			"id": "22879",
-			"name": "Xã Phước Hậu"
+			"id": 10095,
+			"name": "XÃ BÌNH THẠNH"
 		},
 		{
-			"id": "22891",
-			"name": "Xã Phước Hữu"
+			"id": 10096,
+			"name": "XÃ PHÚ LẠC"
 		},
 		{
-			"id": "22873",
-			"name": "Xã Phước Sơn"
+			"id": 10097,
+			"name": "XÃ VĨNH HẢO"
 		},
 		{
-			"id": "22876",
-			"name": "Xã Phước Thái"
+			"id": 10098,
+			"name": "XÃ PHONG PHÚ"
 		},
 		{
-			"id": "22882",
-			"name": "Xã Phước Thuận"
+			"id": 10099,
+			"name": "XÃ VĨNH TÂN"
 		},
 		{
-			"id": "22912",
-			"name": "Xã Phước Vinh"
+			"id": 10100,
+			"name": "XÃ PHAN DŨNG"
+		},
+		{
+			"id": 10101,
+			"name": "XÃ PHƯỚC THỂ"
+		},
+		{
+			"id": 10102,
+			"name": "XÃ HÒA PHÚ"
+		},
+		{
+			"id": 10103,
+			"name": "THỊ TRẤN PHAN RÍ CỬA"
 		}
 	]
 }

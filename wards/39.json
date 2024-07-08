@@ -1,0 +1,46 @@
+{
+	"id": 39,
+	"name": "QUẬN 7",
+	"data": [
+		{
+			"id": 731,
+			"name": "PHƯỜNG TÂN PHONG"
+		},
+		{
+			"id": 732,
+			"name": "PHƯỜNG TÂN PHÚ"
+		},
+		{
+			"id": 733,
+			"name": "PHƯỜNG TÂN HƯNG"
+		},
+		{
+			"id": 734,
+			"name": "PHƯỜNG TÂN KIỂNG"
+		},
+		{
+			"id": 735,
+			"name": "PHƯỜNG TÂN QUY"
+		},
+		{
+			"id": 736,
+			"name": "PHƯỜNG TÂN THUẬN ĐÔNG"
+		},
+		{
+			"id": 737,
+			"name": "PHƯỜNG TÂN THUẬN TÂY"
+		},
+		{
+			"id": 738,
+			"name": "PHƯỜNG PHÚ THUẬN"
+		},
+		{
+			"id": 739,
+			"name": "PHƯỜNG BÌNH THUẬN"
+		},
+		{
+			"id": 740,
+			"name": "PHƯỜNG PHÚ MỸ"
+		}
+	]
+}

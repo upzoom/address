@@ -1,50 +1,50 @@
 {
-	"id": "562",
-	"name": "Huyện Tây Hoà",
+	"id": 562,
+	"name": "HUYỆN DƯƠNG MINH CHÂU",
 	"data": [
 		{
-			"id": "22252",
-			"name": "Xã Hòa Bình 1"
+			"id": 9743,
+			"name": "THỊ TRẤN DƯƠNG MINH CHÂU"
 		},
 		{
-			"id": "22276",
-			"name": "Xã Hòa Đồng"
+			"id": 9744,
+			"name": "XÃ BÀU NĂNG"
 		},
 		{
-			"id": "22285",
-			"name": "Xã Hòa Mỹ Đông"
+			"id": 9745,
+			"name": "XÃ PHƯỚC NINH"
 		},
 		{
-			"id": "22288",
-			"name": "Xã Hòa Mỹ Tây"
+			"id": 9746,
+			"name": "XÃ SUỐI ĐÁ"
 		},
 		{
-			"id": "22264",
-			"name": "Xã Hòa Phong"
+			"id": 9747,
+			"name": "XÃ TRUÔNG MÍT"
 		},
 		{
-			"id": "22270",
-			"name": "Xã Hòa Phú"
+			"id": 9748,
+			"name": "XÃ CHÀ LÀ"
 		},
 		{
-			"id": "22273",
-			"name": "Xã Hòa Tân Tây"
+			"id": 9749,
+			"name": "XÃ BẾN CỦI"
 		},
 		{
-			"id": "22294",
-			"name": "Xã Hòa Thịnh"
+			"id": 9750,
+			"name": "XÃ CẦU KHỞI"
 		},
 		{
-			"id": "22255",
-			"name": "Thị trấn Phú Thứ"
+			"id": 9751,
+			"name": "XÃ LỘC NINH"
 		},
 		{
-			"id": "22250",
-			"name": "Xã Sơn Thành Đông"
+			"id": 9752,
+			"name": "XÃ PHAN"
 		},
 		{
-			"id": "22249",
-			"name": "Xã Sơn Thành Tây"
+			"id": 9753,
+			"name": "XÃ PHƯỚC MINH"
 		}
 	]
 }

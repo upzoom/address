@@ -1,50 +1,46 @@
 {
-	"id": "695",
-	"name": "Huyện Đồng Phú",
+	"id": 695,
+	"name": "THÀNH PHỐ BẠC LIÊU",
 	"data": [
 		{
-			"id": "25369",
-			"name": "Xã Đồng Tâm"
+			"id": 11494,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "25390",
-			"name": "Xã Đồng Tiến"
+			"id": 11495,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25384",
-			"name": "Xã Tân Hòa"
+			"id": 11496,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "25375",
-			"name": "Xã Tân Hưng"
+			"id": 11497,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "25381",
-			"name": "Xã Tân Lập"
+			"id": 11498,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "25378",
-			"name": "Xã Tân Lợi"
+			"id": 11499,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "25363",
-			"name": "Thị trấn Tân Phú"
+			"id": 11500,
+			"name": "PHƯỜNG NHÀ MÁT"
 		},
 		{
-			"id": "25372",
-			"name": "Xã Tân Phước"
+			"id": 11501,
+			"name": "XÃ HIỆP THÀNH"
 		},
 		{
-			"id": "25393",
-			"name": "Xã Tân Tiến"
+			"id": 11502,
+			"name": "XÃ VĨNH TRẠCH"
 		},
 		{
-			"id": "25366",
-			"name": "Xã Thuận Lợi"
-		},
-		{
-			"id": "25387",
-			"name": "Xã Thuận Phú"
+			"id": 11503,
+			"name": "XÃ VĨNH TRẠCH ĐÔNG"
 		}
 	]
 }

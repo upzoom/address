@@ -1,86 +1,18 @@
 {
-	"id": "299",
-	"name": "Huyện Ninh Giang",
+	"id": 299,
+	"name": "HUYỆN CÔ TÔ",
 	"data": [
 		{
-			"id": "11173",
-			"name": "Xã An Đức"
+			"id": 5437,
+			"name": "THỊ TRẤN CÔ TÔ"
 		},
 		{
-			"id": "11203",
-			"name": "Xã Đồng Tâm"
+			"id": 5438,
+			"name": "XÃ ĐỒNG TIẾN"
 		},
 		{
-			"id": "11188",
-			"name": "Xã Đông Xuyên"
-		},
-		{
-			"id": "11227",
-			"name": "Xã Hiệp Lực"
-		},
-		{
-			"id": "11215",
-			"name": "Xã Hồng Dụ"
-		},
-		{
-			"id": "11167",
-			"name": "Xã Hồng Đức"
-		},
-		{
-			"id": "11224",
-			"name": "Xã Hồng Phong"
-		},
-		{
-			"id": "11230",
-			"name": "Xã Hồng Phúc"
-		},
-		{
-			"id": "11233",
-			"name": "Xã Hưng Long"
-		},
-		{
-			"id": "11209",
-			"name": "Xã Kiến Quốc"
-		},
-		{
-			"id": "11164",
-			"name": "Xã Nghĩa An"
-		},
-		{
-			"id": "11155",
-			"name": "Thị trấn Ninh Giang"
-		},
-		{
-			"id": "11200",
-			"name": "Xã Ninh Hải"
-		},
-		{
-			"id": "11179",
-			"name": "Xã Tân Hương"
-		},
-		{
-			"id": "11197",
-			"name": "Xã Tân Phong"
-		},
-		{
-			"id": "11206",
-			"name": "Xã Tân Quang"
-		},
-		{
-			"id": "11161",
-			"name": "Xã Ứng Hoè"
-		},
-		{
-			"id": "11218",
-			"name": "Xã Văn Hội"
-		},
-		{
-			"id": "11176",
-			"name": "Xã Vạn Phúc"
-		},
-		{
-			"id": "11185",
-			"name": "Xã Vĩnh Hòa"
+			"id": 5439,
+			"name": "XÃ THANH LÂN"
 		}
 	]
 }

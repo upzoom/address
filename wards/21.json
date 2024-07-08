@@ -1,0 +1,90 @@
+{
+	"id": 21,
+	"name": "HUYỆN QUỐC OAI",
+	"data": [
+		{
+			"id": 420,
+			"name": "XÃ ĐỒNG QUANG"
+		},
+		{
+			"id": 421,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 422,
+			"name": "XÃ ĐÔNG XUÂN"
+		},
+		{
+			"id": 423,
+			"name": "THỊ TRẤN QUỐC OAI"
+		},
+		{
+			"id": 424,
+			"name": "XÃ SÀI SƠN"
+		},
+		{
+			"id": 425,
+			"name": "XÃ PHƯỢNG CÁCH"
+		},
+		{
+			"id": 426,
+			"name": "XÃ YÊN SƠN"
+		},
+		{
+			"id": 427,
+			"name": "XÃ THẠCH THÁN"
+		},
+		{
+			"id": 428,
+			"name": "XÃ NGỌC MỸ"
+		},
+		{
+			"id": 429,
+			"name": "XÃ NGHĨA HƯƠNG"
+		},
+		{
+			"id": 430,
+			"name": "XÃ CẤN HỮU"
+		},
+		{
+			"id": 431,
+			"name": "XÃ NGỌC LIỆP"
+		},
+		{
+			"id": 432,
+			"name": "XÃ LIỆP TUYẾT"
+		},
+		{
+			"id": 433,
+			"name": "XÃ TUYẾT NGHĨA"
+		},
+		{
+			"id": 434,
+			"name": "XÃ ĐÔNG YÊN"
+		},
+		{
+			"id": 435,
+			"name": "XÃ HÒA THẠCH"
+		},
+		{
+			"id": 436,
+			"name": "XÃ PHÚ CÁT"
+		},
+		{
+			"id": 437,
+			"name": "XÃ PHÚ MÃN"
+		},
+		{
+			"id": 438,
+			"name": "XÃ CỘNG HÒA"
+		},
+		{
+			"id": 439,
+			"name": "XÃ ĐẠI THÀNH"
+		},
+		{
+			"id": 440,
+			"name": "XÃ TÂN HÒA"
+		}
+	]
+}

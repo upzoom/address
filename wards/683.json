@@ -1,42 +1,46 @@
 {
-	"id": "683",
-	"name": "Huyện Cát Tiên",
+	"id": 683,
+	"name": "HUYỆN THẠNH TRỊ",
 	"data": [
 		{
-			"id": "25159",
-			"name": "Thị trấn Cát Tiên"
+			"id": 11368,
+			"name": "XÃ THẠNH TÂN"
 		},
 		{
-			"id": "25192",
-			"name": "Xã Đồng Nai Thượng"
+			"id": 11369,
+			"name": "XÃ VĨNH THÀNH"
 		},
 		{
-			"id": "25183",
-			"name": "Xã Đức Phổ"
+			"id": 11370,
+			"name": "XÃ TUÂN TỨC"
 		},
 		{
-			"id": "25168",
-			"name": "Xã Gia Viễn"
+			"id": 11371,
+			"name": "XÃ LÂM TÂN"
 		},
 		{
-			"id": "25171",
-			"name": "Xã Nam Ninh"
+			"id": 11372,
+			"name": "XÃ CHÂU HƯNG"
 		},
 		{
-			"id": "25180",
-			"name": "Thị trấn Phước Cát "
+			"id": 11373,
+			"name": "THỊ TRẤN PHÚ LỘC"
 		},
 		{
-			"id": "25165",
-			"name": "Xã Phước Cát 2"
+			"id": 11374,
+			"name": "XÃ LÂM KIẾT"
 		},
 		{
-			"id": "25189",
-			"name": "Xã Quảng Ngãi"
+			"id": 11375,
+			"name": "XÃ THẠNH TRỊ"
 		},
 		{
-			"id": "25162",
-			"name": "Xã Tiên Hoàng"
+			"id": 11376,
+			"name": "XÃ VĨNH LỢI"
+		},
+		{
+			"id": 11377,
+			"name": "THỊ TRẤN HƯNG LỢI"
 		}
 	]
 }

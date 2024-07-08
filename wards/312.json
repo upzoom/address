@@ -1,70 +1,62 @@
 {
-	"id": "312",
-	"name": "Huyện An Dương",
+	"id": 312,
+	"name": "HUYỆN QUỲNH NHAI",
 	"data": [
 		{
-			"id": "11623",
-			"name": "Xã An Đồng"
+			"id": 5624,
+			"name": "XÃ MƯỜNG CHIÊN"
 		},
 		{
-			"id": "11581",
-			"name": "Thị trấn An Dương"
+			"id": 5625,
+			"name": "XÃ CÀ NÀNG"
 		},
 		{
-			"id": "11590",
-			"name": "Xã An Hoà"
+			"id": 5626,
+			"name": "XÃ CHIỀNG KHAY"
 		},
 		{
-			"id": "11602",
-			"name": "Xã An Hồng"
+			"id": 5627,
+			"name": "XÃ PHA KHINH"
 		},
 		{
-			"id": "11599",
-			"name": "Xã An Hưng"
+			"id": 5628,
+			"name": "XÃ MƯỜNG GION"
 		},
 		{
-			"id": "11605",
-			"name": "Xã Bắc Sơn"
+			"id": 5629,
+			"name": "XÃ PẮC MA"
 		},
 		{
-			"id": "11587",
-			"name": "Xã Đại Bản"
+			"id": 5630,
+			"name": "XÃ CHIỀNG ƠN"
 		},
 		{
-			"id": "11614",
-			"name": "Xã Đặng Cương"
+			"id": 5631,
+			"name": "XÃ MƯỜNG GIÀNG"
 		},
 		{
-			"id": "11617",
-			"name": "Xã Đồng Thái"
+			"id": 5632,
+			"name": "XÃ CHIỀNG BẰNG"
 		},
 		{
-			"id": "11593",
-			"name": "Xã Hồng Phong"
+			"id": 5633,
+			"name": "XÃ MƯỜNG SAI"
 		},
 		{
-			"id": "11626",
-			"name": "Xã Hồng Thái"
+			"id": 5634,
+			"name": "XÃ NẬM ÉT"
 		},
 		{
-			"id": "11611",
-			"name": "Xã Lê Lợi"
+			"id": 5635,
+			"name": "XÃ LIỆT MUỘI"
 		},
 		{
-			"id": "11584",
-			"name": "Xã Lê Thiện"
+			"id": 5636,
+			"name": "XÃ CHIỀNG KHOANG"
 		},
 		{
-			"id": "11608",
-			"name": "Xã Nam Sơn"
-		},
-		{
-			"id": "11620",
-			"name": "Xã Quốc Tuấn"
-		},
-		{
-			"id": "11596",
-			"name": "Xã Tân Tiến"
+			"id": 5637,
+			"name": "THỊ TRẤN QUỲNH NHAI"
 		}
 	]
 }

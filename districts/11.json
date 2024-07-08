@@ -1,46 +1,38 @@
 {
-	"id": "11",
-	"name": "Tỉnh Điện Biên",
+	"id": 11,
+	"name": "Bắc Ninh",
 	"data": [
 		{
-			"id": "100",
-			"name": "Huyện Điện Biên"
+			"id": 127,
+			"name": "HUYỆN LƯƠNG TÀI"
 		},
 		{
-			"id": "101",
-			"name": "Huyện Điện Biên Đông"
+			"id": 128,
+			"name": "THÀNH PHỐ BẮC NINH"
 		},
 		{
-			"id": "094",
-			"name": "Thành phố Điện Biên Phủ"
+			"id": 129,
+			"name": "HUYỆN GIA BÌNH"
 		},
 		{
-			"id": "102",
-			"name": "Huyện Mường Ảng"
+			"id": 130,
+			"name": "HUYỆN THUẬN THÀNH"
 		},
 		{
-			"id": "097",
-			"name": "Huyện Mường Chà"
+			"id": 131,
+			"name": "HUYỆN QUẾ VÕ"
 		},
 		{
-			"id": "095",
-			"name": "Thị Xã Mường Lay"
+			"id": 132,
+			"name": "HUYỆN YÊN PHONG"
 		},
 		{
-			"id": "096",
-			"name": "Huyện Mường Nhé"
+			"id": 133,
+			"name": "HUYỆN TIÊN DU"
 		},
 		{
-			"id": "103",
-			"name": "Huyện Nậm Pồ"
-		},
-		{
-			"id": "098",
-			"name": "Huyện Tủa Chùa"
-		},
-		{
-			"id": "099",
-			"name": "Huyện Tuần Giáo"
+			"id": 134,
+			"name": "THỊ XÃ TỪ SƠN"
 		}
 	]
 }

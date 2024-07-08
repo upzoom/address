@@ -1,0 +1,50 @@
+{
+	"id": 685,
+	"name": "THỊ XÃ NGÃ NĂM",
+	"data": [
+		{
+			"id": 11386,
+			"name": "XÃ VĨNH BIÊN"
+		},
+		{
+			"id": 11387,
+			"name": "XÃ LONG BÌNH"
+		},
+		{
+			"id": 11388,
+			"name": "XÃ MỸ BỈNH"
+		},
+		{
+			"id": 11389,
+			"name": "XÃ MỸ QUỚI"
+		},
+		{
+			"id": 11390,
+			"name": "THỊ TRẤN NGÃ NĂM"
+		},
+		{
+			"id": 11391,
+			"name": "XÃ VĨNH QUỚI"
+		},
+		{
+			"id": 11392,
+			"name": "XÃ LONG TÂN"
+		},
+		{
+			"id": 11393,
+			"name": "XÃ TÂN LONG"
+		},
+		{
+			"id": 24594,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 24599,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 24595,
+			"name": "PHƯỜNG 2"
+		}
+	]
+}

@@ -1,74 +1,42 @@
 {
-	"id": "295",
-	"name": "Huyện Cẩm Giàng",
+	"id": 295,
+	"name": "HUYỆN BÌNH LIÊU",
 	"data": [
 		{
-			"id": "10936",
-			"name": "Xã Cẩm Điền"
+			"id": 5390,
+			"name": "XÃ ĐỒNG TÂM"
 		},
 		{
-			"id": "10942",
-			"name": "Xã Cẩm Đoài"
+			"id": 5391,
+			"name": "XÃ ĐỒNG VĂN"
 		},
 		{
-			"id": "10939",
-			"name": "Xã Cẩm Đông"
+			"id": 5392,
+			"name": "XÃ HOÀNH MÔ"
 		},
 		{
-			"id": "10888",
-			"name": "Thị trấn Cẩm Giang"
+			"id": 5393,
+			"name": "XÃ HÚC ĐỘNG"
 		},
 		{
-			"id": "10897",
-			"name": "Xã Cẩm Hoàng"
+			"id": 5394,
+			"name": "XÃ LỤC HỒN"
 		},
 		{
-			"id": "10894",
-			"name": "Xã Cẩm Hưng"
+			"id": 5395,
+			"name": "XÃ TỈNH HÚC"
 		},
 		{
-			"id": "10933",
-			"name": "Xã Cẩm Phúc"
+			"id": 5396,
+			"name": "XÃ VÔ NGẠI"
 		},
 		{
-			"id": "10900",
-			"name": "Xã Cẩm Văn"
+			"id": 5397,
+			"name": "THỊ TRẤN BÌNH LIÊU"
 		},
 		{
-			"id": "10909",
-			"name": "Xã Cẩm Vũ"
-		},
-		{
-			"id": "10927",
-			"name": "Xã Cao An"
-		},
-		{
-			"id": "10918",
-			"name": "Xã Định Sơn"
-		},
-		{
-			"id": "10912",
-			"name": "Xã Đức Chính"
-		},
-		{
-			"id": "10891",
-			"name": "Thị trấn Lai Cách"
-		},
-		{
-			"id": "10924",
-			"name": "Xã Lương Điền"
-		},
-		{
-			"id": "10903",
-			"name": "Xã Ngọc Liên"
-		},
-		{
-			"id": "10930",
-			"name": "Xã Tân Trường"
-		},
-		{
-			"id": "10906",
-			"name": "Xã Thạch Lỗi"
+			"id": 5398,
+			"name": "XÃ BÌNH LIÊU"
 		}
 	]
 }

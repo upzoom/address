@@ -1,74 +1,38 @@
 {
-	"id": "240",
-	"name": "Huyện Tân Sơn",
+	"id": 240,
+	"name": "THÀNH PHỐ LẠNG SƠN",
 	"data": [
 		{
-			"id": "08557",
-			"name": "Xã Đồng Sơn"
+			"id": 4181,
+			"name": "PHƯỜNG ĐÔNG KINH"
 		},
 		{
-			"id": "08554",
-			"name": "Xã Kiệt Sơn"
+			"id": 4182,
+			"name": "XÃ HOÀNG ĐỒNG"
 		},
 		{
-			"id": "08617",
-			"name": "Xã Kim Thượng"
+			"id": 4183,
+			"name": "PHƯỜNG HOÀNG VĂN THỤ"
 		},
 		{
-			"id": "08560",
-			"name": "Xã Lai Đồng"
+			"id": 4184,
+			"name": "PHƯỜNG CHI LĂNG"
 		},
 		{
-			"id": "08608",
-			"name": "Xã Long Cốc"
+			"id": 4185,
+			"name": "PHƯỜNG TAM THANH"
 		},
 		{
-			"id": "08593",
-			"name": "Xã Minh Đài"
+			"id": 4186,
+			"name": "XÃ MAI PHA"
 		},
 		{
-			"id": "08569",
-			"name": "Xã Mỹ Thuận"
+			"id": 4187,
+			"name": "PHƯỜNG VĨNH TRẠI"
 		},
 		{
-			"id": "08620",
-			"name": "Xã Tam Thanh"
-		},
-		{
-			"id": "08566",
-			"name": "Xã Tân Phú"
-		},
-		{
-			"id": "08578",
-			"name": "Xã Tân Sơn"
-		},
-		{
-			"id": "08548",
-			"name": "Xã Thạch Kiệt"
-		},
-		{
-			"id": "08545",
-			"name": "Xã Thu Cúc"
-		},
-		{
-			"id": "08551",
-			"name": "Xã Thu Ngạc"
-		},
-		{
-			"id": "08596",
-			"name": "Xã Văn Luông"
-		},
-		{
-			"id": "08626",
-			"name": "Xã Vinh Tiền"
-		},
-		{
-			"id": "08590",
-			"name": "Xã Xuân Đài"
-		},
-		{
-			"id": "08599",
-			"name": "Xã Xuân Sơn"
+			"id": 4188,
+			"name": "XÃ QUẢNG LẠC"
 		}
 	]
 }

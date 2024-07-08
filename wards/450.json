@@ -1,66 +1,62 @@
 {
-	"id": "450",
-	"name": "Thành Phố Đồng Hới",
+	"id": 450,
+	"name": "HUYỆN SƠN HÀ",
 	"data": [
 		{
-			"id": "18859",
-			"name": "Phường Bắc Lý"
+			"id": 8330,
+			"name": "XÃ SƠN BA"
 		},
 		{
-			"id": "18877",
-			"name": "Phường Bắc Nghĩa"
+			"id": 8331,
+			"name": "XÃ SƠN BAO"
 		},
 		{
-			"id": "18889",
-			"name": "Xã Bảo Ninh"
+			"id": 8332,
+			"name": "XÃ SƠN CAO"
 		},
 		{
-			"id": "18868",
-			"name": "Phường Đồng Hải"
+			"id": 8333,
+			"name": "XÃ SƠN GIANG"
 		},
 		{
-			"id": "18856",
-			"name": "Phường Đồng Phú"
+			"id": 8334,
+			"name": "XÃ SƠN HẠ"
 		},
 		{
-			"id": "18871",
-			"name": "Phường Đồng Sơn"
+			"id": 8335,
+			"name": "XÃ SƠN HẢI"
 		},
 		{
-			"id": "18898",
-			"name": "Xã Đức Ninh"
+			"id": 8336,
+			"name": "XÃ SƠN LINH"
 		},
 		{
-			"id": "18880",
-			"name": "Phường Đức Ninh Đông"
+			"id": 8337,
+			"name": "XÃ SƠN NHAM"
 		},
 		{
-			"id": "18853",
-			"name": "Phường Hải Thành"
+			"id": 8338,
+			"name": "XÃ SƠN THÀNH"
 		},
 		{
-			"id": "18886",
-			"name": "Xã Lộc Ninh"
+			"id": 8339,
+			"name": "XÃ SƠN THƯỢNG"
 		},
 		{
-			"id": "18865",
-			"name": "Phường Nam Lý"
+			"id": 8340,
+			"name": "XÃ SƠN KỲ"
 		},
 		{
-			"id": "18892",
-			"name": "Xã Nghĩa Ninh"
+			"id": 8341,
+			"name": "XÃ SƠN THỦY"
 		},
 		{
-			"id": "18874",
-			"name": "Phường Phú Hải"
+			"id": 8342,
+			"name": "XÃ SƠN TRUNG"
 		},
 		{
-			"id": "18883",
-			"name": "Xã Quang Phú"
-		},
-		{
-			"id": "18895",
-			"name": "Xã Thuận Đức"
+			"id": 8343,
+			"name": "THỊ TRẤN DI LĂNG"
 		}
 	]
 }

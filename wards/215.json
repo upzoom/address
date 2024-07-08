@@ -1,82 +1,122 @@
 {
-	"id": "215",
-	"name": "Huyện Yên Thế",
+	"id": 215,
+	"name": "THỊ XÃ SA PA",
 	"data": [
 		{
-			"id": "07285",
-			"name": "Xã An Thượng"
+			"id": 19984,
+			"name": "PHƯỜNG PHAN SI PĂNG"
 		},
 		{
-			"id": "07294",
-			"name": "Thị trấn Bố Hạ"
+			"id": 19985,
+			"name": "PHƯỜNG Ô QUÝ HỒ"
 		},
 		{
-			"id": "07246",
-			"name": "Xã Canh Nậu"
+			"id": 19988,
+			"name": "XÃ MƯỜNG HOA"
 		},
 		{
-			"id": "07258",
-			"name": "Xã Đồng Hưu"
+			"id": 19989,
+			"name": "XÃ NGŨ CHỈ SƠN"
 		},
 		{
-			"id": "07282",
-			"name": "Xã Đồng Kỳ"
+			"id": 19981,
+			"name": "PHƯỜNG CẦU MÂY"
 		},
 		{
-			"id": "07270",
-			"name": "Xã Đồng Lạc"
+			"id": 19983,
+			"name": "PHƯỜNG HÀM RỒNG"
 		},
 		{
-			"id": "07273",
-			"name": "Xã Đông Sơn"
+			"id": 19987,
+			"name": "XÃ MƯỜNG BO"
 		},
 		{
-			"id": "07260",
-			"name": "Xã Đồng Tâm"
+			"id": 19982,
+			"name": "XÃ HOÀNG LIÊN"
 		},
 		{
-			"id": "07243",
-			"name": "Xã Đồng Tiến"
+			"id": 19986,
+			"name": "XÃ LIÊN MINH"
 		},
 		{
-			"id": "07255",
-			"name": "Xã Đồng Vương"
+			"id": 3687,
+			"name": "XÃ SAN SẢ HỒ"
 		},
 		{
-			"id": "07267",
-			"name": "Xã Hồng Kỳ"
+			"id": 3688,
+			"name": "XÃ TRUNG TRẢI"
 		},
 		{
-			"id": "07279",
-			"name": "Xã Hương Vĩ"
+			"id": 3689,
+			"name": "THỊ TRẤN SA PA"
 		},
 		{
-			"id": "07288",
-			"name": "Thị trấn Phồn Xương"
+			"id": 3690,
+			"name": "XÃ BẢN HỒ"
 		},
 		{
-			"id": "07261",
-			"name": "Xã Tam Hiệp"
+			"id": 3691,
+			"name": "XÃ LAO CHẢI"
 		},
 		{
-			"id": "07252",
-			"name": "Xã Tam Tiến"
+			"id": 3692,
+			"name": "XÃ THANH PHÚ"
 		},
 		{
-			"id": "07276",
-			"name": "Xã Tân Hiệp"
+			"id": 3693,
+			"name": "XÃ TẢ VAN"
 		},
 		{
-			"id": "07291",
-			"name": "Xã Tân Sỏi"
+			"id": 3694,
+			"name": "XÃ SA PẢ"
 		},
 		{
-			"id": "07264",
-			"name": "Xã Tiến Thắng"
+			"id": 3695,
+			"name": "XÃ SUỐI THẦU"
 		},
 		{
-			"id": "07249",
-			"name": "Xã Xuân Lương"
+			"id": 3696,
+			"name": "XÃ THANH KIM"
+		},
+		{
+			"id": 3697,
+			"name": "XÃ TÒNG SÀNH"
+		},
+		{
+			"id": 3698,
+			"name": "XÃ BẢN KHOANG"
+		},
+		{
+			"id": 3699,
+			"name": "XÃ TẢ PHÌN"
+		},
+		{
+			"id": 3700,
+			"name": "XÃ TẢ GIÀNG PHÌNH"
+		},
+		{
+			"id": 3701,
+			"name": "XÃ SỬ PÁN"
+		},
+		{
+			"id": 3702,
+			"name": "XÃ NẬM SÀI"
+		},
+		{
+			"id": 3703,
+			"name": "XÃ NẬM CANG"
+		},
+		{
+			"id": 3704,
+			"name": "XÃ HẦU THÀO"
+		},
+		{
+			"id": 3705,
+			"name": "XÃ BẢN PHÙNG"
+		},
+		{
+			"id": 25656,
+			"name": "XÃ THANH BÌNH"
 		}
 	]
 }

@@ -1,58 +1,158 @@
 {
-	"id": "249",
-	"name": "Huyện Bình Xuyên",
+	"id": 249,
+	"name": "HUYỆN VĂN CHẤN",
 	"data": [
 		{
-			"id": "08944",
-			"name": "Thị trấn Bá Hiến"
+			"id": 4381,
+			"name": "THỊ TRẤN NT NGHĨA LỘ"
 		},
 		{
-			"id": "08962",
-			"name": "Thị trấn Đạo Đức"
+			"id": 4382,
+			"name": "XÃ BÌNH THUẬN"
 		},
 		{
-			"id": "08936",
-			"name": "Thị trấn Gia Khánh"
+			"id": 4383,
+			"name": "XÃ NGHĨA PHÚC"
 		},
 		{
-			"id": "08935",
-			"name": "Thị trấn Hương Canh"
+			"id": 4384,
+			"name": "XÃ PHÙ NHAM"
 		},
 		{
-			"id": "08950",
-			"name": "Xã Hương Sơn"
+			"id": 4385,
+			"name": "XÃ PHÚC SƠN"
 		},
 		{
-			"id": "08971",
-			"name": "Xã Phú Xuân"
+			"id": 4386,
+			"name": "XÃ TÂN THỊNH"
 		},
 		{
-			"id": "08956",
-			"name": "Xã Quất Lưu"
+			"id": 4387,
+			"name": "XÃ THƯỢNG BẰNG LA"
 		},
 		{
-			"id": "08959",
-			"name": "Xã Sơn Lôi"
+			"id": 4388,
+			"name": "XÃ SƠN THỊNH"
 		},
 		{
-			"id": "08953",
-			"name": "Xã Tam Hợp"
+			"id": 4389,
+			"name": "XÃ PÁ HU"
 		},
 		{
-			"id": "08965",
-			"name": "Xã Tân Phong"
+			"id": 4390,
+			"name": "XÃ PÁ LAU"
 		},
 		{
-			"id": "08968",
-			"name": "Thị trấn Thanh Lãng"
+			"id": 4391,
+			"name": "XÃ PHÌNH HỒ"
 		},
 		{
-			"id": "08947",
-			"name": "Xã Thiện Kế"
+			"id": 4392,
+			"name": "THỊ TRẤN NT LIÊN SƠN"
 		},
 		{
-			"id": "08938",
-			"name": "Xã Trung Mỹ"
+			"id": 4393,
+			"name": "ĐẠI LỊCH"
+		},
+		{
+			"id": 4394,
+			"name": "XÃ GIA HỘI"
+		},
+		{
+			"id": 4395,
+			"name": "XÃ CÁT THỊNH"
+		},
+		{
+			"id": 4396,
+			"name": "XÃ CHẤN THỊNH"
+		},
+		{
+			"id": 4397,
+			"name": "XÃ HẠNH SƠN"
+		},
+		{
+			"id": 4398,
+			"name": "XÃ MINH AN"
+		},
+		{
+			"id": 4399,
+			"name": "XÃ NẬM BÚNG"
+		},
+		{
+			"id": 4400,
+			"name": "XÃ NẬM LÀNH"
+		},
+		{
+			"id": 4401,
+			"name": "XÃ NẬM MƯỜI"
+		},
+		{
+			"id": 4402,
+			"name": "XÃ AN LƯƠNG"
+		},
+		{
+			"id": 4403,
+			"name": "ĐỒNG KHÊ"
+		},
+		{
+			"id": 4404,
+			"name": "XÃ NGHĨA AN"
+		},
+		{
+			"id": 4405,
+			"name": "XÃ NGHĨA LỢI"
+		},
+		{
+			"id": 4406,
+			"name": "XÃ NGHĨA TÂM"
+		},
+		{
+			"id": 4407,
+			"name": "XÃ SƠN LƯƠNG"
+		},
+		{
+			"id": 4408,
+			"name": "XÃ SÙNG ĐÔ"
+		},
+		{
+			"id": 4409,
+			"name": "XÃ SUỐI BU"
+		},
+		{
+			"id": 4410,
+			"name": "XÃ SUỐI GIÀNG"
+		},
+		{
+			"id": 4411,
+			"name": "XÃ SUỐI QUYỀN"
+		},
+		{
+			"id": 4412,
+			"name": "XÃ THANH LƯƠNG"
+		},
+		{
+			"id": 4413,
+			"name": "THỊ TRẤN NT TRẦN PHÚ"
+		},
+		{
+			"id": 4414,
+			"name": "XÃ TÚ LỆ"
+		},
+		{
+			"id": 4415,
+			"name": "XÃ NGHĨA SƠN"
+		},
+		{
+			"id": 4416,
+			"name": "XÃ SƠN A"
+		},
+		{
+			"id": 4417,
+			"name": "XÃ THÁCH LƯƠNG"
+		},
+		{
+			"id": 4418,
+			"name": "XÃ THẠCH LƯƠNG"
 		}
 	]
 }

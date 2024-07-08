@@ -1,118 +1,66 @@
 {
-	"id": "455",
-	"name": "Huyện Bố Trạch",
+	"id": 455,
+	"name": "HUYỆN TÂY SƠN",
 	"data": [
 		{
-			"id": "19126",
-			"name": "Xã Bắc Trạch"
+			"id": 8410,
+			"name": "XÃ BÌNH TƯỜNG"
 		},
 		{
-			"id": "19141",
-			"name": "Xã Cự Nẫm"
+			"id": 8411,
+			"name": "XÃ BÌNH HÒA"
 		},
 		{
-			"id": "19186",
-			"name": "Xã Đại Trạch"
+			"id": 8412,
+			"name": "XÃ BÌNH TÂN"
 		},
 		{
-			"id": "19159",
-			"name": "Xã Đồng Trạch"
+			"id": 8413,
+			"name": "XÃ BÌNH THUẬN"
 		},
 		{
-			"id": "19162",
-			"name": "Xã Đức Trạch"
+			"id": 8414,
+			"name": "XÃ TÂY AN"
 		},
 		{
-			"id": "19123",
-			"name": "Xã Hạ Trạch"
+			"id": 8415,
+			"name": "XÃ TÂY VINH"
 		},
 		{
-			"id": "19144",
-			"name": "Xã Hải Phú"
+			"id": 8416,
+			"name": "XÃ TÂY BÌNH"
 		},
 		{
-			"id": "19183",
-			"name": "Xã Hòa Trạch"
+			"id": 8417,
+			"name": "XÃ TÂY XUÂN"
 		},
 		{
-			"id": "19111",
-			"name": "Thị trấn Hoàn Lão"
+			"id": 8418,
+			"name": "XÃ TÂY PHÚ"
 		},
 		{
-			"id": "19156",
-			"name": "Xã Hưng Trạch"
+			"id": 8419,
+			"name": "XÃ TÂY GIANG"
 		},
 		{
-			"id": "19129",
-			"name": "Xã Lâm Trạch"
+			"id": 8420,
+			"name": "XÃ TÂY THUẬN"
 		},
 		{
-			"id": "19135",
-			"name": "Xã Liên Trạch"
+			"id": 8421,
+			"name": "XÃ VĨNH AN"
 		},
 		{
-			"id": "19198",
-			"name": "Xã Lý Trạch"
+			"id": 8422,
+			"name": "THỊ TRẤN PHÚ PHONG"
 		},
 		{
-			"id": "19120",
-			"name": "Xã Mỹ Trạch"
+			"id": 8423,
+			"name": "XÃ BÌNH THÀNH"
 		},
 		{
-			"id": "19114",
-			"name": "Thị trấn NT Việt Trung"
-		},
-		{
-			"id": "19195",
-			"name": "Xã Nam Trạch"
-		},
-		{
-			"id": "19189",
-			"name": "Xã Nhân Trạch"
-		},
-		{
-			"id": "19165",
-			"name": "Thị trấn Phong Nha"
-		},
-		{
-			"id": "19174",
-			"name": "Xã Phú Định"
-		},
-		{
-			"id": "19138",
-			"name": "Xã Phúc Trạch"
-		},
-		{
-			"id": "19150",
-			"name": "Xã Sơn Lộc"
-		},
-		{
-			"id": "19192",
-			"name": "Xã Tân Trạch"
-		},
-		{
-			"id": "19180",
-			"name": "Xã Tây Trạch"
-		},
-		{
-			"id": "19132",
-			"name": "Xã Thanh Trạch"
-		},
-		{
-			"id": "19147",
-			"name": "Xã Thượng Trạch"
-		},
-		{
-			"id": "19177",
-			"name": "Xã Trung Trạch"
-		},
-		{
-			"id": "19168",
-			"name": "Xã Vạn Trạch"
-		},
-		{
-			"id": "19117",
-			"name": "Xã Xuân Trạch"
+			"id": 8424,
+			"name": "XÃ BÌNH NGHI"
 		}
 	]
 }

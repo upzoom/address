@@ -1,58 +1,86 @@
 {
-	"id": "652",
-	"name": "Huyện M'Đrắk",
+	"id": 652,
+	"name": "HUYỆN BÌNH ĐẠI",
 	"data": [
 		{
-			"id": "24439",
-			"name": "Xã Cư K Róa"
+			"id": 10953,
+			"name": "THỊ TRẤN BÌNH ĐẠI"
 		},
 		{
-			"id": "24436",
-			"name": "Xã Cư M'ta"
+			"id": 10954,
+			"name": "XÃ TAM HIỆP"
 		},
 		{
-			"id": "24415",
-			"name": "Xã Cư Prao"
+			"id": 10955,
+			"name": "XÃ LONG ĐỊNH"
 		},
 		{
-			"id": "24444",
-			"name": "Xã Cư San"
+			"id": 10956,
+			"name": "XÃ LONG HÒA"
 		},
 		{
-			"id": "24424",
-			"name": "Xã Ea H'MLay"
+			"id": 10957,
+			"name": "XÃ PHÚ THUẬN"
 		},
 		{
-			"id": "24421",
-			"name": "Xã Ea Lai"
+			"id": 10958,
+			"name": "XÃ CHÂU HƯNG"
 		},
 		{
-			"id": "24430",
-			"name": "Xã Ea M' Doal"
+			"id": 10959,
+			"name": "XÃ VANG QUỚI TÂY"
 		},
 		{
-			"id": "24418",
-			"name": "Xã Ea Pil"
+			"id": 10960,
+			"name": "XÃ VANG QUỚI ĐÔNG"
 		},
 		{
-			"id": "24433",
-			"name": "Xã Ea Riêng"
+			"id": 10961,
+			"name": "XÃ THỚI LAI"
 		},
 		{
-			"id": "24445",
-			"name": "Xã Ea Trang"
+			"id": 10962,
+			"name": "XÃ PHÚ VANG"
 		},
 		{
-			"id": "24442",
-			"name": "Xã Krông Á"
+			"id": 10963,
+			"name": "XÃ LỘC THUẬN"
 		},
 		{
-			"id": "24427",
-			"name": "Xã Krông Jing"
+			"id": 10964,
+			"name": "XÃ ĐỊNH TRUNG"
 		},
 		{
-			"id": "24412",
-			"name": "Thị trấn M'Đrắk"
+			"id": 10965,
+			"name": "XÃ PHÚ LONG"
+		},
+		{
+			"id": 10966,
+			"name": "XÃ BÌNH THỚI"
+		},
+		{
+			"id": 10967,
+			"name": "XÃ THẠNH TRỊ"
+		},
+		{
+			"id": 10968,
+			"name": "XÃ ĐẠI HÒA LỘC"
+		},
+		{
+			"id": 10969,
+			"name": "XÃ BÌNH THẮNG"
+		},
+		{
+			"id": 10970,
+			"name": "XÃ THẠNH PHƯỚC"
+		},
+		{
+			"id": 10971,
+			"name": "XÃ THỪA ĐỨC"
+		},
+		{
+			"id": 10972,
+			"name": "XÃ THỚI THUẬN"
 		}
 	]
 }

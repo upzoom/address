@@ -1,58 +1,166 @@
 {
-	"id": "422",
-	"name": "Huyện Con Cuông",
+	"id": 422,
+	"name": "THÀNH PHỐ HUẾ",
 	"data": [
 		{
-			"id": "17230",
-			"name": "Xã Bình Chuẩn"
+			"id": 7950,
+			"name": "PHƯỜNG AN ĐÔNG"
 		},
 		{
-			"id": "17254",
-			"name": "Xã Bồng Khê"
+			"id": 7951,
+			"name": "PHƯỜNG THUẬN HÒA"
 		},
 		{
-			"id": "17236",
-			"name": "Xã Cam Lâm"
+			"id": 7952,
+			"name": "PHƯỜNG PHÚ HẬU"
 		},
 		{
-			"id": "17248",
-			"name": "Xã Châu Khê"
+			"id": 7953,
+			"name": "PHƯỜNG PHÚ HIỆP"
 		},
 		{
-			"id": "17251",
-			"name": "Xã Chi Khê"
+			"id": 7954,
+			"name": "PHƯỜNG THUẬN LỘC"
 		},
 		{
-			"id": "17227",
-			"name": "Thị trấn Con Cuông"
+			"id": 7955,
+			"name": "PHƯỜNG PHÚ BÌNH"
 		},
 		{
-			"id": "17242",
-			"name": "Xã Đôn Phục"
+			"id": 7956,
+			"name": "PHƯỜNG ĐÚC"
 		},
 		{
-			"id": "17233",
-			"name": "Xã Lạng Khê"
+			"id": 7957,
+			"name": "PHƯỜNG PHÚ HÒA"
 		},
 		{
-			"id": "17260",
-			"name": "Xã Lục Dạ"
+			"id": 7958,
+			"name": "PHƯỜNG PHÚ CÁT"
 		},
 		{
-			"id": "17245",
-			"name": "Xã Mậu Đức"
+			"id": 7959,
+			"name": "PHƯỜNG VỸ DẠ"
 		},
 		{
-			"id": "17263",
-			"name": "Xã Môn Sơn"
+			"id": 7960,
+			"name": "PHƯỜNG KIM LONG"
 		},
 		{
-			"id": "17239",
-			"name": "Xã Thạch Ngàn"
+			"id": 7961,
+			"name": "PHƯỜNG VĨNH NINH"
 		},
 		{
-			"id": "17257",
-			"name": "Xã Yên Khê"
+			"id": 7962,
+			"name": "PHƯỜNG PHÚ HỘI"
+		},
+		{
+			"id": 7963,
+			"name": "PHƯỜNG TRƯỜNG AN"
+		},
+		{
+			"id": 7964,
+			"name": "PHƯỜNG XUÂN PHÚ"
+		},
+		{
+			"id": 7965,
+			"name": "PHƯỜNG PHƯỚC VĨNH"
+		},
+		{
+			"id": 7966,
+			"name": "PHƯỜNG AN CỰU"
+		},
+		{
+			"id": 7967,
+			"name": "PHƯỜNG TÂY LỘC"
+		},
+		{
+			"id": 7968,
+			"name": "PHƯỜNG THUẬN THÀNH"
+		},
+		{
+			"id": 7969,
+			"name": "PHƯỜNG THỦY XUÂN"
+		},
+		{
+			"id": 7970,
+			"name": "PHƯỜNG AN TÂY"
+		},
+		{
+			"id": 7971,
+			"name": "PHƯỜNG AN HÒA"
+		},
+		{
+			"id": 7972,
+			"name": "PHƯỜNG THỦY BIỀU"
+		},
+		{
+			"id": 7973,
+			"name": "PHƯỜNG HƯƠNG SƠ"
+		},
+		{
+			"id": 7974,
+			"name": "PHƯỜNG HƯƠNG LONG"
+		},
+		{
+			"id": 7975,
+			"name": "PHƯỜNG PHÚ NHUẬN"
+		},
+		{
+			"id": 7976,
+			"name": "PHƯỜNG PHÚ THUẬN"
+		},
+		{
+			"id": 26637,
+			"name": "XÃ PHÚ MẬU"
+		},
+		{
+			"id": 26644,
+			"name": "XÃ HƯƠNG PHONG"
+		},
+		{
+			"id": 26638,
+			"name": "XÃ PHÚ THƯỢNG"
+		},
+		{
+			"id": 26636,
+			"name": "THỊ TRẤN THUẬN AN"
+		},
+		{
+			"id": 26643,
+			"name": "XÃ HƯƠNG THỌ"
+		},
+		{
+			"id": 26645,
+			"name": "XÃ HƯƠNG VINH"
+		},
+		{
+			"id": 26641,
+			"name": "XÃ HẢI DƯƠNG"
+		},
+		{
+			"id": 26646,
+			"name": "XÃ HƯƠNG AN"
+		},
+		{
+			"id": 26642,
+			"name": "XÃ THUỶ BẰNG"
+		},
+		{
+			"id": 26640,
+			"name": "XÃ PHÚ DƯƠNG"
+		},
+		{
+			"id": 26635,
+			"name": "XÃ THUỶ VÂN"
+		},
+		{
+			"id": 26639,
+			"name": "XÃ PHÚ THANH"
+		},
+		{
+			"id": 26647,
+			"name": "XÃ HƯƠNG HỒ"
 		}
 	]
 }

@@ -1,0 +1,50 @@
+{
+	"id": 484,
+	"name": "HUYỆN ĐẮK HÀ",
+	"data": [
+		{
+			"id": 8831,
+			"name": "THỊ TRẤN ĐĂK HÀ"
+		},
+		{
+			"id": 8832,
+			"name": "XÃ ĐĂK PXI"
+		},
+		{
+			"id": 8833,
+			"name": "XÃ ĐĂK HRING"
+		},
+		{
+			"id": 8834,
+			"name": "XÃ ĐĂK UI"
+		},
+		{
+			"id": 8835,
+			"name": "XÃ ĐĂK MAR"
+		},
+		{
+			"id": 8836,
+			"name": "XÃ NGOK WANG"
+		},
+		{
+			"id": 8837,
+			"name": "XÁ NGOK RÉO"
+		},
+		{
+			"id": 8838,
+			"name": "XÃ HÀ MÒN"
+		},
+		{
+			"id": 8839,
+			"name": "XÃ ĐĂK LA"
+		},
+		{
+			"id": 18461,
+			"name": "XÃ ĐĂK NGỌK"
+		},
+		{
+			"id": 18465,
+			"name": "XÃ ĐĂK LONG"
+		}
+	]
+}

@@ -1,30 +1,74 @@
 {
-	"id": "308",
-	"name": "Quận Đồ Sơn",
+	"id": 308,
+	"name": "HUYỆN MƯỜNG TÈ",
 	"data": [
 		{
-			"id": "11467",
-			"name": "Phường Bàng La"
+			"id": 18445,
+			"name": "XÃ TÁ BẠ"
 		},
 		{
-			"id": "11458",
-			"name": "Phường Hải Sơn"
+			"id": 18446,
+			"name": "XÃ VÀNG SAN"
 		},
 		{
-			"id": "11737",
-			"name": "Phường Hợp Đức"
+			"id": 5579,
+			"name": "XÃ BUN NƯA"
 		},
 		{
-			"id": "11465",
-			"name": "Phường Minh Đức"
+			"id": 5580,
+			"name": "THỊ TRẤN MƯỜNG TÈ"
 		},
 		{
-			"id": "11455",
-			"name": "Phường Ngọc Xuyên"
+			"id": 5581,
+			"name": "XÃ BUN TỞ"
 		},
 		{
-			"id": "11461",
-			"name": "Phường Vạn Hương"
+			"id": 5582,
+			"name": "XÃ HUA BUN"
+		},
+		{
+			"id": 5583,
+			"name": "XÃ KA LĂNG"
+		},
+		{
+			"id": 5584,
+			"name": "XÃ KAN HỒ"
+		},
+		{
+			"id": 5585,
+			"name": "XÃ MÙ CẢ"
+		},
+		{
+			"id": 5586,
+			"name": "XÃ MƯỜNG MÔ"
+		},
+		{
+			"id": 5587,
+			"name": "XÃ MƯỜNG TÈ"
+		},
+		{
+			"id": 5588,
+			"name": "XÃ NẬM HÀNG"
+		},
+		{
+			"id": 5589,
+			"name": "XÃ NẬM KHAO"
+		},
+		{
+			"id": 5590,
+			"name": "XÃ PA Ủ"
+		},
+		{
+			"id": 5591,
+			"name": "XÃ PA VỆ SỬ"
+		},
+		{
+			"id": 5592,
+			"name": "XÃ TÀ TỔNG"
+		},
+		{
+			"id": 5593,
+			"name": "XÃ THU LŨM"
 		}
 	]
 }

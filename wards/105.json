@@ -1,34 +1,46 @@
 {
-	"id": "105",
-	"name": "Thành phố Lai Châu",
+	"id": 105,
+	"name": "HUYỆN CHÂU THÀNH ",
 	"data": [
 		{
-			"id": "03389",
-			"name": "Phường Đoàn Kết"
+			"id": 1553,
+			"name": "XÃ ĐÔNG PHƯỚC"
 		},
 		{
-			"id": "03408",
-			"name": "Phường Đông Phong"
+			"id": 1554,
+			"name": "XÃ ĐÔNG PHƯỚC A"
 		},
 		{
-			"id": "03386",
-			"name": "Phường Quyết Thắng"
+			"id": 1555,
+			"name": "XÃ PHÚ HỮU"
 		},
 		{
-			"id": "03388",
-			"name": "Phường Quyết Tiến"
+			"id": 1556,
+			"name": "XÃ PHÚ TÂN"
 		},
 		{
-			"id": "03409",
-			"name": "Xã San Thàng"
+			"id": 1557,
+			"name": "XÃ PHÚ HỮU A"
 		},
 		{
-			"id": "03403",
-			"name": "Xã Sùng Phài"
+			"id": 1558,
+			"name": "XÃ PHÚ AN"
 		},
 		{
-			"id": "03387",
-			"name": "Phường Tân Phong"
+			"id": 1559,
+			"name": "XÃ ĐÔNG PHÚ"
+		},
+		{
+			"id": 1560,
+			"name": "XÃ ĐÔNG THẠNH"
+		},
+		{
+			"id": 1561,
+			"name": "TT NGÃ SÁU"
+		},
+		{
+			"id": 1562,
+			"name": "TT MÁI DẦM"
 		}
 	]
 }

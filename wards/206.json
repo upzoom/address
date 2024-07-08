@@ -1,82 +1,130 @@
 {
-	"id": "206",
-	"name": "Thị xã Quảng Yên",
+	"id": 206,
+	"name": "HUYỆN TRÙNG KHÁNH",
 	"data": [
 		{
-			"id": "07171",
-			"name": "Xã Cẩm La"
+			"id": 20503,
+			"name": "XÃ QUANG HÁN"
 		},
 		{
-			"id": "07150",
-			"name": "Phường Cộng Hòa"
+			"id": 20504,
+			"name": "XÃ LƯU NGỌC"
 		},
 		{
-			"id": "07135",
-			"name": "Phường Đông Mai"
+			"id": 20511,
+			"name": "XÃ QUANG VINH"
 		},
 		{
-			"id": "07168",
-			"name": "Phường Hà An"
+			"id": 20505,
+			"name": "THỊ TRẤN HÙNG QUỐC"
 		},
 		{
-			"id": "07147",
-			"name": "Xã Hiệp Hòa"
+			"id": 20509,
+			"name": "XÃ CAO CHƯƠNG"
 		},
 		{
-			"id": "07156",
-			"name": "Xã Hoàng Tân"
+			"id": 20510,
+			"name": "XÃ QUANG TRUNG"
 		},
 		{
-			"id": "07180",
-			"name": "Xã Liên Hòa"
+			"id": 20507,
+			"name": "XÃ TRI PHƯƠNG"
 		},
 		{
-			"id": "07186",
-			"name": "Xã Liên Vị"
+			"id": 20508,
+			"name": "XÃ XUÂN NỘI"
 		},
 		{
-			"id": "07138",
-			"name": "Phường Minh Thành"
+			"id": 20506,
+			"name": "XÃ CÔ MƯỜI"
 		},
 		{
-			"id": "07165",
-			"name": "Phường Nam Hoà"
+			"id": 3541,
+			"name": "THỊ TRẤN TRÙNG KHÁNH"
 		},
 		{
-			"id": "07183",
-			"name": "Phường Phong Cốc"
+			"id": 3542,
+			"name": "XÃ LĂNG YÊN"
 		},
 		{
-			"id": "07174",
-			"name": "Phường Phong Hải"
+			"id": 3543,
+			"name": "XÃ NGỌC CHUNG"
 		},
 		{
-			"id": "07132",
-			"name": "Phường Quảng Yên"
+			"id": 3544,
+			"name": "XÃ PHONG NẬM"
 		},
 		{
-			"id": "07144",
-			"name": "Xã Sông Khoai"
+			"id": 3545,
+			"name": "XÃ NGỌC KHÊ"
 		},
 		{
-			"id": "07159",
-			"name": "Phường Tân An"
+			"id": 3546,
+			"name": "XÃ  ĐÌNH PHONG"
 		},
 		{
-			"id": "07153",
-			"name": "Xã Tiền An"
+			"id": 3547,
+			"name": "XÃ CHÍ VIỄN"
 		},
 		{
-			"id": "07189",
-			"name": "Xã Tiền Phong"
+			"id": 3548,
+			"name": "XÃ ĐÀM THUỶ"
 		},
 		{
-			"id": "07162",
-			"name": "Phường Yên Giang"
+			"id": 3549,
+			"name": "XÃ LĂNG HIẾU"
 		},
 		{
-			"id": "07177",
-			"name": "Phường Yên Hải"
+			"id": 3550,
+			"name": "XÃ KHÂM THÀNH"
+		},
+		{
+			"id": 3551,
+			"name": "XÃ  ĐÌNH MINH"
+		},
+		{
+			"id": 3552,
+			"name": "XÃ PHONG CHÂU"
+		},
+		{
+			"id": 3553,
+			"name": "XÃ CẢNH TIÊN"
+		},
+		{
+			"id": 3554,
+			"name": "XÃ TRUNG PHÚC"
+		},
+		{
+			"id": 3555,
+			"name": "XÃ  ĐỨC HỒNG"
+		},
+		{
+			"id": 3556,
+			"name": "XÃ CAO THĂNG"
+		},
+		{
+			"id": 3557,
+			"name": "XÃ THÔNG HUỀ"
+		},
+		{
+			"id": 3558,
+			"name": "XÃ ĐOÀI CÔN"
+		},
+		{
+			"id": 3559,
+			"name": "XÃ THÂN GIÁP"
+		},
+		{
+			"id": 3560,
+			"name": "XÃ NGỌC CÔN"
+		},
+		{
+			"id": 26129,
+			"name": "THỊ TRẤN TRÀ LĨNH"
+		},
+		{
+			"id": 26130,
+			"name": "XÃ ĐOÀI DƯƠNG"
 		}
 	]
 }

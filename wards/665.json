@@ -1,42 +1,26 @@
 {
-	"id": "665",
-	"name": "Huyện Đắk Song",
+	"id": 665,
+	"name": "HUYỆN GIANG THÀNH",
 	"data": [
 		{
-			"id": "24719",
-			"name": "Xã Đắk Hòa"
+			"id": 11163,
+			"name": "XÃ PHÚ MỸ"
 		},
 		{
-			"id": "24718",
-			"name": "Xã Đắk Môl"
+			"id": 11164,
+			"name": "XÃ PHÚ LỢI"
 		},
 		{
-			"id": "24727",
-			"name": "Xã Đắk N'Dung"
+			"id": 11165,
+			"name": "XÃ TÂN KHÁNH HÒA"
 		},
 		{
-			"id": "24717",
-			"name": "Thị trấn Đức An"
+			"id": 11166,
+			"name": "XÃ VĨNH ĐIỀU"
 		},
 		{
-			"id": "24721",
-			"name": "Xã Nam Bình"
-		},
-		{
-			"id": "24728",
-			"name": "Xã Nâm N'Jang"
-		},
-		{
-			"id": "24722",
-			"name": "Xã Thuận Hà"
-		},
-		{
-			"id": "24724",
-			"name": "Xã Thuận Hạnh"
-		},
-		{
-			"id": "24730",
-			"name": "Xã Trường Xuân"
+			"id": 11167,
+			"name": "XÃ VĨNH PHÚ"
 		}
 	]
 }

@@ -1,62 +1,66 @@
 {
-	"id": "133",
-	"name": "Thị xã Nghĩa Lộ",
+	"id": 133,
+	"name": "HUYỆN TIÊN DU",
 	"data": [
 		{
-			"id": "04291",
-			"name": "Phường Cầu Thia"
+			"id": 1915,
+			"name": "XÃ TRI PHƯƠNG"
 		},
 		{
-			"id": "04678",
-			"name": "Xã Hạnh Sơn"
+			"id": 1916,
+			"name": "XÃ TÂN CHI"
 		},
 		{
-			"id": "04300",
-			"name": "Xã Nghĩa An"
+			"id": 1917,
+			"name": "XÃ LẠC VỆ"
 		},
 		{
-			"id": "04624",
-			"name": "Xã Nghĩa Lộ"
+			"id": 1918,
+			"name": "XÃ HIÊN VÂN"
 		},
 		{
-			"id": "04294",
-			"name": "Xã Nghĩa Lợi"
+			"id": 1919,
+			"name": "XÃ PHÚ LÂM"
 		},
 		{
-			"id": "04297",
-			"name": "Xã Nghĩa Phúc"
+			"id": 1920,
+			"name": "THỊ TRẤN LIM"
 		},
 		{
-			"id": "04663",
-			"name": "Xã Phù Nham"
+			"id": 1921,
+			"name": "XÃ NỘI DUỆ"
 		},
 		{
-			"id": "04681",
-			"name": "Xã Phúc Sơn"
+			"id": 1922,
+			"name": "XÃ HOÀN SƠN"
 		},
 		{
-			"id": "04282",
-			"name": "Phường Pú Trạng"
+			"id": 1923,
+			"name": "XÃ ĐẠI ĐỒNG"
 		},
 		{
-			"id": "04660",
-			"name": "Xã Sơn A"
+			"id": 1924,
+			"name": "XÃ LIÊN BÃO"
 		},
 		{
-			"id": "04288",
-			"name": "Phường Tân An"
+			"id": 1925,
+			"name": "XÃ VIỆT ĐOÀN"
 		},
 		{
-			"id": "04684",
-			"name": "Xã Thạch Lương"
+			"id": 1926,
+			"name": "XÃ PHẬT TÍCH"
 		},
 		{
-			"id": "04675",
-			"name": "Xã Thanh Lương"
+			"id": 1927,
+			"name": "XÃ CẢNH HƯNG"
 		},
 		{
-			"id": "04285",
-			"name": "Phường Trung Tâm"
+			"id": 1928,
+			"name": "XÃ MINH ĐẠO"
+		},
+		{
+			"id": 1929,
+			"name": "XÃ HOÀN"
 		}
 	]
 }

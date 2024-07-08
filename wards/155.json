@@ -1,70 +1,82 @@
 {
-	"id": "155",
-	"name": "Huyện Tân Lạc",
+	"id": 155,
+	"name": "HUYỆN YÊN MỸ",
 	"data": [
 		{
-			"id": "05173",
-			"name": "Xã Đông Lai"
+			"id": 2378,
+			"name": "THỊ TRẤN YÊN MỸ"
 		},
 		{
-			"id": "05197",
-			"name": "Xã Gia Mô"
+			"id": 2379,
+			"name": "XÃ GIAI PHẠM"
 		},
 		{
-			"id": "05191",
-			"name": "Xã Lỗ Sơn"
+			"id": 2380,
+			"name": "XÃ NGỌC LONG"
 		},
 		{
-			"id": "05128",
-			"name": "Thị trấn Mãn Đức"
+			"id": 2381,
+			"name": "XÃ  NGHĨA HIỆP"
 		},
 		{
-			"id": "05143",
-			"name": "Xã Mỹ Hòa"
+			"id": 2382,
+			"name": "XÃ   LIÊU XÁ"
 		},
 		{
-			"id": "05194",
-			"name": "Xã Ngổ Luông"
+			"id": 2383,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "05170",
-			"name": "Xã Ngọc Mỹ"
+			"id": 2384,
+			"name": "XÃ TRUNG HÒA"
 		},
 		{
-			"id": "05182",
-			"name": "Xã Nhân Mỹ"
+			"id": 2385,
+			"name": "XÃ THANH LONG"
 		},
 		{
-			"id": "05158",
-			"name": "Xã Phong Phú"
+			"id": 2386,
+			"name": "XÃ TRUNG HƯNG"
 		},
 		{
-			"id": "05140",
-			"name": "Xã Phú Cường"
+			"id": 2387,
+			"name": "XÃ TÂN VIỆT"
 		},
 		{
-			"id": "05137",
-			"name": "Xã Phú Vinh"
+			"id": 2388,
+			"name": "XÃ LÝ THƯỜNG KIỆT"
 		},
 		{
-			"id": "05152",
-			"name": "Xã Quyết Chiến"
+			"id": 2389,
+			"name": "XÃ TRAI TRANG"
 		},
 		{
-			"id": "05134",
-			"name": "Xã Suối Hoa"
+			"id": 2390,
+			"name": "XÃ ĐỒNG THAN"
 		},
 		{
-			"id": "05167",
-			"name": "Xã Thanh Hối"
+			"id": 2391,
+			"name": "XÃ MINH CHÂU"
 		},
 		{
-			"id": "05164",
-			"name": "Xã Tử Nê"
+			"id": 2392,
+			"name": "XÃ VIỆT CƯỜNG"
 		},
 		{
-			"id": "05176",
-			"name": "Xã Vân Sơn"
+			"id": 2393,
+			"name": "XÃ YÊN PHÚ"
+		},
+		{
+			"id": 2394,
+			"name": "XÃ YÊN HÒA"
+		},
+		{
+			"id": 2395,
+			"name": "XÃ HOÀN LONG"
+		},
+		{
+			"id": 2396,
+			"name": "KCN PHỐ NỐI A"
 		}
 	]
 }

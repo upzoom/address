@@ -1,70 +1,46 @@
 {
-	"id": "296",
-	"name": "Huyện Bình Giang",
+	"id": 296,
+	"name": "HUYỆN ĐẦM HÀ",
 	"data": [
 		{
-			"id": "10975",
-			"name": "Xã Bình Minh"
+			"id": 5399,
+			"name": "XÃ QUẢNG AN"
 		},
 		{
-			"id": "10996",
-			"name": "Xã Bình Xuyên"
+			"id": 5400,
+			"name": "XÃ QUẢNG LÂM"
 		},
 		{
-			"id": "10984",
-			"name": "Xã Cổ Bì"
+			"id": 5401,
+			"name": "THỊ TRẤN ĐẦM HÀ"
 		},
 		{
-			"id": "10978",
-			"name": "Xã Hồng Khê"
+			"id": 5402,
+			"name": "XÃ QUẢNG LỢI"
 		},
 		{
-			"id": "10954",
-			"name": "Xã Hùng Thắng"
+			"id": 5403,
+			"name": "XÃ QUẢNG TÂN"
 		},
 		{
-			"id": "10945",
-			"name": "Thị trấn Kẻ Sặt"
+			"id": 5404,
+			"name": "XÃ ĐẠI BÌNH"
 		},
 		{
-			"id": "10963",
-			"name": "Xã Long Xuyên"
+			"id": 5405,
+			"name": "XÃ DỰC YÊN"
 		},
 		{
-			"id": "10987",
-			"name": "Xã Nhân Quyền"
+			"id": 5406,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "10972",
-			"name": "Xã Tân Hồng"
+			"id": 5407,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "10966",
-			"name": "Xã Tân Việt"
-		},
-		{
-			"id": "10990",
-			"name": "Xã Thái Dương"
-		},
-		{
-			"id": "10993",
-			"name": "Xã Thái Hòa"
-		},
-		{
-			"id": "10981",
-			"name": "Xã Thái Học"
-		},
-		{
-			"id": "10969",
-			"name": "Xã Thúc Kháng"
-		},
-		{
-			"id": "10960",
-			"name": "Xã Vĩnh Hồng"
-		},
-		{
-			"id": "10951",
-			"name": "Xã Vĩnh Hưng"
+			"id": 5408,
+			"name": "XÃ ĐẦM HÀ"
 		}
 	]
 }

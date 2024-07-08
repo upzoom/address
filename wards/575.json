@@ -1,38 +1,82 @@
 {
-	"id": "575",
-	"name": "Huyện Khánh Sơn",
+	"id": 575,
+	"name": "HUYỆN TÂN PHÚ",
 	"data": [
 		{
-			"id": "22732",
-			"name": "Xã Ba Cụm Bắc"
+			"id": 9884,
+			"name": "THỊ TRẤN TÂN PHÚ"
 		},
 		{
-			"id": "22735",
-			"name": "Xã Ba Cụm Nam"
+			"id": 9885,
+			"name": "XÃ PHÚ LÂM"
 		},
 		{
-			"id": "22726",
-			"name": "Xã Sơn Bình"
+			"id": 9886,
+			"name": "XÃ ĐAK LUA"
 		},
 		{
-			"id": "22723",
-			"name": "Xã Sơn Hiệp"
+			"id": 9887,
+			"name": "XÃ NAM CÁT TIÊN"
 		},
 		{
-			"id": "22720",
-			"name": "Xã Sơn Lâm"
+			"id": 9888,
+			"name": "XÃ NÚI TƯỢNG"
 		},
 		{
-			"id": "22729",
-			"name": "Xã Sơn Trung"
+			"id": 9889,
+			"name": "XÃ PHÚ AN"
 		},
 		{
-			"id": "22717",
-			"name": "Xã Thành Sơn"
+			"id": 9890,
+			"name": "XÃ PHÚ BÌNH"
 		},
 		{
-			"id": "22714",
-			"name": "Thị trấn Tô Hạp"
+			"id": 9891,
+			"name": "XÃ PHÚ ĐIỀN"
+		},
+		{
+			"id": 9892,
+			"name": "XÃ PHÚ LẬP"
+		},
+		{
+			"id": 9893,
+			"name": "XÃ PHÚ LỘC"
+		},
+		{
+			"id": 9894,
+			"name": "XÃ PHÚ SƠN"
+		},
+		{
+			"id": 9895,
+			"name": "XÃ PHÚ THANH"
+		},
+		{
+			"id": 9896,
+			"name": "XÃ PHÚ THỊNH"
+		},
+		{
+			"id": 9897,
+			"name": "XÃ PHÚ TRUNG"
+		},
+		{
+			"id": 9898,
+			"name": "XÃ PHÚ XUÂN"
+		},
+		{
+			"id": 9899,
+			"name": "XÃ TÀ LÀI"
+		},
+		{
+			"id": 9900,
+			"name": "XÃ THANH SƠN"
+		},
+		{
+			"id": 9901,
+			"name": "XÃ TRÀ CỔ"
+		},
+		{
+			"id": 9902,
+			"name": "KCN TÂN PHÚ"
 		}
 	]
 }

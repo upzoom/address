@@ -1,46 +1,42 @@
 {
-	"id": "102",
-	"name": "Huyện Mường Ảng",
+	"id": 102,
+	"name": "THÀNH PHỐ VỊ THANH",
 	"data": [
 		{
-			"id": "03310",
-			"name": "Xã Ẳng Cang"
+			"id": 1519,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "03307",
-			"name": "Xã Ẳng Nưa"
+			"id": 1520,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "03292",
-			"name": "Xã Ẳng Tở"
+			"id": 1521,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "03301",
-			"name": "Xã Búng Lao"
+			"id": 1522,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "03256",
-			"name": "Thị trấn Mường Ảng"
+			"id": 1523,
+			"name": "XÃ HỎA LỰU"
 		},
 		{
-			"id": "03286",
-			"name": "Xã Mường Đăng"
+			"id": 1524,
+			"name": "XÃ TÂN TIẾN"
 		},
 		{
-			"id": "03313",
-			"name": "Xã Mường Lạn"
+			"id": 1525,
+			"name": "XÃ HỎA TIẾN"
 		},
 		{
-			"id": "03312",
-			"name": "Xã Nặm Lịch"
+			"id": 1526,
+			"name": "XÃ VỊ TÂN"
 		},
 		{
-			"id": "03287",
-			"name": "Xã Ngối Cáy"
-		},
-		{
-			"id": "03302",
-			"name": "Xã Xuân Lao"
+			"id": 1527,
+			"name": "PHƯỜNG 1"
 		}
 	]
 }

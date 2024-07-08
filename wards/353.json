@@ -1,90 +1,42 @@
 {
-	"id": "353",
-	"name": "Huyện Lý Nhân",
+	"id": 353,
+	"name": "HUYỆN MƯỜNG LÁT",
 	"data": [
 		{
-			"id": "13588",
-			"name": "Xã Bắc Lý"
+			"id": 6522,
+			"name": "XÃ TÉN TẰN"
 		},
 		{
-			"id": "13576",
-			"name": "Xã Chân Lý"
+			"id": 6523,
+			"name": "XÃ NHI SƠN"
 		},
 		{
-			"id": "13573",
-			"name": "Xã Chính Lý"
+			"id": 6524,
+			"name": "XÃ MƯỜNG LÝ"
 		},
 		{
-			"id": "13582",
-			"name": "Xã Công Lý"
+			"id": 6525,
+			"name": "XÃ TRUNG LÝ"
 		},
 		{
-			"id": "13579",
-			"name": "Xã Đạo Lý"
+			"id": 6526,
+			"name": "THỊ TRẤN MƯỜNG LÁT"
 		},
 		{
-			"id": "13591",
-			"name": "Xã Đức Lý"
+			"id": 6527,
+			"name": "XÃ QUANG CHIỂU"
 		},
 		{
-			"id": "13630",
-			"name": "Xã Hòa Hậu"
+			"id": 6528,
+			"name": "XÃ MƯỜNG CHANH"
 		},
 		{
-			"id": "13567",
-			"name": "Xã Hợp Lý"
+			"id": 6529,
+			"name": "XÃ PHÙ NHI"
 		},
 		{
-			"id": "13570",
-			"name": "Xã Nguyên Lý"
-		},
-		{
-			"id": "13618",
-			"name": "Xã Nhân Bình"
-		},
-		{
-			"id": "13615",
-			"name": "Xã Nhân Chính"
-		},
-		{
-			"id": "13606",
-			"name": "Xã Nhân Khang"
-		},
-		{
-			"id": "13609",
-			"name": "Xã Nhân Mỹ"
-		},
-		{
-			"id": "13612",
-			"name": "Xã Nhân Nghĩa"
-		},
-		{
-			"id": "13600",
-			"name": "Xã Nhân Thịnh"
-		},
-		{
-			"id": "13621",
-			"name": "Xã Phú Phúc"
-		},
-		{
-			"id": "13627",
-			"name": "Xã Tiến Thắng"
-		},
-		{
-			"id": "13594",
-			"name": "Xã Trần Hưng Đạo"
-		},
-		{
-			"id": "13585",
-			"name": "Xã Văn Lý"
-		},
-		{
-			"id": "13597",
-			"name": "Thị trấn Vĩnh Trụ"
-		},
-		{
-			"id": "13624",
-			"name": "Xã Xuân Khê"
+			"id": 6530,
+			"name": "XÃ TAM TRUNG"
 		}
 	]
 }

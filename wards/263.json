@@ -1,62 +1,86 @@
 {
-	"id": "263",
-	"name": "Huyện Gia Bình",
+	"id": 263,
+	"name": "HUYỆN ĐỒNG HỶ",
 	"data": [
 		{
-			"id": "09475",
-			"name": "Xã Bình Dương"
+			"id": 4699,
+			"name": "XÃ CÂY THỊ"
 		},
 		{
-			"id": "09466",
-			"name": "Xã Cao Đức"
+			"id": 4700,
+			"name": "XÃ HOÁ THƯỢNG"
 		},
 		{
-			"id": "09490",
-			"name": "Xã Đại Bái"
+			"id": 4701,
+			"name": "XÃ HỢP TIẾN"
 		},
 		{
-			"id": "09469",
-			"name": "Xã Đại Lai"
+			"id": 4702,
+			"name": "XÃ LINH SƠN"
 		},
 		{
-			"id": "09487",
-			"name": "Xã Đông Cứu"
+			"id": 4703,
+			"name": "XÃ TÂN LỢI"
 		},
 		{
-			"id": "09454",
-			"name": "Thị trấn Gia Bình"
+			"id": 4704,
+			"name": "XÃ NAM HOÀ"
 		},
 		{
-			"id": "09463",
-			"name": "Xã Giang Sơn"
+			"id": 4705,
+			"name": "XÃ HUỐNG THƯỢNG"
 		},
 		{
-			"id": "09478",
-			"name": "Xã Lãng Ngâm"
+			"id": 4706,
+			"name": "XÃ CAO NGẠN"
 		},
 		{
-			"id": "09481",
-			"name": "Xã Nhân Thắng"
+			"id": 4707,
+			"name": "XÃ ĐỒNG BẨM"
 		},
 		{
-			"id": "09493",
-			"name": "Xã Quỳnh Phú"
+			"id": 4708,
+			"name": "THỊ TRẤN SÔNG CẦU"
 		},
 		{
-			"id": "09472",
-			"name": "Xã Song Giang"
+			"id": 4709,
+			"name": "THỊ TRẤN CHÙA HANG"
 		},
 		{
-			"id": "09460",
-			"name": "Xã Thái Bảo"
+			"id": 4710,
+			"name": "THỊ TRẤN TRẠI CAU"
 		},
 		{
-			"id": "09457",
-			"name": "Xã Vạn Ninh"
+			"id": 4711,
+			"name": "XÃ VĂN LĂNG"
 		},
 		{
-			"id": "09484",
-			"name": "Xã Xuân Lai"
+			"id": 4712,
+			"name": "XÃ TÂN LONG"
+		},
+		{
+			"id": 4713,
+			"name": "XÃ HOÀ BÌNH"
+		},
+		{
+			"id": 4714,
+			"name": "XÃ QUANG SƠN"
+		},
+		{
+			"id": 4715,
+			"name": "XÃ MINH LẬP"
+		},
+		{
+			"id": 4716,
+			"name": "XÃ VĂN HÁN"
+		},
+		{
+			"id": 4717,
+			"name": "XÃ HOÁ TRUNG"
+		},
+		{
+			"id": 4718,
+			"name": "XÃ KHE MO"
 		}
 	]
 }

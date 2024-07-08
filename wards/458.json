@@ -1,70 +1,66 @@
 {
-	"id": "458",
-	"name": "Thị xã Ba Đồn",
+	"id": 458,
+	"name": "THỊ XÃ AN NHƠN",
 	"data": [
 		{
-			"id": "19009",
-			"name": "Phường Ba Đồn"
+			"id": 8447,
+			"name": "XÃ NHƠN AN"
 		},
 		{
-			"id": "19087",
-			"name": "Xã Quảng Hải"
+			"id": 8448,
+			"name": "XÃ NHƠN HƯNG"
 		},
 		{
-			"id": "19105",
-			"name": "Xã Quảng Hòa"
+			"id": 8449,
+			"name": "XÃ NHƠN KHÁNH"
 		},
 		{
-			"id": "19093",
-			"name": "Xã Quảng Lộc"
+			"id": 8450,
+			"name": "XÃ NHƠN LỘC"
 		},
 		{
-			"id": "19060",
-			"name": "Phường Quảng Long"
+			"id": 8451,
+			"name": "XÃ NHƠN HÒA"
 		},
 		{
-			"id": "19108",
-			"name": "Xã Quảng Minh"
+			"id": 8452,
+			"name": "THỊ TRẤN BÌNH ĐỊNH"
 		},
 		{
-			"id": "19078",
-			"name": "Phường Quảng Phong"
+			"id": 8453,
+			"name": "THỊ TRẤN ĐẬP ĐÁ"
 		},
 		{
-			"id": "19102",
-			"name": "Phường Quảng Phúc"
+			"id": 8454,
+			"name": "XÃ NHƠN THÀNH"
 		},
 		{
-			"id": "19090",
-			"name": "Xã Quảng Sơn"
+			"id": 8455,
+			"name": "XÃ NHƠN MỸ"
 		},
 		{
-			"id": "19084",
-			"name": "Xã Quảng Tân"
+			"id": 8456,
+			"name": "XÃ NHƠN HẠNH"
 		},
 		{
-			"id": "19066",
-			"name": "Phường Quảng Thọ"
+			"id": 8457,
+			"name": "XÃ NHƠN PHONG"
 		},
 		{
-			"id": "19081",
-			"name": "Phường Quảng Thuận"
+			"id": 8458,
+			"name": "XÃ NHƠN HẬU"
 		},
 		{
-			"id": "19096",
-			"name": "Xã Quảng Thủy"
+			"id": 8459,
+			"name": "XÃ NHƠN PHÚC"
 		},
 		{
-			"id": "19069",
-			"name": "Xã Quảng Tiên"
+			"id": 8460,
+			"name": "XÃ NHƠN THỌ"
 		},
 		{
-			"id": "19075",
-			"name": "Xã Quảng Trung"
-		},
-		{
-			"id": "19099",
-			"name": "Xã Quảng Văn"
+			"id": 8461,
+			"name": "XÃ NHƠN TÂN"
 		}
 	]
 }

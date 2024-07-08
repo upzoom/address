@@ -1,54 +1,30 @@
 {
-	"id": "14",
-	"name": "Tỉnh Sơn La",
+	"id": 14,
+	"name": "Hà Nam",
 	"data": [
 		{
-			"id": "121",
-			"name": "Huyện Bắc Yên"
+			"id": 157,
+			"name": "THỊ XÃ DUY TIÊN"
 		},
 		{
-			"id": "125",
-			"name": "Huyện Mai Sơn"
+			"id": 158,
+			"name": "HUYỆN KIM BẢNG"
 		},
 		{
-			"id": "123",
-			"name": "Huyện Mộc Châu"
+			"id": 159,
+			"name": "HUYỆN LÝ NHÂN"
 		},
 		{
-			"id": "120",
-			"name": "Huyện Mường La"
+			"id": 160,
+			"name": "THÀNH PHỐ PHỦ LÝ"
 		},
 		{
-			"id": "122",
-			"name": "Huyện Phù Yên"
+			"id": 161,
+			"name": "HUYỆN THANH LIÊM"
 		},
 		{
-			"id": "118",
-			"name": "Huyện Quỳnh Nhai"
-		},
-		{
-			"id": "116",
-			"name": "Thành phố Sơn La"
-		},
-		{
-			"id": "126",
-			"name": "Huyện Sông Mã"
-		},
-		{
-			"id": "127",
-			"name": "Huyện Sốp Cộp"
-		},
-		{
-			"id": "119",
-			"name": "Huyện Thuận Châu"
-		},
-		{
-			"id": "128",
-			"name": "Huyện Vân Hồ"
-		},
-		{
-			"id": "124",
-			"name": "Huyện Yên Châu"
+			"id": 162,
+			"name": "HUYỆN BÌNH LỤC"
 		}
 	]
 }

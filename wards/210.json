@@ -1,0 +1,134 @@
+{
+	"id": 210,
+	"name": "HUYỆN HÀ QUẢNG",
+	"data": [
+		{
+			"id": 20494,
+			"name": "XÃ YÊN SƠN"
+		},
+		{
+			"id": 20495,
+			"name": "THỊ TRẤN THÔNG NÔNG"
+		},
+		{
+			"id": 20497,
+			"name": "XÃ VỊ QUANG"
+		},
+		{
+			"id": 20500,
+			"name": "XÃ LƯƠNG THÔNG"
+		},
+		{
+			"id": 20501,
+			"name": "XÃ LƯƠNG CAN"
+		},
+		{
+			"id": 20491,
+			"name": "XÃ ĐA THÔNG"
+		},
+		{
+			"id": 20496,
+			"name": "XÃ CẦN YÊN"
+		},
+		{
+			"id": 20493,
+			"name": "XÃ CẦN NÔNG"
+		},
+		{
+			"id": 20498,
+			"name": "XÃ THANH LONG"
+		},
+		{
+			"id": 20492,
+			"name": "XÃ NGỌC ĐỘNG"
+		},
+		{
+			"id": 20499,
+			"name": "XÃ BÌNH LÃNG"
+		},
+		{
+			"id": 3597,
+			"name": "THỊ TRẤN XUÂN HOÀ"
+		},
+		{
+			"id": 3598,
+			"name": "XÃ TRƯỜNG HÀ"
+		},
+		{
+			"id": 3599,
+			"name": "XÃ KÉO YÊN"
+		},
+		{
+			"id": 3600,
+			"name": "XÃ LŨNG NẶM"
+		},
+		{
+			"id": 3601,
+			"name": "XÃ VÂN AN"
+		},
+		{
+			"id": 3602,
+			"name": "XÃ CẢI VIÊN"
+		},
+		{
+			"id": 3603,
+			"name": "XÃ NÀ SÁC"
+		},
+		{
+			"id": 3604,
+			"name": "XÃ NỘI THÔN"
+		},
+		{
+			"id": 3605,
+			"name": "XÃ SÓC HÀ"
+		},
+		{
+			"id": 3606,
+			"name": "XÃ THƯỢNG THÔN"
+		},
+		{
+			"id": 3607,
+			"name": "XÃ TỔNG CỌT"
+		},
+		{
+			"id": 3608,
+			"name": "XÃ QUÍ QUÂN"
+		},
+		{
+			"id": 3609,
+			"name": "XÃ HỒNG SỸ"
+		},
+		{
+			"id": 3610,
+			"name": "XÃ SĨ HAI"
+		},
+		{
+			"id": 3611,
+			"name": "XÃ ĐÀO NGẠN"
+		},
+		{
+			"id": 3612,
+			"name": "XÃ PHÙ NGỌC"
+		},
+		{
+			"id": 3613,
+			"name": "XÃ MÃ BA"
+		},
+		{
+			"id": 3614,
+			"name": "XÃ HẠ THÔN"
+		},
+		{
+			"id": 3615,
+			"name": "XÃ VẦN DÍNH"
+		},
+		{
+			"id": 26127,
+			"name": "XÃ QUÝ QUÂN"
+		},
+		{
+			"id": 26128,
+			"name": "XÃ NGỌC ĐÀO"
+		}
+	]
+}

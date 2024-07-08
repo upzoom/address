@@ -1,70 +1,134 @@
 {
-	"id": "402",
-	"name": "Huyện Như Xuân",
+	"id": 402,
+	"name": "HUYỆN BỐ TRẠCH",
 	"data": [
 		{
-			"id": "16177",
-			"name": "Xã Bãi Trành"
+			"id": 7633,
+			"name": "THỊ TRẤN HOÀN LÃO"
 		},
 		{
-			"id": "16204",
-			"name": "Xã Bình Lương"
+			"id": 7634,
+			"name": "XÃ NHÂN TRẠCH"
 		},
 		{
-			"id": "16198",
-			"name": "Xã Cát Tân"
+			"id": 7635,
+			"name": "XÃ THƯỢNG TRẠCH"
 		},
 		{
-			"id": "16195",
-			"name": "Xã Cát Vân"
+			"id": 7636,
+			"name": "XÃ TÂN TRẠCH"
 		},
 		{
-			"id": "16186",
-			"name": "Xã Hóa Quỳ"
+			"id": 7637,
+			"name": "XÃ XUÂN TRẠCH"
 		},
 		{
-			"id": "16201",
-			"name": "Xã Tân Bình"
+			"id": 7638,
+			"name": "XÃ LÂM TRẠCH"
 		},
 		{
-			"id": "16213",
-			"name": "Xã Thanh Hòa"
+			"id": 7639,
+			"name": "XÃ PHÚC TRẠCH"
 		},
 		{
-			"id": "16219",
-			"name": "Xã Thanh Lâm"
+			"id": 7640,
+			"name": "XÃ HƯNG TRẠCH"
 		},
 		{
-			"id": "16216",
-			"name": "Xã Thanh Phong"
+			"id": 7641,
+			"name": "XÃ LIÊN TRẠCH"
 		},
 		{
-			"id": "16207",
-			"name": "Xã Thanh Quân"
+			"id": 7642,
+			"name": "XÃ MỸ TRẠCH"
 		},
 		{
-			"id": "16222",
-			"name": "Xã Thanh Sơn"
+			"id": 7643,
+			"name": "XÃ HẠ TRẠCH"
 		},
 		{
-			"id": "16210",
-			"name": "Xã Thanh Xuân"
+			"id": 7644,
+			"name": "XÃ BẮC TRẠCH"
 		},
 		{
-			"id": "16225",
-			"name": "Xã Thượng Ninh"
+			"id": 7645,
+			"name": "XÃ THANH TRẠCH"
 		},
 		{
-			"id": "16183",
-			"name": "Xã Xuân Bình"
+			"id": 7646,
+			"name": "XÃ HẢI TRẠCH"
 		},
 		{
-			"id": "16180",
-			"name": "Xã Xuân Hòa"
+			"id": 7647,
+			"name": "XÃ ĐỒNG TRẠCH"
 		},
 		{
-			"id": "16174",
-			"name": "Thị trấn Yên Cát"
+			"id": 7648,
+			"name": "XÃ ĐỨC TRẠCH"
+		},
+		{
+			"id": 7649,
+			"name": "XÃ PHÚ TRẠCH"
+		},
+		{
+			"id": 7650,
+			"name": "XÃ ĐẠI TRẠCH"
+		},
+		{
+			"id": 7651,
+			"name": "XÃ NAM TRẠCH"
+		},
+		{
+			"id": 7652,
+			"name": "XÃ TRUNG TRẠCH"
+		},
+		{
+			"id": 7653,
+			"name": "XÃ HÒA TRẠCH"
+		},
+		{
+			"id": 7654,
+			"name": "XÃ LÝ TRẠCH"
+		},
+		{
+			"id": 7655,
+			"name": "XÃ VẠN TRẠCH"
+		},
+		{
+			"id": 7656,
+			"name": "XÃ SƠN TRẠCH"
+		},
+		{
+			"id": 7657,
+			"name": "XÃ CỰ NẪM"
+		},
+		{
+			"id": 7658,
+			"name": "XÃ HOÀN TRẠCH"
+		},
+		{
+			"id": 7659,
+			"name": "THỊ TRẤN NÔNG TRƯỜNG VIỆT TRUNG"
+		},
+		{
+			"id": 7660,
+			"name": "XÃ SƠN LỘC"
+		},
+		{
+			"id": 7661,
+			"name": "XÃ PHÚ ĐỊNH"
+		},
+		{
+			"id": 7662,
+			"name": "XÃ TÂY TRẠCH"
+		},
+		{
+			"id": 26175,
+			"name": "XÃ HẢI PHÚ"
+		},
+		{
+			"id": 25659,
+			"name": "THỊ TRẤN PHONG NHA"
 		}
 	]
 }

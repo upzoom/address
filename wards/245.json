@@ -1,0 +1,118 @@
+{
+	"id": 245,
+	"name": "HUYỆN CHIÊM HÓA",
+	"data": [
+		{
+			"id": 4300,
+			"name": "XÃ BÌNH AN"
+		},
+		{
+			"id": 4301,
+			"name": "XÃ BÌNH NHÂN"
+		},
+		{
+			"id": 4302,
+			"name": "XÃ BÌNH PHÚ"
+		},
+		{
+			"id": 4303,
+			"name": "XÃ HÀ LANG"
+		},
+		{
+			"id": 4304,
+			"name": "XÃ HÒA AN"
+		},
+		{
+			"id": 4305,
+			"name": "XÃ HÒA PHÚ"
+		},
+		{
+			"id": 4306,
+			"name": "XÃ HỒNG QUANG"
+		},
+		{
+			"id": 4307,
+			"name": "XÃ HÙNG MỸ"
+		},
+		{
+			"id": 4308,
+			"name": "XÃ KIÊN ĐÀI"
+		},
+		{
+			"id": 4309,
+			"name": "XÃ KIM BÌNH"
+		},
+		{
+			"id": 4310,
+			"name": "XÃ LINH PHÚ"
+		},
+		{
+			"id": 4312,
+			"name": "XÃ NGỌC HỘI"
+		},
+		{
+			"id": 4313,
+			"name": "XÃ NHÂN LÝ"
+		},
+		{
+			"id": 4314,
+			"name": "XÃ PHÚ BÌNH"
+		},
+		{
+			"id": 4315,
+			"name": "XÃ PHÚC SƠN"
+		},
+		{
+			"id": 4316,
+			"name": "XÃ PHÚC THỊNH"
+		},
+		{
+			"id": 4317,
+			"name": "XÃ TÂN AN"
+		},
+		{
+			"id": 4318,
+			"name": "XÃ TÂN MỸ"
+		},
+		{
+			"id": 4319,
+			"name": "XÃ TÂN THỊNH"
+		},
+		{
+			"id": 4320,
+			"name": "XÃ THỔ BÌNH"
+		},
+		{
+			"id": 4321,
+			"name": "XÃ TRI PHÚ"
+		},
+		{
+			"id": 4322,
+			"name": "XÃ TRUNG HÀ"
+		},
+		{
+			"id": 4323,
+			"name": "XÃ TRUNG HÒA"
+		},
+		{
+			"id": 4324,
+			"name": "THỊ TRẤN VĨNH LỘC"
+		},
+		{
+			"id": 4325,
+			"name": "XÃ VINH QUANG"
+		},
+		{
+			"id": 4326,
+			"name": "XÃ XUÂN QUANG"
+		},
+		{
+			"id": 4327,
+			"name": "XÃ YÊN LẬP"
+		},
+		{
+			"id": 4328,
+			"name": "XÃ YÊN NGUYÊN"
+		}
+	]
+}

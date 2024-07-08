@@ -1,122 +1,82 @@
 {
-	"id": "404",
-	"name": "Huyện Nông Cống",
+	"id": 404,
+	"name": "HUYỆN TRIỆU PHONG",
 	"data": [
 		{
-			"id": "16369",
-			"name": "Xã Công Chính"
+			"id": 7679,
+			"name": "XÃ TRIỆU VÂN"
 		},
 		{
-			"id": "16354",
-			"name": "Xã Công Liêm"
+			"id": 7680,
+			"name": "XÃ TRIỆU ĐỘ"
 		},
 		{
-			"id": "16294",
-			"name": "Xã Hoàng Giang"
+			"id": 7681,
+			"name": "XÃ TRIỆU ĐẠI"
 		},
 		{
-			"id": "16288",
-			"name": "Xã Hoàng Sơn"
+			"id": 7682,
+			"name": "XÃ TRIỆU LĂNG"
 		},
 		{
-			"id": "16324",
-			"name": "Xã Minh Khôi"
+			"id": 7683,
+			"name": "XÃ TRIỆU AN"
 		},
 		{
-			"id": "16321",
-			"name": "Xã Minh Nghĩa"
+			"id": 7684,
+			"name": "XÃ TRIỆU TRẠCH"
 		},
 		{
-			"id": "16279",
-			"name": "Thị trấn Nông Cống"
+			"id": 7685,
+			"name": "XÃ TRIỆU TRUNG"
 		},
 		{
-			"id": "16291",
-			"name": "Xã Tân Khang"
+			"id": 7686,
+			"name": "XÃ TRIỆU ÁI"
 		},
 		{
-			"id": "16282",
-			"name": "Xã Tân Phúc"
+			"id": 7687,
+			"name": "THỊ TRẤN ẢI TỬ"
 		},
 		{
-			"id": "16285",
-			"name": "Xã Tân Thọ"
+			"id": 7688,
+			"name": "XÃ TRIỆU THƯỢNG"
 		},
 		{
-			"id": "16315",
-			"name": "Xã Tế Lợi"
+			"id": 7689,
+			"name": "XÃ TRIỆU PHƯỚC"
 		},
 		{
-			"id": "16318",
-			"name": "Xã Tế Nông"
+			"id": 7690,
+			"name": "XÃ TRIỆU THÀNH"
 		},
 		{
-			"id": "16309",
-			"name": "Xã Tế Thắng"
+			"id": 7691,
+			"name": "XÃ TRIỆU LONG"
 		},
 		{
-			"id": "16351",
-			"name": "Xã Thăng Bình"
+			"id": 7692,
+			"name": "XÃ TRIỆU HÒA"
 		},
 		{
-			"id": "16342",
-			"name": "Xã Thăng Long"
+			"id": 7693,
+			"name": "XÃ TRIỆU TÀI"
 		},
 		{
-			"id": "16360",
-			"name": "Xã Thăng Thọ"
+			"id": 7694,
+			"name": "XÃ TRIỆU SƠN"
 		},
 		{
-			"id": "16297",
-			"name": "Xã Trung Chính"
+			"id": 7695,
+			"name": "XÃ TRIỆU ĐÔNG"
 		},
 		{
-			"id": "16303",
-			"name": "Xã Trung Thành"
+			"id": 7696,
+			"name": "XÃ TRIỆU GIANG"
 		},
 		{
-			"id": "16336",
-			"name": "Xã Trường Giang"
-		},
-		{
-			"id": "16345",
-			"name": "Xã Trường Minh"
-		},
-		{
-			"id": "16348",
-			"name": "Xã Trường Sơn"
-		},
-		{
-			"id": "16330",
-			"name": "Xã Trường Trung"
-		},
-		{
-			"id": "16363",
-			"name": "Xã Tượng Lĩnh"
-		},
-		{
-			"id": "16366",
-			"name": "Xã Tượng Sơn"
-		},
-		{
-			"id": "16357",
-			"name": "Xã Tượng Văn"
-		},
-		{
-			"id": "16327",
-			"name": "Xã Vạn Hòa"
-		},
-		{
-			"id": "16333",
-			"name": "Xã Vạn Thắng"
-		},
-		{
-			"id": "16339",
-			"name": "Xã Vạn Thiện"
-		},
-		{
-			"id": "16375",
-			"name": "Xã Yên Mỹ"
+			"id": 7697,
+			"name": "XÃ TRIỆU THUẬN"
 		}
 	]
 }

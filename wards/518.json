@@ -1,50 +1,74 @@
 {
-	"id": "518",
-	"name": "Huyện Phú Ninh",
+	"id": 518,
+	"name": "HUYỆN CƯ M'GAR",
 	"data": [
 		{
-			"id": "20364",
-			"name": "Thị trấn Phú Thịnh"
+			"id": 9248,
+			"name": "THỊ TRẤN QUẢNG PHÚ"
 		},
 		{
-			"id": "20368",
-			"name": "Xã Tam An"
+			"id": 9249,
+			"name": "THỊ TRẤN EA PỐK"
 		},
 		{
-			"id": "20387",
-			"name": "Xã Tam Đại"
+			"id": 9250,
+			"name": "XÃ QUẢNG TIẾN"
 		},
 		{
-			"id": "20374",
-			"name": "Xã Tam Đàn"
+			"id": 9251,
+			"name": "XÃ EA M'NANG"
 		},
 		{
-			"id": "20392",
-			"name": "Xã Tam Dân"
+			"id": 9252,
+			"name": "XÃ EA KPAM"
 		},
 		{
-			"id": "20395",
-			"name": "Xã Tam Lãnh"
+			"id": 9253,
+			"name": "XÃ CƯ SUÊ"
 		},
 		{
-			"id": "20377",
-			"name": "Xã Tam Lộc"
+			"id": 9254,
+			"name": "XÃ CUÔR DĂNG"
 		},
 		{
-			"id": "20380",
-			"name": "Xã Tam Phước"
+			"id": 9255,
+			"name": "XÃ EA D'RƠNG"
 		},
 		{
-			"id": "20386",
-			"name": "Xã Tam Thái"
+			"id": 9256,
+			"name": "XÃ EA TUL"
 		},
 		{
-			"id": "20365",
-			"name": "Xã Tam Thành"
+			"id": 9257,
+			"name": "XÃ EA TAR"
 		},
 		{
-			"id": "20383",
-			"name": "Xã Tam Vinh"
+			"id": 9258,
+			"name": "XÃ QUẢNG HIỆP"
+		},
+		{
+			"id": 9259,
+			"name": "XÃ CƯ M'GA"
+		},
+		{
+			"id": 9260,
+			"name": "XÃ CƯ DLIÊ M'NÔNG"
+		},
+		{
+			"id": 9261,
+			"name": "XÃ EA KUÊH"
+		},
+		{
+			"id": 9262,
+			"name": "XÃ EA KIẾT"
+		},
+		{
+			"id": 9263,
+			"name": "XÃ EA H'ĐING"
+		},
+		{
+			"id": 9264,
+			"name": "XÃ EA M'DRO'H"
 		}
 	]
 }

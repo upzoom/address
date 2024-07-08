@@ -1,62 +1,50 @@
 {
-	"id": "680",
-	"name": "Huyện Bảo Lâm",
+	"id": 680,
+	"name": "THÀNH PHỐ TRÀ VINH",
 	"data": [
 		{
-			"id": "25069",
-			"name": "Xã B' Lá"
+			"id": 11331,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25084",
-			"name": "Xã Lộc An"
+			"id": 11332,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "25066",
-			"name": "Xã Lộc Bắc"
+			"id": 11333,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "25057",
-			"name": "Xã Lộc Bảo"
+			"id": 11334,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "25081",
-			"name": "Xã Lộc Đức"
+			"id": 11335,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "25060",
-			"name": "Xã Lộc Lâm"
+			"id": 11336,
+			"name": "PHƯỜNG 6"
 		},
 		{
-			"id": "25093",
-			"name": "Xã Lộc Nam"
+			"id": 11337,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "25072",
-			"name": "Xã Lộc Ngãi"
+			"id": 11338,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "25063",
-			"name": "Xã Lộc Phú"
+			"id": 11339,
+			"name": "PHƯỜNG 9"
 		},
 		{
-			"id": "25075",
-			"name": "Xã Lộc Quảng"
+			"id": 11340,
+			"name": "XÃ LONG ĐỨC"
 		},
 		{
-			"id": "25078",
-			"name": "Xã Lộc Tân"
-		},
-		{
-			"id": "25054",
-			"name": "Thị trấn Lộc Thắng"
-		},
-		{
-			"id": "25090",
-			"name": "Xã Lộc Thành"
-		},
-		{
-			"id": "25087",
-			"name": "Xã Tân Lạc"
+			"id": 11341,
+			"name": "XÃ NGUYỆT HÓA"
 		}
 	]
 }

@@ -1,74 +1,42 @@
 {
-	"id": "454",
-	"name": "Huyện Quảng Trạch",
+	"id": 454,
+	"name": "HUYỆN SƠN TÂY",
 	"data": [
 		{
-			"id": "19036",
-			"name": "Xã Cảnh Dương"
+			"id": 8401,
+			"name": "XÃ SƠN DUNG"
 		},
 		{
-			"id": "19048",
-			"name": "Xã Cảnh Hóa"
+			"id": 8402,
+			"name": "XÃ SƠN LẬP"
 		},
 		{
-			"id": "19051",
-			"name": "Xã Liên Trường"
+			"id": 8403,
+			"name": "XÃ SƠN LIÊN"
 		},
 		{
-			"id": "19063",
-			"name": "Xã Phù Hóa"
+			"id": 8404,
+			"name": "XÃ SƠN LONG"
 		},
 		{
-			"id": "19024",
-			"name": "Xã Quảng Châu"
+			"id": 8405,
+			"name": "XÃ SƠN BUA"
 		},
 		{
-			"id": "19018",
-			"name": "Xã Quảng Đông"
+			"id": 8406,
+			"name": "XÃ SƠN MÀU"
 		},
 		{
-			"id": "19012",
-			"name": "Xã Quảng Hợp"
+			"id": 8407,
+			"name": "XÃ SƠN MÙA"
 		},
 		{
-			"id": "19042",
-			"name": "Xã Quảng Hưng"
+			"id": 8408,
+			"name": "XÃ SƠN TÂN"
 		},
 		{
-			"id": "19015",
-			"name": "Xã Quảng Kim"
-		},
-		{
-			"id": "19030",
-			"name": "Xã Quảng Lưu"
-		},
-		{
-			"id": "19021",
-			"name": "Xã Quảng Phú"
-		},
-		{
-			"id": "19057",
-			"name": "Xã Quảng Phương"
-		},
-		{
-			"id": "19027",
-			"name": "Xã Quảng Thạch"
-		},
-		{
-			"id": "19072",
-			"name": "Xã Quảng Thanh"
-		},
-		{
-			"id": "19039",
-			"name": "Xã Quảng Tiến"
-		},
-		{
-			"id": "19033",
-			"name": "Xã Quảng Tùng"
-		},
-		{
-			"id": "19045",
-			"name": "Xã Quảng Xuân"
+			"id": 8409,
+			"name": "XÃ SƠN TINH"
 		}
 	]
 }

@@ -1,62 +1,62 @@
 {
-	"id": "637",
-	"name": "Huyện Krông Pa",
+	"id": 637,
+	"name": "THỊ XÃ TÂN CHÂU",
 	"data": [
 		{
-			"id": "24094",
-			"name": "Xã Chư Drăng"
+			"id": 10728,
+			"name": "XÃ PHÚ LỘC"
 		},
 		{
-			"id": "24085",
-			"name": "Xã Chư Gu"
+			"id": 10729,
+			"name": "XÃ VĨNH XƯƠNG"
 		},
 		{
-			"id": "24106",
-			"name": "Xã Chư Ngọc"
+			"id": 10730,
+			"name": "XÃ VĨNH HOÀ"
 		},
 		{
-			"id": "24112",
-			"name": "Xã Chư Rcăm"
+			"id": 10731,
+			"name": "XÃ TÂN THẠNH"
 		},
 		{
-			"id": "24088",
-			"name": "Xã Đất Bằng"
+			"id": 10732,
+			"name": "XÃ TÂN AN"
 		},
 		{
-			"id": "24100",
-			"name": "Xã Ia HDreh"
+			"id": 10733,
+			"name": "XÃ LONG AN"
 		},
 		{
-			"id": "24091",
-			"name": "Xã Ia Mláh"
+			"id": 10734,
+			"name": "PHƯỜNG LONG PHÚ"
 		},
 		{
-			"id": "24103",
-			"name": "Xã Ia RMok"
+			"id": 10735,
+			"name": "XÃ CHÂU PHONG"
 		},
 		{
-			"id": "24079",
-			"name": "Xã Ia RSai"
+			"id": 10736,
+			"name": "XÃ PHÚ VĨNH"
 		},
 		{
-			"id": "24082",
-			"name": "Xã Ia RSươm"
+			"id": 10737,
+			"name": "XÃ LÊ CHÁNH"
 		},
 		{
-			"id": "24115",
-			"name": "Xã Krông Năng"
+			"id": 10738,
+			"name": "PHƯỜNG LONG SƠN"
 		},
 		{
-			"id": "24097",
-			"name": "Xã Phú Cần"
+			"id": 10739,
+			"name": "PHƯỜNG LONG CHÂU"
 		},
 		{
-			"id": "24076",
-			"name": "Thị trấn Phú Túc"
+			"id": 10740,
+			"name": "PHƯỜNG LONG THẠNH"
 		},
 		{
-			"id": "24109",
-			"name": "Xã Uar"
+			"id": 10741,
+			"name": "PHƯỜNG LONG HƯNG"
 		}
 	]
 }

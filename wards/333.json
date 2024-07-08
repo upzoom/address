@@ -1,62 +1,126 @@
 {
-	"id": "333",
-	"name": "Huyện Phù Cừ",
+	"id": 333,
+	"name": "THÀNH PHỐ HÒA BÌNH",
 	"data": [
 		{
-			"id": "12412",
-			"name": "Xã Đình Cao"
+			"id": 20544,
+			"name": "XÃ HỢP THỊNH"
 		},
 		{
-			"id": "12406",
-			"name": "Xã Đoàn Đào"
+			"id": 20546,
+			"name": "XÃ MÔNG HÓA"
 		},
 		{
-			"id": "12403",
-			"name": "Xã Minh Hoàng"
+			"id": 20540,
+			"name": "XÃ PHỐ NGỌC"
 		},
 		{
-			"id": "12394",
-			"name": "Xã Minh Tân"
+			"id": 20543,
+			"name": "XÃ DÂN HẠ"
 		},
 		{
-			"id": "12424",
-			"name": "Xã Minh Tiến"
+			"id": 20547,
+			"name": "XÃ ĐỘC LẬP"
 		},
 		{
-			"id": "12427",
-			"name": "Xã Nguyên Hòa"
+			"id": 20538,
+			"name": "XÃ HỢP THÀNH"
 		},
 		{
-			"id": "12415",
-			"name": "Xã Nhật Quang"
+			"id": 20539,
+			"name": "XÃ PHÚ MINH"
 		},
 		{
-			"id": "12397",
-			"name": "Xã Phan Sào Nam"
+			"id": 20541,
+			"name": "PHƯỜNG KỲ SƠN"
 		},
 		{
-			"id": "12400",
-			"name": "Xã Quang Hưng"
+			"id": 20542,
+			"name": "XÃ CHUNG MINH"
 		},
 		{
-			"id": "12421",
-			"name": "Xã Tam Đa"
+			"id": 20545,
+			"name": "XÃ PHÚC TIẾN"
 		},
 		{
-			"id": "12418",
-			"name": "Xã Tiền Tiến"
+			"id": 20548,
+			"name": "XÃ DÂN HÒA"
 		},
 		{
-			"id": "12409",
-			"name": "Xã Tống Phan"
+			"id": 20549,
+			"name": "XÃ YÊN QUANG"
 		},
 		{
-			"id": "12430",
-			"name": "Xã Tống Trân"
+			"id": 6016,
+			"name": "PHƯỜNG THÁI BÌNH"
 		},
 		{
-			"id": "12391",
-			"name": "Thị trấn Trần Cao"
+			"id": 6017,
+			"name": "XÃ HÒA BÌNH"
+		},
+		{
+			"id": 6018,
+			"name": "XÃ DÂN CHỦ"
+		},
+		{
+			"id": 6019,
+			"name": "XÃ THÁI THỊNH"
+		},
+		{
+			"id": 6020,
+			"name": "PHƯỜNG THỊNH LANG"
+		},
+		{
+			"id": 6021,
+			"name": "PHƯỜNG TÂN THỊNH"
+		},
+		{
+			"id": 6022,
+			"name": "PHƯỜNG TÂN HOÀ"
+		},
+		{
+			"id": 6023,
+			"name": "XÃ YÊN MÔNG"
+		},
+		{
+			"id": 6024,
+			"name": "XÃ SỬI NGÒI"
+		},
+		{
+			"id": 6025,
+			"name": "XÃ THỐNG NHẤT"
+		},
+		{
+			"id": 6026,
+			"name": "XÃ TRUNG MINH"
+		},
+		{
+			"id": 6027,
+			"name": "PHƯỜNG HỮU NGHỊ"
+		},
+		{
+			"id": 6028,
+			"name": "PHƯỜNG PHƯƠNG LÂM"
+		},
+		{
+			"id": 6029,
+			"name": "PHƯỜNG CHĂM MÁT"
+		},
+		{
+			"id": 6030,
+			"name": "PHƯỜNG ĐỒNG TIẾN"
+		},
+		{
+			"id": 26331,
+			"name": "PHƯỜNG QUỲNH LÂM"
+		},
+		{
+			"id": 25707,
+			"name": "XÃ THỊNH MINH"
+		},
+		{
+			"id": 25708,
+			"name": "XÃ QUANG TIẾN"
 		}
 	]
 }

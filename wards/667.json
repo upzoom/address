@@ -1,30 +1,54 @@
 {
-	"id": "667",
-	"name": "Huyện Tuy Đức",
+	"id": 667,
+	"name": "THÀNH PHỐ RẠCH GIÁ",
 	"data": [
 		{
-			"id": "24739",
-			"name": "Xã Đắk Búk So"
+			"id": 11177,
+			"name": "PHUONG VĨNH HIỆP"
 		},
 		{
-			"id": "24746",
-			"name": "Xã Đắk Ngo"
+			"id": 11178,
+			"name": "XÃ PHI THÔNG"
 		},
 		{
-			"id": "24742",
-			"name": "Xã Đắk R'Tíh"
+			"id": 11179,
+			"name": "PHƯỜNG VĨNH BẢO"
 		},
 		{
-			"id": "24740",
-			"name": "Xã Quảng Tâm"
+			"id": 11180,
+			"name": "PHƯỜNG VĨNH THANH"
 		},
 		{
-			"id": "24748",
-			"name": "Xã Quảng Tân"
+			"id": 11181,
+			"name": "PHƯỜNG VĨNH THANH VÂN"
 		},
 		{
-			"id": "24736",
-			"name": "Xã Quảng Trực"
+			"id": 11182,
+			"name": "PHƯỜNG AN HÒA"
+		},
+		{
+			"id": 11183,
+			"name": "PHƯỜNG VĨNH QUANG"
+		},
+		{
+			"id": 11184,
+			"name": "PHƯỜNG RẠCH SỎI"
+		},
+		{
+			"id": 11185,
+			"name": "PHƯỜNG  AN BÌNH"
+		},
+		{
+			"id": 11186,
+			"name": "PHƯỜNG VĨNH LỢI"
+		},
+		{
+			"id": 11187,
+			"name": "PHƯỜNG VĨNH THÔNG"
+		},
+		{
+			"id": 11188,
+			"name": "PHƯỜNG VĨNH LẠC"
 		}
 	]
 }

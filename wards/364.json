@@ -1,86 +1,122 @@
 {
-	"id": "364",
-	"name": "Huyện Xuân Trường",
+	"id": 364,
+	"name": "HUYỆN HƯNG NGUYÊN",
 	"data": [
 		{
-			"id": "14125",
-			"name": "Xã Thọ Nghiệp"
+			"id": 6747,
+			"name": "THỊ TRẤN HƯNG NGUYÊN"
 		},
 		{
-			"id": "14119",
-			"name": "Xã Xuân Bắc"
+			"id": 6748,
+			"name": "XÃ HƯNG TÂY"
 		},
 		{
-			"id": "14092",
-			"name": "Xã Xuân Châu"
+			"id": 6749,
+			"name": "XÃ HƯNG ĐẠO"
 		},
 		{
-			"id": "14107",
-			"name": "Xã Xuân Đài"
+			"id": 6750,
+			"name": "XÃ HƯNG MỸ"
 		},
 		{
-			"id": "14146",
-			"name": "Xã Xuân Hòa"
+			"id": 6751,
+			"name": "XÃ HƯNG THỊNH"
 		},
 		{
-			"id": "14095",
-			"name": "Xã Xuân Hồng"
+			"id": 6752,
+			"name": "XÃ HƯNG LĨNH"
 		},
 		{
-			"id": "14137",
-			"name": "Xã Xuân Kiên"
+			"id": 6753,
+			"name": "XÃ HƯNG THÔNG"
 		},
 		{
-			"id": "14116",
-			"name": "Xã Xuân Ngọc"
+			"id": 6754,
+			"name": "XÃ HƯNG TÂN"
 		},
 		{
-			"id": "14143",
-			"name": "Xã Xuân Ninh"
+			"id": 6755,
+			"name": "XÃ HƯNG LỢI"
 		},
 		{
-			"id": "14104",
-			"name": "Xã Xuân Phong"
+			"id": 6756,
+			"name": "XÃ HƯNG THẮNG"
 		},
 		{
-			"id": "14128",
-			"name": "Xã Xuân Phú"
+			"id": 6757,
+			"name": "XÃ HƯNG PHÚC"
 		},
 		{
-			"id": "14122",
-			"name": "Xã Xuân Phương"
+			"id": 6758,
+			"name": "XÃ HƯNG LONG"
 		},
 		{
-			"id": "14110",
-			"name": "Xã Xuân Tân"
+			"id": 6759,
+			"name": "XÃ HƯNG TIẾN"
 		},
 		{
-			"id": "14098",
-			"name": "Xã Xuân Thành"
+			"id": 6760,
+			"name": "XÃ HƯNG XÁ"
 		},
 		{
-			"id": "14101",
-			"name": "Xã Xuân Thượng"
+			"id": 6761,
+			"name": "XÃ HƯNG CHÂU"
 		},
 		{
-			"id": "14113",
-			"name": "Xã Xuân Thủy"
+			"id": 6762,
+			"name": "XÃ HƯNG XUÂN"
 		},
 		{
-			"id": "14140",
-			"name": "Xã Xuân Tiến"
+			"id": 6763,
+			"name": "XÃ HƯNG NHÂN"
 		},
 		{
-			"id": "14131",
-			"name": "Xã Xuân Trung"
+			"id": 6764,
+			"name": "XÃ HƯNG PHÚ"
 		},
 		{
-			"id": "14089",
-			"name": "Thị trấn Xuân Trường"
+			"id": 6765,
+			"name": "XÃ HƯNG KHÁNH"
 		},
 		{
-			"id": "14134",
-			"name": "Xã Xuân Vinh"
+			"id": 6766,
+			"name": "XÃ HƯNG LAM"
+		},
+		{
+			"id": 6767,
+			"name": "XÃ HƯNG TRUNG"
+		},
+		{
+			"id": 6768,
+			"name": "XÃ HƯNG YÊN"
+		},
+		{
+			"id": 6769,
+			"name": "XÃ HƯNG CHÍNH"
+		},
+		{
+			"id": 18450,
+			"name": "XÃ HƯNG YÊN BẮC"
+		},
+		{
+			"id": 26207,
+			"name": "XÃ XUÂN LAM"
+		},
+		{
+			"id": 26209,
+			"name": "XÃ LONG XÁ"
+		},
+		{
+			"id": 26206,
+			"name": "XÃ HƯNG THÀNH"
+		},
+		{
+			"id": 26208,
+			"name": "XÃ CHÂU NHÂN"
+		},
+		{
+			"id": 26210,
+			"name": "XÃ HƯNG NGHĨA"
 		}
 	]
 }

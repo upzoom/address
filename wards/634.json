@@ -1,38 +1,62 @@
 {
-	"id": "634",
-	"name": "Huyện Đăk Pơ",
+	"id": 634,
+	"name": "HUYỆN AN PHÚ",
 	"data": [
 		{
-			"id": "23992",
-			"name": "Xã An Thành"
+			"id": 10683,
+			"name": "XÃ PHÚ HỘI"
 		},
 		{
-			"id": "24001",
-			"name": "Xã Cư An"
+			"id": 10684,
+			"name": "XÃ PHƯỚC HƯNG"
 		},
 		{
-			"id": "23995",
-			"name": "Thị trấn Đak Pơ"
+			"id": 10685,
+			"name": "XÃ VĨNH LỘC"
 		},
 		{
-			"id": "23989",
-			"name": "Xã Hà Tam"
+			"id": 10686,
+			"name": "XÃ VĨNH HẬU"
 		},
 		{
-			"id": "24007",
-			"name": "Xã Phú An"
+			"id": 10687,
+			"name": "XÃ VĨNH TRƯỜNG"
 		},
 		{
-			"id": "24004",
-			"name": "Xã Tân An"
+			"id": 10688,
+			"name": "XÃ VĨNH HỘI ĐÔNG"
 		},
 		{
-			"id": "24010",
-			"name": "Xã Ya Hội"
+			"id": 10689,
+			"name": "XÃ ĐA PHƯỚC"
 		},
 		{
-			"id": "23998",
-			"name": "Xã Yang Bắc"
+			"id": 10690,
+			"name": "THỊ TRẤN AN PHÚ"
+		},
+		{
+			"id": 10691,
+			"name": "THỊ TRẤN LONG BÌNH"
+		},
+		{
+			"id": 10692,
+			"name": "XÃ KHÁNH AN"
+		},
+		{
+			"id": 10693,
+			"name": "XÃ KHÁNH BÌNH"
+		},
+		{
+			"id": 10694,
+			"name": "XÃ QUỐC THÁI"
+		},
+		{
+			"id": 10695,
+			"name": "XÃ NHƠN HỘI"
+		},
+		{
+			"id": 10696,
+			"name": "XÃ PHÚ HỮU"
 		}
 	]
 }

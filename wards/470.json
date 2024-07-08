@@ -1,70 +1,70 @@
 {
-	"id": "470",
-	"name": "Huyện Hải Lăng",
+	"id": 470,
+	"name": "THÀNH PHỐ TUY HÒA",
 	"data": [
 		{
-			"id": "19681",
-			"name": "Thị trấn Diên Sanh"
+			"id": 8625,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "19684",
-			"name": "Xã Hải An"
+			"id": 8626,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "19687",
-			"name": "Xã Hải Ba"
+			"id": 8627,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "19738",
-			"name": "Xã Hải Chánh"
+			"id": 8628,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "19714",
-			"name": "Xã Hải Định"
+			"id": 8629,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "19711",
-			"name": "Xã Hải Dương"
+			"id": 8630,
+			"name": "PHƯỜNG 6"
 		},
 		{
-			"id": "19699",
-			"name": "Xã Hải Hưng"
+			"id": 8631,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "19741",
-			"name": "Xã Hải Khê"
+			"id": 8632,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "19717",
-			"name": "Xã Hải Lâm"
+			"id": 8633,
+			"name": "PHƯỜNG 9"
 		},
 		{
-			"id": "19726",
-			"name": "Xã Hải Phong"
+			"id": 8634,
+			"name": "PHƯỜNG PHÚ LÂM"
 		},
 		{
-			"id": "19702",
-			"name": "Xã Hải Phú"
+			"id": 8635,
+			"name": "XÃ BÌNH KIẾN"
 		},
 		{
-			"id": "19696",
-			"name": "Xã Hải Quế"
+			"id": 8636,
+			"name": "XÃ BÌNH NGỌC"
 		},
 		{
-			"id": "19693",
-			"name": "Xã Hải Quy"
+			"id": 8637,
+			"name": "PHƯỜNG PHÚ THẠNH"
 		},
 		{
-			"id": "19735",
-			"name": "Xã Hải Sơn"
+			"id": 8638,
+			"name": "PHƯỜNG PHÚ ĐÔNG"
 		},
 		{
-			"id": "19708",
-			"name": "Xã Hải Thượng"
+			"id": 18459,
+			"name": "XÃ HÒA KIẾN"
 		},
 		{
-			"id": "19729",
-			"name": "Xã Hải Trường"
+			"id": 26149,
+			"name": "XÃ AN PHÚ"
 		}
 	]
 }

@@ -1,74 +1,126 @@
 {
-	"id": "390",
-	"name": "Huyện Cẩm Thủy",
+	"id": 390,
+	"name": "HUYỆN CẨM XUYÊN",
 	"data": [
 		{
-			"id": "15151",
-			"name": "Xã Cẩm Bình"
+			"id": 7377,
+			"name": "THỊ TRẤN THIÊN CẦM"
 		},
 		{
-			"id": "15160",
-			"name": "Xã Cẩm Châu"
+			"id": 7378,
+			"name": "XÃ CẨM THÀNH"
 		},
 		{
-			"id": "15148",
-			"name": "Xã Cẩm Giang"
+			"id": 7379,
+			"name": "XÃ CẨM DUỆ"
 		},
 		{
-			"id": "15145",
-			"name": "Xã Cẩm Liên"
+			"id": 7380,
+			"name": "XÃ CẨM MỸ"
 		},
 		{
-			"id": "15172",
-			"name": "Xã Cẩm Long"
+			"id": 7381,
+			"name": "XÃ CẨM QUAN"
 		},
 		{
-			"id": "15139",
-			"name": "Xã Cẩm Lương"
+			"id": 7382,
+			"name": "XÃ CẨM SƠN"
 		},
 		{
-			"id": "15169",
-			"name": "Xã Cẩm Ngọc"
+			"id": 7383,
+			"name": "XÃ CẨM THỊNH"
 		},
 		{
-			"id": "15181",
-			"name": "Xã Cẩm Phú"
+			"id": 7384,
+			"name": "XÃ CẨM HƯNG"
 		},
 		{
-			"id": "15136",
-			"name": "Xã Cẩm Quý"
+			"id": 7385,
+			"name": "XÃ CẨM HÀ"
 		},
 		{
-			"id": "15163",
-			"name": "Xã Cẩm Tâm"
+			"id": 7386,
+			"name": "XÃ CẨM PHÚC"
 		},
 		{
-			"id": "15178",
-			"name": "Xã Cẩm Tân"
+			"id": 7387,
+			"name": "XÃ CẨM NHƯỢNG"
 		},
 		{
-			"id": "15142",
-			"name": "Xã Cẩm Thạch"
+			"id": 7388,
+			"name": "XÃ CẨM LỘC"
 		},
 		{
-			"id": "15133",
-			"name": "Xã Cẩm Thành"
+			"id": 7389,
+			"name": "XÃ CẨM LĨNH"
 		},
 		{
-			"id": "15154",
-			"name": "Xã Cẩm Tú"
+			"id": 7390,
+			"name": "XÃ CẨM TRUNG"
 		},
 		{
-			"id": "15184",
-			"name": "Xã Cẩm Vân"
+			"id": 7391,
+			"name": "XÃ CẨM MINH"
 		},
 		{
-			"id": "15175",
-			"name": "Xã Cẩm Yên"
+			"id": 7392,
+			"name": "XÃ CẨM LẠC"
 		},
 		{
-			"id": "15127",
-			"name": "Thị trấn Phong Sơn"
+			"id": 7393,
+			"name": "THỊ TRẤN CẨM XUYÊN"
+		},
+		{
+			"id": 7394,
+			"name": "XÃ CẨM YÊN"
+		},
+		{
+			"id": 7395,
+			"name": "XÃ CẨM HOÀ"
+		},
+		{
+			"id": 7396,
+			"name": "XÃ CẨM DƯƠNG"
+		},
+		{
+			"id": 7397,
+			"name": "XÃ CẨM NAM"
+		},
+		{
+			"id": 7398,
+			"name": "XÃ CẨM LONG"
+		},
+		{
+			"id": 7399,
+			"name": "XÃ CẨM HUY"
+		},
+		{
+			"id": 7400,
+			"name": "XÃ CẨM THĂNG"
+		},
+		{
+			"id": 7401,
+			"name": "XÃ CẨM QUANG"
+		},
+		{
+			"id": 7402,
+			"name": "XÃ CẨM BÌNH"
+		},
+		{
+			"id": 7403,
+			"name": "XÃ CẨM VỊNH"
+		},
+		{
+			"id": 7404,
+			"name": "XÃ CẨM THẠCH"
+		},
+		{
+			"id": 26181,
+			"name": "XÃ YÊN HÒA"
+		},
+		{
+			"id": 26180,
+			"name": "XÃ NAM PHÚC THĂNG"
 		}
 	]
 }

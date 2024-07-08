@@ -1,0 +1,34 @@
+{
+	"id": 566,
+	"name": "THÀNH PHỐ DĨ AN",
+	"data": [
+		{
+			"id": 9785,
+			"name": "THỊ TRẤN DĨ AN"
+		},
+		{
+			"id": 9786,
+			"name": "PHƯỜNG AN BÌNH"
+		},
+		{
+			"id": 9787,
+			"name": "PHƯỜNG TÂN ĐÔNG HIỆP"
+		},
+		{
+			"id": 9788,
+			"name": "PHƯỜNG TÂN BÌNH"
+		},
+		{
+			"id": 9789,
+			"name": "PHƯỜNG BÌNH AN"
+		},
+		{
+			"id": 9790,
+			"name": "PHƯỜNG BÌNH THẮNG"
+		},
+		{
+			"id": 9791,
+			"name": "PHƯỜNG ĐÔNG HÒA"
+		}
+	]
+}

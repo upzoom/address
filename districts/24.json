@@ -1,46 +1,42 @@
 {
-	"id": "24",
-	"name": "Tỉnh Bắc Giang",
+	"id": 24,
+	"name": "Yên Bái",
 	"data": [
 		{
-			"id": "213",
-			"name": "Thành phố Bắc Giang"
+			"id": 249,
+			"name": "HUYỆN VĂN CHẤN"
 		},
 		{
-			"id": "223",
-			"name": "Huyện Hiệp Hòa"
+			"id": 250,
+			"name": "HUYỆN VĂN YÊN"
 		},
 		{
-			"id": "217",
-			"name": "Huyện Lạng Giang"
+			"id": 251,
+			"name": "HUYỆN YÊN BÌNH"
 		},
 		{
-			"id": "218",
-			"name": "Huyện Lục Nam"
+			"id": 252,
+			"name": "HUYỆN TRẠM TẤU"
 		},
 		{
-			"id": "219",
-			"name": "Huyện Lục Ngạn"
+			"id": 253,
+			"name": "HUYỆN LỤC YÊN"
 		},
 		{
-			"id": "220",
-			"name": "Huyện Sơn Động"
+			"id": 254,
+			"name": "THỊ XÃ NGHĨA LỘ"
 		},
 		{
-			"id": "216",
-			"name": "Huyện Tân Yên"
+			"id": 255,
+			"name": "HUYỆN MÙ CĂNG CHẢI"
 		},
 		{
-			"id": "222",
-			"name": "Huyện Việt Yên"
+			"id": 256,
+			"name": "HUYỆN TRẤN YÊN"
 		},
 		{
-			"id": "221",
-			"name": "Huyện Yên Dũng"
-		},
-		{
-			"id": "215",
-			"name": "Huyện Yên Thế"
+			"id": 257,
+			"name": "THÀNH PHỐ YÊN BÁI"
 		}
 	]
 }

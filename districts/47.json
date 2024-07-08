@@ -1,0 +1,34 @@
+{
+	"id": 47,
+	"name": "Ninh Thuận",
+	"data": [
+		{
+			"id": 538,
+			"name": "HUYỆN BÁC ÁI"
+		},
+		{
+			"id": 539,
+			"name": "HUYỆN NINH PHƯỚC"
+		},
+		{
+			"id": 540,
+			"name": "HUYỆN NINH SƠN"
+		},
+		{
+			"id": 541,
+			"name": "HUYỆN THUẬN NAM"
+		},
+		{
+			"id": 542,
+			"name": "HUYỆN NINH HẢI"
+		},
+		{
+			"id": 543,
+			"name": "HUYỆN THUẬN BẮC"
+		},
+		{
+			"id": 544,
+			"name": "THÀNH PHỐ PHAN RANG-THÁP CHÀM"
+		}
+	]
+}

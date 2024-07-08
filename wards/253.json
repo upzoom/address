@@ -1,74 +1,210 @@
 {
-	"id": "253",
-	"name": "Huyện Sông Lô",
+	"id": 253,
+	"name": "HUYỆN LỤC YÊN",
 	"data": [
 		{
-			"id": "08779",
-			"name": "Xã Bạch Lưu"
+			"id": 4485,
+			"name": "XÃ MINH TIẾN"
 		},
 		{
-			"id": "08860",
-			"name": "Xã Cao Phong"
+			"id": 4486,
+			"name": "XÃ MINH XUÂN"
 		},
 		{
-			"id": "08806",
-			"name": "Xã Đôn Nhân"
+			"id": 4487,
+			"name": "XÃ MƯỜNG LAI"
 		},
 		{
-			"id": "08800",
-			"name": "Xã Đồng Quế"
+			"id": 4488,
+			"name": "XÃ XUÂN TẦM"
 		},
 		{
-			"id": "08848",
-			"name": "Xã Đồng Thịnh"
+			"id": 4489,
+			"name": "XÃ YÊN PHÚ"
 		},
 		{
-			"id": "08854",
-			"name": "Xã Đức Bác"
+			"id": 4490,
+			"name": "XÃ YÊN THÁI"
 		},
 		{
-			"id": "08782",
-			"name": "Xã Hải Lựu"
+			"id": 4491,
+			"name": "THỊ TRẤN YÊN THẾ"
 		},
 		{
-			"id": "08773",
-			"name": "Xã Lãng Công"
+			"id": 4492,
+			"name": "XÃ AN LẠC"
 		},
 		{
-			"id": "08803",
-			"name": "Xã Nhân Đạo"
+			"id": 4493,
+			"name": "XÃ ĐỘNG QUAN"
 		},
 		{
-			"id": "08821",
-			"name": "Xã Nhạo Sơn"
+			"id": 4494,
+			"name": "XÃ KHAI TRUNG`"
 		},
 		{
-			"id": "08827",
-			"name": "Xã Như Thụy"
+			"id": 4495,
+			"name": "XÃ KHÁNH THIỆN"
 		},
 		{
-			"id": "08809",
-			"name": "Xã Phương Khoan"
+			"id": 4496,
+			"name": "XÃ LÂM THƯỢNG"
 		},
 		{
-			"id": "08776",
-			"name": "Xã Quang Yên"
+			"id": 4497,
+			"name": "XÃ LIẾU ĐÔ"
 		},
 		{
-			"id": "08824",
-			"name": "Thị trấn Tam Sơn"
+			"id": 4498,
+			"name": "XÃ MINH CHẨN"
 		},
 		{
-			"id": "08818",
-			"name": "Xã Tân Lập"
+			"id": 4499,
+			"name": "XÃ AN PHÚ"
 		},
 		{
-			"id": "08851",
-			"name": "Xã Tứ Yên"
+			"id": 4500,
+			"name": "XÃ KHÁNH HÒA"
 		},
 		{
-			"id": "08830",
-			"name": "Xã Yên Thạch"
+			"id": 4501,
+			"name": "XÃ MAI SƠN"
+		},
+		{
+			"id": 4502,
+			"name": "XÃ XUÂN ÁI"
+		},
+		{
+			"id": 4503,
+			"name": "XÃ YÊN HỢP"
+		},
+		{
+			"id": 4504,
+			"name": "XÃ YÊN HƯNG"
+		},
+		{
+			"id": 4505,
+			"name": "XÃ AN PHÚ"
+		},
+		{
+			"id": 4506,
+			"name": "XÃ AN LẠC"
+		},
+		{
+			"id": 4507,
+			"name": "XÃ ĐỘNG QUAN"
+		},
+		{
+			"id": 4508,
+			"name": "XÃ KHAI TRUNG"
+		},
+		{
+			"id": 4509,
+			"name": "XÃ KHÁNH HÒA"
+		},
+		{
+			"id": 4510,
+			"name": "XÃ LÂM THƯỢNG"
+		},
+		{
+			"id": 4511,
+			"name": "XÃ MINH TIẾN"
+		},
+		{
+			"id": 4512,
+			"name": "XÃ MƯỜNG LAI"
+		},
+		{
+			"id": 4513,
+			"name": "XÃ TÂN LĨNH"
+		},
+		{
+			"id": 4514,
+			"name": "XÃ TÔ MẬU"
+		},
+		{
+			"id": 4515,
+			"name": "XÃ KHÁNH THIỆN"
+		},
+		{
+			"id": 4516,
+			"name": "XÃ LIỄU ĐÔ"
+		},
+		{
+			"id": 4517,
+			"name": "XÃ MAI SƠN"
+		},
+		{
+			"id": 4518,
+			"name": "XÃ MINH CHUẨN"
+		},
+		{
+			"id": 4519,
+			"name": "XÃ MINH XUÂN"
+		},
+		{
+			"id": 4520,
+			"name": "XÃ PHAN THANH"
+		},
+		{
+			"id": 4521,
+			"name": "XÃ PHÚC LỢI"
+		},
+		{
+			"id": 4522,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 4523,
+			"name": "XÃ TÂN PHƯỢNG"
+		},
+		{
+			"id": 4524,
+			"name": "XÃ TRÚC LÂU"
+		},
+		{
+			"id": 4525,
+			"name": "XÃ TRUNG TÂM"
+		},
+		{
+			"id": 4526,
+			"name": "XÃ PHAN THANH"
+		},
+		{
+			"id": 4527,
+			"name": "XÃ PHÚC LỢI"
+		},
+		{
+			"id": 4528,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 4529,
+			"name": "XÃ TÂN LĨNH"
+		},
+		{
+			"id": 4530,
+			"name": "XÃ TÂN PHƯỢNG"
+		},
+		{
+			"id": 4531,
+			"name": "XÃ TÔ MẬU"
+		},
+		{
+			"id": 4532,
+			"name": "XÃ TRÚC LÂU"
+		},
+		{
+			"id": 4533,
+			"name": "XÃ TRUNG TÂM"
+		},
+		{
+			"id": 4534,
+			"name": "XÃ VĨNH LẠC"
+		},
+		{
+			"id": 4535,
+			"name": "XÃ YÊN THẮNG"
 		}
 	]
 }

@@ -1,42 +1,66 @@
 {
-	"id": "682",
-	"name": "Huyện Đạ Tẻh",
+	"id": 682,
+	"name": "HUYỆN LONG PHÚ",
 	"data": [
 		{
-			"id": "25129",
-			"name": "Xã An Nhơn"
+			"id": 11353,
+			"name": "TT THỊ TRẤN LONG PHÚ"
 		},
 		{
-			"id": "25153",
-			"name": "Xã Đạ Kho"
+			"id": 11354,
+			"name": "XÃ TÂN THẠNH"
 		},
 		{
-			"id": "25141",
-			"name": "Xã Đạ Lây"
+			"id": 11355,
+			"name": "XÃ LONG PHÚ"
 		},
 		{
-			"id": "25156",
-			"name": "Xã Đạ Pal"
+			"id": 11356,
+			"name": "XÃ CHÂU KHÁNH"
 		},
 		{
-			"id": "25126",
-			"name": "Thị trấn Đạ Tẻh"
+			"id": 11357,
+			"name": "XÃ VIÊN AN"
 		},
 		{
-			"id": "25135",
-			"name": "Xã Mỹ Đức"
+			"id": 11358,
+			"name": "XÃ LIÊU TÚ"
 		},
 		{
-			"id": "25138",
-			"name": "Xã Quảng Trị"
+			"id": 11359,
+			"name": "XÃ ĐẠI ÂN II"
 		},
 		{
-			"id": "25132",
-			"name": "Xã Quốc Oai"
+			"id": 11360,
+			"name": "XÃ TRƯỜNG KHÁNH"
 		},
 		{
-			"id": "25147",
-			"name": "Xã Triệu Hải"
+			"id": 11361,
+			"name": "XÃ HẬU THẠNH"
+		},
+		{
+			"id": 11362,
+			"name": "XÃ LONG ĐỨC"
+		},
+		{
+			"id": 11363,
+			"name": "XÃ TÂN HƯNG"
+		},
+		{
+			"id": 11364,
+			"name": "XÃ PHÚ HỮU"
+		},
+		{
+			"id": 11365,
+			"name": "XÃ ĐẠI NGÃI"
+		},
+		{
+			"id": 11366,
+			"name": "XÃ TRUNG BÌNH"
+		},
+		{
+			"id": 11367,
+			"name": "XÃ SONG PHỤNG"
 		}
 	]
 }

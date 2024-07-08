@@ -1,0 +1,38 @@
+{
+	"id": 4,
+	"name": "Đà Nẵng",
+	"data": [
+		{
+			"id": 71,
+			"name": "QUẬN CẨM LỆ"
+		},
+		{
+			"id": 72,
+			"name": "QUẬN THANH KHÊ"
+		},
+		{
+			"id": 73,
+			"name": "QUẬN NGŨ HÀNH SƠN"
+		},
+		{
+			"id": 74,
+			"name": "QUẬN HẢI CHÂU"
+		},
+		{
+			"id": 75,
+			"name": "QUẬN SƠN TRÀ"
+		},
+		{
+			"id": 76,
+			"name": "QUẬN LIÊN CHIỂU"
+		},
+		{
+			"id": 77,
+			"name": "HUYỆN HOÀNG SA"
+		},
+		{
+			"id": 79,
+			"name": "HUYỆN HÒA VANG"
+		}
+	]
+}

@@ -1,38 +1,46 @@
 {
-	"id": "689",
-	"name": "Thành phố Đồng Xoài",
+	"id": 689,
+	"name": "THÀNH PHỐ SÓC TRĂNG",
 	"data": [
 		{
-			"id": "25201",
-			"name": "Phường Tân Bình"
+			"id": 11427,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25198",
-			"name": "Phường Tân Đồng"
+			"id": 11428,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "25195",
-			"name": "Phường Tân Phú"
+			"id": 11429,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "25207",
-			"name": "Xã Tân Thành"
+			"id": 11430,
+			"name": "PHƯỜNG 9"
 		},
 		{
-			"id": "25205",
-			"name": "Phường Tân Thiện"
+			"id": 11431,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "25204",
-			"name": "Phường Tân Xuân"
+			"id": 11432,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "25213",
-			"name": "Xã Tiến Hưng"
+			"id": 11433,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "25210",
-			"name": "Phường Tiến Thành"
+			"id": 11434,
+			"name": "PHƯỜNG 5"
+		},
+		{
+			"id": 11435,
+			"name": "PHƯỜNG 6"
+		},
+		{
+			"id": 11436,
+			"name": "PHƯỜNG 10"
 		}
 	]
 }

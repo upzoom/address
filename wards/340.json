@@ -1,158 +1,122 @@
 {
-	"id": "340",
-	"name": "Huyện Đông Hưng",
+	"id": 340,
+	"name": "HUYỆN NGA SƠN",
 	"data": [
 		{
-			"id": "12700",
-			"name": "Xã An Châu"
+			"id": 6210,
+			"name": "THỊ TRẮN NGA SƠN"
 		},
 		{
-			"id": "12727",
-			"name": "Xã Chương Dương"
+			"id": 6211,
+			"name": "XÃ NGA NHÂN"
 		},
 		{
-			"id": "12691",
-			"name": "Xã Đô Lương"
+			"id": 6212,
+			"name": "XÃ NGA MỸ"
 		},
 		{
-			"id": "12802",
-			"name": "Xã Đông Á"
+			"id": 6213,
+			"name": "XÃ NGA GIÁP"
 		},
 		{
-			"id": "12757",
-			"name": "Xã Đông Các"
+			"id": 6214,
+			"name": "XÃ NGA THỦY"
 		},
 		{
-			"id": "12706",
-			"name": "Xã Đông Cường"
+			"id": 6215,
+			"name": "XÃ NGA YÊN"
 		},
 		{
-			"id": "12775",
-			"name": "Xã Đông Động"
+			"id": 6216,
+			"name": "XÃ NGA HẢI"
 		},
 		{
-			"id": "12811",
-			"name": "Xã Đông Dương"
+			"id": 6217,
+			"name": "XÃ NGA AN"
 		},
 		{
-			"id": "12808",
-			"name": "Xã Đông Hoàng"
+			"id": 6218,
+			"name": "XÃ NGA TIẾN"
 		},
 		{
-			"id": "12751",
-			"name": "Xã Đông Hợp"
+			"id": 6219,
+			"name": "XÃ NGA LIÊN"
 		},
 		{
-			"id": "12688",
-			"name": "Thị trấn Đông Hưng"
+			"id": 6220,
+			"name": "XÃ NGA THÀNH"
 		},
 		{
-			"id": "12748",
-			"name": "Xã Đông Kinh"
+			"id": 6221,
+			"name": "XÃ NGA THÁI"
 		},
 		{
-			"id": "12718",
-			"name": "Xã Đông La"
+			"id": 6222,
+			"name": "XÃ NGA PHÚ"
 		},
 		{
-			"id": "12694",
-			"name": "Xã Đông Phương"
+			"id": 6223,
+			"name": "XÃ NGA ĐIỀN"
 		},
 		{
-			"id": "12793",
-			"name": "Xã Đông Quan"
+			"id": 6224,
+			"name": "XÃ NGA THIỆN"
 		},
 		{
-			"id": "12796",
-			"name": "Xã Đông Quang"
+			"id": 6225,
+			"name": "XÃ NGA TRƯỜNG"
 		},
 		{
-			"id": "12703",
-			"name": "Xã Đông Sơn"
+			"id": 6226,
+			"name": "XÃ NGA THẮNG"
 		},
 		{
-			"id": "12769",
-			"name": "Xã Đông Tân"
+			"id": 6227,
+			"name": "XÃ NGA TRUNG"
 		},
 		{
-			"id": "12772",
-			"name": "Xã Đông Vinh"
+			"id": 6228,
+			"name": "XÃ NGA BẠCH"
 		},
 		{
-			"id": "12724",
-			"name": "Xã Đông Xá"
+			"id": 6229,
+			"name": "XÃ NGA VĂN"
 		},
 		{
-			"id": "12799",
-			"name": "Xã Đông Xuân"
+			"id": 6230,
+			"name": "XÃ NGA VỊNH"
 		},
 		{
-			"id": "12745",
-			"name": "Xã Hà Giang"
+			"id": 6231,
+			"name": "XÃ NGA LĨNH"
 		},
 		{
-			"id": "12778",
-			"name": "Xã Hồng Bạch"
+			"id": 6232,
+			"name": "XÃ NGA THẠCH"
 		},
 		{
-			"id": "12790",
-			"name": "Xã Hồng Giang"
+			"id": 6233,
+			"name": "XÃ NGA TÂN"
 		},
 		{
-			"id": "12739",
-			"name": "Xã Hồng Việt"
+			"id": 6234,
+			"name": "XÃ NGA THANH"
 		},
 		{
-			"id": "12736",
-			"name": "Xã Hợp Tiến"
+			"id": 6235,
+			"name": "XÃ NGA HƯNG"
 		},
 		{
-			"id": "12697",
-			"name": "Xã Liên Giang"
+			"id": 6236,
+			"name": "XÃ BA ĐÌNH"
 		},
 		{
-			"id": "12763",
-			"name": "Xã Liên Hoa"
+			"id": 6237,
+			"name": "XÃ NGA VÂN"
 		},
 		{
-			"id": "12715",
-			"name": "Xã Lô Giang"
-		},
-		{
-			"id": "12712",
-			"name": "Xã Mê Linh"
-		},
-		{
-			"id": "12823",
-			"name": "Xã Minh Phú"
-		},
-		{
-			"id": "12721",
-			"name": "Xã Minh Tân"
-		},
-		{
-			"id": "12730",
-			"name": "Xã Nguyên Xá"
-		},
-		{
-			"id": "12733",
-			"name": "Xã Phong Châu"
-		},
-		{
-			"id": "12760",
-			"name": "Xã Phú Châu"
-		},
-		{
-			"id": "12709",
-			"name": "Xã Phú Lương"
-		},
-		{
-			"id": "12754",
-			"name": "Xã Thăng Long"
-		},
-		{
-			"id": "12784",
-			"name": "Xã Trọng Quan"
+			"id": 26219,
+			"name": "XÃ NGA PHƯỢNG"
 		}
 	]
 }

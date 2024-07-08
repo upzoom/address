@@ -1,0 +1,62 @@
+{
+	"id": 255,
+	"name": "HUYỆN MÙ CĂNG CHẢI",
+	"data": [
+		{
+			"id": 4543,
+			"name": "XÃ CHẾ CU NHA"
+		},
+		{
+			"id": 4544,
+			"name": "XÃ CHẾ TẠO"
+		},
+		{
+			"id": 4545,
+			"name": "XÃ DẾ SU PHÌNH"
+		},
+		{
+			"id": 4546,
+			"name": "XÃ HỒ BỐN"
+		},
+		{
+			"id": 4547,
+			"name": "XÃ KHAO MANG"
+		},
+		{
+			"id": 4548,
+			"name": "XÃ KIM NỌI"
+		},
+		{
+			"id": 4549,
+			"name": "XÃ LA PÁN TẨN"
+		},
+		{
+			"id": 4550,
+			"name": "XÃ LAO CHẢI"
+		},
+		{
+			"id": 4551,
+			"name": "XÃ MỒ DỀ"
+		},
+		{
+			"id": 4552,
+			"name": "THỊ TRẤN MÙ CĂNG CHẢI"
+		},
+		{
+			"id": 4553,
+			"name": "XÃ CAO PHẠ"
+		},
+		{
+			"id": 4554,
+			"name": "XÃ NẬM CÓ"
+		},
+		{
+			"id": 4555,
+			"name": "XÃ NẬM KHẮT"
+		},
+		{
+			"id": 4556,
+			"name": "XÃ PÚNG LUÔNG"
+		}
+	]
+}

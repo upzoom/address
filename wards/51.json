@@ -1,0 +1,86 @@
+{
+	"id": 51,
+	"name": "QUẬN BÌNH THẠNH",
+	"data": [
+		{
+			"id": 16990,
+			"name": "PHƯỜNG 28"
+		},
+		{
+			"id": 884,
+			"name": "PHƯỜNG 26"
+		},
+		{
+			"id": 885,
+			"name": "PHƯỜNG 15"
+		},
+		{
+			"id": 886,
+			"name": "PHƯỜNG 24"
+		},
+		{
+			"id": 887,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 888,
+			"name": "PHƯỜNG 17"
+		},
+		{
+			"id": 889,
+			"name": "PHƯỜNG 21"
+		},
+		{
+			"id": 890,
+			"name": "PHƯỜNG 19"
+		},
+		{
+			"id": 891,
+			"name": "PHƯỜNG 22"
+		},
+		{
+			"id": 892,
+			"name": "PHƯỜNG 5"
+		},
+		{
+			"id": 893,
+			"name": "PHƯỜNG 6"
+		},
+		{
+			"id": 894,
+			"name": "PHƯỜNG 7"
+		},
+		{
+			"id": 895,
+			"name": "PHƯỜNG 11"
+		},
+		{
+			"id": 896,
+			"name": "PHƯỜNG 12"
+		},
+		{
+			"id": 897,
+			"name": "PHƯỜNG 13"
+		},
+		{
+			"id": 898,
+			"name": "PHƯỜNG 14"
+		},
+		{
+			"id": 899,
+			"name": "PHƯỜNG 25"
+		},
+		{
+			"id": 900,
+			"name": "PHƯỜNG 27"
+		},
+		{
+			"id": 901,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 902,
+			"name": "PHƯỜNG 2"
+		}
+	]
+}

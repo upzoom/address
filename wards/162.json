@@ -1,0 +1,82 @@
+{
+	"id": 162,
+	"name": "HUYỆN BÌNH LỤC",
+	"data": [
+		{
+			"id": 2508,
+			"name": "THỊ TRẤN BÌNH MỸ"
+		},
+		{
+			"id": 2511,
+			"name": "XÃ TRÀNG AN"
+		},
+		{
+			"id": 2512,
+			"name": "XÃ ĐỒN XÁ"
+		},
+		{
+			"id": 2513,
+			"name": "XÃ ĐỒNG DU"
+		},
+		{
+			"id": 2514,
+			"name": "XÃ MỸ THỌ"
+		},
+		{
+			"id": 2515,
+			"name": "XÃ AN MỸ"
+		},
+		{
+			"id": 2516,
+			"name": "XÃ LA SƠN"
+		},
+		{
+			"id": 2517,
+			"name": "XÃ AN ĐỔ"
+		},
+		{
+			"id": 2518,
+			"name": "XÃ TIÊU ĐỘNG"
+		},
+		{
+			"id": 2519,
+			"name": "XÃ AN LÃO"
+		},
+		{
+			"id": 2520,
+			"name": "XÃ TRUNG LƯƠNG"
+		},
+		{
+			"id": 2521,
+			"name": "XÃ BỐI CẦU"
+		},
+		{
+			"id": 2522,
+			"name": "XÃ HƯNG CÔNG"
+		},
+		{
+			"id": 2523,
+			"name": "XÃ NGỌC LŨ"
+		},
+		{
+			"id": 2524,
+			"name": "XÃ BỒ ĐỀ"
+		},
+		{
+			"id": 2525,
+			"name": "XÃ AN NỘI"
+		},
+		{
+			"id": 2526,
+			"name": "XÃ VŨ BẢN"
+		},
+		{
+			"id": 2527,
+			"name": "XÃ AN NINH"
+		},
+		{
+			"id": 2528,
+			"name": "XÃ BÌNH NGHĨA"
+		}
+	]
+}

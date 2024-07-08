@@ -1,46 +1,62 @@
 {
-	"id": "677",
-	"name": "Huyện Đơn Dương",
+	"id": 677,
+	"name": "HUYỆN CÀNG LONG",
 	"data": [
 		{
-			"id": "24928",
-			"name": "Thị trấn D'Ran"
+			"id": 11285,
+			"name": "PHƯƠNG THẠNH"
 		},
 		{
-			"id": "24937",
-			"name": "Xã Đạ Ròn"
+			"id": 11286,
+			"name": "BÌNH PHÚ"
 		},
 		{
-			"id": "24943",
-			"name": "Xã Ka Đô"
+			"id": 11287,
+			"name": "HUYỀN HỘI"
 		},
 		{
-			"id": "24949",
-			"name": "Xã Ka Đơn"
+			"id": 11288,
+			"name": "TÂN AN"
 		},
 		{
-			"id": "24940",
-			"name": "Xã Lạc Lâm"
+			"id": 11289,
+			"name": "TÂN BÌNH"
 		},
 		{
-			"id": "24934",
-			"name": "Xã Lạc Xuân"
+			"id": 11290,
+			"name": "AN TRƯỜNG"
 		},
 		{
-			"id": "24955",
-			"name": "Xã Pró"
+			"id": 11291,
+			"name": "NHỊ LONG"
 		},
 		{
-			"id": "24946",
-			"name": "Xã Quảng Lập"
+			"id": 11292,
+			"name": "TT CÀNG LONG"
 		},
 		{
-			"id": "24931",
-			"name": "Thị trấn Thạnh Mỹ"
+			"id": 11293,
+			"name": "AN TRƯỜNG A"
 		},
 		{
-			"id": "24952",
-			"name": "Xã Tu Tra"
+			"id": 11294,
+			"name": "ĐẠI PHÚC"
+		},
+		{
+			"id": 11295,
+			"name": "ĐẠI PHƯỚC"
+		},
+		{
+			"id": 11296,
+			"name": "NHỊ LONG PHÚ"
+		},
+		{
+			"id": 11297,
+			"name": "MỸ CẨM"
+		},
+		{
+			"id": 11298,
+			"name": "XÃ ĐỨC MỸ"
 		}
 	]
 }

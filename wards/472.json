@@ -1,0 +1,42 @@
+{
+	"id": 472,
+	"name": "HUYỆN PHÚ HÒA",
+	"data": [
+		{
+			"id": 8651,
+			"name": "XÃ HOÀ TRỊ"
+		},
+		{
+			"id": 8652,
+			"name": "XÃ HOÀ THẮNG"
+		},
+		{
+			"id": 8653,
+			"name": "THỊ TRẤN PHÚ HOÀ"
+		},
+		{
+			"id": 8654,
+			"name": "XÃ HOÀ AN"
+		},
+		{
+			"id": 8655,
+			"name": "XÃ HÒA ĐỊNH TÂY"
+		},
+		{
+			"id": 8656,
+			"name": "XÃ HÒA QUANG BẮC"
+		},
+		{
+			"id": 8657,
+			"name": "XÃ HÒA QUANG NAM"
+		},
+		{
+			"id": 8658,
+			"name": "XÃ HÒA HỘI"
+		},
+		{
+			"id": 8659,
+			"name": "XÃ HÒA ĐỊNH ĐÔNG"
+		}
+	]
+}

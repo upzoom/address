@@ -1,46 +1,30 @@
 {
-	"id": "111",
-	"name": "Huyện Tân Uyên",
+	"id": 111,
+	"name": "HUYỆN TUY ĐỨC",
 	"data": [
 		{
-			"id": "03607",
-			"name": "Xã Hố Mít"
+			"id": 1610,
+			"name": "XÃ ĐẮK RTIH"
 		},
 		{
-			"id": "03601",
-			"name": "Xã Mường Khoa"
+			"id": 1611,
+			"name": "XÃ ĐẮK NGO"
 		},
 		{
-			"id": "03610",
-			"name": "Xã Nậm Cần"
+			"id": 1612,
+			"name": "XÃ QUẢNG TRỰC"
 		},
 		{
-			"id": "03613",
-			"name": "Xã Nậm Sỏ"
+			"id": 1613,
+			"name": "XÃ ĐẮK BÚK SO"
 		},
 		{
-			"id": "03616",
-			"name": "Xã Pắc Ta"
+			"id": 1614,
+			"name": "XÃ QUẢNG TÂM"
 		},
 		{
-			"id": "03602",
-			"name": "Xã Phúc Khoa"
-		},
-		{
-			"id": "03622",
-			"name": "Xã Tà Mít"
-		},
-		{
-			"id": "03598",
-			"name": "Thị trấn Tân Uyên"
-		},
-		{
-			"id": "03604",
-			"name": "Xã Thân Thuộc"
-		},
-		{
-			"id": "03605",
-			"name": "Xã Trung Đồng"
+			"id": 1615,
+			"name": "XÃ QUẢNG TÂN"
 		}
 	]
 }

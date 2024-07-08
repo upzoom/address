@@ -1,0 +1,38 @@
+{
+	"id": 226,
+	"name": "THÀNH PHỐ BẮC KẠN",
+	"data": [
+		{
+			"id": 3906,
+			"name": "PHƯỜNG NGUYỄN THỊ MINH KHAI"
+		},
+		{
+			"id": 3907,
+			"name": "PHƯỜNG SÔNG CẦU"
+		},
+		{
+			"id": 3908,
+			"name": "PHƯỜNG ĐỨC XUÂN"
+		},
+		{
+			"id": 3909,
+			"name": "PHƯỜNG PHÙNG CHÍ KIÊN"
+		},
+		{
+			"id": 3910,
+			"name": "XÃ DƯƠNG QUANG"
+		},
+		{
+			"id": 3911,
+			"name": "XÃ NÔNG THƯỢNG"
+		},
+		{
+			"id": 3912,
+			"name": "XÃ XUẤT HÓA"
+		},
+		{
+			"id": 3913,
+			"name": "XÃ HUYỀN TỤNG"
+		}
+	]
+}

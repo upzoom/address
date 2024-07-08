@@ -1,122 +1,50 @@
 {
-	"id": "429",
-	"name": "Huyện Nghi Lộc",
+	"id": 429,
+	"name": "HUYỆN ĐÔNG GIANG",
 	"data": [
 		{
-			"id": "17878",
-			"name": "Xã Khánh Hợp"
+			"id": 8065,
+			"name": "XÃ MÀ COOI"
 		},
 		{
-			"id": "17884",
-			"name": "Xã Nghi Công Bắc"
+			"id": 8066,
+			"name": "XÃ BA"
 		},
 		{
-			"id": "17887",
-			"name": "Xã Nghi Công Nam"
+			"id": 8067,
+			"name": "XÃ TƯ"
 		},
 		{
-			"id": "17899",
-			"name": "Xã Nghi Diên"
+			"id": 8068,
+			"name": "XÃ A TING"
 		},
 		{
-			"id": "17842",
-			"name": "Xã Nghi Đồng"
+			"id": 8069,
+			"name": "XÃ SÔNG KÔN"
 		},
 		{
-			"id": "17875",
-			"name": "Xã Nghi Hoa"
+			"id": 8070,
+			"name": "XÃ JƠ NGÂY"
 		},
 		{
-			"id": "17839",
-			"name": "Xã Nghi Hưng"
+			"id": 8071,
+			"name": "XÃ TÀ LU"
 		},
 		{
-			"id": "17854",
-			"name": "Xã Nghi Kiều"
+			"id": 8072,
+			"name": "XÃ ZA HUNG"
 		},
 		{
-			"id": "17848",
-			"name": "Xã Nghi Lâm"
+			"id": 8073,
+			"name": "XÃ A ROOI"
 		},
 		{
-			"id": "17866",
-			"name": "Xã Nghi Long"
+			"id": 8074,
+			"name": "XÃ KA DĂNG"
 		},
 		{
-			"id": "17857",
-			"name": "Xã Nghi Mỹ"
-		},
-		{
-			"id": "17902",
-			"name": "Xã Nghi Phong"
-		},
-		{
-			"id": "17860",
-			"name": "Xã Nghi Phương"
-		},
-		{
-			"id": "17851",
-			"name": "Xã Nghi Quang"
-		},
-		{
-			"id": "17890",
-			"name": "Xã Nghi Thạch"
-		},
-		{
-			"id": "17926",
-			"name": "Xã Nghi Thái"
-		},
-		{
-			"id": "17845",
-			"name": "Xã Nghi Thiết"
-		},
-		{
-			"id": "17881",
-			"name": "Xã Nghi Thịnh"
-		},
-		{
-			"id": "17863",
-			"name": "Xã Nghi Thuận"
-		},
-		{
-			"id": "17836",
-			"name": "Xã Nghi Tiến"
-		},
-		{
-			"id": "17893",
-			"name": "Xã Nghi Trung"
-		},
-		{
-			"id": "17896",
-			"name": "Xã Nghi Trường"
-		},
-		{
-			"id": "17830",
-			"name": "Xã Nghi Văn"
-		},
-		{
-			"id": "17911",
-			"name": "Xã Nghi Vạn"
-		},
-		{
-			"id": "17869",
-			"name": "Xã Nghi Xá"
-		},
-		{
-			"id": "17905",
-			"name": "Xã Nghi Xuân"
-		},
-		{
-			"id": "17833",
-			"name": "Xã Nghi Yên"
-		},
-		{
-			"id": "17917",
-			"name": "Xã Phúc Thọ"
-		},
-		{
-			"id": "17827",
-			"name": "Thị trấn Quán Hành"
+			"id": 8075,
+			"name": "THỊ TRẤN PRAO"
 		}
 	]
 }

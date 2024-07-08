@@ -1,78 +1,94 @@
 {
-	"id": "185",
-	"name": "Huyện Bắc Sơn",
+	"id": 185,
+	"name": "HUYỆN GIA VIỄN",
 	"data": [
 		{
-			"id": "06343",
-			"name": "Xã Bắc Quỳnh"
+			"id": 3172,
+			"name": "XÃ GIA HOÀ"
 		},
 		{
-			"id": "06325",
-			"name": "Thị trấn Bắc Sơn"
+			"id": 3173,
+			"name": "XÃ GIA HƯNG"
 		},
 		{
-			"id": "06364",
-			"name": "Xã Chiến Thắng"
+			"id": 3174,
+			"name": "XÃ GIA LẠC"
 		},
 		{
-			"id": "06358",
-			"name": "Xã Chiêu Vũ"
+			"id": 3175,
+			"name": "XÃ GIA LẬP"
 		},
 		{
-			"id": "06337",
-			"name": "Xã Đồng ý"
+			"id": 3176,
+			"name": "XÃ GIA PHÚ"
 		},
 		{
-			"id": "06349",
-			"name": "Xã Hưng Vũ"
+			"id": 3177,
+			"name": "XÃ GIA PHƯƠNG"
 		},
 		{
-			"id": "06328",
-			"name": "Xã Long Đống"
+			"id": 3178,
+			"name": "XÃ GIA THÀNH"
 		},
 		{
-			"id": "06376",
-			"name": "Xã Nhất Hòa"
+			"id": 3179,
+			"name": "XÃ GIA TRẤN"
 		},
 		{
-			"id": "06382",
-			"name": "Xã Nhất Tiến"
+			"id": 3180,
+			"name": "XÃ GIA VÂN"
 		},
 		{
-			"id": "06361",
-			"name": "Xã Tân Hương"
+			"id": 3181,
+			"name": "XÃ GIA VƯỢNG"
 		},
 		{
-			"id": "06352",
-			"name": "Xã Tân Lập"
+			"id": 3182,
+			"name": "XÃ GIA XUÂN"
 		},
 		{
-			"id": "06379",
-			"name": "Xã Tân Thành"
+			"id": 3183,
+			"name": "THỊ TRẤN ME"
 		},
 		{
-			"id": "06340",
-			"name": "Xã Tân Tri"
+			"id": 3184,
+			"name": "XÃ GIA MINH"
 		},
 		{
-			"id": "06370",
-			"name": "Xã Trấn Yên"
+			"id": 3185,
+			"name": "XÃ GIA PHONG"
 		},
 		{
-			"id": "06331",
-			"name": "Xã Vạn Thủy"
+			"id": 3186,
+			"name": "XÃ GIA SINH"
 		},
 		{
-			"id": "06367",
-			"name": "Xã Vũ Lăng"
+			"id": 3187,
+			"name": "XÃ GIA TÂN"
 		},
 		{
-			"id": "06373",
-			"name": "Xã Vũ Lễ"
+			"id": 3188,
+			"name": "XÃ GIA THẮNG"
 		},
 		{
-			"id": "06355",
-			"name": "Xã Vũ Sơn"
+			"id": 3189,
+			"name": "XÃ GIA THỊNH"
+		},
+		{
+			"id": 3190,
+			"name": "XÃ GIA TIẾN"
+		},
+		{
+			"id": 3191,
+			"name": "XÃ GIA TRUNG"
+		},
+		{
+			"id": 3192,
+			"name": "XÃ LIÊN SƠN"
+		},
+		{
+			"id": 3193,
+			"name": "KCN GIÁN KHẨU"
 		}
 	]
 }

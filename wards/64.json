@@ -1,0 +1,126 @@
+{
+	"id": 64,
+	"name": "HUYỆN VĨNH BẢO",
+	"data": [
+		{
+			"id": 1043,
+			"name": "XÃ AN HOÀ"
+		},
+		{
+			"id": 1044,
+			"name": "XÃ VĨNH LONG"
+		},
+		{
+			"id": 1045,
+			"name": "XÃ VĨNH TIẾN"
+		},
+		{
+			"id": 1046,
+			"name": "XÃ TÂN LIÊN"
+		},
+		{
+			"id": 1047,
+			"name": "THỊ TRẤN VĨNH BẢO"
+		},
+		{
+			"id": 1048,
+			"name": "XÃ TRUNG LẬP"
+		},
+		{
+			"id": 1049,
+			"name": "XÃ HIỆP HÒA"
+		},
+		{
+			"id": 1050,
+			"name": "XÃ ĐỒNG MINH"
+		},
+		{
+			"id": 1051,
+			"name": "XÃ THANH LƯƠNG"
+		},
+		{
+			"id": 1052,
+			"name": "XÃ CỘNG HIỀN"
+		},
+		{
+			"id": 1053,
+			"name": "XÃ TIỀN PHONG"
+		},
+		{
+			"id": 1054,
+			"name": "XÃ VĨNH PHONG"
+		},
+		{
+			"id": 1055,
+			"name": "XÃ CAO MINH"
+		},
+		{
+			"id": 1056,
+			"name": "XÃ TAM CƯỜNG"
+		},
+		{
+			"id": 1057,
+			"name": "XÃ HƯNG NHÂN"
+		},
+		{
+			"id": 1058,
+			"name": "XÃ TAM ĐA"
+		},
+		{
+			"id": 1059,
+			"name": "XÃ NHÂN HOÀ"
+		},
+		{
+			"id": 1060,
+			"name": "XÃ CỔ AM"
+		},
+		{
+			"id": 1061,
+			"name": "XÃ TRẤN DƯƠNG"
+		},
+		{
+			"id": 1062,
+			"name": "XÃ VĨNH AN"
+		},
+		{
+			"id": 1063,
+			"name": "XÃ DŨNG TIẾN"
+		},
+		{
+			"id": 1064,
+			"name": "XÃ VINH QUANG"
+		},
+		{
+			"id": 1065,
+			"name": "XÃ LIÊN AM"
+		},
+		{
+			"id": 1066,
+			"name": "XÃ GIANG BIÊN"
+		},
+		{
+			"id": 1067,
+			"name": "XÃ HÒA BÌNH"
+		},
+		{
+			"id": 1068,
+			"name": "XÃ LÝ HỌC"
+		},
+		{
+			"id": 1069,
+			"name": "XÃ VIỆT TIẾN"
+		},
+		{
+			"id": 1070,
+			"name": "XÃ THẮNG THỦY"
+		},
+		{
+			"id": 1071,
+			"name": "XÃ HÙNG TIẾN"
+		},
+		{
+			"id": 1072,
+			"name": "XÃ TÂN HƯNG"
+		}
+	]
+}

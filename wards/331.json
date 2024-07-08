@@ -1,74 +1,90 @@
 {
-	"id": "331",
-	"name": "Huyện Kim Động",
+	"id": 331,
+	"name": "HUYỆN ĐÀ BẮC",
 	"data": [
 		{
-			"id": "12304",
-			"name": "Xã Chính Nghĩa"
+			"id": 5967,
+			"name": "THỊ TRẤN ĐÀ BẮC"
 		},
 		{
-			"id": "12298",
-			"name": "Xã Đồng Thanh"
+			"id": 5968,
+			"name": "XÃ MƯỜNG CHIỀNG"
 		},
 		{
-			"id": "12316",
-			"name": "Xã Đức Hợp"
+			"id": 5969,
+			"name": "XÃ TÂN PHEO"
 		},
 		{
-			"id": "12328",
-			"name": "Xã Hiệp Cường"
+			"id": 5970,
+			"name": "XÃ ĐỒNG RUỘNG"
 		},
 		{
-			"id": "12319",
-			"name": "Xã Hùng An"
+			"id": 5971,
+			"name": "XÃ GIÁP ĐẮT"
 		},
 		{
-			"id": "12280",
-			"name": "Thị trấn Lương Bằng"
+			"id": 5972,
+			"name": "XÃ ĐỒNG NGHÊ"
 		},
 		{
-			"id": "12313",
-			"name": "Xã Mai Động"
+			"id": 5973,
+			"name": "XÃ SUỐI NÁNH"
 		},
 		{
-			"id": "12283",
-			"name": "Xã Nghĩa Dân"
+			"id": 5974,
+			"name": "XÃ MƯỜNG TUỔNG"
 		},
 		{
-			"id": "12322",
-			"name": "Xã Ngọc Thanh"
+			"id": 5975,
+			"name": "XÃ ĐỒNG CHUM"
 		},
 		{
-			"id": "12307",
-			"name": "Xã Nhân La"
+			"id": 5976,
+			"name": "XÃ ĐOÀN KẾT"
 		},
 		{
-			"id": "12292",
-			"name": "Xã Phạm Ngũ Lão"
+			"id": 5977,
+			"name": "XÃ TÂN MINH"
 		},
 		{
-			"id": "12310",
-			"name": "Xã Phú Thịnh"
+			"id": 5978,
+			"name": "XÃ TRUNG THÀNH"
 		},
 		{
-			"id": "12301",
-			"name": "Xã Song Mai"
+			"id": 5979,
+			"name": "XÃ YÊN HÒA"
 		},
 		{
-			"id": "12295",
-			"name": "Xã Thọ Vinh"
+			"id": 5980,
+			"name": "XÃ CAO SƠN"
 		},
 		{
-			"id": "12286",
-			"name": "Xã Toàn Thắng"
+			"id": 5981,
+			"name": "XÃ TIỀN PHONG"
 		},
 		{
-			"id": "12289",
-			"name": "Xã Vĩnh Xá"
+			"id": 5982,
+			"name": "XÃ VẦY NƯA"
 		},
 		{
-			"id": "12325",
-			"name": "Xã Vũ Xá"
+			"id": 5983,
+			"name": "XÃ HÀO LÝ"
+		},
+		{
+			"id": 5984,
+			"name": "XÃ TU LÝ"
+		},
+		{
+			"id": 5985,
+			"name": "XÃ HIỀN LƯƠNG"
+		},
+		{
+			"id": 5986,
+			"name": "XÃ TOÀN SƠN"
+		},
+		{
+			"id": 26330,
+			"name": "XÃ NÁNH NGHÊ"
 		}
 	]
 }

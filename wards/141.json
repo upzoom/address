@@ -1,102 +1,110 @@
 {
-	"id": "141",
-	"name": "Huyện Yên Bình",
+	"id": 141,
+	"name": "HUYỆN NAM SÁCH",
 	"data": [
 		{
-			"id": "04762",
-			"name": "Xã Bạch Hà"
+			"id": 17011,
+			"name": "XÃ AN CHÍNH"
 		},
 		{
-			"id": "04738",
-			"name": "Xã Bảo Ái"
+			"id": 18458,
+			"name": "XÃ NAM CHÍNH"
 		},
 		{
-			"id": "04750",
-			"name": "Xã Cảm Ân"
+			"id": 2095,
+			"name": "XÃ QUỐC TUẤN"
 		},
 		{
-			"id": "04726",
-			"name": "Xã Cảm Nhân"
+			"id": 2096,
+			"name": "XÃ THÁI TÂN"
 		},
 		{
-			"id": "04768",
-			"name": "Xã Đại Đồng"
+			"id": 2097,
+			"name": "XÃ THANH QUANG"
 		},
 		{
-			"id": "04786",
-			"name": "Xã Đại Minh"
+			"id": 2098,
+			"name": "XÃ THƯỢNG ĐẠT"
 		},
 		{
-			"id": "04780",
-			"name": "Xã Hán Đà"
+			"id": 2099,
+			"name": "THỊ TRẤN NAM SÁCH"
 		},
 		{
-			"id": "04747",
-			"name": "Xã Mông Sơn"
+			"id": 2100,
+			"name": "XÃ AN CHÂU"
 		},
 		{
-			"id": "04741",
-			"name": "Xã Mỹ Gia"
+			"id": 2101,
+			"name": "XÃ ÁI QUỐC"
 		},
 		{
-			"id": "04729",
-			"name": "Xã Ngọc Chấn"
+			"id": 2102,
+			"name": "XÃ AN BÌNH"
 		},
 		{
-			"id": "04783",
-			"name": "Xã Phú Thịnh"
+			"id": 2103,
+			"name": "XÃ AN ĐOÀI"
 		},
 		{
-			"id": "04759",
-			"name": "Xã Phúc An"
+			"id": 2104,
+			"name": "XÃ AN LÂM"
 		},
 		{
-			"id": "04735",
-			"name": "Xã Phúc Ninh"
+			"id": 2105,
+			"name": "XÃ AN LIÊN"
 		},
 		{
-			"id": "04756",
-			"name": "Xã Tân Hương"
+			"id": 2106,
+			"name": "XÃ AN SƠN"
 		},
 		{
-			"id": "04732",
-			"name": "Xã Tân Nguyên"
+			"id": 2107,
+			"name": "XÃ CỘNG HÒA"
 		},
 		{
-			"id": "04717",
-			"name": "Thị trấn Thác Bà"
+			"id": 2108,
+			"name": "XÃ ĐỒNG LẠC"
 		},
 		{
-			"id": "04777",
-			"name": "Xã Thịnh Hưng"
+			"id": 2109,
+			"name": "XÃ HIỆP CÁT"
 		},
 		{
-			"id": "04771",
-			"name": "Xã Vĩnh Kiên"
+			"id": 2110,
+			"name": "XÃ HỒNG PHONG"
 		},
 		{
-			"id": "04765",
-			"name": "Xã Vũ Linh"
+			"id": 2111,
+			"name": "XÃ HỢP TIẾN"
 		},
 		{
-			"id": "04744",
-			"name": "Xã Xuân Lai"
+			"id": 2112,
+			"name": "XÃ MINH TÂN"
 		},
 		{
-			"id": "04720",
-			"name": "Xã Xuân Long"
+			"id": 2113,
+			"name": "XÃ NAM ĐỒNG"
 		},
 		{
-			"id": "04714",
-			"name": "Thị trấn Yên Bình"
+			"id": 2114,
+			"name": "XÃ NAM HỒNG"
 		},
 		{
-			"id": "04774",
-			"name": "Xã Yên Bình"
+			"id": 2115,
+			"name": "XÃ NAM HƯNG"
 		},
 		{
-			"id": "04753",
-			"name": "Xã Yên Thành"
+			"id": 2116,
+			"name": "XÃ NAM TÂN"
+		},
+		{
+			"id": 2117,
+			"name": "XÃ NAM TRUNG"
+		},
+		{
+			"id": 2118,
+			"name": "XÃ PHÚ ĐIỀN"
 		}
 	]
 }

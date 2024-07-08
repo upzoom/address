@@ -1,38 +1,78 @@
 {
-	"id": "655",
-	"name": "Huyện Krông A Na",
+	"id": 655,
+	"name": "HUYỆN THẠNH PHÚ",
 	"data": [
 		{
-			"id": "24568",
-			"name": "Xã Băng A Drênh"
+			"id": 11004,
+			"name": "XÃ THẠNH HẢI"
 		},
 		{
-			"id": "24574",
-			"name": "Xã Bình Hòa"
+			"id": 11005,
+			"name": "XÃ THẠNH PHONG"
 		},
 		{
-			"id": "24538",
-			"name": "Thị trấn Buôn Trấp"
+			"id": 11006,
+			"name": "THỊ TRẤN THẠNH PHÚ"
 		},
 		{
-			"id": "24556",
-			"name": "Xã Dray Sáp"
+			"id": 11007,
+			"name": "XÃ PHÚ KHÁNH"
 		},
 		{
-			"id": "24571",
-			"name": "Xã Dur KMăl"
+			"id": 11008,
+			"name": "XÃ ĐẠI ĐIỀN"
 		},
 		{
-			"id": "24565",
-			"name": "Xã Ea Bông"
+			"id": 11009,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "24559",
-			"name": "Xã Ea Na"
+			"id": 11010,
+			"name": "XÃ THỚI THẠNH"
 		},
 		{
-			"id": "24577",
-			"name": "Xã Quảng Điền"
+			"id": 11011,
+			"name": "XÃ QƯỚI ĐIỀN"
+		},
+		{
+			"id": 11012,
+			"name": "XÃ MỸ HƯNG"
+		},
+		{
+			"id": 11013,
+			"name": "XÃ HÒA LỢI"
+		},
+		{
+			"id": 11014,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 11015,
+			"name": "XÃ AN THẠNH"
+		},
+		{
+			"id": 11016,
+			"name": "XÃ AN ĐIỀN"
+		},
+		{
+			"id": 11017,
+			"name": "XÃ AN THUẬN"
+		},
+		{
+			"id": 11018,
+			"name": "XÃ AN QUI"
+		},
+		{
+			"id": 11019,
+			"name": "XÃ AN NHƠN"
+		},
+		{
+			"id": 11020,
+			"name": "XÃ GIAO THẠNH"
+		},
+		{
+			"id": 11021,
+			"name": "XÃ MỸ AN"
 		}
 	]
 }

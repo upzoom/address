@@ -1,0 +1,50 @@
+{
+	"id": 310,
+	"name": "HUYỆN NẬM NHÙN",
+	"data": [
+		{
+			"id": 5606,
+			"name": "XÃ NẬM PÌ"
+		},
+		{
+			"id": 5607,
+			"name": "XÃ LÊ LỢI"
+		},
+		{
+			"id": 5608,
+			"name": "XÃ HUA BUM"
+		},
+		{
+			"id": 5609,
+			"name": "XÃ NẬM CHÀ"
+		},
+		{
+			"id": 5610,
+			"name": "XÃ PÚ ĐAO"
+		},
+		{
+			"id": 5611,
+			"name": "XÃ NẬM MANH"
+		},
+		{
+			"id": 5612,
+			"name": "XÃ MƯỜNG MÔ"
+		},
+		{
+			"id": 5613,
+			"name": "XÃ NẬM BAN"
+		},
+		{
+			"id": 5614,
+			"name": "XÃ TRUNG CHẢI"
+		},
+		{
+			"id": 5615,
+			"name": "THỊ TRẤN NẬM NHÙN"
+		},
+		{
+			"id": 5616,
+			"name": "XÃ NẬM HÀNG"
+		}
+	]
+}

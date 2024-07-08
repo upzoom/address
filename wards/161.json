@@ -1,0 +1,82 @@
+{
+	"id": 161,
+	"name": "HUYỆN THANH LIÊM",
+	"data": [
+		{
+			"id": 17008,
+			"name": "XÃ THANH TÂN"
+		},
+		{
+			"id": 2489,
+			"name": "XÃ THANH HẢI"
+		},
+		{
+			"id": 2490,
+			"name": "XÃ THANH NGUYÊN"
+		},
+		{
+			"id": 2491,
+			"name": "XÃ THANH TUYỀN"
+		},
+		{
+			"id": 2492,
+			"name": "XÃ THANH NGHỊ"
+		},
+		{
+			"id": 2493,
+			"name": "XÃ THANH TÂM"
+		},
+		{
+			"id": 2494,
+			"name": "XÃ THANH HƯƠNG"
+		},
+		{
+			"id": 2495,
+			"name": "XÃ LIÊM SƠN"
+		},
+		{
+			"id": 2496,
+			"name": "XÃ LIÊM TÚC"
+		},
+		{
+			"id": 2497,
+			"name": "XÃ THANH LƯU"
+		},
+		{
+			"id": 2498,
+			"name": "XÃ THANH PHONG"
+		},
+		{
+			"id": 2499,
+			"name": "XÃ THANH BÌNH"
+		},
+		{
+			"id": 2500,
+			"name": "XÃ LIÊM THUẬN"
+		},
+		{
+			"id": 2501,
+			"name": "XÃ THANH THUỶ"
+		},
+		{
+			"id": 2502,
+			"name": "THỊ TRẤN KIỆN KHÊ"
+		},
+		{
+			"id": 2503,
+			"name": "XÃ THANH HÀ"
+		},
+		{
+			"id": 2504,
+			"name": "XÃ LIÊM CẦN"
+		},
+		{
+			"id": 2505,
+			"name": "XÃ LIÊM PHONG"
+		},
+		{
+			"id": 26242,
+			"name": "THỊ TRẤN TÂN THANH"
+		}
+	]
+}

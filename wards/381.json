@@ -1,34 +1,182 @@
 {
-	"id": "381",
-	"name": "Thị xã Bỉm Sơn",
+	"id": 381,
+	"name": "HUYỆN THANH CHƯƠNG",
 	"data": [
 		{
-			"id": "14812",
-			"name": "Phường Ba Đình"
+			"id": 7160,
+			"name": "XÃ THANH XUÂN"
 		},
 		{
-			"id": "14809",
-			"name": "Phường Bắc Sơn"
+			"id": 7161,
+			"name": "XÃ THANH YÊN"
 		},
 		{
-			"id": "14821",
-			"name": "Phường Đông Sơn"
+			"id": 7162,
+			"name": "XUÂN TƯỜNG"
 		},
 		{
-			"id": "14815",
-			"name": "Phường Lam Sơn"
+			"id": 7163,
+			"name": "XÃ THANH ĐỒNG"
 		},
 		{
-			"id": "14818",
-			"name": "Phường Ngọc Trạo"
+			"id": 7164,
+			"name": "XÃ THANH LĨNH"
 		},
 		{
-			"id": "14823",
-			"name": "Phường Phú Sơn"
+			"id": 7165,
+			"name": "XÃ THANH TIÊN"
 		},
 		{
-			"id": "14824",
-			"name": "Xã Quang Trung"
+			"id": 7166,
+			"name": "XÃ THANH HƯNG"
+		},
+		{
+			"id": 7167,
+			"name": "XÃ THANH VĂN"
+		},
+		{
+			"id": 7168,
+			"name": "XÃ ĐỒNG VĂN"
+		},
+		{
+			"id": 7169,
+			"name": "XÃ THANH NGỌC"
+		},
+		{
+			"id": 7170,
+			"name": "XÃ NGỌC SƠN"
+		},
+		{
+			"id": 7171,
+			"name": "XÃ THANH HƯƠNG"
+		},
+		{
+			"id": 7172,
+			"name": "XÃ THANH THỊNH"
+		},
+		{
+			"id": 7173,
+			"name": "XÃ CÁT VĂN"
+		},
+		{
+			"id": 7174,
+			"name": "XÃ PHONG THỊNH"
+		},
+		{
+			"id": 7175,
+			"name": "XÃ THANH AN"
+		},
+		{
+			"id": 7176,
+			"name": "XÃ THANH CHI"
+		},
+		{
+			"id": 7177,
+			"name": "XÃ THANH CHƯƠNG"
+		},
+		{
+			"id": 7178,
+			"name": "XÃ THANH ĐỨC"
+		},
+		{
+			"id": 7179,
+			"name": "XÃ THANH DƯƠNG"
+		},
+		{
+			"id": 7180,
+			"name": "XÃ THANH GIANG"
+		},
+		{
+			"id": 7181,
+			"name": "XÃ THANH GIAO"
+		},
+		{
+			"id": 7182,
+			"name": "XÃ THANH HÀ"
+		},
+		{
+			"id": 7183,
+			"name": "XÃ THANH KHAI"
+		},
+		{
+			"id": 7184,
+			"name": "XÃ THANH KHÊ"
+		},
+		{
+			"id": 7185,
+			"name": "XÃ THANH LÂM"
+		},
+		{
+			"id": 7186,
+			"name": "XÃ THANH LIÊN"
+		},
+		{
+			"id": 7187,
+			"name": "XÃ THANH PHONG"
+		},
+		{
+			"id": 7188,
+			"name": "XÃ THANH LƯƠNG"
+		},
+		{
+			"id": 7189,
+			"name": "XÃ THANH MAI"
+		},
+		{
+			"id": 7190,
+			"name": "XÃ THANH MỸ"
+		},
+		{
+			"id": 7191,
+			"name": "XÃ THANH NHO"
+		},
+		{
+			"id": 7192,
+			"name": "XÃ THANH THỦY"
+		},
+		{
+			"id": 7193,
+			"name": "XÃ THANH TÙNG"
+		},
+		{
+			"id": 7194,
+			"name": "THỊ TRẤN DÙNG"
+		},
+		{
+			"id": 7195,
+			"name": "XÃ THANH TƯỜNG"
+		},
+		{
+			"id": 7196,
+			"name": "XÃ HẠNH LÂM"
+		},
+		{
+			"id": 7197,
+			"name": "XÃ HƯNG DŨNG"
+		},
+		{
+			"id": 7198,
+			"name": "XÃ THANH LONG"
+		},
+		{
+			"id": 7199,
+			"name": "XÃ THANH SƠN"
+		},
+		{
+			"id": 7200,
+			"name": "XÃ THANH HÒA"
+		},
+		{
+			"id": 7201,
+			"name": "XÃ VÕ LIỆT"
+		},
+		{
+			"id": 7202,
+			"name": "XÃ NGỌC LÂM"
+		},
+		{
+			"id": 26214,
+			"name": "XÃ ĐẠI ĐỒNG"
 		}
 	]
 }

@@ -1,26 +1,58 @@
 {
-	"id": "462",
-	"name": "Thị xã Quảng Trị",
+	"id": 462,
+	"name": "HUYỆN TUY PHƯỚC",
 	"data": [
 		{
-			"id": "19357",
-			"name": "Phường 1"
+			"id": 8498,
+			"name": "THỊ TRẤN DIÊU TRÌ"
 		},
 		{
-			"id": "19360",
-			"name": "Phường 2"
+			"id": 8499,
+			"name": "THỊ TRẤN TUY PHƯỚC"
 		},
 		{
-			"id": "19361",
-			"name": "Phường 3"
+			"id": 8500,
+			"name": "XÃ PHƯỚC THẮNG"
 		},
 		{
-			"id": "19358",
-			"name": "Phường An Đôn"
+			"id": 8501,
+			"name": "XÃ PHƯỚC HƯNG"
 		},
 		{
-			"id": "19705",
-			"name": "Xã Hải Lệ"
+			"id": 8502,
+			"name": "XÃ PHƯỚC HÒA"
+		},
+		{
+			"id": 8503,
+			"name": "XÃ PHƯỚC QUANG"
+		},
+		{
+			"id": 8504,
+			"name": "XÃ PHƯỚC SƠN"
+		},
+		{
+			"id": 8505,
+			"name": "XÃ PHƯỚC HIỆP"
+		},
+		{
+			"id": 8506,
+			"name": "XÃ PHƯỚC LỘC"
+		},
+		{
+			"id": 8507,
+			"name": "XÃ PHƯỚC THUẬN"
+		},
+		{
+			"id": 8508,
+			"name": "XÃ PHƯỚC NGHĨA"
+		},
+		{
+			"id": 8509,
+			"name": "XÃ PHƯỚC AN"
+		},
+		{
+			"id": 8510,
+			"name": "XÃ PHƯỚC THÀNH"
 		}
 	]
 }

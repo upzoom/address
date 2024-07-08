@@ -1,62 +1,46 @@
 {
-	"id": "570",
-	"name": "Huyện Cam Lâm",
+	"id": 570,
+	"name": "THÀNH PHỐ THUẬN AN",
 	"data": [
 		{
-			"id": "22465",
-			"name": "Xã Cam An Bắc"
+			"id": 9817,
+			"name": "PHƯỜNG BÌNH HÒA"
 		},
 		{
-			"id": "22471",
-			"name": "Xã Cam An Nam"
+			"id": 9818,
+			"name": "PHƯỜNG BÌNH CHUẨN"
 		},
 		{
-			"id": "22453",
-			"name": "Thị trấn Cam Đức"
+			"id": 9819,
+			"name": "PHƯỜNG THUẬN GIAO"
 		},
 		{
-			"id": "22441",
-			"name": "Xã Cam Hải Đông"
+			"id": 9820,
+			"name": "PHƯỜNG AN PHÚ"
 		},
 		{
-			"id": "22444",
-			"name": "Xã Cam Hải Tây"
+			"id": 9821,
+			"name": "XÃ HƯNG ĐỊNH"
 		},
 		{
-			"id": "22450",
-			"name": "Xã Cam Hiệp Bắc"
+			"id": 9822,
+			"name": "XÃ BÌNH NHÂM"
 		},
 		{
-			"id": "22456",
-			"name": "Xã Cam Hiệp Nam"
+			"id": 9823,
+			"name": "PHƯỜNG VĨNH PHÚ"
 		},
 		{
-			"id": "22438",
-			"name": "Xã Cam Hòa"
+			"id": 9824,
+			"name": "XÃ AN SƠN"
 		},
 		{
-			"id": "22459",
-			"name": "Xã Cam Phước Tây"
+			"id": 9825,
+			"name": "THỊ TRẤN LÁI THIÊU"
 		},
 		{
-			"id": "22435",
-			"name": "Xã Cam Tân"
-		},
-		{
-			"id": "22462",
-			"name": "Xã Cam Thành Bắc"
-		},
-		{
-			"id": "22447",
-			"name": "Xã Sơn Tân"
-		},
-		{
-			"id": "22708",
-			"name": "Xã Suối Cát"
-		},
-		{
-			"id": "22711",
-			"name": "Xã Suối Tân"
+			"id": 9826,
+			"name": "THỊ TRẤN AN THẠNH"
 		}
 	]
 }

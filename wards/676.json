@@ -1,70 +1,50 @@
 {
-	"id": "676",
-	"name": "Huyện Lâm Hà",
+	"id": 676,
+	"name": "HUYỆN CẦU KÈ",
 	"data": [
 		{
-			"id": "24895",
-			"name": "Xã Đạ Đờn"
+			"id": 11274,
+			"name": "THẠNH PHÚ"
 		},
 		{
-			"id": "24922",
-			"name": "Xã Đan Phượng"
+			"id": 11275,
+			"name": "AN PHÚ TÂN"
 		},
 		{
-			"id": "24871",
-			"name": "Thị trấn Đinh Văn"
+			"id": 11276,
+			"name": "PHONG THẠNH"
 		},
 		{
-			"id": "24901",
-			"name": "Xã Đông Thanh"
+			"id": 11277,
+			"name": "PHONG PHÚ"
 		},
 		{
-			"id": "24904",
-			"name": "Xã Gia Lâm"
+			"id": 11278,
+			"name": "NINH THỚI"
 		},
 		{
-			"id": "24913",
-			"name": "Xã Hoài Đức"
+			"id": 11279,
+			"name": "CHÂU ĐIỀN"
 		},
 		{
-			"id": "24919",
-			"name": "Xã Liên Hà"
+			"id": 11280,
+			"name": "HOÀ ÂN"
 		},
 		{
-			"id": "24892",
-			"name": "Xã Mê Linh"
+			"id": 11281,
+			"name": "TAM NGÃI"
 		},
 		{
-			"id": "24868",
-			"name": "Thị trấn Nam Ban"
+			"id": 11282,
+			"name": "HOÀ TÂN"
 		},
 		{
-			"id": "24925",
-			"name": "Xã Nam Hà"
+			"id": 11283,
+			"name": "TT CẦU KÈ"
 		},
 		{
-			"id": "24883",
-			"name": "Xã Phi Tô"
-		},
-		{
-			"id": "24880",
-			"name": "Xã Phú Sơn"
-		},
-		{
-			"id": "24898",
-			"name": "Xã Phúc Thọ"
-		},
-		{
-			"id": "24916",
-			"name": "Xã Tân Hà"
-		},
-		{
-			"id": "24907",
-			"name": "Xã Tân Thanh"
-		},
-		{
-			"id": "24910",
-			"name": "Xã Tân Văn"
+			"id": 11284,
+			"name": "THÔNG HOÀ"
 		}
 	]
 }

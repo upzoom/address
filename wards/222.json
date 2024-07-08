@@ -1,74 +1,78 @@
 {
-	"id": "222",
-	"name": "Huyện Việt Yên",
+	"id": 222,
+	"name": "HUYỆN BẢO THẮNG",
 	"data": [
 		{
-			"id": "07777",
-			"name": "Thị trấn Bích Động"
+			"id": 3845,
+			"name": "XÃ GIA PHÚ"
 		},
 		{
-			"id": "07783",
-			"name": "Xã Hồng Thái"
+			"id": 3846,
+			"name": "XÃ BẢN PHIỆT"
 		},
 		{
-			"id": "07771",
-			"name": "Xã Hương Mai"
+			"id": 3847,
+			"name": "XÃ SƠN HẢI"
 		},
 		{
-			"id": "07768",
-			"name": "Xã Minh Đức"
+			"id": 3848,
+			"name": "XÃ BẮC NGẦM"
 		},
 		{
-			"id": "07795",
-			"name": "Thị trấn Nếnh"
+			"id": 3849,
+			"name": "XÃ PHỐ LU"
 		},
 		{
-			"id": "07765",
-			"name": "Xã Nghĩa Trung"
+			"id": 3850,
+			"name": "THỊ TRẤN PHỐ LU"
 		},
 		{
-			"id": "07798",
-			"name": "Xã Ninh Sơn"
+			"id": 3851,
+			"name": "XÃ TRÌ QUANG"
 		},
 		{
-			"id": "07807",
-			"name": "Xã Quang Châu"
+			"id": 3852,
+			"name": "XÃ BẢN PHIỆT"
 		},
 		{
-			"id": "07792",
-			"name": "Xã Quảng Minh"
+			"id": 3835,
+			"name": "XÃ XUÂN GIAO"
 		},
 		{
-			"id": "07789",
-			"name": "Xã Tăng Tiến"
+			"id": 3836,
+			"name": "XÃ XUÂN QUANG"
 		},
 		{
-			"id": "07759",
-			"name": "Xã Thượng Lan"
+			"id": 3837,
+			"name": "THỊ TRẤN BẢO THẮNG"
 		},
 		{
-			"id": "07786",
-			"name": "Xã Tiên Sơn"
+			"id": 3838,
+			"name": "THỊ TRẤN TẰNG LỎNG"
 		},
 		{
-			"id": "07780",
-			"name": "Xã Trung Sơn"
+			"id": 3839,
+			"name": "XÃ BẢN CẦM"
 		},
 		{
-			"id": "07774",
-			"name": "Xã Tự Lạn"
+			"id": 3840,
+			"name": "XÃ PHONG NIÊN"
 		},
 		{
-			"id": "07804",
-			"name": "Xã Vân Hà"
+			"id": 3841,
+			"name": "XÃ PHÚ NHUẬN"
 		},
 		{
-			"id": "07801",
-			"name": "Xã Vân Trung"
+			"id": 3842,
+			"name": "XÃ SƠN HÀ"
 		},
 		{
-			"id": "07762",
-			"name": "Xã Việt Tiến"
+			"id": 3843,
+			"name": "XÃ THÁI NIÊN"
+		},
+		{
+			"id": 3844,
+			"name": "THỊ TRẤN PHONG HẢI"
 		}
 	]
 }

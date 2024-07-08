@@ -1,66 +1,70 @@
 {
-	"id": "678",
-	"name": "Huyện Đức Trọng",
+	"id": 678,
+	"name": "HUYỆN CHÂU THÀNH",
 	"data": [
 		{
-			"id": "24970",
-			"name": "Xã Bình Thạnh"
+			"id": 11299,
+			"name": "SÔNG LỘC"
 		},
 		{
-			"id": "24994",
-			"name": "Xã Đà Loan"
+			"id": 11300,
+			"name": "THANH MỸ"
 		},
 		{
-			"id": "24989",
-			"name": "Xã Đa Quyn"
+			"id": 11301,
+			"name": "MỸ CHÁNH"
 		},
 		{
-			"id": "24961",
-			"name": "Xã Hiệp An"
+			"id": 11302,
+			"name": "ĐA LỘC"
 		},
 		{
-			"id": "24967",
-			"name": "Xã Hiệp Thạnh"
+			"id": 11303,
+			"name": "HOÀ THUẬN"
 		},
 		{
-			"id": "24964",
-			"name": "Xã Liên Hiệp"
+			"id": 11304,
+			"name": "HOÀ LỢI"
 		},
 		{
-			"id": "24958",
-			"name": "Thị trấn Liên Nghĩa"
+			"id": 11305,
+			"name": "PHƯỚC HẢO"
 		},
 		{
-			"id": "24973",
-			"name": "Xã N'Thol Hạ"
+			"id": 11306,
+			"name": "NGUYỆT HOÁ"
 		},
 		{
-			"id": "24985",
-			"name": "Xã Ninh Gia"
+			"id": 11307,
+			"name": "TT CHÂU THÀNH"
 		},
 		{
-			"id": "24997",
-			"name": "Xã Ninh Loan"
+			"id": 11308,
+			"name": "LONG HOÀ"
 		},
 		{
-			"id": "24982",
-			"name": "Xã Phú Hội"
+			"id": 11309,
+			"name": "HOÀ MINH"
 		},
 		{
-			"id": "24991",
-			"name": "Xã Tà Hine"
+			"id": 11310,
+			"name": "HƯNG MỸ LƯƠNG HOÀ A"
 		},
 		{
-			"id": "24988",
-			"name": "Xã Tà Năng"
+			"id": 11311,
+			"name": "XÃ LƯƠNG HOÀ"
 		},
 		{
-			"id": "24976",
-			"name": "Xã Tân Hội"
+			"id": 11312,
+			"name": "XÃ HƯNG MỸ"
 		},
 		{
-			"id": "24979",
-			"name": "Xã Tân Thành"
+			"id": 11313,
+			"name": "XÃ TRƯỜNG LONG HOÀ"
+		},
+		{
+			"id": 11314,
+			"name": "XÃ LƯƠNG HÒA A"
 		}
 	]
 }

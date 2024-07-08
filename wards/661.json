@@ -1,34 +1,34 @@
 {
-	"id": "661",
-	"name": "Huyện Đăk Glong",
+	"id": 661,
+	"name": "HUYỆN U MINH THƯỢNG",
 	"data": [
 		{
-			"id": "24622",
-			"name": "Xã Đắk Ha"
+			"id": 11112,
+			"name": "XÃ THẠNH YÊN"
 		},
 		{
-			"id": "24634",
-			"name": "Xã Đắk Plao"
+			"id": 11113,
+			"name": "XÃ THẠNH YÊN A"
 		},
 		{
-			"id": "24625",
-			"name": "Xã Đắk R'Măng"
+			"id": 11114,
+			"name": "XÃ AN MINH BẮC"
 		},
 		{
-			"id": "24637",
-			"name": "Xã Đắk Som"
+			"id": 11115,
+			"name": "XÃ MINH THUẬN"
 		},
 		{
-			"id": "24620",
-			"name": "Xã Quảng Hoà"
+			"id": 11116,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "24631",
-			"name": "Xã Quảng Khê"
+			"id": 11117,
+			"name": "XÃ HÒA CHÁNH"
 		},
 		{
-			"id": "24616",
-			"name": "Xã Quảng Sơn"
+			"id": 11118,
+			"name": "XÃ AN MINH"
 		}
 	]
 }

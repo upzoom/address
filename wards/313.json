@@ -1,74 +1,74 @@
 {
-	"id": "313",
-	"name": "Huyện An Lão",
+	"id": 313,
+	"name": "HUYỆN MƯỜNG LA",
 	"data": [
 		{
-			"id": "11629",
-			"name": "Thị trấn An Lão"
+			"id": 5638,
+			"name": "THỊ TRẤN MƯỜNG LA"
 		},
 		{
-			"id": "11677",
-			"name": "Xã An Thái"
+			"id": 5639,
+			"name": "THỊ TRẤN ÍT ONG"
 		},
 		{
-			"id": "11653",
-			"name": "Xã An Thắng"
+			"id": 5640,
+			"name": "XÃ NẬM GIỐN"
 		},
 		{
-			"id": "11674",
-			"name": "Xã An Thọ"
+			"id": 5641,
+			"name": "XÃ CHIỀNG LAO"
 		},
 		{
-			"id": "11641",
-			"name": "Xã An Tiến"
+			"id": 5642,
+			"name": "XÃ HUA TRAI"
 		},
 		{
-			"id": "11632",
-			"name": "Xã Bát Trang"
+			"id": 5643,
+			"name": "XÃ NGỌC CHIẾN"
 		},
 		{
-			"id": "11671",
-			"name": "Xã Chiến Thắng"
+			"id": 5644,
+			"name": "XÃ MƯỜNG TRAI"
 		},
 		{
-			"id": "11668",
-			"name": "Xã Mỹ Đức"
+			"id": 5645,
+			"name": "XÃ NẬM PĂM"
 		},
 		{
-			"id": "11644",
-			"name": "Xã Quang Hưng"
+			"id": 5646,
+			"name": "XÃ CHIỀNG MUÔN"
 		},
 		{
-			"id": "11647",
-			"name": "Xã Quang Trung"
+			"id": 5647,
+			"name": "XÃ CHIỀNG ÂN"
 		},
 		{
-			"id": "11650",
-			"name": "Xã Quốc Tuấn"
+			"id": 5648,
+			"name": "XÃ PI TOONG"
 		},
 		{
-			"id": "11659",
-			"name": "Xã Tân Dân"
+			"id": 5649,
+			"name": "XÃ CHIỀNG CÔNG"
 		},
 		{
-			"id": "11665",
-			"name": "Xã Tân Viên"
+			"id": 5650,
+			"name": "XÃ TẠ BÚ"
 		},
 		{
-			"id": "11662",
-			"name": "Xã Thái Sơn"
+			"id": 5651,
+			"name": "XÃ CHIỀNG SAN"
 		},
 		{
-			"id": "11656",
-			"name": "Thị trấn Trường Sơn"
+			"id": 5652,
+			"name": "XÃ MƯỜNG BÚ"
 		},
 		{
-			"id": "11638",
-			"name": "Xã Trường Thành"
+			"id": 5653,
+			"name": "XÃ CHIỀNG HOA"
 		},
 		{
-			"id": "11635",
-			"name": "Xã Trường Thọ"
+			"id": 5654,
+			"name": "XÃ MƯỜNG CHÙM"
 		}
 	]
 }

@@ -1,138 +1,94 @@
 {
-	"id": "427",
-	"name": "Huyện Đô Lương",
+	"id": 427,
+	"name": "HUYỆN THĂNG BÌNH",
 	"data": [
 		{
-			"id": "17638",
-			"name": "Xã Bắc Sơn"
+			"id": 8030,
+			"name": "THỊ TRẤN HÀ LAM"
 		},
 		{
-			"id": "17632",
-			"name": "Xã Bài Sơn"
+			"id": 8031,
+			"name": "XÃ BÌNH NGUYÊN"
 		},
 		{
-			"id": "17626",
-			"name": "Xã Bồi Sơn"
+			"id": 8032,
+			"name": "XÃ BÌNH ĐÀO"
 		},
 		{
-			"id": "17668",
-			"name": "Xã Đà Sơn"
+			"id": 8033,
+			"name": "XÃ BÌNH HẢI"
 		},
 		{
-			"id": "17710",
-			"name": "Xã Đại Sơn"
+			"id": 8034,
+			"name": "XÃ BÌNH MINH"
 		},
 		{
-			"id": "17650",
-			"name": "Xã Đặng Sơn"
+			"id": 8035,
+			"name": "XÃ BÌNH TÚ"
 		},
 		{
-			"id": "17617",
-			"name": "Thị trấn Đô Lương"
+			"id": 8036,
+			"name": "XÃ BÌNH AN"
 		},
 		{
-			"id": "17653",
-			"name": "Xã Đông Sơn"
+			"id": 8037,
+			"name": "XÃ BÌNH LÃNH"
 		},
 		{
-			"id": "17619",
-			"name": "Xã Giang Sơn Đông"
+			"id": 8038,
+			"name": "XÃ BÌNH TRỊ"
 		},
 		{
-			"id": "17620",
-			"name": "Xã Giang Sơn Tây"
+			"id": 8039,
+			"name": "XÃ BÌNH ĐỊNH NAM"
 		},
 		{
-			"id": "17701",
-			"name": "Xã Hiến Sơn"
+			"id": 8040,
+			"name": "XÃ BÌNH QUÝ"
 		},
 		{
-			"id": "17647",
-			"name": "Xã Hòa Sơn"
+			"id": 8041,
+			"name": "XÃ BÌNH SA"
 		},
 		{
-			"id": "17629",
-			"name": "Xã Hồng Sơn"
+			"id": 8042,
+			"name": "XÃ BÌNH CHÁNH"
 		},
 		{
-			"id": "17671",
-			"name": "Xã Lạc Sơn"
+			"id": 8043,
+			"name": "XÃ BÌNH GIANG"
 		},
 		{
-			"id": "17623",
-			"name": "Xã Lam Sơn"
+			"id": 8044,
+			"name": "XÃ BÌNH PHỤC"
 		},
 		{
-			"id": "17659",
-			"name": "Xã Lưu Sơn"
+			"id": 8045,
+			"name": "XÃ BÌNH TRIỀU"
 		},
 		{
-			"id": "17692",
-			"name": "Xã Minh Sơn"
+			"id": 8046,
+			"name": "XÃ BÌNH ĐỊNH BẮC"
 		},
 		{
-			"id": "17704",
-			"name": "Xã Mỹ Sơn"
+			"id": 8047,
+			"name": "XÃ BÌNH NAM"
 		},
 		{
-			"id": "17656",
-			"name": "Xã Nam Sơn"
+			"id": 8048,
+			"name": "XÃ BÌNH TRUNG"
 		},
 		{
-			"id": "17635",
-			"name": "Xã Ngọc Sơn"
+			"id": 8049,
+			"name": "XÃ BÌNH QUẾ"
 		},
 		{
-			"id": "17698",
-			"name": "Xã Nhân Sơn"
+			"id": 8050,
+			"name": "XÃ BÌNH DƯƠNG"
 		},
 		{
-			"id": "17680",
-			"name": "Xã Quang Sơn"
-		},
-		{
-			"id": "17674",
-			"name": "Xã Tân Sơn"
-		},
-		{
-			"id": "17677",
-			"name": "Xã Thái Sơn"
-		},
-		{
-			"id": "17683",
-			"name": "Xã Thịnh Sơn"
-		},
-		{
-			"id": "17695",
-			"name": "Xã Thuận Sơn"
-		},
-		{
-			"id": "17644",
-			"name": "Xã Thượng Sơn"
-		},
-		{
-			"id": "17641",
-			"name": "Xã Tràng Sơn"
-		},
-		{
-			"id": "17707",
-			"name": "Xã Trù Sơn"
-		},
-		{
-			"id": "17686",
-			"name": "Xã Trung Sơn"
-		},
-		{
-			"id": "17665",
-			"name": "Xã Văn Sơn"
-		},
-		{
-			"id": "17689",
-			"name": "Xã Xuân Sơn"
-		},
-		{
-			"id": "17662",
-			"name": "Xã Yên Sơn"
+			"id": 8051,
+			"name": "XÃ BÌNH PHÚ"
 		}
 	]
 }

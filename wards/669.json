@@ -1,0 +1,46 @@
+{
+	"id": 669,
+	"name": "HUYỆN PHÚ QUỐC",
+	"data": [
+		{
+			"id": 11201,
+			"name": "XÃ THỔ CHÂU"
+		},
+		{
+			"id": 11202,
+			"name": "TT DƯƠNG ĐÔNG"
+		},
+		{
+			"id": 11203,
+			"name": "TT AN THỚI"
+		},
+		{
+			"id": 11204,
+			"name": "XÃ DƯƠNG TƠ"
+		},
+		{
+			"id": 11205,
+			"name": "XÃ CỬA CẠN"
+		},
+		{
+			"id": 11206,
+			"name": "XÃ GÀNH DẦU"
+		},
+		{
+			"id": 11207,
+			"name": "XÃ CỬA DƯƠNG"
+		},
+		{
+			"id": 11208,
+			"name": "XÃ BÃI THƠM"
+		},
+		{
+			"id": 11209,
+			"name": "XÃ HÒN THƠM"
+		},
+		{
+			"id": 11210,
+			"name": "XÃ HÀM NINH"
+		}
+	]
+}

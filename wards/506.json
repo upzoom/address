@@ -1,78 +1,66 @@
 {
-	"id": "506",
-	"name": "Huyện Đại Lộc",
+	"id": 506,
+	"name": "HUYỆN CHƯ PĂH",
 	"data": [
 		{
-			"id": "20500",
-			"name": "Thị Trấn Ái Nghĩa"
+			"id": 9103,
+			"name": "XÃ CHƯ JÔR"
 		},
 		{
-			"id": "20547",
-			"name": "Xã Đại An"
+			"id": 9104,
+			"name": "XÃ IA PHÍ"
 		},
 		{
-			"id": "20530",
-			"name": "Xã Đại Chánh"
+			"id": 9105,
+			"name": "XÃ IA KHƯƠL"
 		},
 		{
-			"id": "20545",
-			"name": "Xã Đại Cường"
+			"id": 9106,
+			"name": "XÃ IAKA"
 		},
 		{
-			"id": "20515",
-			"name": "Xã Đại Đồng"
+			"id": 9107,
+			"name": "XÃ CHƯ ĐĂNG YA"
 		},
 		{
-			"id": "20524",
-			"name": "Xã Đại Hiệp"
+			"id": 9108,
+			"name": "XÃ ĐĂK TỜ VER"
 		},
 		{
-			"id": "20548",
-			"name": "Xã Đại Hòa"
+			"id": 9109,
+			"name": "XÃ IA MƠ NÔNG"
 		},
 		{
-			"id": "20512",
-			"name": "Xã Đại Hồng"
+			"id": 9110,
+			"name": "XÃ HÀ TÂY"
 		},
 		{
-			"id": "20509",
-			"name": "Xã Đại Hưng"
+			"id": 9111,
+			"name": "XÃ IAKRENG"
 		},
 		{
-			"id": "20506",
-			"name": "Xã Đại Lãnh"
+			"id": 9112,
+			"name": "THỊ TRẤN PHÚ HÒA"
 		},
 		{
-			"id": "20539",
-			"name": "Xã Đại Minh"
+			"id": 9113,
+			"name": "XÃ NGHĨA HƯNG"
 		},
 		{
-			"id": "20521",
-			"name": "Xã Đại Nghĩa"
+			"id": 9114,
+			"name": "XÃ NGHĨA HÒA"
 		},
 		{
-			"id": "20536",
-			"name": "Xã Đại Phong"
+			"id": 9115,
+			"name": "XÃ IALY"
 		},
 		{
-			"id": "20518",
-			"name": "Xã Đại Quang"
+			"id": 9116,
+			"name": "XÃ IA NHIN"
 		},
 		{
-			"id": "20503",
-			"name": "Xã Đại Sơn"
-		},
-		{
-			"id": "20533",
-			"name": "Xã Đại Tân"
-		},
-		{
-			"id": "20542",
-			"name": "Xã Đại Thắng"
-		},
-		{
-			"id": "20527",
-			"name": "Xã Đại Thạnh"
+			"id": 9117,
+			"name": "XÃ HÒA PHÚ"
 		}
 	]
 }

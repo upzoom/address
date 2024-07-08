@@ -1,0 +1,74 @@
+{
+	"id": 204,
+	"name": "HUYỆN BẢO LẠC",
+	"data": [
+		{
+			"id": 3515,
+			"name": "THỊ TRẤN BẢO LẠC"
+		},
+		{
+			"id": 3516,
+			"name": "XÃ CỐC PÀNG"
+		},
+		{
+			"id": 3517,
+			"name": "XÃ THƯỢNG HÀ"
+		},
+		{
+			"id": 3518,
+			"name": "XÃ CÔ BA"
+		},
+		{
+			"id": 3519,
+			"name": "XÃ KHÁNH XUÂN"
+		},
+		{
+			"id": 3520,
+			"name": "XÃ XUÂN TRƯỜNG"
+		},
+		{
+			"id": 3521,
+			"name": "XÃ BẢO TOÀN"
+		},
+		{
+			"id": 3522,
+			"name": "XÃ HỒNG TRỊ"
+		},
+		{
+			"id": 3523,
+			"name": "XÃ PHAN THANH"
+		},
+		{
+			"id": 3524,
+			"name": "XÃ HỒNG AN"
+		},
+		{
+			"id": 3525,
+			"name": "XÃ HƯNG ĐẠO"
+		},
+		{
+			"id": 3526,
+			"name": "XÃ HUY GIÁP"
+		},
+		{
+			"id": 3527,
+			"name": "XÃ SƠN LỘ"
+		},
+		{
+			"id": 3528,
+			"name": "XÃ ĐÌNH PHÙNG"
+		},
+		{
+			"id": 3529,
+			"name": "XÃ HƯNG THỊNH"
+		},
+		{
+			"id": 3530,
+			"name": "XÃ KIM CÚC"
+		},
+		{
+			"id": 3531,
+			"name": "XÃ SƠN LẬP"
+		}
+	]
+}

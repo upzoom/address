@@ -1,46 +1,42 @@
 {
-	"id": "698",
-	"name": "Huyện Phú Riềng",
+	"id": 698,
+	"name": "HUYỆN HỒNG DÂN",
 	"data": [
 		{
-			"id": "25244",
-			"name": "Xã Bình Sơn"
+			"id": 11523,
+			"name": "TT NGAN DỪA"
 		},
 		{
-			"id": "25243",
-			"name": "Xã Bình Tân"
+			"id": 11524,
+			"name": "XÃ VĨNH LỘC"
 		},
 		{
-			"id": "25252",
-			"name": "Xã Bù Nho"
+			"id": 11525,
+			"name": "XÃ NINH THẠNH LỢI"
 		},
 		{
-			"id": "25240",
-			"name": "Xã Long Bình"
+			"id": 11526,
+			"name": "XÃ NINH QUỚI"
 		},
 		{
-			"id": "25255",
-			"name": "Xã Long Hà"
+			"id": 11527,
+			"name": "XÃ LỘC NINH"
 		},
 		{
-			"id": "25246",
-			"name": "Xã Long Hưng"
+			"id": 11528,
+			"name": "XÃ NINH QUỚI A"
 		},
 		{
-			"id": "25258",
-			"name": "Xã Long Tân"
+			"id": 11529,
+			"name": "XÃ NINH HÒA"
 		},
 		{
-			"id": "25264",
-			"name": "Xã Phú Riềng"
+			"id": 11530,
+			"name": "XÃ VĨNH LỘC A"
 		},
 		{
-			"id": "25261",
-			"name": "Xã Phú Trung"
-		},
-		{
-			"id": "25250",
-			"name": "Xã Phước Tân"
+			"id": 11531,
+			"name": "XÃ NINH THẠNH LỢI A"
 		}
 	]
 }

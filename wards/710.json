@@ -1,42 +1,106 @@
 {
-	"id": "710",
-	"name": "Huyện Gò Dầu",
+	"id": 710,
+	"name": "HUYỆN ĐIỆN BIÊN",
 	"data": [
 		{
-			"id": "25666",
-			"name": "Xã Bàu Đồn"
+			"id": 11648,
+			"name": "XÃ THANH LUÔNG"
 		},
 		{
-			"id": "25660",
-			"name": "Xã Cẩm Giang"
+			"id": 11649,
+			"name": "XÃ THANH HƯNG"
 		},
 		{
-			"id": "25654",
-			"name": "Thị trấn Gò Dầu"
+			"id": 11650,
+			"name": "XÃ THANH CHĂN"
 		},
 		{
-			"id": "25663",
-			"name": "Xã Hiệp Thạnh"
+			"id": 11651,
+			"name": "XÃ THANH XƯƠNG"
 		},
 		{
-			"id": "25672",
-			"name": "Xã Phước Đông"
+			"id": 11652,
+			"name": "XÃ THANH AN"
 		},
 		{
-			"id": "25669",
-			"name": "Xã Phước Thạnh"
+			"id": 11653,
+			"name": "XÃ THANH  YÊN"
 		},
 		{
-			"id": "25675",
-			"name": "Xã Phước Trạch"
+			"id": 11654,
+			"name": "XÃ NÚA NGAM"
 		},
 		{
-			"id": "25657",
-			"name": "Xã Thạnh Đức"
+			"id": 11655,
+			"name": "XÃ SAM MỨN"
 		},
 		{
-			"id": "25678",
-			"name": "Xã Thanh Phước"
+			"id": 11656,
+			"name": "XÃ NOONG HẸT"
+		},
+		{
+			"id": 11657,
+			"name": "XÃ NÀ TẤU"
+		},
+		{
+			"id": 11658,
+			"name": "XÃ MƯỜNG PỒN"
+		},
+		{
+			"id": 11659,
+			"name": "XÃ THANH NƯA"
+		},
+		{
+			"id": 11660,
+			"name": "XÃ NÀ NHẠN"
+		},
+		{
+			"id": 11661,
+			"name": "XÃ MƯỜNG PHĂNG"
+		},
+		{
+			"id": 11662,
+			"name": "XÃ NOONG LUỐNG"
+		},
+		{
+			"id": 11663,
+			"name": "XÃ PA THƠM"
+		},
+		{
+			"id": 11664,
+			"name": "XÃ NA Ư"
+		},
+		{
+			"id": 11665,
+			"name": "XÃ MƯỜNG NHÀ"
+		},
+		{
+			"id": 11666,
+			"name": "XÃ MƯỜNG LÓI"
+		},
+		{
+			"id": 11667,
+			"name": "XÃ POM LÓT"
+		},
+		{
+			"id": 11668,
+			"name": "XÃ HẸ MUÔNG"
+		},
+		{
+			"id": 11669,
+			"name": "XÃ HUA THANH"
+		},
+		{
+			"id": 11670,
+			"name": "XÃ NA TÔNG"
+		},
+		{
+			"id": 11671,
+			"name": "XÃ PHU LUÔNG"
+		},
+		{
+			"id": 11672,
+			"name": "XÃ PÁ KHOANG"
 		}
 	]
 }

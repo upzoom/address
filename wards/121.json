@@ -1,70 +1,74 @@
 {
-	"id": "121",
-	"name": "Huyện Bắc Yên",
+	"id": 121,
+	"name": "HUYỆN SÔNG LÔ",
 	"data": [
 		{
-			"id": "03856",
-			"name": "Thị trấn Bắc Yên"
+			"id": 1718,
+			"name": "THỊ TRẤN TAM SƠN"
 		},
 		{
-			"id": "03895",
-			"name": "Xã Chiềng Sại"
+			"id": 1719,
+			"name": "XÃ LÃNG CÔNG"
 		},
 		{
-			"id": "03877",
-			"name": "Xã Chim Vàn"
+			"id": 1720,
+			"name": "XÃ QUANG YÊN"
 		},
 		{
-			"id": "03862",
-			"name": "Xã Hang Chú"
+			"id": 1721,
+			"name": "XÃ BẠCH LƯU"
 		},
 		{
-			"id": "03869",
-			"name": "Xã Háng Đồng"
+			"id": 1722,
+			"name": "XÃ HẢI LỰU"
 		},
 		{
-			"id": "03886",
-			"name": "Xã Hồng Ngài"
+			"id": 1723,
+			"name": "XÃ ĐỒNG QUẾ"
 		},
 		{
-			"id": "03890",
-			"name": "Xã Hua Nhàn"
+			"id": 1724,
+			"name": "XÃ NHÂN ĐẠO"
 		},
 		{
-			"id": "03874",
-			"name": "Xã Làng Chếu"
+			"id": 1725,
+			"name": "XÃ ĐÔN NHÂN"
 		},
 		{
-			"id": "03880",
-			"name": "Xã Mường Khoa"
+			"id": 1726,
+			"name": "XÃ PHƯƠNG KHOAN"
 		},
 		{
-			"id": "03871",
-			"name": "Xã Pắc Ngà"
+			"id": 1727,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "03859",
-			"name": "Xã Phiêng Ban"
+			"id": 1728,
+			"name": "XÃ NHẠO SƠN"
 		},
 		{
-			"id": "03892",
-			"name": "Xã Phiêng Côn"
+			"id": 1729,
+			"name": "XÃ NHƯ THỤY"
 		},
 		{
-			"id": "03883",
-			"name": "Xã Song Pe"
+			"id": 1730,
+			"name": "XÃ YÊN THẠCH"
 		},
 		{
-			"id": "03889",
-			"name": "Xã Tạ Khoa"
+			"id": 1731,
+			"name": "XÃ ĐỒNG THỊNH"
 		},
 		{
-			"id": "03868",
-			"name": "Xã Tà Xùa"
+			"id": 1732,
+			"name": "XÃ TỨ YÊN"
 		},
 		{
-			"id": "03865",
-			"name": "Xã Xím Vàng"
+			"id": 1733,
+			"name": "XÃ ĐỨC BÁC"
+		},
+		{
+			"id": 1734,
+			"name": "XÃ CAO PHONG"
 		}
 	]
 }

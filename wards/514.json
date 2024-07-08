@@ -1,66 +1,78 @@
 {
-	"id": "514",
-	"name": "Huyện Tiên Phước",
+	"id": 514,
+	"name": "HUYỆN EA KAR",
 	"data": [
 		{
-			"id": "20890",
-			"name": "Xã Tiên An"
+			"id": 9190,
+			"name": "XÃ EA LANG"
 		},
 		{
-			"id": "20863",
-			"name": "Xã Tiên Cẩm"
+			"id": 9191,
+			"name": "XÃ CƯ HUÊ"
 		},
 		{
-			"id": "20878",
-			"name": "Xã Tiên Cảnh"
+			"id": 9192,
+			"name": "XÃ CƯ NIÊ"
 		},
 		{
-			"id": "20866",
-			"name": "Xã Tiên Châu"
+			"id": 9193,
+			"name": "XÃ CƯ PRÔNG"
 		},
 		{
-			"id": "20860",
-			"name": "Xã Tiên Hà"
+			"id": 9194,
+			"name": "XÃ CƯ YANG"
 		},
 		{
-			"id": "20875",
-			"name": "Xã Tiên Hiệp"
+			"id": 9195,
+			"name": "XÃ EA ĐAR"
 		},
 		{
-			"id": "20854",
-			"name": "Thị trấn Tiên Kỳ"
+			"id": 9196,
+			"name": "XÃ EA KMÚT"
 		},
 		{
-			"id": "20869",
-			"name": "Xã Tiên Lãnh"
+			"id": 9197,
+			"name": "XÃ EA PĂL"
 		},
 		{
-			"id": "20896",
-			"name": "Xã Tiên Lập"
+			"id": 9198,
+			"name": "XÃ  EA SÔ"
 		},
 		{
-			"id": "20893",
-			"name": "Xã Tiên Lộc"
+			"id": 9199,
+			"name": "XÃ EA TYH"
 		},
 		{
-			"id": "20881",
-			"name": "Xã Tiên Mỹ"
+			"id": 9200,
+			"name": "XÃ XUÂN PHÚ"
 		},
 		{
-			"id": "20872",
-			"name": "Xã Tiên Ngọc"
+			"id": 9201,
+			"name": "THỊ TRẤN EA KAR"
 		},
 		{
-			"id": "20884",
-			"name": "Xã Tiên Phong"
+			"id": 9202,
+			"name": "THỊ TRẤN EA KNỐP"
 		},
 		{
-			"id": "20857",
-			"name": "Xã Tiên Sơn"
+			"id": 9203,
+			"name": "XÃ CƯ BÔNG"
 		},
 		{
-			"id": "20887",
-			"name": "Xã Tiên Thọ"
+			"id": 9204,
+			"name": "XÃ EA Ô"
+		},
+		{
+			"id": 9205,
+			"name": "XÃ EA SAR"
+		},
+		{
+			"id": 9206,
+			"name": "XÃ CƯ JANG"
+		},
+		{
+			"id": 26145,
+			"name": "XÃ CƯ ELANG"
 		}
 	]
 }

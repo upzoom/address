@@ -1,0 +1,42 @@
+{
+	"id": 408,
+	"name": "HUYỆN CAM LỘ",
+	"data": [
+		{
+			"id": 7734,
+			"name": "THỊ TRẤN CAM LỘ"
+		},
+		{
+			"id": 7735,
+			"name": "XÃ CAM THÀNH"
+		},
+		{
+			"id": 7736,
+			"name": "XÃ CAM AN"
+		},
+		{
+			"id": 7737,
+			"name": "XÃ CAM THANH"
+		},
+		{
+			"id": 7738,
+			"name": "XÃ CAM THỦY"
+		},
+		{
+			"id": 7739,
+			"name": "XÃ CAM TUYỀN"
+		},
+		{
+			"id": 7740,
+			"name": "XÃ CAM HIẾU"
+		},
+		{
+			"id": 7741,
+			"name": "XÃ CAM CHÍNH"
+		},
+		{
+			"id": 7742,
+			"name": "XÃ CAM NGHĨA"
+		}
+	]
+}

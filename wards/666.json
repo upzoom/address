@@ -1,50 +1,50 @@
 {
-	"id": "666",
-	"name": "Huyện Đắk R'Lấp",
+	"id": 666,
+	"name": "HUYỆN VĨNH THUẬN",
 	"data": [
 		{
-			"id": "24763",
-			"name": "Xã Đắk Ru"
+			"id": 11168,
+			"name": "XÃ VĨNH BÌNH BẮC"
 		},
 		{
-			"id": "24760",
-			"name": "Xã Đắk Sin"
+			"id": 11169,
+			"name": "XÃ VĨNH BÌNH NAM"
 		},
 		{
-			"id": "24750",
-			"name": "Xã Đắk Wer"
+			"id": 11170,
+			"name": "XÃ BÌNH THUẬN"
 		},
 		{
-			"id": "24757",
-			"name": "Xã Đạo Nghĩa"
+			"id": 11171,
+			"name": "XÃ TÂN THUẬN"
 		},
 		{
-			"id": "24761",
-			"name": "Xã Hưng Bình"
+			"id": 11172,
+			"name": "XÃ VĨNH PHONG"
 		},
 		{
-			"id": "24733",
-			"name": "Thị trấn Kiến Đức"
+			"id": 11173,
+			"name": "XÃ ĐÔNG PHONG"
 		},
 		{
-			"id": "24754",
-			"name": "Xã Kiến Thành"
+			"id": 11174,
+			"name": "XÃ VĨNH ĐÔNG"
 		},
 		{
-			"id": "24756",
-			"name": "Xã Nghĩa Thắng"
+			"id": 11175,
+			"name": "TT VĨNH THUẬN"
 		},
 		{
-			"id": "24751",
-			"name": "Xã Nhân Cơ"
+			"id": 11176,
+			"name": "XÃ VĨNH THUẬN"
 		},
 		{
-			"id": "24766",
-			"name": "Xã Nhân Đạo"
+			"id": 15370,
+			"name": "XÃ PHONG ĐÔNG"
 		},
 		{
-			"id": "24745",
-			"name": "Xã Quảng Tín"
+			"id": 18444,
+			"name": "XÃ BÌNH MINH"
 		}
 	]
 }

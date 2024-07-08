@@ -1,142 +1,46 @@
 {
-	"id": "380",
-	"name": "Thành phố Thanh Hóa",
+	"id": 380,
+	"name": "THỊ XÃ HOÀNG MAI",
 	"data": [
 		{
-			"id": "16435",
-			"name": "Phường An Hưng"
+			"id": 7150,
+			"name": "PHƯỜNG QUỲNH DỊ"
 		},
 		{
-			"id": "14776",
-			"name": "Phường Ba Đình"
+			"id": 7151,
+			"name": "PHƯỜNG QUỲNH THIỆN"
 		},
 		{
-			"id": "14767",
-			"name": "Phường Điện Biên"
+			"id": 7152,
+			"name": "PHƯỜNG MAI HÙNG"
 		},
 		{
-			"id": "14791",
-			"name": "Phường Đông Cương"
+			"id": 7153,
+			"name": "PHƯỜNG QUỲNH PHƯƠNG"
 		},
 		{
-			"id": "14797",
-			"name": "Phường Đông Hải"
+			"id": 7154,
+			"name": "PHƯỜNG QUỲNH XUÂN"
 		},
 		{
-			"id": "14794",
-			"name": "Phường Đông Hương"
+			"id": 7155,
+			"name": "XÃ QUỲNH LẬP"
 		},
 		{
-			"id": "16396",
-			"name": "Phường Đông Lĩnh"
+			"id": 7156,
+			"name": "XÃ QUỲNH TRANG"
 		},
 		{
-			"id": "14785",
-			"name": "Phường Đông Sơn"
+			"id": 7157,
+			"name": "XÃ QUỲNH LỘC"
 		},
 		{
-			"id": "16432",
-			"name": "Phường Đông Tân"
+			"id": 7158,
+			"name": "XÃ QUỲNH VINH"
 		},
 		{
-			"id": "14758",
-			"name": "Phường Đông Thọ"
-		},
-		{
-			"id": "14782",
-			"name": "Phường Đông Vệ"
-		},
-		{
-			"id": "16429",
-			"name": "Xã Đông Vinh"
-		},
-		{
-			"id": "14755",
-			"name": "Phường Hàm Rồng"
-		},
-		{
-			"id": "15970",
-			"name": "Xã Hoằng Đại"
-		},
-		{
-			"id": "15925",
-			"name": "Xã Hoằng Quang"
-		},
-		{
-			"id": "14773",
-			"name": "Phường Lam Sơn"
-		},
-		{
-			"id": "15922",
-			"name": "Phường Long Anh"
-		},
-		{
-			"id": "14761",
-			"name": "Phường Nam Ngạn"
-		},
-		{
-			"id": "14779",
-			"name": "Phường Ngọc Trạo"
-		},
-		{
-			"id": "14770",
-			"name": "Phường Phú Sơn"
-		},
-		{
-			"id": "16507",
-			"name": "Phường Quảng Cát"
-		},
-		{
-			"id": "16459",
-			"name": "Phường Quảng Đông"
-		},
-		{
-			"id": "14800",
-			"name": "Phường Quảng Hưng"
-		},
-		{
-			"id": "16522",
-			"name": "Phường Quảng Phú"
-		},
-		{
-			"id": "16525",
-			"name": "Phường Quảng Tâm"
-		},
-		{
-			"id": "14803",
-			"name": "Phường Quảng Thắng"
-		},
-		{
-			"id": "14806",
-			"name": "Phường Quảng Thành"
-		},
-		{
-			"id": "16441",
-			"name": "Phường Quảng Thịnh"
-		},
-		{
-			"id": "14788",
-			"name": "Phường Tân Sơn"
-		},
-		{
-			"id": "15913",
-			"name": "Phường Tào Xuyên"
-		},
-		{
-			"id": "15859",
-			"name": "Phường Thiệu Dương"
-		},
-		{
-			"id": "15856",
-			"name": "Phường Thiệu Khánh"
-		},
-		{
-			"id": "15850",
-			"name": "Xã Thiệu Vân"
-		},
-		{
-			"id": "14764",
-			"name": "Phường Trường Thi"
+			"id": 7159,
+			"name": "XÃ QUỲNH LIÊN"
 		}
 	]
 }

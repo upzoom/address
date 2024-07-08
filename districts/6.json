@@ -1,0 +1,50 @@
+{
+	"id": 6,
+	"name": "Tiền Giang",
+	"data": [
+		{
+			"id": 92,
+			"name": "HUYỆN TÂN PHÚ ĐÔNG"
+		},
+		{
+			"id": 93,
+			"name": "HUYỆN CHỢ GẠO"
+		},
+		{
+			"id": 94,
+			"name": "HUYỆN GÒ CÔNG TÂY"
+		},
+		{
+			"id": 95,
+			"name": "HUYỆN CÁI BÈ"
+		},
+		{
+			"id": 96,
+			"name": "HUYỆN GÒ CÔNG ĐÔNG"
+		},
+		{
+			"id": 97,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 98,
+			"name": "HUYỆN TÂN PHƯỚC"
+		},
+		{
+			"id": 99,
+			"name": "THỊ XÃ GÒ CÔNG"
+		},
+		{
+			"id": 100,
+			"name": "HUYỆN CAI LẬY"
+		},
+		{
+			"id": 101,
+			"name": "THÀNH PHỐ MỸ THO"
+		},
+		{
+			"id": 726,
+			"name": "THỊ XÃ CAI LẬY"
+		}
+	]
+}

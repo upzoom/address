@@ -1,126 +1,30 @@
 {
-	"id": "395",
-	"name": "Huyện Thọ Xuân",
+	"id": 395,
+	"name": "THỊ XÃ HỒNG LĨNH",
 	"data": [
 		{
-			"id": "15502",
-			"name": "Xã Bắc Lương"
+			"id": 7497,
+			"name": "PHƯỜNG BẮC HỒNG"
 		},
 		{
-			"id": "15556",
-			"name": "Thị trấn Lam Sơn"
+			"id": 7498,
+			"name": "PHƯỜNG NAM HỒNG"
 		},
 		{
-			"id": "15505",
-			"name": "Xã Nam Giang"
+			"id": 7499,
+			"name": "PHƯỜNG TRUNG LƯƠNG"
 		},
 		{
-			"id": "15577",
-			"name": "Xã Phú Xuân"
+			"id": 7500,
+			"name": "PHƯỜNG ĐỨC THUẬN"
 		},
 		{
-			"id": "15571",
-			"name": "Xã Quảng Phú"
+			"id": 7501,
+			"name": "PHƯỜNG ĐẬU LIÊU"
 		},
 		{
-			"id": "15553",
-			"name": "Thị trấn Sao Vàng"
-		},
-		{
-			"id": "15523",
-			"name": "Xã Tây Hồ"
-		},
-		{
-			"id": "15538",
-			"name": "Xã Thọ Diên"
-		},
-		{
-			"id": "15520",
-			"name": "Xã Thọ Hải"
-		},
-		{
-			"id": "15541",
-			"name": "Xã Thọ Lâm"
-		},
-		{
-			"id": "15568",
-			"name": "Xã Thọ Lập"
-		},
-		{
-			"id": "15511",
-			"name": "Xã Thọ Lộc"
-		},
-		{
-			"id": "15499",
-			"name": "Thị trấn Thọ Xuân"
-		},
-		{
-			"id": "15544",
-			"name": "Xã Thọ Xương"
-		},
-		{
-			"id": "15565",
-			"name": "Xã Thuận Minh"
-		},
-		{
-			"id": "15598",
-			"name": "Xã Trường Xuân"
-		},
-		{
-			"id": "15547",
-			"name": "Xã Xuân Bái"
-		},
-		{
-			"id": "15526",
-			"name": "Xã Xuân Giang"
-		},
-		{
-			"id": "15517",
-			"name": "Xã Xuân Hòa"
-		},
-		{
-			"id": "15493",
-			"name": "Xã Xuân Hồng"
-		},
-		{
-			"id": "15535",
-			"name": "Xã Xuân Hưng"
-		},
-		{
-			"id": "15583",
-			"name": "Xã Xuân Lai"
-		},
-		{
-			"id": "15586",
-			"name": "Xã Xuân Lập"
-		},
-		{
-			"id": "15592",
-			"name": "Xã Xuân Minh"
-		},
-		{
-			"id": "15508",
-			"name": "Xã Xuân Phong"
-		},
-		{
-			"id": "15550",
-			"name": "Xã Xuân Phú"
-		},
-		{
-			"id": "15532",
-			"name": "Xã Xuân Sinh"
-		},
-		{
-			"id": "15559",
-			"name": "Xã Xuân Thiên"
-		},
-		{
-			"id": "15574",
-			"name": "Xã Xuân Tín"
-		},
-		{
-			"id": "15514",
-			"name": "Xã Xuân Trường"
+			"id": 7502,
+			"name": "PHƯỜNG THUẬN LỘC"
 		}
 	]
 }

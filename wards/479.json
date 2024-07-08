@@ -1,46 +1,86 @@
 {
-	"id": "479",
-	"name": "Thị xã Hương Thủy",
+	"id": 479,
+	"name": "HUYỆN DIÊN KHÁNH",
 	"data": [
 		{
-			"id": "19993",
-			"name": "Xã Dương Hòa"
+			"id": 8765,
+			"name": "XÃ DIÊN BÌNH"
 		},
 		{
-			"id": "19960",
-			"name": "Phường Phú Bài"
+			"id": 8766,
+			"name": "XÃ DIÊN AN"
 		},
 		{
-			"id": "19990",
-			"name": "Xã Phú Sơn"
+			"id": 8767,
+			"name": "XÃ DIÊN ĐIỀN"
 		},
 		{
-			"id": "19975",
-			"name": "Phường Thủy Châu"
+			"id": 8768,
+			"name": "XÃ DIÊN ĐÔNG"
 		},
 		{
-			"id": "19969",
-			"name": "Phường Thủy Dương"
+			"id": 8769,
+			"name": "XÃ DIÊN HÒA"
 		},
 		{
-			"id": "19978",
-			"name": "Phường Thủy Lương"
+			"id": 8770,
+			"name": "XÃ DIÊN LẠC"
 		},
 		{
-			"id": "19987",
-			"name": "Xã Thủy Phù"
+			"id": 8771,
+			"name": "XÃ DIÊN LÂM"
 		},
 		{
-			"id": "19972",
-			"name": "Phường Thủy Phương"
+			"id": 8772,
+			"name": "XÃ DIÊN LỘC"
 		},
 		{
-			"id": "19984",
-			"name": "Xã Thủy Tân"
+			"id": 8773,
+			"name": "XÃ DIÊN PHÚ"
 		},
 		{
-			"id": "19966",
-			"name": "Xã Thủy Thanh"
+			"id": 8774,
+			"name": "XÃ DIÊN PHƯỚC"
+		},
+		{
+			"id": 8775,
+			"name": "XÃ DIÊN SƠN"
+		},
+		{
+			"id": 8776,
+			"name": "XÃ DIÊN TÂN"
+		},
+		{
+			"id": 8777,
+			"name": "XÃ DIÊN THẠNH"
+		},
+		{
+			"id": 8778,
+			"name": "XÃ DIÊN THỌ"
+		},
+		{
+			"id": 8779,
+			"name": "XÃ DIÊN TOÀN"
+		},
+		{
+			"id": 8780,
+			"name": "XÃ DIÊN XUÂN"
+		},
+		{
+			"id": 8781,
+			"name": "XÃ SUỐI HIỆP"
+		},
+		{
+			"id": 8782,
+			"name": "THỊ TRẤN DIÊN KHÁNH"
+		},
+		{
+			"id": 26147,
+			"name": "XÃ BÌNH LỘC"
+		},
+		{
+			"id": 26146,
+			"name": "XÃ SUỐI TIÊN"
 		}
 	]
 }

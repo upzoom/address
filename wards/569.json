@@ -1,66 +1,46 @@
 {
-	"id": "569",
-	"name": "Thành phố Cam Ranh",
+	"id": 569,
+	"name": "HUYỆN BẮC TÂN UYÊN",
 	"data": [
 		{
-			"id": "22423",
-			"name": "Phường Ba Ngòi"
+			"id": 9807,
+			"name": "XÃ TÂN ĐỊNH"
 		},
 		{
-			"id": "22486",
-			"name": "Xã Cam Bình"
+			"id": 9808,
+			"name": "XÃ BÌNH MỸ"
 		},
 		{
-			"id": "22483",
-			"name": "Xã Cam Lập"
+			"id": 9809,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "22432",
-			"name": "Phường Cam Linh"
+			"id": 9810,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "22417",
-			"name": "Phường Cam Lộc"
+			"id": 9811,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "22429",
-			"name": "Phường Cam Lợi"
+			"id": 9812,
+			"name": "XÃ ĐẤT QUỐC"
 		},
 		{
-			"id": "22408",
-			"name": "Phường Cam Nghĩa"
+			"id": 9813,
+			"name": "XÃ HIẾU LIÊM"
 		},
 		{
-			"id": "22420",
-			"name": "Phường Cam Phú"
+			"id": 9814,
+			"name": "XÃ LẠC AN"
 		},
 		{
-			"id": "22411",
-			"name": "Phường Cam Phúc Bắc"
+			"id": 9815,
+			"name": "XÃ TÂN MỸ"
 		},
 		{
-			"id": "22414",
-			"name": "Phường Cam Phúc Nam"
-		},
-		{
-			"id": "22474",
-			"name": "Xã Cam Phước Đông"
-		},
-		{
-			"id": "22468",
-			"name": "Xã Cam Thành Nam"
-		},
-		{
-			"id": "22480",
-			"name": "Xã Cam Thịnh Đông"
-		},
-		{
-			"id": "22477",
-			"name": "Xã Cam Thịnh Tây"
-		},
-		{
-			"id": "22426",
-			"name": "Phường Cam Thuận"
+			"id": 9816,
+			"name": "XÃ THƯỜNG TÂN"
 		}
 	]
 }

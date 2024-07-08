@@ -1,114 +1,90 @@
 {
-	"id": "372",
-	"name": "Huyện Nho Quan",
+	"id": 372,
+	"name": "HUYỆN KỲ SƠN",
 	"data": [
 		{
-			"id": "14404",
-			"name": "Xã Cúc Phương"
+			"id": 6897,
+			"name": "THỊ TRẤN MƯỜNG XÉN"
 		},
 		{
-			"id": "14416",
-			"name": "Xã Đồng Phong"
+			"id": 6898,
+			"name": "XÃ KENG ĐU"
 		},
 		{
-			"id": "14410",
-			"name": "Xã Đức Long"
+			"id": 6899,
+			"name": "XÃ ĐOỌC MẠY"
 		},
 		{
-			"id": "14389",
-			"name": "Xã Gia Lâm"
+			"id": 6900,
+			"name": "XÃ MƯỜNG LỐNG"
 		},
 		{
-			"id": "14392",
-			"name": "Xã Gia Sơn"
+			"id": 6901,
+			"name": "XÃ PHÀ ĐÁNH"
 		},
 		{
-			"id": "14398",
-			"name": "Xã Gia Thủy"
+			"id": 6902,
+			"name": "XÃ BẢO NAM"
 		},
 		{
-			"id": "14401",
-			"name": "Xã Gia Tường"
+			"id": 6903,
+			"name": "XÃ HUỒI TỤ"
 		},
 		{
-			"id": "14449",
-			"name": "Xã Kỳ Phú"
+			"id": 6904,
+			"name": "XÃ BẢO THẮNG"
 		},
 		{
-			"id": "14413",
-			"name": "Xã Lạc Vân"
+			"id": 6905,
+			"name": "XÃ HỮU LẬP"
 		},
 		{
-			"id": "14422",
-			"name": "Xã Lạng Phong"
+			"id": 6906,
+			"name": "XÃ HỮU KIỆM"
 		},
 		{
-			"id": "14383",
-			"name": "Thị trấn Nho Quan"
+			"id": 6907,
+			"name": "XÃ MƯỜNG ẢI"
 		},
 		{
-			"id": "14446",
-			"name": "Xã Phú Lộc"
+			"id": 6908,
+			"name": "XÃ TÂY SƠN"
 		},
 		{
-			"id": "14458",
-			"name": "Xã Phú Long"
+			"id": 6909,
+			"name": "XÃ NA NGOI"
 		},
 		{
-			"id": "14407",
-			"name": "Xã Phú Sơn"
+			"id": 6910,
+			"name": "XÃ NẬM CÀN"
 		},
 		{
-			"id": "14461",
-			"name": "Xã Quảng Lạc"
+			"id": 6911,
+			"name": "XÃ NẬM CẮN"
 		},
 		{
-			"id": "14452",
-			"name": "Xã Quỳnh Lưu"
+			"id": 6912,
+			"name": "XÃ NA LOI"
 		},
 		{
-			"id": "14455",
-			"name": "Xã Sơn Hà"
+			"id": 6913,
+			"name": "XÃ MỸ LÝ"
 		},
 		{
-			"id": "14437",
-			"name": "Xã Sơn Lai"
+			"id": 6914,
+			"name": "XÃ BẮC LÝ"
 		},
 		{
-			"id": "14440",
-			"name": "Xã Sơn Thành"
+			"id": 6915,
+			"name": "XÃ TÀ CẠ"
 		},
 		{
-			"id": "14395",
-			"name": "Xã Thạch Bình"
+			"id": 6916,
+			"name": "XÃ CHIÊU LƯU"
 		},
 		{
-			"id": "14434",
-			"name": "Xã Thanh Lạc"
-		},
-		{
-			"id": "14425",
-			"name": "Xã Thượng Hòa"
-		},
-		{
-			"id": "14428",
-			"name": "Xã Văn Phong"
-		},
-		{
-			"id": "14443",
-			"name": "Xã Văn Phú"
-		},
-		{
-			"id": "14431",
-			"name": "Xã Văn Phương"
-		},
-		{
-			"id": "14386",
-			"name": "Xã Xích Thổ"
-		},
-		{
-			"id": "14419",
-			"name": "Xã Yên Quang"
+			"id": 6917,
+			"name": "XÃ MƯỜNG TÍP"
 		}
 	]
 }

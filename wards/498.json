@@ -1,5 +1,78 @@
 {
-	"id": "498",
-	"name": "Huyện Hoàng Sa",
-	"data": []
+	"id": 498,
+	"name": "HUYỆN ĐĂK ĐOA",
+	"data": [
+		{
+			"id": 8999,
+			"name": "XÃ ĐĂK SƠ MEI"
+		},
+		{
+			"id": 9000,
+			"name": "XÃ HÀ ĐÔNG"
+		},
+		{
+			"id": 9001,
+			"name": "XÃ ĐĂK ĐOA"
+		},
+		{
+			"id": 9002,
+			"name": "XÃ NAM  YANG"
+		},
+		{
+			"id": 9003,
+			"name": "XÃ ADƠK"
+		},
+		{
+			"id": 9004,
+			"name": "XÃ TÂN BÌNH"
+		},
+		{
+			"id": 9005,
+			"name": "XÃ H'NENG"
+		},
+		{
+			"id": 9006,
+			"name": "XÃ GLAR"
+		},
+		{
+			"id": 9007,
+			"name": "XÃ IA BĂNG"
+		},
+		{
+			"id": 9008,
+			"name": "XÃ IA PẾT"
+		},
+		{
+			"id": 9009,
+			"name": "XÃ ĐĂK KRONG"
+		},
+		{
+			"id": 9010,
+			"name": "XÃ KDANG"
+		},
+		{
+			"id": 9011,
+			"name": "XÃ HÀ BẦU"
+		},
+		{
+			"id": 9012,
+			"name": "XÃ TRANG"
+		},
+		{
+			"id": 9013,
+			"name": "XÃ KON GANG"
+		},
+		{
+			"id": 9014,
+			"name": "XÃ H'NOL"
+		},
+		{
+			"id": 9015,
+			"name": "XÃ HẢI YANG"
+		},
+		{
+			"id": 9016,
+			"name": "THỊ TRẤN ĐĂK ĐOA"
+		}
+	]
 }

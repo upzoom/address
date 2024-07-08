@@ -1,98 +1,82 @@
 {
-	"id": "292",
-	"name": "Thị xã Kinh Môn",
+	"id": 292,
+	"name": "THỊ XÃ QUẢNG YÊN",
 	"data": [
 		{
-			"id": "10675",
-			"name": "Phường An Lưu"
+			"id": 5342,
+			"name": "XÃ CỘNG HÒA"
 		},
 		{
-			"id": "10732",
-			"name": "Phường An Phụ"
+			"id": 5343,
+			"name": "XÃ MINH THÀNH"
 		},
 		{
-			"id": "10723",
-			"name": "Phường An Sinh"
+			"id": 5344,
+			"name": "XÃ ĐÔNG MAI"
 		},
 		{
-			"id": "10678",
-			"name": "Xã Bạch Đằng"
+			"id": 5345,
+			"name": "XÃ HIỆP HÒA"
 		},
 		{
-			"id": "10696",
-			"name": "Phường Duy Tân"
+			"id": 5346,
+			"name": "XÃ YÊN HẢI"
 		},
 		{
-			"id": "10744",
-			"name": "Phường Hiến Thành"
+			"id": 5347,
+			"name": "XÃ PHONG HẢI"
 		},
 		{
-			"id": "10735",
-			"name": "Phường Hiệp An"
+			"id": 5348,
+			"name": "XÃ LIÊN HÒA"
 		},
 		{
-			"id": "10708",
-			"name": "Xã Hiệp Hòa"
+			"id": 5349,
+			"name": "XÃ CẨM LA"
 		},
 		{
-			"id": "10726",
-			"name": "Phường Hiệp Sơn"
+			"id": 5350,
+			"name": "THỊ TRẤN QUẢNG YÊN"
 		},
 		{
-			"id": "10687",
-			"name": "Xã Hoành Sơn"
+			"id": 5351,
+			"name": "XÃ TIỀN AN"
 		},
 		{
-			"id": "10720",
-			"name": "Xã Lạc Long"
+			"id": 5352,
+			"name": "XÃ NAM HÒA"
 		},
 		{
-			"id": "10684",
-			"name": "Xã Lê Ninh"
+			"id": 5353,
+			"name": "XÃ HOÀNG TÂN"
 		},
 		{
-			"id": "10738",
-			"name": "Phường Long Xuyên"
+			"id": 5354,
+			"name": "XÃ HÀ AN"
 		},
 		{
-			"id": "10747",
-			"name": "Xã Minh Hòa"
+			"id": 5355,
+			"name": "XÃ TÂN AN"
 		},
 		{
-			"id": "10702",
-			"name": "Phường Minh Tân"
+			"id": 5356,
+			"name": "XÃ LIÊN VỊ"
 		},
 		{
-			"id": "10693",
-			"name": "Phường Phạm Thái"
+			"id": 5357,
+			"name": "XÃ YÊN GIANG"
 		},
 		{
-			"id": "10714",
-			"name": "Phường Phú Thứ"
+			"id": 5358,
+			"name": "XÃ PHONG CỐC"
 		},
 		{
-			"id": "10705",
-			"name": "Xã Quang Thành"
+			"id": 5359,
+			"name": "XÃ SÔNG KHOAI"
 		},
 		{
-			"id": "10699",
-			"name": "Phường Tân Dân"
-		},
-		{
-			"id": "10741",
-			"name": "Phường Thái Thịnh"
-		},
-		{
-			"id": "10717",
-			"name": "Xã Thăng Long"
-		},
-		{
-			"id": "10681",
-			"name": "Phường Thất Hùng"
-		},
-		{
-			"id": "10729",
-			"name": "Xã Thượng Quận"
+			"id": 5360,
+			"name": "XÃ TIỀN PHONG"
 		}
 	]
 }

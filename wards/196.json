@@ -1,46 +1,46 @@
 {
-	"id": "196",
-	"name": "Thành phố Uông Bí",
+	"id": 196,
+	"name": "THÀNH PHỐ HÀ GIANG",
 	"data": [
 		{
-			"id": "06814",
-			"name": "Phường Bắc Sơn"
+			"id": 3383,
+			"name": "PHƯỜNG MINH KHAI"
 		},
 		{
-			"id": "06823",
-			"name": "Phường Nam Khê"
+			"id": 3384,
+			"name": "PHƯỜNG TRẦN PHÚ"
 		},
 		{
-			"id": "06832",
-			"name": "Phường Phương Đông"
+			"id": 3385,
+			"name": "PHƯỜNG NGUYỄN TRÃI"
 		},
 		{
-			"id": "06835",
-			"name": "Phường Phương Nam"
+			"id": 3386,
+			"name": "PHƯỜNG NGỌC HÀ"
 		},
 		{
-			"id": "06817",
-			"name": "Phường Quang Trung"
+			"id": 3387,
+			"name": "PHƯỜNG QUANG TRUNG"
 		},
 		{
-			"id": "06811",
-			"name": "Phường Thanh Sơn"
+			"id": 3388,
+			"name": "XÃ NGỌC ĐƯỜNG"
 		},
 		{
-			"id": "06829",
-			"name": "Xã Thượng Yên Công"
+			"id": 3389,
+			"name": "XÃ QUYẾT THẮNG"
 		},
 		{
-			"id": "06820",
-			"name": "Phường Trưng Vương"
+			"id": 3390,
+			"name": "THÔN TÀ VẢI"
 		},
 		{
-			"id": "06808",
-			"name": "Phường Vàng Danh"
+			"id": 3391,
+			"name": "XÃ PHƯƠNG THIỆN"
 		},
 		{
-			"id": "06826",
-			"name": "Phường Yên Thanh"
+			"id": 3392,
+			"name": "XÃ PHƯƠNG ĐỘ"
 		}
 	]
 }

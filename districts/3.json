@@ -1,0 +1,66 @@
+{
+	"id": 3,
+	"name": "Hải Phòng",
+	"data": [
+		{
+			"id": 56,
+			"name": "QUẬN HỒNG BÀNG"
+		},
+		{
+			"id": 57,
+			"name": "QUẬN ĐỒ SƠN"
+		},
+		{
+			"id": 58,
+			"name": "QUẬN LÊ CHÂN"
+		},
+		{
+			"id": 59,
+			"name": "HUYỆN AN DƯƠNG"
+		},
+		{
+			"id": 60,
+			"name": "HUYỆN ĐẢO BẠCH LONG VĨ"
+		},
+		{
+			"id": 61,
+			"name": "HUYỆN KIẾN THỤY"
+		},
+		{
+			"id": 62,
+			"name": "QUẬN DƯƠNG KINH"
+		},
+		{
+			"id": 63,
+			"name": "HUYỆN AN LÃO"
+		},
+		{
+			"id": 64,
+			"name": "HUYỆN VĨNH BẢO"
+		},
+		{
+			"id": 65,
+			"name": "QUẬN KIẾN AN"
+		},
+		{
+			"id": 66,
+			"name": "HUYỆN ĐẢO CÁT HẢI"
+		},
+		{
+			"id": 67,
+			"name": "HUYỆN THỦY NGUYÊN"
+		},
+		{
+			"id": 68,
+			"name": "QUẬN NGÔ QUYỀN"
+		},
+		{
+			"id": 69,
+			"name": "HUYỆN TIÊN LÃNG"
+		},
+		{
+			"id": 70,
+			"name": "QUẬN HẢI AN"
+		}
+	]
+}

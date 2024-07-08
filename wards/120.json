@@ -1,70 +1,62 @@
 {
-	"id": "120",
-	"name": "Huyện Mường La",
+	"id": 120,
+	"name": "HUYỆN BÌNH XUYÊN",
 	"data": [
 		{
-			"id": "03832",
-			"name": "Xã Chiềng Ân"
+			"id": 1704,
+			"name": "THỊ TRẤN HƯƠNG CANH"
 		},
 		{
-			"id": "03838",
-			"name": "Xã Chiềng Công"
+			"id": 1705,
+			"name": "THỊ TRẤN THANH LÃNG"
 		},
 		{
-			"id": "03850",
-			"name": "Xã Chiềng Hoa"
+			"id": 1706,
+			"name": "THỊ TRẤN GIA KHÁNH"
 		},
 		{
-			"id": "03814",
-			"name": "Xã Chiềng Lao"
+			"id": 1707,
+			"name": "XÃ BÁ HIẾN"
 		},
 		{
-			"id": "03829",
-			"name": "Xã Chiềng Muôn"
+			"id": 1708,
+			"name": "XÃ ĐẠO ĐỨC"
 		},
 		{
-			"id": "03844",
-			"name": "Xã Chiềng San"
+			"id": 1709,
+			"name": "XÃ HƯƠNG SƠN"
 		},
 		{
-			"id": "03817",
-			"name": "Xã Hua Trai"
+			"id": 1710,
+			"name": "XÃ PHÚ XUÂN"
 		},
 		{
-			"id": "03808",
-			"name": "Thị trấn Ít Ong"
+			"id": 1711,
+			"name": "XÃ QUẤT LƯU"
 		},
 		{
-			"id": "03847",
-			"name": "Xã Mường Bú"
+			"id": 1712,
+			"name": "XÃ SƠN LÔI"
 		},
 		{
-			"id": "03853",
-			"name": "Xã Mường Chùm"
+			"id": 1713,
+			"name": "XÃ TAM HỢP"
 		},
 		{
-			"id": "03823",
-			"name": "Xã Mường Trai"
+			"id": 1714,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "03811",
-			"name": "Xã Nậm Giôn"
+			"id": 1715,
+			"name": "XÃ THIỆN KẾ"
 		},
 		{
-			"id": "03826",
-			"name": "Xã Nậm Păm"
+			"id": 1716,
+			"name": "XÃ TRUNG MỸ"
 		},
 		{
-			"id": "03820",
-			"name": "Xã Ngọc Chiến"
-		},
-		{
-			"id": "03835",
-			"name": "Xã Pi Toong"
-		},
-		{
-			"id": "03841",
-			"name": "Xã Tạ Bú"
+			"id": 1717,
+			"name": "XÃ ĐẠO ĐỨC"
 		}
 	]
 }

@@ -1,114 +1,74 @@
 {
-	"id": "280",
-	"name": "Huyện Phú Xuyên",
+	"id": 280,
+	"name": "THÀNH PHỐ BẮC GIANG",
 	"data": [
 		{
-			"id": "10342",
-			"name": "Xã Bạch Hạ"
+			"id": 5076,
+			"name": "PHƯỜNG THỌ XƯƠNG"
 		},
 		{
-			"id": "10348",
-			"name": "Xã Châu Can"
+			"id": 5077,
+			"name": "PHƯỜNG TRẦN NGUYÊN HÃN"
 		},
 		{
-			"id": "10321",
-			"name": "Xã Chuyên Mỹ"
+			"id": 5078,
+			"name": "PHƯỜNG HOÀNG VĂN THỤ"
 		},
 		{
-			"id": "10291",
-			"name": "Xã Đại Thắng"
+			"id": 5079,
+			"name": "PHƯỜNG TRẦN PHÚ"
 		},
 		{
-			"id": "10336",
-			"name": "Xã Đại Xuyên"
+			"id": 5080,
+			"name": "PHƯỜNG NGÔ QUYỀN"
 		},
 		{
-			"id": "10303",
-			"name": "Xã Hoàng Long"
+			"id": 5081,
+			"name": "PHƯỜNG MỸ ĐỘ"
 		},
 		{
-			"id": "10276",
-			"name": "Xã Hồng Minh"
+			"id": 5082,
+			"name": "XÃ DĨNH KẾ"
 		},
 		{
-			"id": "10300",
-			"name": "Xã Hồng Thái"
+			"id": 5083,
+			"name": "PHƯỜNG LÊ LỢI"
 		},
 		{
-			"id": "10324",
-			"name": "Xã Khai Thái"
+			"id": 5084,
+			"name": "XÃ ĐỒI CỐC"
 		},
 		{
-			"id": "10351",
-			"name": "Xã Minh Tân"
+			"id": 5085,
+			"name": "XÃ XƯƠNG GIANG"
 		},
 		{
-			"id": "10309",
-			"name": "Xã Nam Phong"
+			"id": 5086,
+			"name": "XÃ ĐA MAI"
 		},
 		{
-			"id": "10282",
-			"name": "Xã Nam Tiến"
+			"id": 5087,
+			"name": "XÃ SONG MAI"
 		},
 		{
-			"id": "10312",
-			"name": "Xã Nam Triều"
+			"id": 5088,
+			"name": "XÃ SONG KHÊ"
 		},
 		{
-			"id": "10270",
-			"name": "Thị trấn Phú Minh"
+			"id": 5089,
+			"name": "XÃ TÂN MỸ"
 		},
 		{
-			"id": "10294",
-			"name": "Xã Phú Túc"
+			"id": 5090,
+			"name": "XÃ TÂN TIẾN"
 		},
 		{
-			"id": "10273",
-			"name": "Thị trấn Phú Xuyên"
+			"id": 5091,
+			"name": "XÃ DĨNH TRÌ"
 		},
 		{
-			"id": "10339",
-			"name": "Xã Phú Yên"
-		},
-		{
-			"id": "10327",
-			"name": "Xã Phúc Tiến"
-		},
-		{
-			"id": "10279",
-			"name": "Xã Phượng Dực"
-		},
-		{
-			"id": "10345",
-			"name": "Xã Quang Lãng"
-		},
-		{
-			"id": "10306",
-			"name": "Xã Quang Trung"
-		},
-		{
-			"id": "10318",
-			"name": "Xã Sơn Hà"
-		},
-		{
-			"id": "10315",
-			"name": "Xã Tân Dân"
-		},
-		{
-			"id": "10333",
-			"name": "Xã Tri Thủy"
-		},
-		{
-			"id": "10288",
-			"name": "Xã Tri Trung"
-		},
-		{
-			"id": "10297",
-			"name": "Xã Văn Hoàng"
-		},
-		{
-			"id": "10330",
-			"name": "Xã Vân Từ"
+			"id": 5092,
+			"name": "XÃ ĐỒNG SƠN"
 		}
 	]
 }

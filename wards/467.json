@@ -1,58 +1,78 @@
 {
-	"id": "467",
-	"name": "Huyện Đa Krông",
+	"id": 467,
+	"name": "HUYỆN TUY AN",
 	"data": [
 		{
-			"id": "19591",
-			"name": "Xã A Bung"
+			"id": 8584,
+			"name": "XÃ AN XUÂN"
 		},
 		{
-			"id": "19594",
-			"name": "Xã A Ngo"
+			"id": 8585,
+			"name": "XÃ AN LĨNH"
 		},
 		{
-			"id": "19585",
-			"name": "Xã A Vao"
+			"id": 8586,
+			"name": "XÃ AN DÂN"
 		},
 		{
-			"id": "19570",
-			"name": "Xã Ba Lòng"
+			"id": 8587,
+			"name": "XÃ AN THẠCH"
 		},
 		{
-			"id": "19576",
-			"name": "Xã Ba Nang"
+			"id": 8588,
+			"name": "XÃ AN CƯ"
 		},
 		{
-			"id": "19564",
-			"name": "Xã Đa Krông"
+			"id": 8589,
+			"name": "XÃ AN ĐỊNH"
 		},
 		{
-			"id": "19582",
-			"name": "Xã Húc Nghì"
+			"id": 8590,
+			"name": "XÃ AN HÒA"
 		},
 		{
-			"id": "19561",
-			"name": "Xã Hướng Hiệp"
+			"id": 8591,
+			"name": "XÃ AN CHẤN"
 		},
 		{
-			"id": "19555",
-			"name": "Thị trấn Krông Klang"
+			"id": 8592,
+			"name": "XÃ AN NINH TÂY"
 		},
 		{
-			"id": "19558",
-			"name": "Xã Mò Ó"
+			"id": 8593,
+			"name": "XÃ AN THỌ"
 		},
 		{
-			"id": "19579",
-			"name": "Xã Tà Long"
+			"id": 8594,
+			"name": "THỊ TRẤN CHÍ THẠNH"
 		},
 		{
-			"id": "19588",
-			"name": "Xã Tà Rụt"
+			"id": 8595,
+			"name": "XÃ AN NINH ĐÔNG"
 		},
 		{
-			"id": "19567",
-			"name": "Xã Triệu Nguyên"
+			"id": 8596,
+			"name": "XÃ AN PHÚ"
+		},
+		{
+			"id": 8597,
+			"name": "XÃ AN MỸ"
+		},
+		{
+			"id": 8598,
+			"name": "XÃ AN HẢI"
+		},
+		{
+			"id": 8599,
+			"name": "XÃ AN HIỆP"
+		},
+		{
+			"id": 8600,
+			"name": "XÃ AN NGHIỆP"
+		},
+		{
+			"id": 26148,
+			"name": "XÃ AN HÒA HẢI"
 		}
 	]
 }

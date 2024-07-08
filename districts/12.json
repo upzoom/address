@@ -1,38 +1,54 @@
 {
-	"id": "12",
-	"name": "Tỉnh Lai Châu",
+	"id": 12,
+	"name": "Hải Dương",
 	"data": [
 		{
-			"id": "105",
-			"name": "Thành phố Lai Châu"
+			"id": 135,
+			"name": "THÀNH PHỐ HẢI DƯƠNG"
 		},
 		{
-			"id": "107",
-			"name": "Huyện Mường Tè"
+			"id": 136,
+			"name": "HUYỆN NINH GIANG"
 		},
 		{
-			"id": "112",
-			"name": "Huyện Nậm Nhùn"
+			"id": 137,
+			"name": "HUYỆN TỨ KỲ"
 		},
 		{
-			"id": "109",
-			"name": "Huyện Phong Thổ"
+			"id": 138,
+			"name": "HUYỆN THANH HÀ "
 		},
 		{
-			"id": "108",
-			"name": "Huyện Sìn Hồ"
+			"id": 139,
+			"name": "HUYỆN CẨM GIÀNG"
 		},
 		{
-			"id": "106",
-			"name": "Huyện Tam Đường"
+			"id": 140,
+			"name": "HUYỆN THANH MIỆN"
 		},
 		{
-			"id": "111",
-			"name": "Huyện Tân Uyên"
+			"id": 141,
+			"name": "HUYỆN NAM SÁCH"
 		},
 		{
-			"id": "110",
-			"name": "Huyện Than Uyên"
+			"id": 142,
+			"name": "THỊ XÃ KINH MÔN"
+		},
+		{
+			"id": 143,
+			"name": "THÀNH PHỐ CHÍ LINH"
+		},
+		{
+			"id": 144,
+			"name": "HUYỆN BÌNH GIANG"
+		},
+		{
+			"id": 145,
+			"name": "HUYỆN GIA LỘC"
+		},
+		{
+			"id": 146,
+			"name": "HUYỆN KIM THÀNH "
 		}
 	]
 }

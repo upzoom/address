@@ -1,70 +1,42 @@
 {
-	"id": "555",
-	"name": "Thành phố Tuy Hoà",
+	"id": 555,
+	"name": "HUYỆN BÙ GIA MẬP",
 	"data": [
 		{
-			"id": "22015",
-			"name": "Phường 1"
+			"id": 9668,
+			"name": "XÃ BÙ GIA MẬP"
 		},
 		{
-			"id": "22021",
-			"name": "Phường 2"
+			"id": 9669,
+			"name": "XÃ BÌNH THẮNG"
 		},
 		{
-			"id": "22027",
-			"name": "Phường 3"
+			"id": 9670,
+			"name": "XÃ PHÚ VĂN"
 		},
 		{
-			"id": "22030",
-			"name": "Phường 4"
+			"id": 9671,
+			"name": "XÁ ĐẮK Ơ"
 		},
 		{
-			"id": "22033",
-			"name": "Phường 5"
+			"id": 9672,
+			"name": "XÃ PHÚ NGHĨA"
 		},
 		{
-			"id": "22039",
-			"name": "Phường 6"
+			"id": 9673,
+			"name": "XÃ PHƯỚC MINH"
 		},
 		{
-			"id": "22036",
-			"name": "Phường 7"
+			"id": 9674,
+			"name": "XÃ ĐACHIA"
 		},
 		{
-			"id": "22018",
-			"name": "Phường 8"
+			"id": 9675,
+			"name": "XÃ ĐỨC HẠNH"
 		},
 		{
-			"id": "22024",
-			"name": "Phường 9"
-		},
-		{
-			"id": "22162",
-			"name": "Xã An Phú"
-		},
-		{
-			"id": "22045",
-			"name": "Xã Bình Kiến"
-		},
-		{
-			"id": "22048",
-			"name": "Xã Bình Ngọc"
-		},
-		{
-			"id": "22042",
-			"name": "Xã Hòa Kiến"
-		},
-		{
-			"id": "22041",
-			"name": "Phường Phú Đông"
-		},
-		{
-			"id": "22240",
-			"name": "Phường Phú Lâm"
-		},
-		{
-			"id": "22040",
-			"name": "Phường Phú Thạnh"
+			"id": 88659,
+			"name": "XÃ ĐA KIA"
 		}
 	]
 }

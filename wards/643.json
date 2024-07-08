@@ -1,90 +1,66 @@
 {
-	"id": "643",
-	"name": "Thành phố Buôn Ma Thuột",
+	"id": 643,
+	"name": "HUYỆN LONG HỒ",
 	"data": [
 		{
-			"id": "24160",
-			"name": "Xã Cư ÊBur"
+			"id": 10809,
+			"name": "TT LONG HỒ"
 		},
 		{
-			"id": "24169",
-			"name": "Xã Ea Kao"
+			"id": 10810,
+			"name": "XÃ HÒA PHÚ"
 		},
 		{
-			"id": "24151",
-			"name": "Phường Ea Tam"
+			"id": 10811,
+			"name": "TÂN HẠNH"
 		},
 		{
-			"id": "24163",
-			"name": "Xã Ea Tu"
+			"id": 10812,
+			"name": "LỘC HÒA"
 		},
 		{
-			"id": "24175",
-			"name": "Xã Hòa Khánh"
+			"id": 10813,
+			"name": "LONG PHƯỚC"
 		},
 		{
-			"id": "24172",
-			"name": "Xã Hòa Phú"
+			"id": 10814,
+			"name": "THANH ĐỨC"
 		},
 		{
-			"id": "24166",
-			"name": "Xã Hòa Thắng"
+			"id": 10815,
+			"name": "PHÚ ĐỨC"
 		},
 		{
-			"id": "24157",
-			"name": "Xã Hòa Thuận"
+			"id": 10816,
+			"name": "ĐỒNG PHÚ"
 		},
 		{
-			"id": "24178",
-			"name": "Xã Hòa Xuân"
+			"id": 10817,
+			"name": "HÒA NINH"
 		},
 		{
-			"id": "24154",
-			"name": "Phường Khánh Xuân"
+			"id": 10818,
+			"name": "BÌNH HÒA PHƯỚC"
 		},
 		{
-			"id": "24124",
-			"name": "Phường Tân An"
+			"id": 10819,
+			"name": "AN BÌNH"
 		},
 		{
-			"id": "24121",
-			"name": "Phường Tân Hòa"
+			"id": 10820,
+			"name": "PHƯỚC HẬU"
 		},
 		{
-			"id": "24118",
-			"name": "Phường Tân Lập"
+			"id": 10821,
+			"name": "THẠNH QUỚI"
 		},
 		{
-			"id": "24136",
-			"name": "Phường Tân Lợi"
+			"id": 10822,
+			"name": "PHÚ QUỚI"
 		},
 		{
-			"id": "24142",
-			"name": "Phường Tân Thành"
-		},
-		{
-			"id": "24145",
-			"name": "Phường Tân Tiến"
-		},
-		{
-			"id": "24133",
-			"name": "Phường Thắng Lợi"
-		},
-		{
-			"id": "24139",
-			"name": "Phường Thành Công"
-		},
-		{
-			"id": "24130",
-			"name": "Phường Thành Nhất"
-		},
-		{
-			"id": "24127",
-			"name": "Phường Thống Nhất"
-		},
-		{
-			"id": "24148",
-			"name": "Phường Tự An"
+			"id": 10823,
+			"name": "LONG AN"
 		}
 	]
 }

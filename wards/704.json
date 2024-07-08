@@ -1,0 +1,38 @@
+{
+	"id": 704,
+	"name": "HUYỆN U MINH",
+	"data": [
+		{
+			"id": 11581,
+			"name": "XÃ KHÁNH AN"
+		},
+		{
+			"id": 11582,
+			"name": "XÃ KHÁNH TIẾN"
+		},
+		{
+			"id": 11583,
+			"name": "XÃ KHÁNH HÒA"
+		},
+		{
+			"id": 11584,
+			"name": "XÃ KHÁNH HỘI"
+		},
+		{
+			"id": 11585,
+			"name": "XÃ KHÁNH LÂM"
+		},
+		{
+			"id": 11586,
+			"name": "XÃ NGUYỄN PHÍCH"
+		},
+		{
+			"id": 11587,
+			"name": "TT U MINH"
+		},
+		{
+			"id": 11588,
+			"name": "XÃ KHÁNH THUẬN"
+		}
+	]
+}

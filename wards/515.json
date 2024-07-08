@@ -1,58 +1,94 @@
 {
-	"id": "515",
-	"name": "Huyện Bắc Trà My",
+	"id": 515,
+	"name": "THÀNH PHỐ BUÔN MA THUỘT",
 	"data": [
 		{
-			"id": "20917",
-			"name": "Xã Trà Bui"
+			"id": 9207,
+			"name": "PHƯỜNG TÂN HOÀ"
 		},
 		{
-			"id": "20920",
-			"name": "Xã Trà Đốc"
+			"id": 9208,
+			"name": "PHƯỜNG TÂN LẬP"
 		},
 		{
-			"id": "20908",
-			"name": "Xã Trà Đông"
+			"id": 9209,
+			"name": "PHƯỜNG EATAM"
 		},
 		{
-			"id": "20911",
-			"name": "Xã Trà Dương"
+			"id": 9210,
+			"name": "PHƯỜNG TÂN THÀNH"
 		},
 		{
-			"id": "20926",
-			"name": "Xã Trà Giác"
+			"id": 9211,
+			"name": "PHƯỜNG TÂN AN"
 		},
 		{
-			"id": "20914",
-			"name": "Xã Trà Giang"
+			"id": 9212,
+			"name": "PHƯỜNG KHÁNH XUÂN"
 		},
 		{
-			"id": "20929",
-			"name": "Xã Trà Giáp"
+			"id": 9213,
+			"name": "XÃ HOÀ THẮNG"
 		},
 		{
-			"id": "20932",
-			"name": "Xã Trà Ka"
+			"id": 9214,
+			"name": "XÃ HOÀ THUẬN"
 		},
 		{
-			"id": "20902",
-			"name": "Xã Trà Kót"
+			"id": 9215,
+			"name": "PHƯỜNG THỐNG NHẤT"
 		},
 		{
-			"id": "20899",
-			"name": "Thị trấn Trà My"
+			"id": 9216,
+			"name": "PHƯỜNG THÀNH NHẤT"
 		},
 		{
-			"id": "20905",
-			"name": "Xã Trà Nú"
+			"id": 9217,
+			"name": "PHƯỜNG TỰ AN"
 		},
 		{
-			"id": "20900",
-			"name": "Xã Trà Sơn"
+			"id": 9218,
+			"name": "XÃ EAKAO"
 		},
 		{
-			"id": "20923",
-			"name": "Xã Trà Tân"
+			"id": 9219,
+			"name": "XÃ HOÀ PHÚ"
+		},
+		{
+			"id": 9220,
+			"name": "XÃ HOÀ XUÂN"
+		},
+		{
+			"id": 9221,
+			"name": "XÃ EATU"
+		},
+		{
+			"id": 9222,
+			"name": "XÃ HOÀ KHÁNH"
+		},
+		{
+			"id": 9223,
+			"name": "PHƯỜNG TÂN LỢI"
+		},
+		{
+			"id": 9224,
+			"name": "PHƯỜNG THẮNG LỢI"
+		},
+		{
+			"id": 9225,
+			"name": "PHƯỜNG TÂN TIẾN"
+		},
+		{
+			"id": 9226,
+			"name": "PHƯỜNG THÀNH CÔNG"
+		},
+		{
+			"id": 9227,
+			"name": "XÃ HÒA PHÚ"
+		},
+		{
+			"id": 9228,
+			"name": "XÃ CUEBUOR"
 		}
 	]
 }

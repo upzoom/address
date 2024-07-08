@@ -1,146 +1,186 @@
 {
-	"id": "339",
-	"name": "Huyện Hưng Hà",
+	"id": 339,
+	"name": "HUYỆN QUẢNG XƯƠNG",
 	"data": [
 		{
-			"id": "12628",
-			"name": "Xã Bắc Sơn"
+			"id": 6167,
+			"name": "XÃ QUẢNG TÂN"
 		},
 		{
-			"id": "12601",
-			"name": "Xã Canh Tân"
+			"id": 6168,
+			"name": "XÃ QUẢNG YÊN"
 		},
 		{
-			"id": "12679",
-			"name": "Xã Chí Hòa"
+			"id": 6169,
+			"name": "XÃ QUẢNG PHÚ"
 		},
 		{
-			"id": "12656",
-			"name": "Xã Chi Lăng"
+			"id": 6170,
+			"name": "XÃ QUẢNG ĐÔNG"
 		},
 		{
-			"id": "12595",
-			"name": "Xã Cộng Hòa"
+			"id": 6171,
+			"name": "XÃ QUẢNG PHONG"
 		},
 		{
-			"id": "12598",
-			"name": "Xã Dân Chủ"
+			"id": 6172,
+			"name": "XÃ QUẢNG THỊNH"
 		},
 		{
-			"id": "12589",
-			"name": "Xã Điệp Nông"
+			"id": 6173,
+			"name": "XÃ QUẢNG LỢI"
 		},
 		{
-			"id": "12616",
-			"name": "Xã Đoan Hùng"
+			"id": 6174,
+			"name": "THỊ TRẤN QUẢNG XƯƠNG"
 		},
 		{
-			"id": "12676",
-			"name": "Xã Độc Lập"
+			"id": 6175,
+			"name": "XÃ QUẢNG HÒA"
 		},
 		{
-			"id": "12631",
-			"name": "Xã Đông Đô"
+			"id": 6176,
+			"name": "XÃ QUẢNG NINH"
 		},
 		{
-			"id": "12619",
-			"name": "Xã Duyên Hải"
+			"id": 6177,
+			"name": "XÃ QUẢNG LƯU"
 		},
 		{
-			"id": "12655",
-			"name": "Xã Hòa Bình"
+			"id": 6178,
+			"name": "XÃ QUẢNG ĐỊNH"
 		},
 		{
-			"id": "12604",
-			"name": "Xã Hòa Tiến"
+			"id": 6179,
+			"name": "XÃ QUẢNG TÂM"
 		},
 		{
-			"id": "12661",
-			"name": "Xã Hồng An"
+			"id": 6180,
+			"name": "XÃ QUẢNG LONG"
 		},
 		{
-			"id": "12667",
-			"name": "Xã Hồng Lĩnh"
+			"id": 6181,
+			"name": "XÃ QUẢNG PHÚC"
 		},
 		{
-			"id": "12685",
-			"name": "Xã Hồng Minh"
+			"id": 6182,
+			"name": "XÃ QUẢNG VỌNG"
 		},
 		{
-			"id": "12607",
-			"name": "Xã Hùng Dũng"
+			"id": 6183,
+			"name": "XÃ QUẢNG NGỌC"
 		},
 		{
-			"id": "12586",
-			"name": "Thị trấn Hưng Hà"
+			"id": 6184,
+			"name": "XÃ QUẢNG TRƯƠNG"
 		},
 		{
-			"id": "12613",
-			"name": "Thị trấn Hưng Nhân"
+			"id": 6185,
+			"name": "XÃ QUẢNG KHÊ"
 		},
 		{
-			"id": "12664",
-			"name": "Xã Kim Chung"
+			"id": 6186,
+			"name": "XÃ QUẢNG TRUNG"
 		},
 		{
-			"id": "12637",
-			"name": "Xã Liên Hiệp"
+			"id": 6187,
+			"name": "XÃ QUẢNG THÁI"
 		},
 		{
-			"id": "12682",
-			"name": "Xã Minh Hòa"
+			"id": 6188,
+			"name": "XÃ QUẢNG BÌNH"
 		},
 		{
-			"id": "12658",
-			"name": "Xã Minh Khai"
+			"id": 6189,
+			"name": "XÃ QUẢNG ĐỨC"
 		},
 		{
-			"id": "12670",
-			"name": "Xã Minh Tân"
+			"id": 6190,
+			"name": "XÃ QUẢNG HẢI"
 		},
 		{
-			"id": "12634",
-			"name": "Xã Phúc Khánh"
+			"id": 6191,
+			"name": "XÃ QUẢNG CHÂU"
 		},
 		{
-			"id": "12622",
-			"name": "Xã Tân Hòa"
+			"id": 6192,
+			"name": "XÃ QUẢNG LĨNH"
 		},
 		{
-			"id": "12592",
-			"name": "Xã Tân Lễ"
+			"id": 6193,
+			"name": "XÃ QUẢNG HÙNG"
 		},
 		{
-			"id": "12610",
-			"name": "Xã Tân Tiến"
+			"id": 6194,
+			"name": "XÃ QUẢNG CÁT"
 		},
 		{
-			"id": "12640",
-			"name": "Xã Tây Đô"
+			"id": 6195,
+			"name": "XÃ QUẢNG GIAO"
 		},
 		{
-			"id": "12649",
-			"name": "Xã Thái Hưng"
+			"id": 6196,
+			"name": "XÃ QUẢNG THỌ"
 		},
 		{
-			"id": "12652",
-			"name": "Xã Thái Phương"
+			"id": 6197,
+			"name": "XÃ QUẢNG TRẠCH"
 		},
 		{
-			"id": "12643",
-			"name": "Xã Thống Nhất"
+			"id": 6198,
+			"name": "XÃ QUẢNG VĂN"
 		},
 		{
-			"id": "12646",
-			"name": "Xã Tiến Đức"
+			"id": 6199,
+			"name": "XÃ QUẢNG CHÍNH"
 		},
 		{
-			"id": "12625",
-			"name": "Xã Văn Cẩm"
+			"id": 6200,
+			"name": "XÃ QUẢNG NHAM"
 		},
 		{
-			"id": "12673",
-			"name": "Xã Văn Lang"
+			"id": 6201,
+			"name": "XÃ QUẢNG THẠCH"
+		},
+		{
+			"id": 6202,
+			"name": "XÃ QUẢNG LỘC"
+		},
+		{
+			"id": 6203,
+			"name": "XÃ QUẢNG HỢP"
+		},
+		{
+			"id": 6204,
+			"name": "XÃ QUẢNG NHÂN"
+		},
+		{
+			"id": 6205,
+			"name": "XÃ QUẢNG ĐẠI"
+		},
+		{
+			"id": 6206,
+			"name": "XÃ QUẢNG VINH"
+		},
+		{
+			"id": 6207,
+			"name": "XÃ QUẢNG MINH"
+		},
+		{
+			"id": 6208,
+			"name": "THỊ TRẤN LƯU VỆ"
+		},
+		{
+			"id": 6209,
+			"name": "THỊ TRẤN NGÃ BA MÔI"
+		},
+		{
+			"id": 26218,
+			"name": "THỊ TRẤN TÂN PHONG"
+		},
+		{
+			"id": 26217,
+			"name": "XÃ TIÊN TRANG"
 		}
 	]
 }

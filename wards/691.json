@@ -1,38 +1,58 @@
 {
-	"id": "691",
-	"name": "Huyện Bù Gia Mập",
+	"id": 691,
+	"name": "HUYỆN MỸ TÚ",
 	"data": [
 		{
-			"id": "25234",
-			"name": "Xã Bình Thắng"
+			"id": 11452,
+			"name": "XÃ AN NINH"
 		},
 		{
-			"id": "25222",
-			"name": "Xã Bù Gia Mập"
+			"id": 11453,
+			"name": "XÃ MỸ HƯƠNG"
 		},
 		{
-			"id": "25231",
-			"name": "Xã Đa Kia"
+			"id": 11454,
+			"name": "XÃ THIÊN MỸ"
 		},
 		{
-			"id": "25225",
-			"name": "Xã Đak Ơ"
+			"id": 11455,
+			"name": "XÃ THUẬN HOÀ"
 		},
 		{
-			"id": "25228",
-			"name": "Xã Đức Hạnh"
+			"id": 11456,
+			"name": "XÃ MỸ THUẬN"
 		},
 		{
-			"id": "25267",
-			"name": "Xã Phú Nghĩa"
+			"id": 11457,
+			"name": "XÃ THUẬN HƯNG"
 		},
 		{
-			"id": "25229",
-			"name": "Xã Phú Văn"
+			"id": 11458,
+			"name": "THỊ TRẤN HUỲNH HỮU NGHĨA"
 		},
 		{
-			"id": "25232",
-			"name": "Xã Phước Minh"
+			"id": 11459,
+			"name": "XÃ HƯNG PHÚ"
+		},
+		{
+			"id": 11460,
+			"name": "XÃ MỸ PHƯỚC"
+		},
+		{
+			"id": 11461,
+			"name": "XÃ MỸ TÚ"
+		},
+		{
+			"id": 11462,
+			"name": "XÃ HỒ ĐẮC KIỆN"
+		},
+		{
+			"id": 11463,
+			"name": "XÃ LONG HƯNG"
+		},
+		{
+			"id": 11464,
+			"name": "XÃ PHÚ MỸ"
 		}
 	]
 }

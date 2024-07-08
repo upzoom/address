@@ -1,0 +1,34 @@
+{
+	"id": 42,
+	"name": "HUYỆN CẦN GIỜ",
+	"data": [
+		{
+			"id": 765,
+			"name": "THỊ TRẤN CẦN THẠNH"
+		},
+		{
+			"id": 766,
+			"name": "XÃ AN THỚI ĐÔNG"
+		},
+		{
+			"id": 767,
+			"name": "XÃ LÝ NHƠN"
+		},
+		{
+			"id": 768,
+			"name": "XÃ TAM THÔN HIỆP"
+		},
+		{
+			"id": 769,
+			"name": "XÃ BÌNH KHÁNH"
+		},
+		{
+			"id": 770,
+			"name": "XÃ LONG HÒA"
+		},
+		{
+			"id": 771,
+			"name": "XÃ THẠNH AN"
+		}
+	]
+}

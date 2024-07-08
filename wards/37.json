@@ -1,0 +1,34 @@
+{
+	"id": 37,
+	"name": "HUYỆN NHÀ BÈ",
+	"data": [
+		{
+			"id": 709,
+			"name": "XÃ PHÚ XUÂN"
+		},
+		{
+			"id": 710,
+			"name": "XÃ LONG THỚI"
+		},
+		{
+			"id": 711,
+			"name": "XÃ HIỆP PHƯỚC"
+		},
+		{
+			"id": 712,
+			"name": "XÃ PHƯỚC LỘC"
+		},
+		{
+			"id": 713,
+			"name": "THỊ TRẤN NHÀ BÈ"
+		},
+		{
+			"id": 714,
+			"name": "XÃ NHƠN ĐỨC"
+		},
+		{
+			"id": 715,
+			"name": "XÃ PHƯỚC KIỂN"
+		}
+	]
+}

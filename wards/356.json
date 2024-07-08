@@ -1,106 +1,106 @@
 {
-	"id": "356",
-	"name": "Thành phố Nam Định",
+	"id": 356,
+	"name": "HUYỆN BÁ THƯỚC",
 	"data": [
 		{
-			"id": "13654",
-			"name": "Phường Bà Triệu"
+			"id": 6571,
+			"name": "XÃ LŨNG CAO"
 		},
 		{
-			"id": "13648",
-			"name": "Phường Cửa Bắc"
+			"id": 6572,
+			"name": "XÃ HẠ TRUNG"
 		},
 		{
-			"id": "13690",
-			"name": "Phường Cửa Nam"
+			"id": 6573,
+			"name": "XÃ LƯỢNG NỘI"
 		},
 		{
-			"id": "13633",
-			"name": "Phường Hạ Long"
+			"id": 6574,
+			"name": "XÃ KỲ TÂN"
 		},
 		{
-			"id": "13702",
-			"name": "Xã Lộc An"
+			"id": 6575,
+			"name": "XÃ VĂN NHO"
 		},
 		{
-			"id": "13684",
-			"name": "Phường Lộc Hạ"
+			"id": 6576,
+			"name": "XÃ ĐIỀN THƯỢNG"
 		},
 		{
-			"id": "13693",
-			"name": "Phường Lộc Hòa"
+			"id": 6577,
+			"name": "XÃ ĐIỀN HẠ"
 		},
 		{
-			"id": "13687",
-			"name": "Phường Lộc Vượng"
+			"id": 6578,
+			"name": "XÃ ĐIỀN TRUNG"
 		},
 		{
-			"id": "13699",
-			"name": "Phường Mỹ Xá"
+			"id": 6579,
+			"name": "XÃ LƯƠNG TRUNG"
 		},
 		{
-			"id": "13696",
-			"name": "Xã Nam Phong"
+			"id": 6580,
+			"name": "XÃ ĐIỀN QUANG"
 		},
 		{
-			"id": "13705",
-			"name": "Xã Nam Vân"
+			"id": 6581,
+			"name": "XÃ ĐIỀN LƯ"
 		},
 		{
-			"id": "13672",
-			"name": "Phường Năng Tĩnh"
+			"id": 6582,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "13663",
-			"name": "Phường Ngô Quyền"
+			"id": 6583,
+			"name": "XÃ LÂM SA"
 		},
 		{
-			"id": "13651",
-			"name": "Phường Nguyễn Du"
+			"id": 6584,
+			"name": "XÃ LŨNG NIÊM"
 		},
 		{
-			"id": "13660",
-			"name": "Phường Phan Đình Phùng"
+			"id": 6585,
+			"name": "XÃ THANH LÂM"
 		},
 		{
-			"id": "13645",
-			"name": "Phường Quang Trung"
+			"id": 6586,
+			"name": "XÃ CỔ LŨNG"
 		},
 		{
-			"id": "13681",
-			"name": "Phường Thống Nhất"
+			"id": 6587,
+			"name": "XÃ BAN CÔNG"
 		},
 		{
-			"id": "13669",
-			"name": "Phường Trần Đăng Ninh"
+			"id": 6588,
+			"name": "XÃ LƯƠNG NGOẠI"
 		},
 		{
-			"id": "13666",
-			"name": "Phường Trần Hưng Đạo"
+			"id": 6589,
+			"name": "XÃ THIẾT KẾ"
 		},
 		{
-			"id": "13678",
-			"name": "Phường Trần Quang Khải"
+			"id": 6590,
+			"name": "XÃ ĐỒNG TÂM"
 		},
 		{
-			"id": "13636",
-			"name": "Phường Trần Tế Xương"
+			"id": 6591,
+			"name": "XÃ THÀNH SƠN"
 		},
 		{
-			"id": "13657",
-			"name": "Phường Trường Thi"
+			"id": 12304,
+			"name": "XÃ QUẢNG CHÂU"
 		},
 		{
-			"id": "13675",
-			"name": "Phường Văn Miếu"
+			"id": 18451,
+			"name": "XÃ THIẾT ỐNG"
 		},
 		{
-			"id": "13639",
-			"name": "Phường Vị Hoàng"
+			"id": 6569,
+			"name": "XÃ ÁI THƯỢNG"
 		},
 		{
-			"id": "13642",
-			"name": "Phường Vị Xuyên"
+			"id": 6570,
+			"name": "THỊ TRẤN CÀNH NÀNG"
 		}
 	]
 }

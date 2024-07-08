@@ -1,30 +1,58 @@
 {
-	"id": "437",
-	"name": "Thị xã Hồng Lĩnh",
+	"id": 437,
+	"name": "THÀNH PHỐ HỘI AN",
 	"data": [
 		{
-			"id": "18115",
-			"name": "Phường Bắc Hồng"
+			"id": 8173,
+			"name": "PHƯỜNG THANH HÀ"
 		},
 		{
-			"id": "18127",
-			"name": "Phường Đậu Liêu"
+			"id": 8174,
+			"name": "PHƯỜNG TÂN AN"
 		},
 		{
-			"id": "18124",
-			"name": "Phường Đức Thuận"
+			"id": 8175,
+			"name": "PHƯỜNG CỬA ĐẠI"
 		},
 		{
-			"id": "18118",
-			"name": "Phường Nam Hồng"
+			"id": 8176,
+			"name": "PHƯỜNG MINH AN"
 		},
 		{
-			"id": "18130",
-			"name": "Xã Thuận Lộc"
+			"id": 8177,
+			"name": "PHƯỜNG CẨM PHÔ"
 		},
 		{
-			"id": "18121",
-			"name": "Phường Trung Lương"
+			"id": 8178,
+			"name": "PHƯỜNG SƠN PHONG"
+		},
+		{
+			"id": 8179,
+			"name": "XÃ CẦM HÀ"
+		},
+		{
+			"id": 8180,
+			"name": "XÃ CẨM THANH"
+		},
+		{
+			"id": 8181,
+			"name": "PHƯỜNG CẨM AN"
+		},
+		{
+			"id": 8182,
+			"name": "PHƯỜNG CẨM CHÂU"
+		},
+		{
+			"id": 8183,
+			"name": "PHƯỜNG CẨM NAM"
+		},
+		{
+			"id": 8184,
+			"name": "XÃ CẨM KIM"
+		},
+		{
+			"id": 8185,
+			"name": "XÃ TÂN HIỆP"
 		}
 	]
 }

@@ -1,70 +1,78 @@
 {
-	"id": "351",
-	"name": "Huyện Thanh Liêm",
+	"id": 351,
+	"name": "HUYỆN NHƯ THANH",
 	"data": [
 		{
-			"id": "13441",
-			"name": "Thị trấn Kiện Khê"
+			"id": 18457,
+			"name": "XÃ YÊN LẠC"
 		},
 		{
-			"id": "13456",
-			"name": "Xã Liêm Cần"
+			"id": 6480,
+			"name": "XÃ YÊN THỌ"
 		},
 		{
-			"id": "13450",
-			"name": "Xã Liêm Phong"
+			"id": 6481,
+			"name": "XÃ HẢI VÂN"
 		},
 		{
-			"id": "13483",
-			"name": "Xã Liêm Sơn"
+			"id": 6482,
+			"name": "XÃ PHÚC ĐƯỜNG"
 		},
 		{
-			"id": "13465",
-			"name": "Xã Liêm Thuận"
+			"id": 6483,
+			"name": "XÃ THANH TÂN"
 		},
 		{
-			"id": "13480",
-			"name": "Xã Liêm Túc"
+			"id": 6484,
+			"name": "XÃ HẢI LONG"
 		},
 		{
-			"id": "13474",
-			"name": "Thị trấn Tân Thanh"
+			"id": 6485,
+			"name": "XÃ XUÂN KHANG"
 		},
 		{
-			"id": "13453",
-			"name": "Xã Thanh Hà"
+			"id": 6486,
+			"name": "THỊ TRẤN BẾN SUNG"
 		},
 		{
-			"id": "13498",
-			"name": "Xã Thanh Hải"
+			"id": 6487,
+			"name": "XÃ BÌNH THUẬN"
 		},
 		{
-			"id": "13486",
-			"name": "Xã Thanh Hương"
+			"id": 6488,
+			"name": "XÃ CÁN KHÊ"
 		},
 		{
-			"id": "13489",
-			"name": "Xã Thanh Nghị"
+			"id": 6489,
+			"name": "XÃ XUÂN DU"
 		},
 		{
-			"id": "13495",
-			"name": "Xã Thanh Nguyên"
+			"id": 6490,
+			"name": "XÃ PHƯỢNG NGHI"
 		},
 		{
-			"id": "13471",
-			"name": "Xã Thanh Phong"
+			"id": 6491,
+			"name": "XÃ PHÚ NHUẬN"
 		},
 		{
-			"id": "13492",
-			"name": "Xã Thanh Tâm"
+			"id": 6492,
+			"name": "XÃ MẬU LÂM"
 		},
 		{
-			"id": "13477",
-			"name": "Xã Thanh Tân"
+			"id": 6493,
+			"name": "XÃ XUÂN THÁI"
 		},
 		{
-			"id": "13468",
-			"name": "Xã Thanh Thủy"
+			"id": 6494,
+			"name": "XÃ THANH KỲ"
+		},
+		{
+			"id": 6495,
+			"name": "XÃ XUÂN THỌ"
+		},
+		{
+			"id": 6496,
+			"name": "XÃ XUÂN PHÚC"
 		}
 	]
 }

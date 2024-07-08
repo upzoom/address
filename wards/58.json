@@ -1,0 +1,66 @@
+{
+	"id": 58,
+	"name": "QUẬN LÊ CHÂN",
+	"data": [
+		{
+			"id": 970,
+			"name": "PHƯỜNG CÁT DÀI"
+		},
+		{
+			"id": 971,
+			"name": "PHƯỜNG AN BIÊN"
+		},
+		{
+			"id": 972,
+			"name": "PHƯỜNG ĐÔNG HẢI"
+		},
+		{
+			"id": 973,
+			"name": "PHƯỜNG AN DƯƠNG"
+		},
+		{
+			"id": 974,
+			"name": "PHƯỜNG DƯ HÀNG"
+		},
+		{
+			"id": 975,
+			"name": "PHƯỜNG DƯ HÀNG KÊNH"
+		},
+		{
+			"id": 976,
+			"name": "PHƯỜNG HÀNG KÊNH"
+		},
+		{
+			"id": 977,
+			"name": "PHƯỜNG HỒ NAM"
+		},
+		{
+			"id": 978,
+			"name": "PHƯỜNG KÊNH DƯƠNG"
+		},
+		{
+			"id": 979,
+			"name": "PHƯỜNG LAM SƠN"
+		},
+		{
+			"id": 980,
+			"name": "PHƯỜNG NIỆM NGHĨA"
+		},
+		{
+			"id": 981,
+			"name": "PHƯỜNG NGHĨA XÃ"
+		},
+		{
+			"id": 982,
+			"name": "PHƯỜNG TRẠI CAU"
+		},
+		{
+			"id": 983,
+			"name": "PHƯỜNG TRẦN NGUYÊN HÃN"
+		},
+		{
+			"id": 984,
+			"name": "PHƯỜNG VĨNH NIỆM"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": 46,
+	"name": "QUẬN BÌNH TÂN",
+	"data": [
+		{
+			"id": 17418,
+			"name": "PHƯỜNG BÌNH HƯNG HOÀ B"
+		},
+		{
+			"id": 814,
+			"name": "PHƯỜNG AN LẠC"
+		},
+		{
+			"id": 815,
+			"name": "PHƯỜNG BÌNH TRỊ ĐÔNG"
+		},
+		{
+			"id": 816,
+			"name": "PHƯỜNG BÌNH TRỊ ĐÔNG A"
+		},
+		{
+			"id": 817,
+			"name": "PHƯỜNG BÌNH TRỊ ĐÔNG B"
+		},
+		{
+			"id": 818,
+			"name": "PHƯỜNG BÌNH HƯNG HÒA"
+		},
+		{
+			"id": 819,
+			"name": "PHƯỜNG BÌNH HƯNG HÒA A"
+		},
+		{
+			"id": 821,
+			"name": "PHƯỜNG TÂN TẠO"
+		},
+		{
+			"id": 822,
+			"name": "PHƯỜNG TÂN TẠO A"
+		},
+		{
+			"id": 823,
+			"name": "PHƯỜNG AN LẠC A"
+		}
+	]
+}

@@ -1,62 +1,82 @@
 {
-	"id": "718",
-	"name": "Thành phố Thủ Dầu Một",
+	"id": 718,
+	"name": "HUYỆN TUẦN GIÁO",
 	"data": [
 		{
-			"id": "25774",
-			"name": "Phường Chánh Mỹ"
+			"id": 11767,
+			"name": "XÃ TỎA TÌNH"
 		},
 		{
-			"id": "25756",
-			"name": "Phường Chánh Nghĩa"
+			"id": 11768,
+			"name": "XÃ MƯỜNG THÍN"
 		},
 		{
-			"id": "25759",
-			"name": "Phường Định Hoà"
+			"id": 11769,
+			"name": "XÃ TA MA"
 		},
 		{
-			"id": "25768",
-			"name": "Phường Hiệp An"
+			"id": 11770,
+			"name": "XÃ CHIỀNG SINH"
 		},
 		{
-			"id": "25741",
-			"name": "Phường Hiệp Thành"
+			"id": 11771,
+			"name": "XÃ MƯỜNG MUN"
 		},
 		{
-			"id": "25760",
-			"name": "Phường Hoà Phú"
+			"id": 11772,
+			"name": "XÃ PHÌNH SÁNG"
 		},
 		{
-			"id": "25747",
-			"name": "Phường Phú Cường"
+			"id": 11773,
+			"name": "XÃ PÚ NHUNG"
 		},
 		{
-			"id": "25750",
-			"name": "Phường Phú Hòa"
+			"id": 11774,
+			"name": "XÃ TÊNH PHÔNG"
 		},
 		{
-			"id": "25744",
-			"name": "Phường Phú Lợi"
+			"id": 11775,
+			"name": "THỊ TRẤN TUẦN GIÁO"
 		},
 		{
-			"id": "25762",
-			"name": "Phường Phú Mỹ"
+			"id": 11776,
+			"name": "XÃ QUÀI CANG"
 		},
 		{
-			"id": "25763",
-			"name": "Phường Phú Tân"
+			"id": 11777,
+			"name": "XÃ QUÀI NƯA"
 		},
 		{
-			"id": "25753",
-			"name": "Phường Phú Thọ"
+			"id": 11778,
+			"name": "XÃ QUÀI TỞ"
 		},
 		{
-			"id": "25765",
-			"name": "Phường Tân An"
+			"id": 11779,
+			"name": "XÃ MÙN CHUNG"
 		},
 		{
-			"id": "25771",
-			"name": "Phường Tương Bình Hiệp"
+			"id": 11780,
+			"name": "XÃ NÀ SÁY"
+		},
+		{
+			"id": 11781,
+			"name": "XÃ CHIỀNG ĐÔNG"
+		},
+		{
+			"id": 11782,
+			"name": "XÃ MƯỜNG KHONG"
+		},
+		{
+			"id": 11783,
+			"name": "XÃ PÚ XI"
+		},
+		{
+			"id": 11784,
+			"name": "XÃ RẠNG ĐÔNG"
+		},
+		{
+			"id": 11785,
+			"name": "XÃ NÀ TÒNG"
 		}
 	]
 }

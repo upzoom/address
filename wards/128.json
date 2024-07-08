@@ -1,62 +1,82 @@
 {
-	"id": "128",
-	"name": "Huyện Vân Hồ",
+	"id": 128,
+	"name": "THÀNH PHỐ BẮC NINH",
 	"data": [
 		{
-			"id": "04036",
-			"name": "Xã Chiềng Khoa"
+			"id": 1827,
+			"name": "PHƯỜNG NINH XÁ"
 		},
 		{
-			"id": "04056",
-			"name": "Xã Chiềng Xuân"
+			"id": 1828,
+			"name": "PHƯỜNG TIỀN AN"
 		},
 		{
-			"id": "04054",
-			"name": "Xã Chiềng Yên"
+			"id": 1829,
+			"name": "PHƯỜNG SUỐI HOA"
 		},
 		{
-			"id": "04009",
-			"name": "Xã Liên Hoà"
+			"id": 1830,
+			"name": "PHƯỜNG ĐẠI PHÚC"
 		},
 		{
-			"id": "04051",
-			"name": "Xã Lóng Luông"
+			"id": 1831,
+			"name": "PHƯỜNG ĐÁP CẦU"
 		},
 		{
-			"id": "04039",
-			"name": "Xã Mường Men"
+			"id": 1832,
+			"name": "PHƯỜNG KINH BẮC"
 		},
 		{
-			"id": "04021",
-			"name": "Xã Mường Tè"
+			"id": 1833,
+			"name": "PHƯỜNG VỆ AN"
 		},
 		{
-			"id": "04042",
-			"name": "Xã Quang Minh"
+			"id": 1834,
+			"name": "PHƯỜNG VŨ NINH"
 		},
 		{
-			"id": "04006",
-			"name": "Xã Song Khủa"
+			"id": 1835,
+			"name": "PHƯỜNG VÕ CƯỜNG"
 		},
 		{
-			"id": "03994",
-			"name": "Xã Suối Bàng"
+			"id": 1836,
+			"name": "PHƯỜNG THỊ CẦU"
 		},
 		{
-			"id": "04058",
-			"name": "Xã Tân Xuân"
+			"id": 1837,
+			"name": "XÃ KIM CHÂN"
 		},
 		{
-			"id": "04018",
-			"name": "Xã Tô Múa"
+			"id": 1838,
+			"name": "PHƯỜNG VÂN DƯƠNG"
 		},
 		{
-			"id": "04048",
-			"name": "Xã Vân Hồ"
+			"id": 1839,
+			"name": "XÃ NAM SƠN"
 		},
 		{
-			"id": "04057",
-			"name": "Xã Xuân Nha"
+			"id": 1840,
+			"name": "PHƯỜNG HẠP LĨNH"
+		},
+		{
+			"id": 1841,
+			"name": "XÃ KHẮC NIỆM"
+		},
+		{
+			"id": 1842,
+			"name": "XÃ PHONG KHÊ"
+		},
+		{
+			"id": 1843,
+			"name": "XÃ KHÚC XUYÊN"
+		},
+		{
+			"id": 1844,
+			"name": "XÃ VẠN AN"
+		},
+		{
+			"id": 1845,
+			"name": "XÃ HÒA LONG"
 		}
 	]
 }

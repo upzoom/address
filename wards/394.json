@@ -1,110 +1,142 @@
 {
-	"id": "394",
-	"name": "Huyện Yên Định",
+	"id": 394,
+	"name": "HUYỆN KỲ ANH",
 	"data": [
 		{
-			"id": "15478",
-			"name": "Xã Định Bình"
+			"id": 7464,
+			"name": "THỊ XÃ KỲ ANH"
 		},
 		{
-			"id": "15454",
-			"name": "Xã Định Công"
+			"id": 7465,
+			"name": "XÃ KỲ BẮC"
 		},
 		{
-			"id": "15475",
-			"name": "Xã Định Hải"
+			"id": 7466,
+			"name": "XÃ KỲ TIẾN"
 		},
 		{
-			"id": "15448",
-			"name": "Xã Định Hòa"
+			"id": 7467,
+			"name": "XÃ KỲ XUÂN"
 		},
 		{
-			"id": "15472",
-			"name": "Xã Định Hưng"
+			"id": 7468,
+			"name": "XÃ KỲ GIANG"
 		},
 		{
-			"id": "15466",
-			"name": "Xã Định Liên"
+			"id": 7469,
+			"name": "XÃ KỲ PHÚ"
 		},
 		{
-			"id": "15463",
-			"name": "Xã Định Long"
+			"id": 7470,
+			"name": "XÃ KỲ PHONG"
 		},
 		{
-			"id": "15457",
-			"name": "Xã Định Tân"
+			"id": 7471,
+			"name": "XÃ KỲ SƠN"
 		},
 		{
-			"id": "15445",
-			"name": "Xã Định Tăng"
+			"id": 7472,
+			"name": "XÃ KỲ TÂY"
 		},
 		{
-			"id": "15451",
-			"name": "Xã Định Thành"
+			"id": 7473,
+			"name": "XÃ KỲ HỢP"
 		},
 		{
-			"id": "15460",
-			"name": "Xã Định Tiến"
+			"id": 7474,
+			"name": "XÃ KỲ LÂM"
 		},
 		{
-			"id": "15469",
-			"name": "Thị trấn Quán Lào"
+			"id": 7475,
+			"name": "XÃ KỲ KHANG"
 		},
 		{
-			"id": "15412",
-			"name": "Thị trấn Quý Lộc"
+			"id": 7476,
+			"name": "XÃ KỲ VĂN"
 		},
 		{
-			"id": "15397",
-			"name": "Thị trấn Thống Nhất"
+			"id": 7477,
+			"name": "XÃ KỲ LẠC"
 		},
 		{
-			"id": "15433",
-			"name": "Xã Yên Hùng"
+			"id": 7478,
+			"name": "XÃ KỲ HÀ"
 		},
 		{
-			"id": "15442",
-			"name": "Xã Yên Lạc"
+			"id": 7479,
+			"name": "XÃ KỲ HƯNG"
 		},
 		{
-			"id": "15403",
-			"name": "Thị trấn Yên Lâm"
+			"id": 7480,
+			"name": "XÃ KỲ HẢI"
 		},
 		{
-			"id": "15439",
-			"name": "Xã Yên Ninh"
+			"id": 7481,
+			"name": "XÃ KỲ CHÂU"
 		},
 		{
-			"id": "15427",
-			"name": "Xã Yên Phong"
+			"id": 7482,
+			"name": "XÃ KỲ TÂN"
 		},
 		{
-			"id": "15409",
-			"name": "Xã Yên Phú"
+			"id": 7483,
+			"name": "XÃ KỲ HOA"
 		},
 		{
-			"id": "15406",
-			"name": "Xã Yên Tâm"
+			"id": 7484,
+			"name": "XÃ KỲ THƯ"
 		},
 		{
-			"id": "15430",
-			"name": "Xã Yên Thái"
+			"id": 7485,
+			"name": "XÃ KỲ THỌ"
 		},
 		{
-			"id": "15436",
-			"name": "Xã Yên Thịnh"
+			"id": 7486,
+			"name": "XÃ KỲ PHƯƠNG"
 		},
 		{
-			"id": "15415",
-			"name": "Xã Yên Thọ"
+			"id": 7487,
+			"name": "XÃ KỲ LỢI"
 		},
 		{
-			"id": "15418",
-			"name": "Xã Yên Trung"
+			"id": 7488,
+			"name": "XÃ KỲ LIÊN"
 		},
 		{
-			"id": "15421",
-			"name": "Xã Yên Trường"
+			"id": 7489,
+			"name": "XÃ KỲ NINH"
+		},
+		{
+			"id": 7490,
+			"name": "XÃ KỲ ĐỒNG"
+		},
+		{
+			"id": 7491,
+			"name": "XÃ KỲ LONG"
+		},
+		{
+			"id": 7492,
+			"name": "XÃ KỲ TRINH"
+		},
+		{
+			"id": 7493,
+			"name": "XÃ KỲ THỊNH"
+		},
+		{
+			"id": 7494,
+			"name": "XÃ KỲ THƯỢNG"
+		},
+		{
+			"id": 7495,
+			"name": "XÃ KỲ NAM"
+		},
+		{
+			"id": 7496,
+			"name": "XÃ KỲ TRUNG"
+		},
+		{
+			"id": 26179,
+			"name": "XÃ LÂM HỢP"
 		}
 	]
 }

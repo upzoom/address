@@ -1,66 +1,54 @@
 {
-	"id": "708",
-	"name": "Huyện Châu Thành",
+	"id": 708,
+	"name": "HUYỆN THỚI BÌNH",
 	"data": [
 		{
-			"id": "25615",
-			"name": "Xã An Bình"
+			"id": 11627,
+			"name": "XÃ BIỂN BẠCH"
 		},
 		{
-			"id": "25600",
-			"name": "Xã An Cơ"
+			"id": 11628,
+			"name": "XÃ BIỂN BẠCH ĐÔNG"
 		},
 		{
-			"id": "25603",
-			"name": "Xã Biên Giới"
+			"id": 11629,
+			"name": "XÃ TÂN BẰNG"
 		},
 		{
-			"id": "25585",
-			"name": "Thị trấn Châu Thành"
+			"id": 11630,
+			"name": "XÃ TRÍ LỰC"
 		},
 		{
-			"id": "25594",
-			"name": "Xã Đồng Khởi"
+			"id": 11631,
+			"name": "XÃ TRÍ PHẢI"
 		},
 		{
-			"id": "25588",
-			"name": "Xã Hảo Đước"
+			"id": 11632,
+			"name": "XÃ TÂN PHÚ"
 		},
 		{
-			"id": "25612",
-			"name": "Xã Hòa Hội"
+			"id": 11633,
+			"name": "XÃ THỚI BÌNH"
 		},
 		{
-			"id": "25606",
-			"name": "Xã Hòa Thạnh"
+			"id": 11634,
+			"name": "XÃ TÂN LỘC"
 		},
 		{
-			"id": "25627",
-			"name": "Xã Long Vĩnh"
+			"id": 11635,
+			"name": "XÃ TÂN LỘC BẮC"
 		},
 		{
-			"id": "25624",
-			"name": "Xã Ninh Điền"
+			"id": 11636,
+			"name": "XÃ TÂN LỘC ĐÔNG"
 		},
 		{
-			"id": "25591",
-			"name": "Xã Phước Vinh"
+			"id": 11637,
+			"name": "XÃ HỒ THỊ KỶ"
 		},
 		{
-			"id": "25597",
-			"name": "Xã Thái Bình"
-		},
-		{
-			"id": "25618",
-			"name": "Xã Thanh Điền"
-		},
-		{
-			"id": "25621",
-			"name": "Xã Thành Long"
-		},
-		{
-			"id": "25609",
-			"name": "Xã Trí Bình"
+			"id": 11638,
+			"name": "TT THỚI BÌNH"
 		}
 	]
 }

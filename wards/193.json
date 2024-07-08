@@ -1,138 +1,66 @@
 {
-	"id": "193",
-	"name": "Thành phố Hạ Long",
+	"id": 193,
+	"name": "HUYỆN BẮC MÊ",
 	"data": [
 		{
-			"id": "06694",
-			"name": "Phường Bạch Đằng"
+			"id": 3323,
+			"name": "THỊ TRẤN BẮC MÊ"
 		},
 		{
-			"id": "06673",
-			"name": "Phường Bãi Cháy"
+			"id": 3324,
+			"name": "XÃ LẠC NÔNG"
 		},
 		{
-			"id": "07057",
-			"name": "Xã Bằng Cả"
+			"id": 3325,
+			"name": "XÃ YÊN PHÚ"
 		},
 		{
-			"id": "06676",
-			"name": "Phường Cao Thắng"
+			"id": 3326,
+			"name": "XÃ GIÁP TRUNG"
 		},
 		{
-			"id": "06658",
-			"name": "Phường Cao Xanh"
+			"id": 3327,
+			"name": "XÃ YÊN PHONG"
 		},
 		{
-			"id": "06706",
-			"name": "Phường Đại Yên"
+			"id": 3328,
+			"name": "XÃ YÊN ĐỊNH"
 		},
 		{
-			"id": "07051",
-			"name": "Xã Dân Chủ"
+			"id": 3329,
+			"name": "XÃ PHÚ NAM"
 		},
 		{
-			"id": "07042",
-			"name": "Xã Đồng Lâm"
+			"id": 3330,
+			"name": "XÃ ĐƯỜNG HỒNG"
 		},
 		{
-			"id": "07036",
-			"name": "Xã Đồng Sơn"
+			"id": 3331,
+			"name": "XÃ MINH SƠN"
 		},
 		{
-			"id": "06661",
-			"name": "Phường Giếng Đáy"
+			"id": 3332,
+			"name": "XÃ YÊN CƯỜNG"
 		},
 		{
-			"id": "06649",
-			"name": "Phường Hà Khánh"
+			"id": 3333,
+			"name": "XÃ ĐƯỜNG ÂM"
 		},
 		{
-			"id": "06655",
-			"name": "Phường Hà Khẩu"
+			"id": 3334,
+			"name": "XÃ MINH NGỌC"
 		},
 		{
-			"id": "06670",
-			"name": "Phường Hà Lầm"
+			"id": 3335,
+			"name": "XÃ PHIÊNG LUÔNG"
 		},
 		{
-			"id": "06652",
-			"name": "Phường Hà Phong"
+			"id": 3336,
+			"name": "XÃ THƯƠNG TÂN"
 		},
 		{
-			"id": "06667",
-			"name": "Phường Hà Trung"
-		},
-		{
-			"id": "06664",
-			"name": "Phường Hà Tu"
-		},
-		{
-			"id": "07045",
-			"name": "Xã Hòa Bình"
-		},
-		{
-			"id": "07030",
-			"name": "Phường Hoành Bồ"
-		},
-		{
-			"id": "06691",
-			"name": "Phường Hồng Gai"
-		},
-		{
-			"id": "06697",
-			"name": "Phường Hồng Hà"
-		},
-		{
-			"id": "06688",
-			"name": "Phường Hồng Hải"
-		},
-		{
-			"id": "06679",
-			"name": "Phường Hùng Thắng"
-		},
-		{
-			"id": "07033",
-			"name": "Xã Kỳ Thượng"
-		},
-		{
-			"id": "07066",
-			"name": "Xã Lê Lợi"
-		},
-		{
-			"id": "07054",
-			"name": "Xã Quảng La"
-		},
-		{
-			"id": "07063",
-			"name": "Xã Sơn Dương"
-		},
-		{
-			"id": "07039",
-			"name": "Xã Tân Dân"
-		},
-		{
-			"id": "07060",
-			"name": "Xã Thống Nhất"
-		},
-		{
-			"id": "06685",
-			"name": "Phường Trần Hưng Đạo"
-		},
-		{
-			"id": "06700",
-			"name": "Phường Tuần Châu"
-		},
-		{
-			"id": "06703",
-			"name": "Phường Việt Hưng"
-		},
-		{
-			"id": "07048",
-			"name": "Xã Vũ Oai"
-		},
-		{
-			"id": "06682",
-			"name": "Phường Yết Kiêu"
+			"id": 3337,
+			"name": "XÃ LŨNG TÁO"
 		}
 	]
 }

@@ -1,46 +1,50 @@
 {
-	"id": "165",
-	"name": "Thành phố Sông Công",
+	"id": 165,
+	"name": "HUYỆN MỸ LỘC",
 	"data": [
 		{
-			"id": "05533",
-			"name": "Xã Bá Xuyên"
+			"id": 2574,
+			"name": "XÃ MỸ HƯNG"
 		},
 		{
-			"id": "05528",
-			"name": "Phường Bách Quang"
+			"id": 2575,
+			"name": "XÃ MỸ HÀ"
 		},
 		{
-			"id": "05530",
-			"name": "Xã Bình Sơn"
+			"id": 2576,
+			"name": "XÃ MỸ PHÚC"
 		},
 		{
-			"id": "05515",
-			"name": "Phường Cải Đan"
+			"id": 2577,
+			"name": "XÃ MỸ TÂN"
 		},
 		{
-			"id": "05509",
-			"name": "Phường Châu Sơn"
+			"id": 2578,
+			"name": "XÃ MỸ THẮNG"
 		},
 		{
-			"id": "05506",
-			"name": "Phường Lương Sơn"
+			"id": 2579,
+			"name": "XÃ MỸ THÀNH"
 		},
 		{
-			"id": "05512",
-			"name": "Phường Mỏ Chè"
+			"id": 2580,
+			"name": "XÃ MỸ THỊNH"
 		},
 		{
-			"id": "05521",
-			"name": "Phường Phố Cò"
+			"id": 2581,
+			"name": "XÃ MỸ THUẬN"
 		},
 		{
-			"id": "05527",
-			"name": "Xã Tân Quang"
+			"id": 2582,
+			"name": "XÃ MỸ TIẾN"
 		},
 		{
-			"id": "05518",
-			"name": "Phường Thắng Lợi"
+			"id": 2583,
+			"name": "XÃ MỸ TRUNG"
+		},
+		{
+			"id": 2584,
+			"name": "THỊ TRẤN MỸ LỘC"
 		}
 	]
 }

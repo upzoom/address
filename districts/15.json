@@ -1,42 +1,46 @@
 {
-	"id": "15",
-	"name": "Tỉnh Yên Bái",
+	"id": 15,
+	"name": "Nam Ðịnh",
 	"data": [
 		{
-			"id": "135",
-			"name": "Huyện Lục Yên"
+			"id": 163,
+			"name": "HUYỆN NAM TRỰC"
 		},
 		{
-			"id": "137",
-			"name": "Huyện Mù Căng Chải"
+			"id": 164,
+			"name": "HUYỆN TRỰC NINH"
 		},
 		{
-			"id": "133",
-			"name": "Thị xã Nghĩa Lộ"
+			"id": 165,
+			"name": "HUYỆN MỸ LỘC"
 		},
 		{
-			"id": "139",
-			"name": "Huyện Trạm Tấu"
+			"id": 166,
+			"name": "HUYỆN GIAO THỦY"
 		},
 		{
-			"id": "138",
-			"name": "Huyện Trấn Yên"
+			"id": 167,
+			"name": "HUYỆN NGHĨA HƯNG"
 		},
 		{
-			"id": "140",
-			"name": "Huyện Văn Chấn"
+			"id": 168,
+			"name": "THÀNH PHỐ NAM ĐỊNH"
 		},
 		{
-			"id": "136",
-			"name": "Huyện Văn Yên"
+			"id": 169,
+			"name": "HUYỆN HẢI HẬU"
 		},
 		{
-			"id": "132",
-			"name": "Thành phố Yên Bái"
+			"id": 170,
+			"name": "HUYỆN VỤ BẢN"
 		},
 		{
-			"id": "141",
-			"name": "Huyện Yên Bình"
+			"id": 171,
+			"name": "HUYỆN XUÂN TRƯỜNG"
+		},
+		{
+			"id": 172,
+			"name": "HUYỆN Ý YÊN"
 		}
 	]
 }

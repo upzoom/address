@@ -1,42 +1,86 @@
 {
-	"id": "594",
-	"name": "Thị xã La Gi",
+	"id": 594,
+	"name": "THÀNH PHỐ PHAN THIẾT",
 	"data": [
 		{
-			"id": "23237",
-			"name": "Phường Bình Tân"
+			"id": 10185,
+			"name": "PHƯỜNG XUÂN AN"
 		},
 		{
-			"id": "23231",
-			"name": "Phường Phước Hội"
+			"id": 10186,
+			"name": "PHƯỜNG XUÂN AN"
 		},
 		{
-			"id": "23232",
-			"name": "Phường Phước Lộc"
+			"id": 10187,
+			"name": "PHƯỜNG BÌNH HƯNG"
 		},
 		{
-			"id": "23235",
-			"name": "Phường Tân An"
+			"id": 10188,
+			"name": "PHƯỜNG HƯNG LONG"
 		},
 		{
-			"id": "23248",
-			"name": "Xã Tân Bình"
+			"id": 10189,
+			"name": "PHƯỜNG PHÚ THỦY"
 		},
 		{
-			"id": "23245",
-			"name": "Xã Tân Hải"
+			"id": 10190,
+			"name": "PHƯỜNG PHÚ TRINH"
 		},
 		{
-			"id": "23268",
-			"name": "Xã Tân Phước"
+			"id": 10191,
+			"name": "PHƯỜNG ĐỨC LONG"
 		},
 		{
-			"id": "23234",
-			"name": "Phường Tân Thiện"
+			"id": 10192,
+			"name": "PHƯỜNG ĐỨC THẮNG"
 		},
 		{
-			"id": "23246",
-			"name": "Xã Tân Tiến"
+			"id": 10193,
+			"name": "PHƯỜNG ĐỨC NGHĨA"
+		},
+		{
+			"id": 10194,
+			"name": "PHƯỜNG PHÚ TÀI"
+		},
+		{
+			"id": 10195,
+			"name": "PHƯỜNG THANH HẢI"
+		},
+		{
+			"id": 10196,
+			"name": "PHƯỜNG PHÚ HÀI"
+		},
+		{
+			"id": 10197,
+			"name": "PHƯỜNG HÀM TIẾN"
+		},
+		{
+			"id": 10198,
+			"name": "PHƯỜNG LẠC ĐẠO"
+		},
+		{
+			"id": 10199,
+			"name": "PHƯỜNG MŨI NÉ"
+		},
+		{
+			"id": 10200,
+			"name": "XÃ THIỆN NGHIỆP"
+		},
+		{
+			"id": 10201,
+			"name": "XÃ PHONG MẪN"
+		},
+		{
+			"id": 10202,
+			"name": "XÃ TIẾN THÀNH"
+		},
+		{
+			"id": 10203,
+			"name": "XÃ TIẾN LỢI"
+		},
+		{
+			"id": 13322,
+			"name": "XÃ PHONG NẪM"
 		}
 	]
 }

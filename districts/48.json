@@ -1,38 +1,50 @@
 {
-	"id": "48",
-	"name": "Thành phố Đà Nẵng",
+	"id": 48,
+	"name": "Bình Phước",
 	"data": [
 		{
-			"id": "495",
-			"name": "Quận Cẩm Lệ"
+			"id": 545,
+			"name": "HUYỆN BÙ ĐỐP"
 		},
 		{
-			"id": "492",
-			"name": "Quận Hải Châu"
+			"id": 546,
+			"name": "HUYỆN LỘC NINH"
 		},
 		{
-			"id": "497",
-			"name": "Huyện Hòa Vang"
+			"id": 547,
+			"name": "THÀNH PHỐ ĐỒNG XOÀI"
 		},
 		{
-			"id": "498",
-			"name": "Huyện Hoàng Sa"
+			"id": 548,
+			"name": "HUYỆN ĐỒNG PHÚ"
 		},
 		{
-			"id": "490",
-			"name": "Quận Liên Chiểu"
+			"id": 549,
+			"name": "HUYỆN HỚN QUẢN"
 		},
 		{
-			"id": "494",
-			"name": "Quận Ngũ Hành Sơn"
+			"id": 550,
+			"name": "THỊ XÃ BÌNH LONG"
 		},
 		{
-			"id": "493",
-			"name": "Quận Sơn Trà"
+			"id": 551,
+			"name": "THỊ XÃ CHƠN THÀNH"
 		},
 		{
-			"id": "491",
-			"name": "Quận Thanh Khê"
+			"id": 552,
+			"name": "HUYỆN BÙ ĐĂNG"
+		},
+		{
+			"id": 553,
+			"name": "THỊ XÃ PHƯỚC LONG"
+		},
+		{
+			"id": 554,
+			"name": "HUYỆN PHÚ RIỀNG"
+		},
+		{
+			"id": 555,
+			"name": "HUYỆN BÙ GIA MẬP"
 		}
 	]
 }

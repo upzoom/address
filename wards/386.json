@@ -1,90 +1,66 @@
 {
-	"id": "386",
-	"name": "Huyện Bá Thước",
+	"id": 386,
+	"name": "HUYỆN LỘC HÀ",
 	"data": [
 		{
-			"id": "14944",
-			"name": "Xã Ái Thượng"
+			"id": 7290,
+			"name": "XÃ ÍCH HẬU"
 		},
 		{
-			"id": "14971",
-			"name": "Xã Ban Công"
+			"id": 7291,
+			"name": "XÃ PHÙ LƯU"
 		},
 		{
-			"id": "14923",
-			"name": "Thị trấn Cành Nàng"
+			"id": 7292,
+			"name": "XÃ HỒNG LỘC"
 		},
 		{
-			"id": "14965",
-			"name": "Xã Cổ Lũng"
+			"id": 7293,
+			"name": "XÃ BÌNH LỘC"
 		},
 		{
-			"id": "14929",
-			"name": "Xã Điền Hạ"
+			"id": 7294,
+			"name": "XÃ TÂN LỘC"
 		},
 		{
-			"id": "14950",
-			"name": "Xã Điền Lư"
+			"id": 7295,
+			"name": "XÃ AN LỘC"
 		},
 		{
-			"id": "14932",
-			"name": "Xã Điền Quang"
+			"id": 7296,
+			"name": "XÃ THỊNH LỘC"
 		},
 		{
-			"id": "14926",
-			"name": "Xã Điền Thượng"
+			"id": 7297,
+			"name": "XÃ THẠCH KIM"
 		},
 		{
-			"id": "14935",
-			"name": "Xã Điền Trung"
+			"id": 7298,
+			"name": "XÃ THẠCH BẰNG"
 		},
 		{
-			"id": "14962",
-			"name": "Xã Hạ Trung"
+			"id": 7299,
+			"name": "XÃ THẠCH CHÂU"
 		},
 		{
-			"id": "14974",
-			"name": "Xã Kỳ Tân"
+			"id": 7300,
+			"name": "XÃ THẠCH MỸ"
 		},
 		{
-			"id": "14959",
-			"name": "Xã Lũng Cao"
+			"id": 7301,
+			"name": "XÃ MAI PHỤ"
 		},
 		{
-			"id": "14956",
-			"name": "Xã Lũng Niêm"
+			"id": 7302,
+			"name": "XÃ HỘ ĐỘ"
 		},
 		{
-			"id": "14941",
-			"name": "Xã Lương Ngoại"
+			"id": 7303,
+			"name": "THỊ TRẤN LỘC HÀ"
 		},
 		{
-			"id": "14947",
-			"name": "Xã Lương Nội"
-		},
-		{
-			"id": "14953",
-			"name": "Xã Lương Trung"
-		},
-		{
-			"id": "14968",
-			"name": "Xã Thành Lâm"
-		},
-		{
-			"id": "14938",
-			"name": "Xã Thành Sơn"
-		},
-		{
-			"id": "14986",
-			"name": "Xã Thiết Kế"
-		},
-		{
-			"id": "14980",
-			"name": "Xã Thiết Ống"
-		},
-		{
-			"id": "14977",
-			"name": "Xã Văn Nho"
+			"id": 26178,
+			"name": "XÃ BÌNH AN"
 		}
 	]
 }

@@ -1,42 +1,66 @@
 {
-	"id": "639",
-	"name": "Huyện Chư Pưh",
+	"id": 639,
+	"name": "HUYỆN TRI TÔN",
 	"data": [
 		{
-			"id": "23980",
-			"name": "Xã Chư Don"
+			"id": 10756,
+			"name": "THỊ TRẤN TRI TÔN"
 		},
 		{
-			"id": "23987",
-			"name": "Xã Ia BLứ"
+			"id": 10757,
+			"name": "THỊ TRẤN BA CHÚC"
 		},
 		{
-			"id": "23974",
-			"name": "Xã Ia Dreng"
+			"id": 10758,
+			"name": "XÃ LẠC QƯỚI"
 		},
 		{
-			"id": "23978",
-			"name": "Xã Ia Hla"
+			"id": 10759,
+			"name": "XÃ LÊ TRÌ"
 		},
 		{
-			"id": "23971",
-			"name": "Xã Ia Hrú"
+			"id": 10760,
+			"name": "XÃ VĨNH GIA"
 		},
 		{
-			"id": "23986",
-			"name": "Xã Ia Le"
+			"id": 10761,
+			"name": "XÃ VĨNH PHƯỚC"
 		},
 		{
-			"id": "23983",
-			"name": "Xã Ia Phang"
+			"id": 10762,
+			"name": "XÃ CHÂU LĂNG"
 		},
 		{
-			"id": "23972",
-			"name": "Xã Ia Rong"
+			"id": 10763,
+			"name": "XÃ LƯƠNG PHI"
 		},
 		{
-			"id": "23942",
-			"name": "Thị trấn Nhơn Hoà"
+			"id": 10764,
+			"name": "XÃ LƯƠNG AN TRÀ"
+		},
+		{
+			"id": 10765,
+			"name": "XÃ TÀ ĐẢNH"
+		},
+		{
+			"id": 10766,
+			"name": "XÃ NÚI TÔ"
+		},
+		{
+			"id": 10767,
+			"name": "XÃ AN TỨC"
+		},
+		{
+			"id": 10768,
+			"name": "XÃ CÔ TÔ"
+		},
+		{
+			"id": 10769,
+			"name": "XÃ TÂN TUYẾN"
+		},
+		{
+			"id": 10770,
+			"name": "XÃ Ô LÂM"
 		}
 	]
 }

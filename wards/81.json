@@ -1,0 +1,58 @@
+{
+	"id": 81,
+	"name": "HUYỆN THỚI LAI",
+	"data": [
+		{
+			"id": 1263,
+			"name": "THỊ TRẤN THỚI LAI"
+		},
+		{
+			"id": 1264,
+			"name": "XÃ THỚI THẠNH"
+		},
+		{
+			"id": 1265,
+			"name": "XÃ TÂN THẠNH"
+		},
+		{
+			"id": 1266,
+			"name": "XÃ TRƯỜNG THÀNH"
+		},
+		{
+			"id": 1267,
+			"name": "XÃ TRƯỜNG XUÂN A"
+		},
+		{
+			"id": 1268,
+			"name": "XÃ TRƯỜNG XUÂN"
+		},
+		{
+			"id": 1269,
+			"name": "XÃ TRƯỜNG XUÂN B"
+		},
+		{
+			"id": 1270,
+			"name": "XÃ TRƯỜNG THẮNG"
+		},
+		{
+			"id": 1271,
+			"name": "XÃ XUÂN THẮNG"
+		},
+		{
+			"id": 1272,
+			"name": "XÃ THỚI TÂN"
+		},
+		{
+			"id": 1273,
+			"name": "XÃ ĐÔNG BÌNH"
+		},
+		{
+			"id": 1274,
+			"name": "XÃ ĐÔNG THUẬN"
+		},
+		{
+			"id": 1275,
+			"name": "XÃ ĐỊNH MÔN"
+		}
+	]
+}

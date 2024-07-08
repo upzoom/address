@@ -1,94 +1,90 @@
 {
-	"id": "282",
-	"name": "Huyện Mỹ Đức",
+	"id": 282,
+	"name": "HUYỆN VIỆT YÊN",
 	"data": [
 		{
-			"id": "10462",
-			"name": "Xã An Mỹ"
+			"id": 5120,
+			"name": "THỊ TRẤN BÍCH ĐỘNG"
 		},
 		{
-			"id": "10504",
-			"name": "Xã An Phú"
+			"id": 5121,
+			"name": "THỊ TRẤN NÊNH"
 		},
 		{
-			"id": "10495",
-			"name": "Xã An Tiến"
+			"id": 5122,
+			"name": "XÃ THƯỢNG LAN"
 		},
 		{
-			"id": "10459",
-			"name": "Xã Bột Xuyên"
+			"id": 5123,
+			"name": "XÃ VIỆT TIẾN"
 		},
 		{
-			"id": "10480",
-			"name": "Xã Đại Hưng"
+			"id": 5124,
+			"name": "XÃ NGHĨA TRUNG"
 		},
 		{
-			"id": "10441",
-			"name": "Thị trấn Đại Nghĩa"
+			"id": 5125,
+			"name": "XÃ MINH ĐỨC"
 		},
 		{
-			"id": "10486",
-			"name": "Xã Đốc Tín"
+			"id": 5126,
+			"name": "XÃ HƯƠNG MAI"
 		},
 		{
-			"id": "10444",
-			"name": "Xã Đồng Tâm"
+			"id": 5127,
+			"name": "XÃ TỰ LAN"
 		},
 		{
-			"id": "10465",
-			"name": "Xã Hồng Sơn"
+			"id": 5128,
+			"name": "XÃ BÍCH SƠN"
 		},
 		{
-			"id": "10501",
-			"name": "Xã Hợp Thanh"
+			"id": 5129,
+			"name": "XÃ TRUNG SƠN"
 		},
 		{
-			"id": "10498",
-			"name": "Xã Hợp Tiến"
+			"id": 5130,
+			"name": "XÃ HỒNG THÁI"
 		},
 		{
-			"id": "10492",
-			"name": "Xã Hùng Tiến"
+			"id": 5131,
+			"name": "XÃ XUÂN PHÚ"
 		},
 		{
-			"id": "10489",
-			"name": "Xã Hương Sơn"
+			"id": 5132,
+			"name": "XÃ TĂNG TIẾN"
 		},
 		{
-			"id": "10468",
-			"name": "Xã Lê Thanh"
+			"id": 5133,
+			"name": "XÃ QUẢNG MINH"
 		},
 		{
-			"id": "10456",
-			"name": "Xã Mỹ Thành"
+			"id": 5134,
+			"name": "XÃ HOÀNG NINH"
 		},
 		{
-			"id": "10477",
-			"name": "Xã Phù Lưu Tế"
+			"id": 5135,
+			"name": "XÃ NINH SƠN"
 		},
 		{
-			"id": "10453",
-			"name": "Xã Phúc Lâm"
+			"id": 5136,
+			"name": "XÃ VÂN TRUNG"
 		},
 		{
-			"id": "10474",
-			"name": "Xã Phùng Xá"
+			"id": 5137,
+			"name": "XÃ VÂN HÀ"
 		},
 		{
-			"id": "10447",
-			"name": "Xã Thượng Lâm"
+			"id": 5138,
+			"name": "XÃ QUANG CHÂU"
 		},
 		{
-			"id": "10450",
-			"name": "Xã Tuy Lai"
+			"id": 5139,
+			"name": "KCN ĐÌNH TRÁM"
 		},
 		{
-			"id": "10483",
-			"name": "Xã Vạn Kim"
-		},
-		{
-			"id": "10471",
-			"name": "Xã Xuy Xá"
+			"id": 5140,
+			"name": "XÃ TIÊN SƠN"
 		}
 	]
 }

@@ -1,98 +1,70 @@
 {
-	"id": "400",
-	"name": "Huyện Hậu Lộc",
+	"id": 400,
+	"name": "HUYỆN MINH HÓA",
 	"data": [
 		{
-			"id": "16033",
-			"name": "Xã Cầu Lộc"
+			"id": 7602,
+			"name": "XÃ YÊN HÓA"
 		},
 		{
-			"id": "16087",
-			"name": "Xã Đa Lộc"
+			"id": 7603,
+			"name": "THỊ TRẤN QUY ĐẠT"
 		},
 		{
-			"id": "16018",
-			"name": "Xã Đại Lộc"
+			"id": 7604,
+			"name": "XÃ XUÂN HÓA"
 		},
 		{
-			"id": "16015",
-			"name": "Xã Đồng Lộc"
+			"id": 7605,
+			"name": "XÃ TRUNG HÓA"
 		},
 		{
-			"id": "16084",
-			"name": "Xã Hải Lộc"
+			"id": 7606,
+			"name": "XÃ TÂN HÓA"
 		},
 		{
-			"id": "16012",
-			"name": "Thị trấn Hậu Lộc"
+			"id": 7607,
+			"name": "XÃ MINH HÓA"
 		},
 		{
-			"id": "16063",
-			"name": "Xã Hoa Lộc"
+			"id": 7608,
+			"name": "XÃ HỒNG HÓA"
 		},
 		{
-			"id": "16075",
-			"name": "Xã Hòa Lộc"
+			"id": 7609,
+			"name": "XÃ HÓA TIẾN"
 		},
 		{
-			"id": "16081",
-			"name": "Xã Hưng Lộc"
+			"id": 7610,
+			"name": "XÃ HÓA HỢP"
 		},
 		{
-			"id": "16066",
-			"name": "Xã Liên Lộc"
+			"id": 7611,
+			"name": "XÃ HÓA PHÚC"
 		},
 		{
-			"id": "16030",
-			"name": "Xã Lộc Sơn"
+			"id": 7612,
+			"name": "XÃ HÓA THANH"
 		},
 		{
-			"id": "16078",
-			"name": "Xã Minh Lộc"
+			"id": 7613,
+			"name": "XÃ DÂN HÓA"
 		},
 		{
-			"id": "16045",
-			"name": "Xã Mỹ Lộc"
+			"id": 7614,
+			"name": "XÃ THƯỢNG HÓA"
 		},
 		{
-			"id": "16090",
-			"name": "Xã Ngư Lộc"
+			"id": 7615,
+			"name": "XÃ TRỌNG HÓA"
 		},
 		{
-			"id": "16042",
-			"name": "Xã Phong Lộc"
+			"id": 7616,
+			"name": "XÃ QUY HÓA"
 		},
 		{
-			"id": "16072",
-			"name": "Xã Phú Lộc"
-		},
-		{
-			"id": "16069",
-			"name": "Xã Quang Lộc"
-		},
-		{
-			"id": "16036",
-			"name": "Xã Thành Lộc"
-		},
-		{
-			"id": "16048",
-			"name": "Xã Thuần Lộc"
-		},
-		{
-			"id": "16027",
-			"name": "Xã Tiến Lộc"
-		},
-		{
-			"id": "16021",
-			"name": "Xã Triệu Lộc"
-		},
-		{
-			"id": "16039",
-			"name": "Xã Tuy Lộc"
-		},
-		{
-			"id": "16057",
-			"name": "Xã Xuân Lộc"
+			"id": 7617,
+			"name": "XÃ HÓA SƠN"
 		}
 	]
 }

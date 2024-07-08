@@ -1,0 +1,50 @@
+{
+	"id": 670,
+	"name": "HUYỆN GÒ QUAO",
+	"data": [
+		{
+			"id": 11211,
+			"name": "TT GÒ QUAO"
+		},
+		{
+			"id": 11212,
+			"name": "XÃ ĐỊNH AN"
+		},
+		{
+			"id": 11213,
+			"name": "XÃ THỦY LIỄU"
+		},
+		{
+			"id": 11214,
+			"name": "XÃ VĨNH HÒA HƯNG BẮC"
+		},
+		{
+			"id": 11215,
+			"name": "XÃ VĨNH HÒA HƯNG NAM"
+		},
+		{
+			"id": 11216,
+			"name": "XÃ VĨNH PHƯỚC A"
+		},
+		{
+			"id": 11217,
+			"name": "XÃ VĨNH PHƯỚC B"
+		},
+		{
+			"id": 11218,
+			"name": "XÃ ĐỊNH HÒA"
+		},
+		{
+			"id": 11219,
+			"name": "XÃ VĨNH TUY"
+		},
+		{
+			"id": 11220,
+			"name": "XÃ VĨNH THẮNG"
+		},
+		{
+			"id": 11221,
+			"name": "XÃ THỚI QUẢN"
+		}
+	]
+}

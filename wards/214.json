@@ -1,0 +1,90 @@
+{
+	"id": 214,
+	"name": "THÀNH PHỐ LÀO CAI",
+	"data": [
+		{
+			"id": 3667,
+			"name": "PHƯỜNG CỐC LẾU"
+		},
+		{
+			"id": 3668,
+			"name": "PHƯỜNG LÀO CAI"
+		},
+		{
+			"id": 3669,
+			"name": "PHƯỜNG PHỐ MỚI"
+		},
+		{
+			"id": 3670,
+			"name": "PHƯỜNG DUYÊN HẢI"
+		},
+		{
+			"id": 3671,
+			"name": "KHU CÔNG NGHIỆP BẮC DUYÊN HẢI"
+		},
+		{
+			"id": 3672,
+			"name": "KHU THƯƠNG MẠI KIM THÀNH"
+		},
+		{
+			"id": 3673,
+			"name": "PHƯỜNG KIM TÂN"
+		},
+		{
+			"id": 3674,
+			"name": "PHƯỜNG BẮC CƯỜNG"
+		},
+		{
+			"id": 3675,
+			"name": "PHƯỜNG NAM CƯỜNG"
+		},
+		{
+			"id": 3676,
+			"name": "PHƯỜNG POM HÁN"
+		},
+		{
+			"id": 3677,
+			"name": "PHƯỜNG BÌNH MINH"
+		},
+		{
+			"id": 3678,
+			"name": "PHƯỜNG BẮC LỆNH"
+		},
+		{
+			"id": 3679,
+			"name": "PHƯỜNG THỐNG NHẤT"
+		},
+		{
+			"id": 3680,
+			"name": "PHƯỜNG XUÂN TĂNG"
+		},
+		{
+			"id": 3681,
+			"name": "PHƯỜNG KIM THÀNH"
+		},
+		{
+			"id": 3682,
+			"name": "XÃ ĐỒNG TUYỂN"
+		},
+		{
+			"id": 3683,
+			"name": "XÃ VẠN HÒA"
+		},
+		{
+			"id": 3684,
+			"name": "XÃ CAM ĐƯỜNG"
+		},
+		{
+			"id": 3685,
+			"name": "XÃ HỢP THÀNH"
+		},
+		{
+			"id": 3686,
+			"name": "XÃ TẢ PHỜI"
+		},
+		{
+			"id": 25709,
+			"name": "XÃ CỐC SAN"
+		}
+	]
+}

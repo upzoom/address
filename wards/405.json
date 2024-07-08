@@ -1,62 +1,42 @@
 {
-	"id": "405",
-	"name": "Huyện Đông Sơn",
+	"id": 405,
+	"name": "THÀNH PHỐ ĐÔNG HÀ",
 	"data": [
 		{
-			"id": "16390",
-			"name": "Xã Đông Hòa"
+			"id": 7698,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "16381",
-			"name": "Xã Đông Hoàng"
+			"id": 7699,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "16408",
-			"name": "Xã Đông Khê"
+			"id": 7700,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "16399",
-			"name": "Xã Đông Minh"
+			"id": 7701,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "16423",
-			"name": "Xã Đông Nam"
+			"id": 7702,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "16384",
-			"name": "Xã Đông Ninh"
+			"id": 7703,
+			"name": "PHƯỜNG ĐÔNG GIANG"
 		},
 		{
-			"id": "16420",
-			"name": "Xã Đông Phú"
+			"id": 7704,
+			"name": "PHƯỜNG ĐÔNG LƯƠNG"
 		},
 		{
-			"id": "16426",
-			"name": "Xã Đông Quang"
+			"id": 7705,
+			"name": "PHƯỜNG ĐÔNG LỄ"
 		},
 		{
-			"id": "16402",
-			"name": "Xã Đông Thanh"
-		},
-		{
-			"id": "16414",
-			"name": "Xã Đông Thịnh"
-		},
-		{
-			"id": "16405",
-			"name": "Xã Đông Tiến"
-		},
-		{
-			"id": "16417",
-			"name": "Xã Đông Văn"
-		},
-		{
-			"id": "16393",
-			"name": "Xã Đông Yên"
-		},
-		{
-			"id": "16378",
-			"name": "Thị trấn Rừng Thông"
+			"id": 7706,
+			"name": "PHƯỜNG ĐÔNG THANH"
 		}
 	]
 }

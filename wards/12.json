@@ -1,0 +1,74 @@
+{
+	"id": 12,
+	"name": "HUYỆN THANH TRÌ",
+	"data": [
+		{
+			"id": 248,
+			"name": "XÃ TÂN TRIỀU"
+		},
+		{
+			"id": 249,
+			"name": "XÃ NGỌC HỒI"
+		},
+		{
+			"id": 250,
+			"name": "XÃ NGŨ HIỆP"
+		},
+		{
+			"id": 251,
+			"name": "XÃ TAM HIỆP"
+		},
+		{
+			"id": 252,
+			"name": "XÃ TỨ HIỆP"
+		},
+		{
+			"id": 253,
+			"name": "TT VĂN ĐIỂN"
+		},
+		{
+			"id": 254,
+			"name": "XÃ VĨNH QUỲNH"
+		},
+		{
+			"id": 255,
+			"name": "XÃ ĐẠI ÁNG"
+		},
+		{
+			"id": 256,
+			"name": "XÃ LIÊN NINH"
+		},
+		{
+			"id": 257,
+			"name": "THANH TRÌ"
+		},
+		{
+			"id": 258,
+			"name": "XÃ THANH LIỆT"
+		},
+		{
+			"id": 259,
+			"name": "XÃ HỮU HÒA"
+		},
+		{
+			"id": 260,
+			"name": "XÃ YÊN MỸ"
+		},
+		{
+			"id": 261,
+			"name": "XÃ DUYÊN HÀ"
+		},
+		{
+			"id": 262,
+			"name": "XÃ VẠN PHÚC"
+		},
+		{
+			"id": 263,
+			"name": "XÃ TẢ THANH OAI"
+		},
+		{
+			"id": 264,
+			"name": "XÃ ĐÔNG MỸ"
+		}
+	]
+}

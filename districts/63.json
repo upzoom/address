@@ -1,0 +1,42 @@
+{
+	"id": 63,
+	"name": "Cà Mau",
+	"data": [
+		{
+			"id": 700,
+			"name": "HUYỆN CÁI NƯỚC"
+		},
+		{
+			"id": 701,
+			"name": "HUYỆN NĂM CĂN"
+		},
+		{
+			"id": 702,
+			"name": "HUYỆN ĐẦM DƠI"
+		},
+		{
+			"id": 703,
+			"name": "HUYỆN NGỌC HIỂN"
+		},
+		{
+			"id": 704,
+			"name": "HUYỆN U MINH"
+		},
+		{
+			"id": 705,
+			"name": "HUYỆN TRẦN VĂN THỜI"
+		},
+		{
+			"id": 706,
+			"name": "HUYỆN PHÚ TÂN"
+		},
+		{
+			"id": 707,
+			"name": "THÀNH PHỐ CÀ MAU"
+		},
+		{
+			"id": 708,
+			"name": "HUYỆN THỚI BÌNH"
+		}
+	]
+}

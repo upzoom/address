@@ -1,74 +1,62 @@
 {
-	"id": "466",
-	"name": "Huyện Gio Linh",
+	"id": 466,
+	"name": "THỊ XÃ SÔNG CẦU",
 	"data": [
 		{
-			"id": "19496",
-			"name": "Thị trấn Cửa Việt"
+			"id": 8570,
+			"name": "XÃ XUÂN THỌ 1"
 		},
 		{
-			"id": "19522",
-			"name": "Xã Gio An"
+			"id": 8571,
+			"name": "XÃ XUÂN THỌ 2"
 		},
 		{
-			"id": "19525",
-			"name": "Xã Gio Châu"
+			"id": 8572,
+			"name": "XÃ XUÂN HẢI"
 		},
 		{
-			"id": "19519",
-			"name": "Xã Gio Hải"
+			"id": 8573,
+			"name": "XÃ XUÂN LỘC"
 		},
 		{
-			"id": "19495",
-			"name": "Thị trấn Gio Linh"
+			"id": 8574,
+			"name": "XÃ XUÂN BÌNH"
 		},
 		{
-			"id": "19543",
-			"name": "Xã Gio Mai"
+			"id": 8575,
+			"name": "XÃ XUÂN CẢNH"
 		},
 		{
-			"id": "19510",
-			"name": "Xã Gio Mỹ"
+			"id": 8576,
+			"name": "XÃ XUÂN HOÀ"
 		},
 		{
-			"id": "19552",
-			"name": "Xã Gio Quang"
+			"id": 8577,
+			"name": "XÃ XUÂN THỊNH"
 		},
 		{
-			"id": "19537",
-			"name": "Xã Gio Sơn"
+			"id": 8578,
+			"name": "XÃ XUÂN PHƯƠNG"
 		},
 		{
-			"id": "19531",
-			"name": "Xã Gio Việt"
+			"id": 8579,
+			"name": "XÃ XUÂN LÂM"
 		},
 		{
-			"id": "19546",
-			"name": "Xã Hải Thái"
+			"id": 8580,
+			"name": "PHƯỜNG XUÂN PHÚ"
 		},
 		{
-			"id": "19549",
-			"name": "Xã Linh Hải"
+			"id": 8581,
+			"name": "PHƯỜNG XUÂN ĐÀI"
 		},
 		{
-			"id": "19534",
-			"name": "Xã Linh Trường"
+			"id": 8582,
+			"name": "PHƯỜNG XUÂN YÊN"
 		},
 		{
-			"id": "19507",
-			"name": "Xã Phong Bình"
-		},
-		{
-			"id": "19498",
-			"name": "Xã Trung Giang"
-		},
-		{
-			"id": "19501",
-			"name": "Xã Trung Hải"
-		},
-		{
-			"id": "19504",
-			"name": "Xã Trung Sơn"
+			"id": 8583,
+			"name": "PHƯỜNG XUÂN THÀNH"
 		}
 	]
 }

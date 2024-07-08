@@ -1,46 +1,50 @@
 {
-	"id": "663",
-	"name": "Huyện Đắk Mil",
+	"id": 663,
+	"name": "HUYỆN CHÂU THÀNH",
 	"data": [
 		{
-			"id": "24667",
-			"name": "Xã  Đắk Lao"
+			"id": 11138,
+			"name": "XÃ MONG THỌ A"
 		},
 		{
-			"id": "24673",
-			"name": "Xã Đắk Gằn"
+			"id": 11139,
+			"name": "XÃ THẠNH LỘC"
 		},
 		{
-			"id": "24664",
-			"name": "Thị trấn Đắk Mil"
+			"id": 11140,
+			"name": "XÃ MONG THỌ B"
 		},
 		{
-			"id": "24677",
-			"name": "Xã Đắk N'Drót"
+			"id": 11141,
+			"name": "TT MINH LƯƠNG"
 		},
 		{
-			"id": "24670",
-			"name": "Xã Đắk R'La"
+			"id": 11142,
+			"name": "XÃ BÌNH AN"
 		},
 		{
-			"id": "24679",
-			"name": "Xã Đắk Sắk"
+			"id": 11143,
+			"name": "XÃ MINH HÒA"
 		},
 		{
-			"id": "24676",
-			"name": "Xã Đức Mạnh"
+			"id": 11144,
+			"name": "XÃ VĨNH HÒA HIỆP"
 		},
 		{
-			"id": "24685",
-			"name": "Xã Đức Minh"
+			"id": 11145,
+			"name": "KHU CÔNG NGHIỆP CẢNG CÁ TẮC CẬU"
 		},
 		{
-			"id": "24678",
-			"name": "Xã Long Sơn"
+			"id": 11146,
+			"name": "XÃ GIỤC TƯỢNG"
 		},
 		{
-			"id": "24682",
-			"name": "Xã Thuận An"
+			"id": 11147,
+			"name": "XÃ VĨNH HÒA PHÚ"
+		},
+		{
+			"id": 11148,
+			"name": "XÃ MONG THỌ"
 		}
 	]
 }

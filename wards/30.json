@@ -1,0 +1,74 @@
+{
+	"id": 30,
+	"name": "QUẬN HÀ ĐÔNG",
+	"data": [
+		{
+			"id": 583,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 584,
+			"name": "PHƯỜNG HÀ CẦU"
+		},
+		{
+			"id": 585,
+			"name": "PHƯỜNG MỖ LAO"
+		},
+		{
+			"id": 586,
+			"name": "PHƯỜNG VĂN QUÁN"
+		},
+		{
+			"id": 587,
+			"name": "PHƯỜNG YẾT KIÊU"
+		},
+		{
+			"id": 588,
+			"name": "PHƯỜNG PHÚC LA"
+		},
+		{
+			"id": 589,
+			"name": "PHƯỜNG BIÊN GIANG"
+		},
+		{
+			"id": 590,
+			"name": "PHƯỜNG LA KHÊ"
+		},
+		{
+			"id": 591,
+			"name": "PHƯỜNG KIẾN HƯNG"
+		},
+		{
+			"id": 592,
+			"name": "PHƯỜNG ĐỒNG MAI"
+		},
+		{
+			"id": 593,
+			"name": "PHƯỜNG PHÚ LƯƠNG"
+		},
+		{
+			"id": 594,
+			"name": "PHƯỜNG PHÚ LÃM"
+		},
+		{
+			"id": 595,
+			"name": "PHƯỜNG VẠN PHÚC"
+		},
+		{
+			"id": 596,
+			"name": "PHƯỜNG YÊN NGHĨA"
+		},
+		{
+			"id": 597,
+			"name": "PHƯỜNG DƯƠNG NỘI"
+		},
+		{
+			"id": 598,
+			"name": "PHƯỜNG PHÚ LA"
+		},
+		{
+			"id": 599,
+			"name": "PHƯỜNG NGUYỄN TRÃI"
+		}
+	]
+}

@@ -1,74 +1,86 @@
 {
-	"id": "153",
-	"name": "Huyện Kim Bôi",
+	"id": 153,
+	"name": "HUYỆN KIM ĐỘNG",
 	"data": [
 		{
-			"id": "04990",
-			"name": "Xã Bình Sơn"
+			"id": 2339,
+			"name": "THỊ TRẤN LƯƠNG BẰNG"
 		},
 		{
-			"id": "04978",
-			"name": "Thị trấn Bo"
+			"id": 2340,
+			"name": "XÃ NGHĨA DÂN"
 		},
 		{
-			"id": "05077",
-			"name": "Xã Cuối Hạ"
+			"id": 2341,
+			"name": "XÃ TOÀN THẮNG"
 		},
 		{
-			"id": "05014",
-			"name": "Xã Đông Bắc"
+			"id": 2342,
+			"name": "XÃ VĨNH XÁ"
 		},
 		{
-			"id": "04984",
-			"name": "Xã Đú Sáng"
+			"id": 2343,
+			"name": "XÃ PHẠM NGŨ LÃO"
 		},
 		{
-			"id": "05038",
-			"name": "Xã Hợp Tiến"
+			"id": 2344,
+			"name": "XÃ NHÂN LA"
 		},
 		{
-			"id": "04987",
-			"name": "Xã Hùng Sơn"
+			"id": 2345,
+			"name": "XÃ VŨ XÁ"
 		},
 		{
-			"id": "05065",
-			"name": "Xã Kim Bôi"
+			"id": 2346,
+			"name": "XÃ CHÍNH NGHĨA"
 		},
 		{
-			"id": "05035",
-			"name": "Xã Kim Lập"
+			"id": 2347,
+			"name": "XÃ SONG MAI"
 		},
 		{
-			"id": "05083",
-			"name": "Xã Mi Hòa"
+			"id": 2348,
+			"name": "XÃ ĐỒNG THANH"
 		},
 		{
-			"id": "05068",
-			"name": "Xã Nam Thượng"
+			"id": 2349,
+			"name": "XÃ THỌ VINH"
 		},
 		{
-			"id": "05086",
-			"name": "Xã Nuông Dăm"
+			"id": 2350,
+			"name": "XÃ PHÚ THỊNH"
 		},
 		{
-			"id": "05080",
-			"name": "Xã Sào Báy"
+			"id": 2351,
+			"name": "XÃ MAI ĐỘNG"
 		},
 		{
-			"id": "04999",
-			"name": "Xã Tú Sơn"
+			"id": 2352,
+			"name": "XÃ ĐỨC HỢP"
 		},
 		{
-			"id": "05026",
-			"name": "Xã Vĩnh Đồng"
+			"id": 2353,
+			"name": "XÃ HÙNG AN"
 		},
 		{
-			"id": "05005",
-			"name": "Xã Vĩnh Tiến"
+			"id": 2354,
+			"name": "XÃ NGỌC THANH"
 		},
 		{
-			"id": "05017",
-			"name": "Xã Xuân Thủy"
+			"id": 2355,
+			"name": "XÃ HIỆP CƯỜNG"
+		},
+		{
+			"id": 2356,
+			"name": "XÃ BẢO KHÊ"
+		},
+		{
+			"id": 2357,
+			"name": "XÃ HÙNG CƯỜNG"
+		},
+		{
+			"id": 2358,
+			"name": "XÃ PHÚ CƯỜNG"
 		}
 	]
 }

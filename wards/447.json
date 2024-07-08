@@ -1,86 +1,98 @@
 {
-	"id": "447",
-	"name": "Huyện Kỳ Anh",
+	"id": 447,
+	"name": "HUYỆN TRÀ BỒNG",
 	"data": [
 		{
-			"id": "18760",
-			"name": "Xã Kỳ Bắc"
+			"id": 8307,
+			"name": "XÃ TRÀ BÌNH"
 		},
 		{
-			"id": "18811",
-			"name": "Xã Kỳ Châu"
+			"id": 8308,
+			"name": "XÃ TRÀ BÙI"
 		},
 		{
-			"id": "18775",
-			"name": "Xã Kỳ Đồng"
+			"id": 8309,
+			"name": "XÃ TRÀ GIANG"
 		},
 		{
-			"id": "18772",
-			"name": "Xã Kỳ Giang"
+			"id": 8310,
+			"name": "XÃ TRÀ HIỆP"
 		},
 		{
-			"id": "18802",
-			"name": "Xã Kỳ Hải"
+			"id": 8311,
+			"name": "XÃ TRÀ LÂM"
 		},
 		{
-			"id": "18778",
-			"name": "Xã Kỳ Khang"
+			"id": 8312,
+			"name": "XÃ TRÀ TÂN"
 		},
 		{
-			"id": "18850",
-			"name": "Xã Kỳ Lạc"
+			"id": 8313,
+			"name": "XÃ TRÀ THỦY"
 		},
 		{
-			"id": "18766",
-			"name": "Xã Kỳ Phong"
+			"id": 8314,
+			"name": "THỊ TRẤN HUYỆN TRÀ BỒNG"
 		},
 		{
-			"id": "18763",
-			"name": "Xã Kỳ Phú"
+			"id": 8315,
+			"name": "THỊ TRẤN TRÀ XUÂN"
 		},
 		{
-			"id": "18844",
-			"name": "Xã Kỳ Sơn"
+			"id": 8316,
+			"name": "XÃ TRÀ PHÚ"
 		},
 		{
-			"id": "18814",
-			"name": "Xã Kỳ Tân"
+			"id": 8317,
+			"name": "XÃ TRÀ SƠN"
 		},
 		{
-			"id": "18793",
-			"name": "Xã Kỳ Tây"
+			"id": 20563,
+			"name": "XÃ TRÀ KHÊ"
 		},
 		{
-			"id": "18790",
-			"name": "Xã Kỳ Thọ"
+			"id": 20564,
+			"name": "XÃ TRÀ QUÂN"
 		},
 		{
-			"id": "18805",
-			"name": "Xã Kỳ Thư"
+			"id": 20569,
+			"name": "XÃ TRÀ LÃNH"
 		},
 		{
-			"id": "18799",
-			"name": "Xã Kỳ Thượng"
+			"id": 20568,
+			"name": "XÃ TRÀ XINH"
 		},
 		{
-			"id": "18769",
-			"name": "Xã Kỳ Tiến"
+			"id": 20570,
+			"name": "XÃ TRÀ NHAM"
 		},
 		{
-			"id": "18787",
-			"name": "Xã Kỳ Trung"
+			"id": 26152,
+			"name": "XÃ SƠN TRÀ"
 		},
 		{
-			"id": "18784",
-			"name": "Xã Kỳ Văn"
+			"id": 20565,
+			"name": "XÃ TRÀ THỌ"
 		},
 		{
-			"id": "18757",
-			"name": "Xã Kỳ Xuân"
+			"id": 20566,
+			"name": "XÃ TRÀ TRUNG"
 		},
 		{
-			"id": "18838",
-			"name": "Xã Lâm Hợp"
+			"id": 20567,
+			"name": "XÃ TRÀ THANH"
+		},
+		{
+			"id": 20571,
+			"name": "XÃ TRÀ PHONG"
+		},
+		{
+			"id": 26150,
+			"name": "XÃ TRÀ TÂY"
+		},
+		{
+			"id": 26151,
+			"name": "XÃ HƯƠNG TRÀ"
 		}
 	]
 }

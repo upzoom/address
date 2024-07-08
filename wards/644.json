@@ -1,54 +1,62 @@
 {
-	"id": "644",
-	"name": "Thị Xã Buôn Hồ",
+	"id": 644,
+	"name": "HUYỆN BÌNH TÂN",
 	"data": [
 		{
-			"id": "24308",
-			"name": "Phường An Bình"
+			"id": 10824,
+			"name": "TT TÂN QƯỚI"
 		},
 		{
-			"id": "24305",
-			"name": "Phường An Lạc"
+			"id": 10825,
+			"name": "XÃ THÀNH LỢI"
 		},
 		{
-			"id": "24332",
-			"name": "Phường Bình Tân"
+			"id": 10826,
+			"name": "XÃ TÂN LƯỢC"
 		},
 		{
-			"id": "24337",
-			"name": "Xã Bình Thuận"
+			"id": 10827,
+			"name": "XÃ TÂN HƯNG"
 		},
 		{
-			"id": "24340",
-			"name": "Xã Cư Bao"
+			"id": 10828,
+			"name": "TÂN THÀNH"
 		},
 		{
-			"id": "24318",
-			"name": "Phường Đạt Hiếu"
+			"id": 10829,
+			"name": "TÂN LƯỢC"
 		},
 		{
-			"id": "24322",
-			"name": "Phường Đoàn Kết"
+			"id": 10830,
+			"name": "TÂN BÌNH"
 		},
 		{
-			"id": "24325",
-			"name": "Xã Ea Blang"
+			"id": 10831,
+			"name": "TÂN AN THẠNH"
 		},
 		{
-			"id": "24328",
-			"name": "Xã Ea Drông"
+			"id": 10832,
+			"name": "THÀNH ĐÔNG"
 		},
 		{
-			"id": "24334",
-			"name": "Xã Ea Siên"
+			"id": 10833,
+			"name": "THÀNH TRUNG"
 		},
 		{
-			"id": "24311",
-			"name": "Phường Thiện An"
+			"id": 10834,
+			"name": "THÀNH LỢI"
 		},
 		{
-			"id": "24331",
-			"name": "Phường Thống Nhất"
+			"id": 10835,
+			"name": "TÂN QUỚI"
+		},
+		{
+			"id": 10836,
+			"name": "NGUYỄN VĂN THẢNH"
+		},
+		{
+			"id": 10837,
+			"name": "MỸ THUẬN"
 		}
 	]
 }

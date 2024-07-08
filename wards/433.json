@@ -1,0 +1,90 @@
+{
+	"id": 433,
+	"name": "THỊ XÃ ĐIỆN BÀN",
+	"data": [
+		{
+			"id": 8114,
+			"name": "XÃ ĐIỆN NGỌC"
+		},
+		{
+			"id": 8115,
+			"name": "XÃ ĐIỆN AN"
+		},
+		{
+			"id": 8116,
+			"name": "XÃ ĐIỆN NAM ĐÔNG"
+		},
+		{
+			"id": 8117,
+			"name": "XÃ ĐIỆN TRUNG"
+		},
+		{
+			"id": 8118,
+			"name": "XÃ ĐIỆN DƯƠNG"
+		},
+		{
+			"id": 8119,
+			"name": "THỊ TRẤN VĨNH ĐIỆN"
+		},
+		{
+			"id": 8120,
+			"name": "XÃ ĐIỆN MINH"
+		},
+		{
+			"id": 8121,
+			"name": "XÃ ĐIỆN PHƯƠNG"
+		},
+		{
+			"id": 8122,
+			"name": "XÃ ĐIỆN HÒA"
+		},
+		{
+			"id": 8123,
+			"name": "XÃ ĐIỆN THẮNG NAM"
+		},
+		{
+			"id": 8124,
+			"name": "XÃ ĐIỆN NAM TRUNG"
+		},
+		{
+			"id": 8125,
+			"name": "XÃ ĐIỆN NAM BẮC"
+		},
+		{
+			"id": 8126,
+			"name": "XÃ ĐIỆN THẮNG BẮC"
+		},
+		{
+			"id": 8127,
+			"name": "XÃ ĐIỆN THẮNG TRUNG"
+		},
+		{
+			"id": 8128,
+			"name": "XÃ ĐIỆN PHƯỚC"
+		},
+		{
+			"id": 8129,
+			"name": "XÃ ĐIỆN THỌ"
+		},
+		{
+			"id": 8130,
+			"name": "XÃ ĐIỆN HỒNG"
+		},
+		{
+			"id": 8131,
+			"name": "XÃ ĐIỆN TIẾN"
+		},
+		{
+			"id": 8132,
+			"name": "XÃ ĐIỆN QUANG"
+		},
+		{
+			"id": 8133,
+			"name": "XÃ ĐIỆN PHONG"
+		},
+		{
+			"id": 8134,
+			"name": "ĐIỆN PHONG"
+		}
+	]
+}

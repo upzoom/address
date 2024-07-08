@@ -1,82 +1,54 @@
 {
-	"id": "290",
-	"name": "Thành phố Chí Linh",
+	"id": 290,
+	"name": "HUYỆN TIÊN YÊN",
 	"data": [
 		{
-			"id": "10594",
-			"name": "Phường An Lạc"
+			"id": 5319,
+			"name": "THỊ TRẤN TIÊN YÊN"
 		},
 		{
-			"id": "10558",
-			"name": "Xã Bắc An"
+			"id": 5320,
+			"name": "XÃ ĐỒNG RUI"
 		},
 		{
-			"id": "10552",
-			"name": "Phường Bến Tắm"
+			"id": 5321,
+			"name": "XÃ ĐẠI DỰC"
 		},
 		{
-			"id": "10582",
-			"name": "Phường Chí Minh"
+			"id": 5322,
+			"name": "XÃ ĐIỀN XÁ"
 		},
 		{
-			"id": "10576",
-			"name": "Phường Cổ Thành"
+			"id": 5323,
+			"name": "XÃ ĐÔNG HẢI"
 		},
 		{
-			"id": "10570",
-			"name": "Phường Cộng Hoà"
+			"id": 5324,
+			"name": "XÃ ĐÔNG NGŨ"
 		},
 		{
-			"id": "10600",
-			"name": "Phường Đồng Lạc"
+			"id": 5325,
+			"name": "XÃ HÀ LÂU"
 		},
 		{
-			"id": "10555",
-			"name": "Xã Hoàng Hoa Thám"
+			"id": 5326,
+			"name": "XÃ HẢI LẠNG"
 		},
 		{
-			"id": "10573",
-			"name": "Phường Hoàng Tân"
+			"id": 5327,
+			"name": "XÃ YÊN THAN"
 		},
 		{
-			"id": "10567",
-			"name": "Phường Hoàng Tiến"
+			"id": 5328,
+			"name": "XÃ PHONG DỤ"
 		},
 		{
-			"id": "10561",
-			"name": "Xã Hưng Đạo"
+			"id": 5329,
+			"name": "XÃ TIÊN LÃNG"
 		},
 		{
-			"id": "10564",
-			"name": "Xã Lê Lợi"
-		},
-		{
-			"id": "10591",
-			"name": "Xã Nhân Huệ"
-		},
-		{
-			"id": "10546",
-			"name": "Phường Phả Lại"
-		},
-		{
-			"id": "10549",
-			"name": "Phường Sao Đỏ"
-		},
-		{
-			"id": "10603",
-			"name": "Phường Tân Dân"
-		},
-		{
-			"id": "10588",
-			"name": "Phường Thái Học"
-		},
-		{
-			"id": "10579",
-			"name": "Phường Văn An"
-		},
-		{
-			"id": "10585",
-			"name": "Phường Văn Đức"
+			"id": 5330,
+			"name": "XÃ ĐẠI THÀNH"
 		}
 	]
 }

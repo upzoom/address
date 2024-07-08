@@ -1,0 +1,38 @@
+{
+	"id": 567,
+	"name": "THỊ XÃ BẾN CÁT",
+	"data": [
+		{
+			"id": 9792,
+			"name": "PHƯỜNG MỸ PHƯỚC"
+		},
+		{
+			"id": 9793,
+			"name": "PHƯỜNG CHÁNH PHÚ HÒA"
+		},
+		{
+			"id": 9794,
+			"name": "XÃ AN ĐIỀN"
+		},
+		{
+			"id": 9795,
+			"name": "XÃ AN TÂY"
+		},
+		{
+			"id": 9796,
+			"name": "PHƯỜNG THỚI HÒA"
+		},
+		{
+			"id": 9797,
+			"name": "PHƯỜNG HÒA LỢI"
+		},
+		{
+			"id": 9798,
+			"name": "PHƯỜNG TÂN ĐỊNH"
+		},
+		{
+			"id": 9799,
+			"name": "XÃ PHÚ AN"
+		}
+	]
+}

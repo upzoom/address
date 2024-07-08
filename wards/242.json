@@ -1,0 +1,66 @@
+{
+	"id": 242,
+	"name": "THÀNH PHỐ TUYÊN QUANG",
+	"data": [
+		{
+			"id": 4212,
+			"name": "PHƯỜNG TÂN QUANG"
+		},
+		{
+			"id": 4213,
+			"name": "PHƯỜNG MINH XUÂN"
+		},
+		{
+			"id": 4214,
+			"name": "PHƯỜNG PHAN THIẾT"
+		},
+		{
+			"id": 4215,
+			"name": "PHƯỜNG TÂN HÀ"
+		},
+		{
+			"id": 4216,
+			"name": "PHƯỜNG Ỷ LA"
+		},
+		{
+			"id": 4217,
+			"name": "PHƯỜNG HƯNG THÀNH"
+		},
+		{
+			"id": 4218,
+			"name": "PHƯỜNG NÔNG TIẾN"
+		},
+		{
+			"id": 4219,
+			"name": "XÃ AN TƯỜNG"
+		},
+		{
+			"id": 4220,
+			"name": "XÃ TRÀNG ĐÀ"
+		},
+		{
+			"id": 4221,
+			"name": "XÃ LƯỠNG VƯỢNG"
+		},
+		{
+			"id": 4222,
+			"name": "XÃ AN KHANG"
+		},
+		{
+			"id": 4223,
+			"name": "XÃ ĐỘI CẤN"
+		},
+		{
+			"id": 4224,
+			"name": "XÃ THÁI LONG"
+		},
+		{
+			"id": 26335,
+			"name": "PHƯỜNG MỸ LÂM"
+		},
+		{
+			"id": 26336,
+			"name": "XÃ KIM PHÚ"
+		}
+	]
+}

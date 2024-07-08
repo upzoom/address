@@ -1,0 +1,50 @@
+{
+	"id": 151,
+	"name": "HUYỆN VĂN GIANG",
+	"data": [
+		{
+			"id": 2315,
+			"name": "XÃ LIÊN NGHĨA"
+		},
+		{
+			"id": 2316,
+			"name": "XÃ MỄ SỞ"
+		},
+		{
+			"id": 2317,
+			"name": "XÃ THẮNG LỢI"
+		},
+		{
+			"id": 2318,
+			"name": "THỊ TRẤN VĂN GIANG"
+		},
+		{
+			"id": 2319,
+			"name": "XÃ XUÂN QUAN"
+		},
+		{
+			"id": 2320,
+			"name": "XÃ PHỤNG CÔNG"
+		},
+		{
+			"id": 2321,
+			"name": "XÃ CỬU CAO"
+		},
+		{
+			"id": 2322,
+			"name": "XÃ LONG HƯNG"
+		},
+		{
+			"id": 2323,
+			"name": "XÃ NGHĨA TRỤ"
+		},
+		{
+			"id": 2324,
+			"name": "XÃ VĨNH KHÚC"
+		},
+		{
+			"id": 2325,
+			"name": "XÃ TÂN TIẾN"
+		}
+	]
+}

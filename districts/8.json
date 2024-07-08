@@ -1,0 +1,38 @@
+{
+	"id": 8,
+	"name": "Hậu Giang",
+	"data": [
+		{
+			"id": 102,
+			"name": "THÀNH PHỐ VỊ THANH"
+		},
+		{
+			"id": 103,
+			"name": "HUYỆN CHÂU THÀNH A"
+		},
+		{
+			"id": 104,
+			"name": "HUYỆN LONG MỸ"
+		},
+		{
+			"id": 105,
+			"name": "HUYỆN CHÂU THÀNH "
+		},
+		{
+			"id": 106,
+			"name": "HUYỆN VỊ THỦY"
+		},
+		{
+			"id": 107,
+			"name": "THÀNH PHỐ NGÃ BẢY"
+		},
+		{
+			"id": 108,
+			"name": "HUYỆN PHỤNG HIỆP"
+		},
+		{
+			"id": 109,
+			"name": "THỊ XÃ LONG MỸ"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 53,
+	"name": "Bà rịa - Vũng tàu",
+	"data": [
+		{
+			"id": 595,
+			"name": "THÀNH PHỐ BÀ RỊA"
+		},
+		{
+			"id": 596,
+			"name": "THỊ XÃ PHÚ MỸ"
+		},
+		{
+			"id": 597,
+			"name": "HUYỆN XUYÊN MỘC"
+		},
+		{
+			"id": 598,
+			"name": "HUYỆN CHÂU ĐỨC"
+		},
+		{
+			"id": 599,
+			"name": "THÀNH PHỐ VŨNG TÀU"
+		},
+		{
+			"id": 600,
+			"name": "HUYỆN ĐẤT ĐỎ"
+		},
+		{
+			"id": 602,
+			"name": "HUYỆN CÔN ĐẢO"
+		},
+		{
+			"id": 603,
+			"name": "HUYỆN LONG ĐIỀN"
+		}
+	]
+}

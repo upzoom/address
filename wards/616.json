@@ -1,50 +1,62 @@
 {
-	"id": "616",
-	"name": "Huyện Sa Thầy",
+	"id": 616,
+	"name": "THÀNH PHỐ TÂN AN",
 	"data": [
 		{
-			"id": "23534",
-			"name": "Xã Hơ Moong"
+			"id": 10461,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "23536",
-			"name": "Xã Mô Rai"
+			"id": 10462,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "23530",
-			"name": "Xã Rơ Kơi"
+			"id": 10463,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "23545",
-			"name": "Xã Sa Bình"
+			"id": 10464,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "23542",
-			"name": "Xã Sa Nghĩa"
+			"id": 10465,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "23533",
-			"name": "Xã Sa Nhơn"
+			"id": 10466,
+			"name": "PHƯỜNG 6"
 		},
 		{
-			"id": "23539",
-			"name": "Xã Sa Sơn"
+			"id": 10467,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "23527",
-			"name": "Thị trấn Sa Thầy"
+			"id": 10468,
+			"name": "PHƯỜNG KHÁNH HẬU"
 		},
 		{
-			"id": "23551",
-			"name": "Xã Ya Tăng"
+			"id": 10469,
+			"name": "PHƯỜNG TÂN KHÁNH"
 		},
 		{
-			"id": "23548",
-			"name": "Xã Ya Xiêr"
+			"id": 10470,
+			"name": "XÃ BÌNH TÂM"
 		},
 		{
-			"id": "23554",
-			"name": "Xã Ya ly"
+			"id": 10471,
+			"name": "XÃ LỢI BÌNH NHƠN"
+		},
+		{
+			"id": 10472,
+			"name": "XÃ HƯỚNG THỌ PHÚ"
+		},
+		{
+			"id": 10473,
+			"name": "XÃ NHƠN THẠNH TRUNG"
+		},
+		{
+			"id": 10474,
+			"name": "XÃ AN VĨNH NGÃI"
 		}
 	]
 }

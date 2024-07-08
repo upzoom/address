@@ -1,0 +1,50 @@
+{
+	"id": 591,
+	"name": "HUYỆN HÀM TÂN",
+	"data": [
+		{
+			"id": 10143,
+			"name": "XÃ TÂN HÀ"
+		},
+		{
+			"id": 10144,
+			"name": "XÃ TÂN NGHĨA"
+		},
+		{
+			"id": 10145,
+			"name": "XÃ TÂN XUÂN"
+		},
+		{
+			"id": 10146,
+			"name": "XÃ SÔNG PHAN"
+		},
+		{
+			"id": 10147,
+			"name": "XÃ TÂN ĐỨC"
+		},
+		{
+			"id": 10148,
+			"name": "XÃ THẮNG HẢI"
+		},
+		{
+			"id": 10149,
+			"name": "XÃ TÂN THẮNG"
+		},
+		{
+			"id": 10150,
+			"name": "XÃ TÂN PHÚC"
+		},
+		{
+			"id": 10151,
+			"name": "XÃ SƠN MỸ"
+		},
+		{
+			"id": 10152,
+			"name": "THỊ TRẤN TÂN MINH"
+		},
+		{
+			"id": 10153,
+			"name": "THỊ TRẤN TÂN NGHĨA"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": 208,
+	"name": "HUYỆN BẢO LÂM",
+	"data": [
+		{
+			"id": 3572,
+			"name": "XÃ QUẢNG LÂM"
+		},
+		{
+			"id": 3573,
+			"name": "XÃ THẠCH LÂM"
+		},
+		{
+			"id": 3574,
+			"name": "XÃ THÁI HỌC"
+		},
+		{
+			"id": 3575,
+			"name": "XÃ THÁI SƠN"
+		},
+		{
+			"id": 3576,
+			"name": "XÃ YÊN THỔ"
+		},
+		{
+			"id": 3577,
+			"name": "THỊ TRẤN PÁC MIEU"
+		},
+		{
+			"id": 3578,
+			"name": "XÃ MÔNG ÂN"
+		},
+		{
+			"id": 3579,
+			"name": "XÃ ĐỨC HẠNH"
+		},
+		{
+			"id": 3580,
+			"name": "XÃ LÝ BÔN"
+		},
+		{
+			"id": 3581,
+			"name": "XÃ VĨNH QUANG"
+		},
+		{
+			"id": 3582,
+			"name": "XÃ VĨNH PHONG"
+		},
+		{
+			"id": 3583,
+			"name": "XÃ NAM QUANG"
+		},
+		{
+			"id": 3584,
+			"name": "XÃ NAM CAO"
+		},
+		{
+			"id": 3585,
+			"name": "XÃ TÂN VIỆT"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": 41,
+	"name": "Phú Yên",
+	"data": [
+		{
+			"id": 466,
+			"name": "THỊ XÃ SÔNG CẦU"
+		},
+		{
+			"id": 467,
+			"name": "HUYỆN TUY AN"
+		},
+		{
+			"id": 468,
+			"name": "HUYỆN TÂY HÒA"
+		},
+		{
+			"id": 469,
+			"name": "HUYỆN ĐÔNG HÒA"
+		},
+		{
+			"id": 470,
+			"name": "THÀNH PHỐ TUY HÒA"
+		},
+		{
+			"id": 471,
+			"name": "HUYỆN ĐỒNG XUÂN"
+		},
+		{
+			"id": 472,
+			"name": "HUYỆN PHÚ HÒA"
+		},
+		{
+			"id": 473,
+			"name": "HUYỆN SƠN HÒA"
+		},
+		{
+			"id": 474,
+			"name": "HUYỆN SÔNG HINH"
+		}
+	]
+}

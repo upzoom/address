@@ -1,62 +1,42 @@
 {
-	"id": "560",
-	"name": "Huyện Sơn Hòa",
+	"id": 560,
+	"name": "HUYỆN GÒ DẦU",
 	"data": [
 		{
-			"id": "22180",
-			"name": "Xã Cà Lúi"
+			"id": 9723,
+			"name": "XÃ PHƯỚC TRẠCH"
 		},
 		{
-			"id": "22165",
-			"name": "Thị trấn Củng Sơn"
+			"id": 9724,
+			"name": "XÃ THẠNH ĐỨC"
 		},
 		{
-			"id": "22192",
-			"name": "Xã Eachà Rang"
+			"id": 9725,
+			"name": "XÃ THANH PHƯỚC"
 		},
 		{
-			"id": "22195",
-			"name": "Xã Krông Pa"
+			"id": 9726,
+			"name": "THỊ TRẤN GÒ DẦU"
 		},
 		{
-			"id": "22168",
-			"name": "Xã Phước Tân"
+			"id": 9727,
+			"name": "XÃ BÀU ĐÔN"
 		},
 		{
-			"id": "22174",
-			"name": "Xã Sơn Định"
+			"id": 9728,
+			"name": "XÃ CẨM GIANG"
 		},
 		{
-			"id": "22201",
-			"name": "Xã Sơn Hà"
+			"id": 9729,
+			"name": "XÃ HIỆP THẠNH"
 		},
 		{
-			"id": "22171",
-			"name": "Xã Sơn Hội"
+			"id": 9730,
+			"name": "XÃ PHƯỚC ĐÔNG"
 		},
 		{
-			"id": "22177",
-			"name": "Xã Sơn Long"
-		},
-		{
-			"id": "22189",
-			"name": "Xã Sơn Nguyên"
-		},
-		{
-			"id": "22183",
-			"name": "Xã Sơn Phước"
-		},
-		{
-			"id": "22186",
-			"name": "Xã Sơn Xuân"
-		},
-		{
-			"id": "22198",
-			"name": "Xã Suối Bạc"
-		},
-		{
-			"id": "22204",
-			"name": "Xã Suối Trai"
+			"id": 9731,
+			"name": "XÃ PHƯỚC THẠNH"
 		}
 	]
 }

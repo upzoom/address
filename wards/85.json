@@ -1,0 +1,50 @@
+{
+	"id": 85,
+	"name": "HUYỆN VĨNH THẠNH",
+	"data": [
+		{
+			"id": 1298,
+			"name": "XÃ THẠNH MỸ"
+		},
+		{
+			"id": 1299,
+			"name": "XÃ THẠNH QUỚI"
+		},
+		{
+			"id": 1300,
+			"name": "XÃ THẠNH AN"
+		},
+		{
+			"id": 1301,
+			"name": "XÃ THẠNH LỢI"
+		},
+		{
+			"id": 1302,
+			"name": "XÃ THẠNH LỘC"
+		},
+		{
+			"id": 1303,
+			"name": "THỊ TRẤN VĨNH THẠNH"
+		},
+		{
+			"id": 1304,
+			"name": "THỊ TRẤN THẠNH AN"
+		},
+		{
+			"id": 1305,
+			"name": "XÃ VĨNH TRINH"
+		},
+		{
+			"id": 1306,
+			"name": "XÃ VĨNH BÌNH"
+		},
+		{
+			"id": 1307,
+			"name": "XÃ THẠNH TIẾN"
+		},
+		{
+			"id": 1308,
+			"name": "XÃ THẠNH THẮNG"
+		}
+	]
+}

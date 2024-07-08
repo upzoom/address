@@ -1,74 +1,66 @@
 {
-	"id": "648",
-	"name": "Huyện Cư M'gar",
+	"id": 648,
+	"name": "HUYỆN TRÀ ÔN",
 	"data": [
 		{
-			"id": "24271",
-			"name": "Xã Cư Dliê M'nông"
+			"id": 10888,
+			"name": "TT TRÀ ÔN"
 		},
 		{
-			"id": "24289",
-			"name": "Xã Cư M'gar"
+			"id": 10889,
+			"name": "XÃ XUÂN HIỆP"
 		},
 		{
-			"id": "24298",
-			"name": "Xã Cư Suê"
+			"id": 10890,
+			"name": "NHƠN BÌNH"
 		},
 		{
-			"id": "24301",
-			"name": "Xã Cuor Đăng"
+			"id": 10891,
+			"name": "HÒA BÌNH"
 		},
 		{
-			"id": "24292",
-			"name": "Xã Ea D'Rơng"
+			"id": 10892,
+			"name": "HỰU THÀNH"
 		},
 		{
-			"id": "24274",
-			"name": "Xã Ea H'đinh"
+			"id": 10893,
+			"name": "VĨNH XUÂN"
 		},
 		{
-			"id": "24280",
-			"name": "Xã Ea KPam"
+			"id": 10894,
+			"name": "THUẬN THỚI"
 		},
 		{
-			"id": "24265",
-			"name": "Xã Ea Kiết"
+			"id": 10895,
+			"name": "TÂN MỸ"
 		},
 		{
-			"id": "24264",
-			"name": "Xã Ea Kuêh"
+			"id": 10896,
+			"name": "THIỆN MỸ"
 		},
 		{
-			"id": "24283",
-			"name": "Xã Ea M'DRóh"
+			"id": 10897,
+			"name": "TÍCH THIỆN"
 		},
 		{
-			"id": "24295",
-			"name": "Xã Ea M'nang"
+			"id": 10898,
+			"name": "PHÚ THÀNH"
 		},
 		{
-			"id": "24256",
-			"name": "Thị trấn Ea Pốk"
+			"id": 10899,
+			"name": "LỤC SĨ"
 		},
 		{
-			"id": "24268",
-			"name": "Xã Ea Tar"
+			"id": 10900,
+			"name": "THỚI HÒA"
 		},
 		{
-			"id": "24277",
-			"name": "Xã Ea Tul"
+			"id": 10901,
+			"name": "TRÀ CÔN"
 		},
 		{
-			"id": "24286",
-			"name": "Xã Quảng Hiệp"
-		},
-		{
-			"id": "24259",
-			"name": "Thị trấn Quảng Phú"
-		},
-		{
-			"id": "24262",
-			"name": "Xã Quảng Tiến"
+			"id": 10902,
+			"name": "XÃ LỤC SỸ THÀNH"
 		}
 	]
 }

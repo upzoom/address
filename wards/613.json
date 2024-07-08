@@ -1,42 +1,58 @@
 {
-	"id": "613",
-	"name": "Huyện Kon Plông",
+	"id": 613,
+	"name": "HUYỆN MỘC HÓA",
 	"data": [
 		{
-			"id": "23452",
-			"name": "Xã Đắk Nên"
+			"id": 10418,
+			"name": "THỊ TRẤN MỘC HÓA"
 		},
 		{
-			"id": "23455",
-			"name": "Xã Đắk Ring"
+			"id": 10419,
+			"name": "XÃ THẠNH TRỊ"
 		},
 		{
-			"id": "23461",
-			"name": "Xã Đắk Tăng"
+			"id": 10420,
+			"name": "XÃ BÌNH TÂN"
 		},
 		{
-			"id": "23476",
-			"name": "Xã Hiếu"
+			"id": 10421,
+			"name": "XÃ TUYÊN THẠNH"
 		},
 		{
-			"id": "23458",
-			"name": "Xã Măng Buk"
+			"id": 10422,
+			"name": "XÃ THẠNH HƯNG"
 		},
 		{
-			"id": "23470",
-			"name": "Xã Măng Cành"
+			"id": 10423,
+			"name": "XÃ BÌNH HIỆP"
 		},
 		{
-			"id": "23473",
-			"name": "Thị trấn Măng Đen"
+			"id": 10424,
+			"name": "XÃ BÌNH HÒA TÂY"
 		},
 		{
-			"id": "23464",
-			"name": "Xã Ngok Tem"
+			"id": 10425,
+			"name": "XÃ BÌNH HÒA TRUNG"
 		},
 		{
-			"id": "23467",
-			"name": "Xã Pờ Ê"
+			"id": 10426,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 10427,
+			"name": "XÃ BÌNH PHONG THẠNH"
+		},
+		{
+			"id": 10428,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 10429,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 10430,
+			"name": "XÃ BÌNH HÒA ĐÔNG"
 		}
 	]
 }

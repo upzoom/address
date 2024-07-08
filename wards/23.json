@@ -1,0 +1,54 @@
+{
+	"id": 23,
+	"name": "QUẬN THANH XUÂN",
+	"data": [
+		{
+			"id": 457,
+			"name": "PHƯỜNG THANH XUÂN NAM"
+		},
+		{
+			"id": 458,
+			"name": "PHƯỜNG NHÂN CHÍNH"
+		},
+		{
+			"id": 459,
+			"name": "PHƯỜNG HẠ ĐÌNH"
+		},
+		{
+			"id": 460,
+			"name": "PHƯỜNG KHƯƠNG MAI"
+		},
+		{
+			"id": 461,
+			"name": "PHƯỜNG THANH XUÂN BẮC"
+		},
+		{
+			"id": 462,
+			"name": "PHƯỜNG PHƯƠNG MAI"
+		},
+		{
+			"id": 463,
+			"name": "PHƯỜNG PHƯƠNG LIỆT"
+		},
+		{
+			"id": 464,
+			"name": "PHƯỜNG THƯỢNG ĐÌNH"
+		},
+		{
+			"id": 465,
+			"name": "PHƯỜNG KHƯƠNG ĐÌNH"
+		},
+		{
+			"id": 466,
+			"name": "PHƯỜNG KHƯƠNG TRUNG"
+		},
+		{
+			"id": 467,
+			"name": "PHƯỜNG THANH XUÂN TRUNG"
+		},
+		{
+			"id": 468,
+			"name": "PHƯỜNG KIM GIANG"
+		}
+	]
+}

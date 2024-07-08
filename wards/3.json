@@ -1,0 +1,90 @@
+{
+	"id": 3,
+	"name": "HUYỆN HOÀI ĐỨC",
+	"data": [
+		{
+			"id": 50,
+			"name": "XÃ LẠI YÊN"
+		},
+		{
+			"id": 51,
+			"name": "XÃ CÁT QUẾ"
+		},
+		{
+			"id": 52,
+			"name": "XÃ KIM CHUNG"
+		},
+		{
+			"id": 53,
+			"name": "XÃ SONG PHƯƠNG"
+		},
+		{
+			"id": 54,
+			"name": "XÃ TIỀN YÊN"
+		},
+		{
+			"id": 55,
+			"name": "XÃ DƯƠNG LIỄU"
+		},
+		{
+			"id": 56,
+			"name": "XÃ AN KHÁNH"
+		},
+		{
+			"id": 57,
+			"name": "XÃ YÊN SỞ"
+		},
+		{
+			"id": 58,
+			"name": "THỊ TRẤN TRẠM TRÔI"
+		},
+		{
+			"id": 59,
+			"name": "XÃ ĐỨC GIANG"
+		},
+		{
+			"id": 60,
+			"name": "XÃ SƠN ĐỒNG"
+		},
+		{
+			"id": 61,
+			"name": "XÃ VÂN CANH"
+		},
+		{
+			"id": 62,
+			"name": "XÃ VÂN CÔN"
+		},
+		{
+			"id": 63,
+			"name": "XÃ LA PHÙ"
+		},
+		{
+			"id": 64,
+			"name": "XÃ DI TRẠCH"
+		},
+		{
+			"id": 65,
+			"name": "XÃ ĐÔNG LA"
+		},
+		{
+			"id": 66,
+			"name": "XÃ ĐỨC THƯỢNG"
+		},
+		{
+			"id": 67,
+			"name": "XÃ MINH KHAI"
+		},
+		{
+			"id": 68,
+			"name": "XÃ AN THƯỢNG"
+		},
+		{
+			"id": 69,
+			"name": "XÃ ĐẮC SỞ"
+		},
+		{
+			"id": 70,
+			"name": "ĐẠI LỘ THĂNG LONG"
+		}
+	]
+}

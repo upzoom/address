@@ -1,66 +1,46 @@
 {
-	"id": "123",
-	"name": "Huyện Mộc Châu",
+	"id": 123,
+	"name": "THÀNH PHỐ VĨNH YÊN",
 	"data": [
 		{
-			"id": "04012",
-			"name": "Xã Chiềng Hắc"
+			"id": 1745,
+			"name": "PHƯỜNG HỘI HỢP"
 		},
 		{
-			"id": "04024",
-			"name": "Xã Chiềng Khừa"
+			"id": 1746,
+			"name": "PHƯỜNG ĐỒNG TÂM"
 		},
 		{
-			"id": "03985",
-			"name": "Xã Chiềng Sơn"
+			"id": 1747,
+			"name": "PHƯỜNG KHAI QUANG"
 		},
 		{
-			"id": "04030",
-			"name": "Xã Đông Sang"
+			"id": 1748,
+			"name": "PHƯỜNG ĐỐNG ĐA"
 		},
 		{
-			"id": "04015",
-			"name": "Xã Hua Păng"
+			"id": 1749,
+			"name": "PHƯỜNG LIÊN BẢO"
 		},
 		{
-			"id": "04045",
-			"name": "Xã Lóng Sập"
+			"id": 1750,
+			"name": "PHƯỜNG NGÔ QUYỀN"
 		},
 		{
-			"id": "03979",
-			"name": "Thị trấn Mộc Châu"
+			"id": 1751,
+			"name": "PHƯỜNG TÍCH SƠN"
 		},
 		{
-			"id": "04027",
-			"name": "Xã Mường Sang"
+			"id": 1752,
+			"name": "PHƯỜNG ĐỊNH TRUNG"
 		},
 		{
-			"id": "03982",
-			"name": "Thị trấn NT Mộc Châu"
+			"id": 1753,
+			"name": "XÃ THANH TRÙ"
 		},
 		{
-			"id": "04000",
-			"name": "Xã Nà Mường"
-		},
-		{
-			"id": "04033",
-			"name": "Xã Phiêng Luông"
-		},
-		{
-			"id": "03991",
-			"name": "Xã Qui Hướng"
-		},
-		{
-			"id": "04003",
-			"name": "Xã Tà Lai"
-		},
-		{
-			"id": "03988",
-			"name": "Xã Tân Hợp"
-		},
-		{
-			"id": "03997",
-			"name": "Xã Tân Lập"
+			"id": 1754,
+			"name": "XÃ ĐỊNH TRUNG"
 		}
 	]
 }

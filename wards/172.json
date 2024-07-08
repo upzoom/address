@@ -1,78 +1,134 @@
 {
-	"id": "172",
-	"name": "Thành phố Phổ Yên",
+	"id": 172,
+	"name": "HUYỆN Ý YÊN",
 	"data": [
 		{
-			"id": "05860",
-			"name": "Phường Ba Hàng"
+			"id": 2741,
+			"name": "XÃ YÊN MINH"
 		},
 		{
-			"id": "05857",
-			"name": "Phường Bắc Sơn"
+			"id": 2742,
+			"name": "XÃ YÊN MỸ"
 		},
 		{
-			"id": "05854",
-			"name": "Phường Bãi Bông"
+			"id": 2743,
+			"name": "XÃ YÊN NGHĨA"
 		},
 		{
-			"id": "05875",
-			"name": "Phường Đắc Sơn"
+			"id": 2744,
+			"name": "XÃ YÊN NHÂN"
 		},
 		{
-			"id": "05896",
-			"name": "Phường Đông Cao"
+			"id": 2745,
+			"name": "XÃ YÊN NINH"
 		},
 		{
-			"id": "05878",
-			"name": "Phường Đồng Tiến"
+			"id": 2746,
+			"name": "XÃ YÊN PHONG"
 		},
 		{
-			"id": "05869",
-			"name": "Phường Hồng Tiến"
+			"id": 2747,
+			"name": "XÃ YÊN PHÚ"
 		},
 		{
-			"id": "05872",
-			"name": "Xã Minh Đức"
+			"id": 2748,
+			"name": "XÃ YÊN PHÚC"
 		},
 		{
-			"id": "05890",
-			"name": "Phường Nam Tiến"
+			"id": 2749,
+			"name": "XÃ YÊN PHƯƠNG"
 		},
 		{
-			"id": "05863",
-			"name": "Xã Phúc Tân"
+			"id": 2750,
+			"name": "XÃ YÊN QUANG"
 		},
 		{
-			"id": "05866",
-			"name": "Xã Phúc Thuận"
+			"id": 2751,
+			"name": "XÃ YÊN TÂN"
 		},
 		{
-			"id": "05893",
-			"name": "Phường Tân Hương"
+			"id": 2752,
+			"name": "XÃ YÊN THẮNG"
 		},
 		{
-			"id": "05902",
-			"name": "Phường Tân Phú"
+			"id": 2753,
+			"name": "XÃ YÊN THÀNH"
 		},
 		{
-			"id": "05881",
-			"name": "Xã Thành Công"
+			"id": 2754,
+			"name": "XÃ YÊN THỌ"
 		},
 		{
-			"id": "05905",
-			"name": "Phường Thuận Thành"
+			"id": 2755,
+			"name": "XÃ YÊN TIẾN"
 		},
 		{
-			"id": "05884",
-			"name": "Phường Tiên Phong"
+			"id": 2756,
+			"name": "XÃ YÊN TRỊ"
 		},
 		{
-			"id": "05899",
-			"name": "Phường Trung Thành"
+			"id": 2757,
+			"name": "XÃ YÊN TRUNG"
 		},
 		{
-			"id": "05887",
-			"name": "Xã Vạn Phái"
+			"id": 2758,
+			"name": "XÃ YÊN XÁ"
+		},
+		{
+			"id": 2759,
+			"name": "THỊ TRẤN LÂM"
+		},
+		{
+			"id": 2760,
+			"name": "XÃ YÊN BẰNG"
+		},
+		{
+			"id": 2761,
+			"name": "XÃ YÊN BÌNH"
+		},
+		{
+			"id": 2762,
+			"name": "XÃ YÊN CHÍNH"
+		},
+		{
+			"id": 2763,
+			"name": "XÃ YÊN CƯỜNG"
+		},
+		{
+			"id": 2764,
+			"name": "XÃ YÊN ĐỒNG"
+		},
+		{
+			"id": 2765,
+			"name": "XÃ YÊN DƯƠNG"
+		},
+		{
+			"id": 2766,
+			"name": "XÃ YÊN HỒNG"
+		},
+		{
+			"id": 2767,
+			"name": "XÃ YÊN HƯNG"
+		},
+		{
+			"id": 2768,
+			"name": "XÃ YÊN KHANG"
+		},
+		{
+			"id": 2769,
+			"name": "XÃ YÊN KHÁNH"
+		},
+		{
+			"id": 2770,
+			"name": "XÃ YÊN LỘC"
+		},
+		{
+			"id": 2771,
+			"name": "XÃ YÊN LỢI"
+		},
+		{
+			"id": 2772,
+			"name": "XÃ YÊN LƯƠNG"
 		}
 	]
 }

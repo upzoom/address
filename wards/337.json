@@ -1,0 +1,58 @@
+{
+	"id": 337,
+	"name": "HUYỆN QUAN SƠN",
+	"data": [
+		{
+			"id": 6127,
+			"name": "THỊ TRẤN QUAN SƠN"
+		},
+		{
+			"id": 6128,
+			"name": "XÃ TAM LƯ"
+		},
+		{
+			"id": 6129,
+			"name": "XÃ TAM THANH"
+		},
+		{
+			"id": 6130,
+			"name": "XÃ SƠN LƯ"
+		},
+		{
+			"id": 6131,
+			"name": "XÃ SƠN ĐIỆN"
+		},
+		{
+			"id": 6132,
+			"name": "XÃ TRUNG HẠ"
+		},
+		{
+			"id": 6133,
+			"name": "XÃ MƯỜNG MÌN"
+		},
+		{
+			"id": 6134,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 6135,
+			"name": "XÃ TRUNG THƯỢNG"
+		},
+		{
+			"id": 6136,
+			"name": "XÃ TRUNG TIẾN"
+		},
+		{
+			"id": 6137,
+			"name": "XÃ SƠN THỦY"
+		},
+		{
+			"id": 6138,
+			"name": "XÃ NA MÈO"
+		},
+		{
+			"id": 6139,
+			"name": "XÃ TRUNG XUÂN"
+		}
+	]
+}

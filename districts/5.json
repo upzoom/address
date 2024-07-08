@@ -1,0 +1,42 @@
+{
+	"id": 5,
+	"name": "Cần Thơ",
+	"data": [
+		{
+			"id": 80,
+			"name": "QUẬN Ô MÔN"
+		},
+		{
+			"id": 81,
+			"name": "HUYỆN THỚI LAI"
+		},
+		{
+			"id": 82,
+			"name": "QUẬN NINH KIỀU"
+		},
+		{
+			"id": 83,
+			"name": "QUẬN THỐT NỐT"
+		},
+		{
+			"id": 85,
+			"name": "HUYỆN VĨNH THẠNH"
+		},
+		{
+			"id": 87,
+			"name": "HUYỆN PHONG ĐIỀN"
+		},
+		{
+			"id": 89,
+			"name": "QUẬN CÁI RĂNG"
+		},
+		{
+			"id": 90,
+			"name": "HUYỆN CỜ ĐỎ"
+		},
+		{
+			"id": 91,
+			"name": "QUẬN BÌNH THỦY"
+		}
+	]
+}

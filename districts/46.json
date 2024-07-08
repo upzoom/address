@@ -1,42 +1,54 @@
 {
-	"id": "46",
-	"name": "Tỉnh Thừa Thiên Huế",
+	"id": 46,
+	"name": "Lâm Ðồng",
 	"data": [
 		{
-			"id": "481",
-			"name": "Huyện A Lưới"
+			"id": 526,
+			"name": "HUYỆN LẠC DƯƠNG"
 		},
 		{
-			"id": "474",
-			"name": "Thành phố Huế"
+			"id": 527,
+			"name": "HUYỆN BẢO LÂM"
 		},
 		{
-			"id": "479",
-			"name": "Thị xã Hương Thủy"
+			"id": 528,
+			"name": "HUYỆN CÁT TIÊN"
 		},
 		{
-			"id": "480",
-			"name": "Thị xã Hương Trà"
+			"id": 529,
+			"name": "HUYỆN DI LINH"
 		},
 		{
-			"id": "483",
-			"name": "Huyện Nam Đông"
+			"id": 530,
+			"name": "HUYỆN ĐẠ HUOAI"
 		},
 		{
-			"id": "476",
-			"name": "Huyện Phong Điền"
+			"id": 531,
+			"name": "HUYỆN LÂM HÀ"
 		},
 		{
-			"id": "482",
-			"name": "Huyện Phú Lộc"
+			"id": 532,
+			"name": "THÀNH PHỐ ĐÀ LẠT"
 		},
 		{
-			"id": "478",
-			"name": "Huyện Phú Vang"
+			"id": 533,
+			"name": "HUYỆN ĐẠ TẺH"
 		},
 		{
-			"id": "477",
-			"name": "Huyện Quảng Điền"
+			"id": 534,
+			"name": "HUYỆN ĐAM RÔNG"
+		},
+		{
+			"id": 535,
+			"name": "THÀNH PHỐ BẢO LỘC"
+		},
+		{
+			"id": 536,
+			"name": "HUYỆN ĐƠN DƯƠNG"
+		},
+		{
+			"id": 537,
+			"name": "HUYỆN ĐỨC TRỌNG"
 		}
 	]
 }

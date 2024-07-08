@@ -1,0 +1,54 @@
+{
+	"id": 55,
+	"name": "Đồng Tháp",
+	"data": [
+		{
+			"id": 619,
+			"name": "HUYỆN TÂN HỒNG"
+		},
+		{
+			"id": 620,
+			"name": "HUYỆN LẤP VÒ"
+		},
+		{
+			"id": 621,
+			"name": "THÀNH PHỐ CAO LÃNH"
+		},
+		{
+			"id": 622,
+			"name": "HUYỆN LAI VUNG"
+		},
+		{
+			"id": 623,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 624,
+			"name": "HUYỆN HỒNG NGỰ"
+		},
+		{
+			"id": 625,
+			"name": "HUYỆN CAO LÃNH"
+		},
+		{
+			"id": 626,
+			"name": "THÀNH PHỐ SA ĐÉC"
+		},
+		{
+			"id": 627,
+			"name": "HUYỆN THÁP MƯỜI"
+		},
+		{
+			"id": 628,
+			"name": "THỊ XÃ HỒNG NGỰ"
+		},
+		{
+			"id": 629,
+			"name": "HUYỆN THANH BÌNH"
+		},
+		{
+			"id": 630,
+			"name": "HUYỆN TAM NÔNG"
+		}
+	]
+}

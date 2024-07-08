@@ -1,0 +1,50 @@
+{
+	"id": 209,
+	"name": "THỊ XÃ CAO BẰNG",
+	"data": [
+		{
+			"id": 3586,
+			"name": "PHƯỜNG SÔNG HIẾN"
+		},
+		{
+			"id": 3587,
+			"name": "PHƯỜNG SÔNG BẰNG"
+		},
+		{
+			"id": 3588,
+			"name": "PHƯỜNG HỢP GIANG"
+		},
+		{
+			"id": 3589,
+			"name": "PHƯỜNG TÂN GIANG"
+		},
+		{
+			"id": 3590,
+			"name": "XÃ NGỌC XUÂN"
+		},
+		{
+			"id": 3591,
+			"name": "XÃ DUYỆT TRUNG"
+		},
+		{
+			"id": 3592,
+			"name": "XÃ HOÀ CHUNG"
+		},
+		{
+			"id": 3593,
+			"name": "XÃ  ĐỀ THÁM"
+		},
+		{
+			"id": 3594,
+			"name": "XÃ VĨNH QUANG"
+		},
+		{
+			"id": 3595,
+			"name": "XÃ HƯNG ĐẠO"
+		},
+		{
+			"id": 3596,
+			"name": "XÃ CHU CHINH"
+		}
+	]
+}

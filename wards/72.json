@@ -1,0 +1,54 @@
+{
+	"id": 72,
+	"name": "QUẬN THANH KHÊ",
+	"data": [
+		{
+			"id": 1183,
+			"name": "PHƯỜNG HÒA KHÊ"
+		},
+		{
+			"id": 1184,
+			"name": "PHƯỜNG THANH KHÊ ĐÔNG"
+		},
+		{
+			"id": 1185,
+			"name": "PHƯỜNG THANH KHÊ TÂY"
+		},
+		{
+			"id": 1186,
+			"name": "PHƯỜNG AN KHÊ"
+		},
+		{
+			"id": 1187,
+			"name": "PHƯỜNG CHÍNH GIÁN"
+		},
+		{
+			"id": 1188,
+			"name": "PHƯỜNG TAM THUẬN"
+		},
+		{
+			"id": 1189,
+			"name": "PHƯỜNG TÂN CHÍNH"
+		},
+		{
+			"id": 1190,
+			"name": "PHƯỜNG THẠC GIÁN"
+		},
+		{
+			"id": 1191,
+			"name": "PHƯỜNG VĨNH TRUNG"
+		},
+		{
+			"id": 1192,
+			"name": "PHƯỜNG XUÂN HÀ"
+		},
+		{
+			"id": 1193,
+			"name": "PHƯỜNG HOÀ MINH"
+		},
+		{
+			"id": 1194,
+			"name": "PHƯỜNG HOÀ PHÁT"
+		}
+	]
+}

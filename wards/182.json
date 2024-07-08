@@ -1,74 +1,66 @@
 {
-	"id": "182",
-	"name": "Huyện Văn Lãng",
+	"id": 182,
+	"name": "THÀNH PHỐ NINH BÌNH",
 	"data": [
 		{
-			"id": "06178",
-			"name": "Xã  Hoàng Văn Thụ"
+			"id": 3101,
+			"name": "PHƯỜNG BÍCH ĐÀO"
 		},
 		{
-			"id": "06139",
-			"name": "Xã Bắc Hùng"
+			"id": 3102,
+			"name": "PHƯỜNG ĐÔNG THÀNH"
 		},
 		{
-			"id": "06133",
-			"name": "Xã Bắc La"
+			"id": 3103,
+			"name": "PHƯỜNG NAM BÌNH"
 		},
 		{
-			"id": "06154",
-			"name": "Xã Bắc Việt"
+			"id": 3104,
+			"name": "PHƯỜNG NAM THÀNH"
 		},
 		{
-			"id": "06160",
-			"name": "Xã Gia Miễn"
+			"id": 3105,
+			"name": "PHƯỜNG NINH KHÁNH"
 		},
 		{
-			"id": "06157",
-			"name": "Xã Hoàng Việt"
+			"id": 3106,
+			"name": "PHƯỜNG NINH NHẤT"
 		},
 		{
-			"id": "06151",
-			"name": "Xã Hội Hoan"
+			"id": 3107,
+			"name": "PHƯỜNG NINH PHONG"
 		},
 		{
-			"id": "06175",
-			"name": "Xã Hồng Thái"
+			"id": 3108,
+			"name": "PHƯỜNG NINH PHÚC"
 		},
 		{
-			"id": "06124",
-			"name": "Thị trấn Na Sầm"
+			"id": 3109,
+			"name": "PHƯỜNG NINH SƠN"
 		},
 		{
-			"id": "06181",
-			"name": "Xã Nhạc Kỳ"
+			"id": 3110,
+			"name": "PHƯỜNG NINH TIẾN"
 		},
 		{
-			"id": "06172",
-			"name": "Xã Tân Mỹ"
+			"id": 3111,
+			"name": "PHƯỜNG PHÚC THÀNH"
 		},
 		{
-			"id": "06142",
-			"name": "Xã Tân Tác"
+			"id": 3112,
+			"name": "PHƯỜNG QUANG TRUNG"
 		},
 		{
-			"id": "06166",
-			"name": "Xã Tân Thanh"
+			"id": 3113,
+			"name": "PHƯỜNG TÂN THÀNH"
 		},
 		{
-			"id": "06163",
-			"name": "Xã Thành Hòa"
+			"id": 3114,
+			"name": "PHƯỜNG THANH BÌNH"
 		},
 		{
-			"id": "06148",
-			"name": "Xã Thanh Long"
-		},
-		{
-			"id": "06136",
-			"name": "Xã Thụy Hùng"
-		},
-		{
-			"id": "06127",
-			"name": "Xã Trùng Khánh"
+			"id": 3115,
+			"name": "PHƯỜNG VÂN GIANG"
 		}
 	]
 }

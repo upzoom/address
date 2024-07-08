@@ -1,0 +1,50 @@
+{
+	"id": 40,
+	"name": "QUẬN 12",
+	"data": [
+		{
+			"id": 741,
+			"name": "PHƯỜNG THẠNH XUÂN"
+		},
+		{
+			"id": 742,
+			"name": "PHƯỜNG AN PHÚ ĐÔNG"
+		},
+		{
+			"id": 743,
+			"name": "PHƯỜNG HIỆP THÀNH"
+		},
+		{
+			"id": 744,
+			"name": "PHƯỜNG TRUNG MỸ TÂY"
+		},
+		{
+			"id": 745,
+			"name": "PHƯỜNG TÂN HƯNG THUẬN"
+		},
+		{
+			"id": 746,
+			"name": "PHƯỜNG TÂN CHÁNH HIỆP"
+		},
+		{
+			"id": 747,
+			"name": "PHƯỜNG TÂN THỚI NHẤT"
+		},
+		{
+			"id": 748,
+			"name": "PHƯỜNG ĐÔNG HƯNG THUẬN"
+		},
+		{
+			"id": 749,
+			"name": "PHƯỜNG THỚI AN"
+		},
+		{
+			"id": 750,
+			"name": "PHƯỜNG THẠNH LỘC"
+		},
+		{
+			"id": 751,
+			"name": "PHƯỜNG TÂN THỚI HIỆP"
+		}
+	]
+}

@@ -1,62 +1,70 @@
 {
-	"id": "403",
-	"name": "Huyện Như Thanh",
+	"id": 403,
+	"name": "THỊ XÃ BA ĐỒN",
 	"data": [
 		{
-			"id": "16228",
-			"name": "Thị trấn Bến Sung"
+			"id": 7663,
+			"name": "PHƯỜNG QUẢNG PHÚC"
 		},
 		{
-			"id": "16231",
-			"name": "Xã Cán Khê"
+			"id": 7664,
+			"name": "XÃ QUẢNG TIÊN"
 		},
 		{
-			"id": "16252",
-			"name": "Xã Hải Long"
+			"id": 7665,
+			"name": "XÃ QUẢNG HẢI"
 		},
 		{
-			"id": "16243",
-			"name": "Xã Mậu Lâm"
+			"id": 7666,
+			"name": "PHƯỜNG BA ĐỒN"
 		},
 		{
-			"id": "16249",
-			"name": "Xã Phú Nhuận"
+			"id": 7667,
+			"name": "XÃ QUẢNG SƠN"
 		},
 		{
-			"id": "16240",
-			"name": "Xã Phượng Nghi"
+			"id": 7668,
+			"name": "XÃ QUẢNG THUỶ"
 		},
 		{
-			"id": "16276",
-			"name": "Xã Thanh Kỳ"
+			"id": 7669,
+			"name": "XÃ QUẢNG VĂN"
 		},
 		{
-			"id": "16273",
-			"name": "Xã Thanh Tân"
+			"id": 7670,
+			"name": "PHƯỜNG QUẢNG PHONG"
 		},
 		{
-			"id": "16234",
-			"name": "Xã Xuân Du"
+			"id": 7671,
+			"name": "XÃ QUẢNG TRUNG"
 		},
 		{
-			"id": "16246",
-			"name": "Xã Xuân Khang"
+			"id": 7672,
+			"name": "XÃ QUẢNG HOÀ"
 		},
 		{
-			"id": "16261",
-			"name": "Xã Xuân Phúc"
+			"id": 7673,
+			"name": "PHƯỜNG QUẢNG THUẬN"
 		},
 		{
-			"id": "16258",
-			"name": "Xã Xuân Thái"
+			"id": 7674,
+			"name": "PHƯỜNG QUẢNG THỌ"
 		},
 		{
-			"id": "16267",
-			"name": "Xã Yên Lạc"
+			"id": 7675,
+			"name": "PHƯỜNG QUẢNG LONG"
 		},
 		{
-			"id": "16264",
-			"name": "Xã Yên Thọ"
+			"id": 7676,
+			"name": "XÃ QUẢNG LỘC"
+		},
+		{
+			"id": 7677,
+			"name": "XÃ QUẢNG MINH"
+		},
+		{
+			"id": 7678,
+			"name": "XÃ QUẢNG TÂN"
 		}
 	]
 }

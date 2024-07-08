@@ -1,50 +1,78 @@
 {
-	"id": "199",
-	"name": "Huyện Tiên Yên",
+	"id": 199,
+	"name": "HUYỆN MÈO VẠC",
 	"data": [
 		{
-			"id": "06868",
-			"name": "Xã Đại Dực"
+			"id": 3431,
+			"name": "THỊ TRẤN MÈO VẠC"
 		},
 		{
-			"id": "06874",
-			"name": "Xã Điền Xá"
+			"id": 3432,
+			"name": "XÃ LẢ LỦNG"
 		},
 		{
-			"id": "06883",
-			"name": "Xã Đông Hải"
+			"id": 3433,
+			"name": "XÃ GIÀNG CHU PHÌN"
 		},
 		{
-			"id": "06877",
-			"name": "Xã Đông Ngũ"
+			"id": 3434,
+			"name": "XÃ PẢI LỦNG"
 		},
 		{
-			"id": "06892",
-			"name": "Xã Đồng Rui"
+			"id": 3435,
+			"name": "XÃ NẬM PAN"
 		},
 		{
-			"id": "06865",
-			"name": "Xã Hà Lâu"
+			"id": 3436,
+			"name": "XÃ NIÊM SƠN"
 		},
 		{
-			"id": "06886",
-			"name": "Xã Hải Lạng"
+			"id": 3437,
+			"name": "XÃ TÁT NGÀ"
 		},
 		{
-			"id": "06871",
-			"name": "Xã Phong Dụ"
+			"id": 3438,
+			"name": "XÃ PẢ VÌ"
 		},
 		{
-			"id": "06889",
-			"name": "Xã Tiên Lãng"
+			"id": 3439,
+			"name": "XÃ SƠN VĨ"
 		},
 		{
-			"id": "06862",
-			"name": "Thị trấn Tiên Yên"
+			"id": 3440,
+			"name": "XÃ LŨNG PÙ"
 		},
 		{
-			"id": "06880",
-			"name": "Xã Yên Than"
+			"id": 3441,
+			"name": "XÃ SỦNG TRÀ"
+		},
+		{
+			"id": 3442,
+			"name": "XÃ XÍN CÁI"
+		},
+		{
+			"id": 3443,
+			"name": "XÃ CÁN CHU PHÌN"
+		},
+		{
+			"id": 3444,
+			"name": "XÃ LŨNG CHINH"
+		},
+		{
+			"id": 3445,
+			"name": "XÃ KHÂU VAI"
+		},
+		{
+			"id": 3446,
+			"name": "XÃ THƯỢNG PHÙNG"
+		},
+		{
+			"id": 3447,
+			"name": "XÃ SỦNG MÁNG"
+		},
+		{
+			"id": 3448,
+			"name": "XÃ NIÊM TÒNG"
 		}
 	]
 }

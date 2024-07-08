@@ -1,78 +1,90 @@
 {
-	"id": "464",
-	"name": "Huyện Vĩnh Linh",
+	"id": 464,
+	"name": "THÀNH PHỐ QUI NHƠN",
 	"data": [
 		{
-			"id": "19366",
-			"name": "Thị trấn Bến Quan"
+			"id": 8530,
+			"name": "PHƯỜNG LÊ HỒNG PHONG"
 		},
 		{
-			"id": "19414",
-			"name": "Thị trấn Cửa Tùng"
+			"id": 8531,
+			"name": "PHƯỜNG TRẦN PHÚ"
 		},
 		{
-			"id": "19408",
-			"name": "Xã Hiền Thành"
+			"id": 8532,
+			"name": "PHƯỜNG LÝ THƯỜNG KIỆT"
 		},
 		{
-			"id": "19363",
-			"name": "Thị trấn Hồ Xá"
+			"id": 8533,
+			"name": "XÃ NHƠN CHÂU"
 		},
 		{
-			"id": "19384",
-			"name": "Xã Kim Thạch"
+			"id": 8534,
+			"name": "XÃ NHƠN LÝ"
 		},
 		{
-			"id": "19378",
-			"name": "Xã Trung Nam"
+			"id": 8535,
+			"name": "XÃ NHƠN HỘI"
 		},
 		{
-			"id": "19375",
-			"name": "Xã Vĩnh Chấp"
+			"id": 8536,
+			"name": "XÃ PHƯỚC MỸ"
 		},
 		{
-			"id": "19423",
-			"name": "Xã Vĩnh Giang"
+			"id": 8537,
+			"name": "XÃ NHƠN HẢI"
 		},
 		{
-			"id": "19417",
-			"name": "Xã Vĩnh Hà"
+			"id": 8538,
+			"name": "PHƯỜNG NGUYỄN VĂN CỪ"
 		},
 		{
-			"id": "19396",
-			"name": "Xã Vĩnh Hòa"
+			"id": 8539,
+			"name": "PHƯỜNG ĐỐNG ĐA"
 		},
 		{
-			"id": "19393",
-			"name": "Xã Vĩnh Khê"
+			"id": 8540,
+			"name": "PHƯỜNG THỊ NẠI"
 		},
 		{
-			"id": "19405",
-			"name": "Xã Vĩnh Lâm"
+			"id": 8541,
+			"name": "PHƯỜNG HẢI CẢNG"
 		},
 		{
-			"id": "19387",
-			"name": "Xã Vĩnh Long"
+			"id": 8542,
+			"name": "PHƯỜNG NGÔ MÂY"
 		},
 		{
-			"id": "19426",
-			"name": "Xã Vĩnh Ô"
+			"id": 8543,
+			"name": "PHƯỜNG GHỀNH RÁNG"
 		},
 		{
-			"id": "19420",
-			"name": "Xã Vĩnh Sơn"
+			"id": 8544,
+			"name": "PHƯỜNG QUANG TRUNG"
 		},
 		{
-			"id": "19369",
-			"name": "Xã Vĩnh Thái"
+			"id": 8545,
+			"name": "PHƯỜNG NHƠN BÌNH"
 		},
 		{
-			"id": "19402",
-			"name": "Xã Vĩnh Thủy"
+			"id": 8546,
+			"name": "PHƯỜNG NHƠN PHÚ"
 		},
 		{
-			"id": "19372",
-			"name": "Xã Vĩnh Tú"
+			"id": 8547,
+			"name": "PHƯỜNG BÙI THỊ XUÂN"
+		},
+		{
+			"id": 8548,
+			"name": "PHƯỜNG TRẦN QUANG DIỆU"
+		},
+		{
+			"id": 8549,
+			"name": "PHƯỜNG TRẦN HƯNG ĐẠO"
+		},
+		{
+			"id": 8550,
+			"name": "PHƯỜNG LÊ LỢI"
 		}
 	]
 }

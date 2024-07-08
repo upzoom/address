@@ -1,154 +1,122 @@
 {
-	"id": "338",
-	"name": "Huyện Quỳnh Phụ",
+	"id": 338,
+	"name": "HUYỆN THẠCH THÀNH",
 	"data": [
 		{
-			"id": "12526",
-			"name": "Xã An Ấp"
+			"id": 17002,
+			"name": "THẠCH TÂN"
 		},
 		{
-			"id": "12523",
-			"name": "Thị trấn An Bài"
+			"id": 18453,
+			"name": "XÃ THẠCH BÌNH"
 		},
 		{
-			"id": "12502",
-			"name": "Xã An Cầu"
+			"id": 6140,
+			"name": "XÃ THẠCH TƯỢNG"
 		},
 		{
-			"id": "12478",
-			"name": "Xã An Đồng"
+			"id": 6141,
+			"name": "XÃ THÀNH MỸ"
 		},
 		{
-			"id": "12571",
-			"name": "Xã An Dục"
+			"id": 6142,
+			"name": "XÃ THẠCH SƠN"
 		},
 		{
-			"id": "12490",
-			"name": "Xã An Hiệp"
+			"id": 6143,
+			"name": "XÃ THẠCH ĐỒNG"
 		},
 		{
-			"id": "12475",
-			"name": "Xã An Khê"
+			"id": 6144,
+			"name": "XÃ THÀNH TÂM"
 		},
 		{
-			"id": "12550",
-			"name": "Xã An Lễ"
+			"id": 6145,
+			"name": "XÃ THẠCH LÂM"
 		},
 		{
-			"id": "12559",
-			"name": "Xã An Mỹ"
+			"id": 6146,
+			"name": "XÃ THÀNH YÊN"
 		},
 		{
-			"id": "12514",
-			"name": "Xã An Ninh"
+			"id": 6147,
+			"name": "XÃ THÀNH VÂN"
 		},
 		{
-			"id": "12538",
-			"name": "Xã An Quí"
+			"id": 6148,
+			"name": "XÃ THÀNH TIẾN"
 		},
 		{
-			"id": "12499",
-			"name": "Xã An Thái"
+			"id": 6149,
+			"name": "XÃ THÀNH THỌ"
 		},
 		{
-			"id": "12541",
-			"name": "Xã An Thanh"
+			"id": 6150,
+			"name": "XÃ THÀNH AN"
 		},
 		{
-			"id": "12580",
-			"name": "Xã An Tràng"
+			"id": 6151,
+			"name": "XÃ THÀNH KIM"
 		},
 		{
-			"id": "12565",
-			"name": "Xã An Vinh"
+			"id": 6152,
+			"name": "XÃ THÀNH HƯNG"
 		},
 		{
-			"id": "12547",
-			"name": "Xã An Vũ"
+			"id": 6153,
+			"name": "XÃ THẠCH QUẢNG"
 		},
 		{
-			"id": "12532",
-			"name": "Xã Châu Sơn"
+			"id": 6154,
+			"name": "XÃ THÀNH CÔNG"
 		},
 		{
-			"id": "12574",
-			"name": "Xã Đông Hải"
+			"id": 6155,
+			"name": "XÃ THÀNH LONG"
 		},
 		{
-			"id": "12583",
-			"name": "Xã Đồng Tiến"
+			"id": 6156,
+			"name": "THỊ TRẤN KIM TÂN"
 		},
 		{
-			"id": "12556",
-			"name": "Xã Quỳnh Bảo"
+			"id": 6157,
+			"name": "XÃ THÀNH MINH"
 		},
 		{
-			"id": "12472",
-			"name": "Thị trấn Quỳnh Côi"
+			"id": 6158,
+			"name": "XÃ THÀNH TÂN"
 		},
 		{
-			"id": "12496",
-			"name": "Xã Quỳnh Giao"
+			"id": 6159,
+			"name": "XÃ THẠCH CẨM"
 		},
 		{
-			"id": "12520",
-			"name": "Xã Quỳnh Hải"
+			"id": 6160,
+			"name": "THỊ TRẤN VÂN DU"
 		},
 		{
-			"id": "12481",
-			"name": "Xã Quỳnh Hoa"
+			"id": 6161,
+			"name": "XÃ THÀNH VINH"
 		},
 		{
-			"id": "12493",
-			"name": "Xã Quỳnh Hoàng"
+			"id": 6162,
+			"name": "XÃ THÀNH TRỰC"
 		},
 		{
-			"id": "12529",
-			"name": "Xã Quỳnh Hội"
+			"id": 6163,
+			"name": "XÃ NGỌC TRẠO"
 		},
 		{
-			"id": "12505",
-			"name": "Xã Quỳnh Hồng"
+			"id": 6164,
+			"name": "XÃ KIM TÂN"
 		},
 		{
-			"id": "12553",
-			"name": "Xã Quỳnh Hưng"
+			"id": 6165,
+			"name": "XÃ THẠCH ĐỊNH"
 		},
 		{
-			"id": "12508",
-			"name": "Xã Quỳnh Khê"
-		},
-		{
-			"id": "12484",
-			"name": "Xã Quỳnh Lâm"
-		},
-		{
-			"id": "12511",
-			"name": "Xã Quỳnh Minh"
-		},
-		{
-			"id": "12535",
-			"name": "Xã Quỳnh Mỹ"
-		},
-		{
-			"id": "12517",
-			"name": "Xã Quỳnh Ngọc"
-		},
-		{
-			"id": "12562",
-			"name": "Xã Quỳnh Nguyên"
-		},
-		{
-			"id": "12487",
-			"name": "Xã Quỳnh Thọ"
-		},
-		{
-			"id": "12577",
-			"name": "Xã Quỳnh Trang"
-		},
-		{
-			"id": "12568",
-			"name": "Xã Quỳnh Xá"
+			"id": 6166,
+			"name": "XÃ THẠCH LONG"
 		}
 	]
 }

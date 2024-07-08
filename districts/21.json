@@ -1,0 +1,38 @@
+{
+	"id": 21,
+	"name": "Bắc Kạn",
+	"data": [
+		{
+			"id": 223,
+			"name": "HUYỆN CHỢ MỚI"
+		},
+		{
+			"id": 224,
+			"name": "HUYỆN CHỢ ĐỒN"
+		},
+		{
+			"id": 225,
+			"name": "HUYỆN NGÂN SƠN"
+		},
+		{
+			"id": 226,
+			"name": "THÀNH PHỐ BẮC KẠN"
+		},
+		{
+			"id": 227,
+			"name": "HUYỆN NA RÌ"
+		},
+		{
+			"id": 228,
+			"name": "HUYỆN BẠCH THÔNG"
+		},
+		{
+			"id": 229,
+			"name": "HUYỆN BA BỂ"
+		},
+		{
+			"id": 230,
+			"name": "HUYỆN PẮC NẶM"
+		}
+	]
+}

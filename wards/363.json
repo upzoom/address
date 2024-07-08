@@ -1,90 +1,58 @@
 {
-	"id": "363",
-	"name": "Huyện Trực Ninh",
+	"id": 363,
+	"name": "HUYỆN CON CUÔNG",
 	"data": [
 		{
-			"id": "14056",
-			"name": "Thị trấn Cát Thành"
+			"id": 6734,
+			"name": "XÃ MÔN SƠN"
 		},
 		{
-			"id": "14026",
-			"name": "Thị trấn Cổ Lễ"
+			"id": 6735,
+			"name": "XÃ BỒNG KHÊ"
 		},
 		{
-			"id": "14038",
-			"name": "Xã Liêm Hải"
+			"id": 6736,
+			"name": "XÃ CHÂU KHÊ"
 		},
 		{
-			"id": "14077",
-			"name": "Thị trấn Ninh Cường"
+			"id": 6737,
+			"name": "XÃ CAM LÂM"
 		},
 		{
-			"id": "14029",
-			"name": "Xã Phương Định"
+			"id": 6738,
+			"name": "XÃ LẠNG KHÊ"
 		},
 		{
-			"id": "14032",
-			"name": "Xã Trực Chính"
+			"id": 6739,
+			"name": "XÃ BÌNH CHUẨN"
 		},
 		{
-			"id": "14074",
-			"name": "Xã Trực Cường"
+			"id": 6740,
+			"name": "XÃ MẬU ĐỨC"
 		},
 		{
-			"id": "14071",
-			"name": "Xã Trực Đại"
+			"id": 6741,
+			"name": "THỊ TRẤN CON CUÔNG"
 		},
 		{
-			"id": "14047",
-			"name": "Xã Trực Đạo"
+			"id": 6742,
+			"name": "XÃ ĐÔN PHỤC"
 		},
 		{
-			"id": "14050",
-			"name": "Xã Trực Hưng"
+			"id": 6743,
+			"name": "XÃ THẠCH NGÀN"
 		},
 		{
-			"id": "14083",
-			"name": "Xã Trực Hùng"
+			"id": 6744,
+			"name": "XÃ LỤC DẠ"
 		},
 		{
-			"id": "14062",
-			"name": "Xã Trực Khang"
+			"id": 6745,
+			"name": "XÃ YÊN KHÊ"
 		},
 		{
-			"id": "14068",
-			"name": "Xã Trực Mỹ"
-		},
-		{
-			"id": "14053",
-			"name": "Xã Trực Nội"
-		},
-		{
-			"id": "14080",
-			"name": "Xã Trực Thái"
-		},
-		{
-			"id": "14086",
-			"name": "Xã Trực Thắng"
-		},
-		{
-			"id": "14059",
-			"name": "Xã Trực Thanh"
-		},
-		{
-			"id": "14065",
-			"name": "Xã Trực Thuận"
-		},
-		{
-			"id": "14041",
-			"name": "Xã Trực Tuấn"
-		},
-		{
-			"id": "14035",
-			"name": "Xã Trung Đông"
-		},
-		{
-			"id": "14044",
-			"name": "Xã Việt Hùng"
+			"id": 6746,
+			"name": "XÃ CHI KHÊ"
 		}
 	]
 }

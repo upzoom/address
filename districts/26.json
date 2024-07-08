@@ -1,42 +1,58 @@
 {
-	"id": "26",
-	"name": "Tỉnh Vĩnh Phúc",
+	"id": 26,
+	"name": "Phú Thọ",
 	"data": [
 		{
-			"id": "249",
-			"name": "Huyện Bình Xuyên"
+			"id": 267,
+			"name": "THI XÃ PHÚ THỌ"
 		},
 		{
-			"id": "246",
-			"name": "Huyện Lập Thạch"
+			"id": 268,
+			"name": "HUYỆN THANH BA"
 		},
 		{
-			"id": "244",
-			"name": "Thành phố Phúc Yên"
+			"id": 269,
+			"name": "THÀNH PHỐ VIỆT TRÌ"
 		},
 		{
-			"id": "253",
-			"name": "Huyện Sông Lô"
+			"id": 270,
+			"name": "HUYỆN ĐOAN HÙNG"
 		},
 		{
-			"id": "248",
-			"name": "Huyện Tam Đảo"
+			"id": 271,
+			"name": "HUYỆN THANH THỦY"
 		},
 		{
-			"id": "247",
-			"name": "Huyện Tam Dương"
+			"id": 272,
+			"name": "HUYỆN THANH SƠN"
 		},
 		{
-			"id": "252",
-			"name": "Huyện Vĩnh Tường"
+			"id": 273,
+			"name": "HUYỆN TÂN SƠN"
 		},
 		{
-			"id": "243",
-			"name": "Thành phố Vĩnh Yên"
+			"id": 274,
+			"name": "HUYỆN YÊN LẬP"
 		},
 		{
-			"id": "251",
-			"name": "Huyện Yên Lạc"
+			"id": 275,
+			"name": "HUYỆN CẨM KHÊ"
+		},
+		{
+			"id": 276,
+			"name": "HUYỆN TAM NÔNG"
+		},
+		{
+			"id": 277,
+			"name": "HUYỆN LÂM THAO"
+		},
+		{
+			"id": 278,
+			"name": "HUYỆN HẠ HÒA"
+		},
+		{
+			"id": 279,
+			"name": "HUYỆN PHÙ NINH"
 		}
 	]
 }

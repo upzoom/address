@@ -1,54 +1,98 @@
 {
-	"id": "237",
-	"name": "Huyện Lâm Thao",
+	"id": 237,
+	"name": "HUYỆN CAO LỘC",
 	"data": [
 		{
-			"id": "08539",
-			"name": "Xã Bản Nguyên"
+			"id": 4126,
+			"name": "XÃ BẢO LÂM"
 		},
 		{
-			"id": "08527",
-			"name": "Xã Cao Xá"
+			"id": 4127,
+			"name": "XÃ BÌNH TRUNG"
 		},
 		{
-			"id": "08498",
-			"name": "Thị trấn Hùng Sơn"
+			"id": 4128,
+			"name": "XÃ CAO LÂU"
 		},
 		{
-			"id": "08494",
-			"name": "Thị trấn Lâm Thao"
+			"id": 4129,
+			"name": "XÃ CÔNG SƠN"
 		},
 		{
-			"id": "08521",
-			"name": "Xã Phùng Nguyên"
+			"id": 4130,
+			"name": "XÃ GIA CÁT"
 		},
 		{
-			"id": "08518",
-			"name": "Xã Sơn Vi"
+			"id": 4131,
+			"name": "XÃ HẢI YẾN"
 		},
 		{
-			"id": "08512",
-			"name": "Xã Thạch Sơn"
+			"id": 4132,
+			"name": "XÃ HOÀ CƯ"
 		},
 		{
-			"id": "08497",
-			"name": "Xã Tiên Kiên"
+			"id": 4133,
+			"name": "XÃ LỘC YÊN"
 		},
 		{
-			"id": "08536",
-			"name": "Xã Tứ Xã"
+			"id": 4134,
+			"name": "XÃ MẪU SƠN"
 		},
 		{
-			"id": "08533",
-			"name": "Xã Vĩnh Lại"
+			"id": 4135,
+			"name": "XÃ PHÚ XÁ"
 		},
 		{
-			"id": "08509",
-			"name": "Xã Xuân Huy"
+			"id": 4136,
+			"name": "XÃ TÂN LIÊN"
 		},
 		{
-			"id": "08500",
-			"name": "Xã Xuân Lũng"
+			"id": 4137,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 4138,
+			"name": "XÃ THẠCH ĐẠN"
+		},
+		{
+			"id": 4139,
+			"name": "XÃ THANH LÒA"
+		},
+		{
+			"id": 4140,
+			"name": "XÃ THỤY HÙNG"
+		},
+		{
+			"id": 4141,
+			"name": "XÃ XUÂN LONG"
+		},
+		{
+			"id": 4142,
+			"name": "XÃ XUẤT LỄ"
+		},
+		{
+			"id": 4143,
+			"name": "XÃ HỒNG PHONG"
+		},
+		{
+			"id": 4144,
+			"name": "XÃ HỢP THÀNH"
+		},
+		{
+			"id": 4145,
+			"name": "XÃ SONG GIÁP"
+		},
+		{
+			"id": 4146,
+			"name": "THỊ TRẤN CAO LỘC"
+		},
+		{
+			"id": 4147,
+			"name": "THỊ TRẤN ĐỒNG ĐĂNG"
+		},
+		{
+			"id": 4148,
+			"name": "XÃ YÊN TRẠCH"
 		}
 	]
 }

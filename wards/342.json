@@ -1,134 +1,78 @@
 {
-	"id": "342",
-	"name": "Huyện Tiền Hải",
+	"id": 342,
+	"name": "HUYỆN VĨNH LỘC",
 	"data": [
 		{
-			"id": "13012",
-			"name": "Xã An Ninh"
+			"id": 6263,
+			"name": "XÃ VĨNH QUANG"
 		},
 		{
-			"id": "13048",
-			"name": "Xã Bắc Hải"
+			"id": 6264,
+			"name": "XÃ VĨNH TIẾN"
 		},
 		{
-			"id": "13018",
-			"name": "Xã Đông Cơ"
+			"id": 6265,
+			"name": "XÃ VĨNH LONG"
 		},
 		{
-			"id": "13000",
-			"name": "Xã Đông Hoàng"
+			"id": 6266,
+			"name": "XÃ VĨNH HƯNG"
 		},
 		{
-			"id": "13024",
-			"name": "Xã Đông Lâm"
+			"id": 6267,
+			"name": "XÃ VĨNH PHÚC"
 		},
 		{
-			"id": "12979",
-			"name": "Xã Đông Long"
+			"id": 6268,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "13003",
-			"name": "Xã Đông Minh"
+			"id": 6269,
+			"name": "XÃ VĨNH MINH"
 		},
 		{
-			"id": "13009",
-			"name": "Xã Đông Phong"
+			"id": 6270,
+			"name": "XÃ VĨNH HÙNG"
 		},
 		{
-			"id": "12982",
-			"name": "Xã Đông Quí"
+			"id": 6271,
+			"name": "XÃ VĨNH TÂN"
 		},
 		{
-			"id": "12976",
-			"name": "Xã Đông Trà"
+			"id": 6272,
+			"name": "XÃ VĨNH AN"
 		},
 		{
-			"id": "12997",
-			"name": "Xã Đông Trung"
+			"id": 6273,
+			"name": "THỊ TRẤN VĨNH LỘC"
 		},
 		{
-			"id": "12988",
-			"name": "Xã Đông Xuyên"
+			"id": 6274,
+			"name": "XÃ VĨNH YÊN"
 		},
 		{
-			"id": "13045",
-			"name": "Xã Nam Chính"
+			"id": 6275,
+			"name": "XÃ VĨNH THÀNH"
 		},
 		{
-			"id": "13036",
-			"name": "Xã Nam Cường"
+			"id": 6276,
+			"name": "XÃ VĨNH NINH"
 		},
 		{
-			"id": "13054",
-			"name": "Xã Nam Hà"
+			"id": 6277,
+			"name": "XÃ VĨNH THỊNH"
 		},
 		{
-			"id": "13069",
-			"name": "Xã Nam Hải"
+			"id": 6278,
+			"name": "XÃ VĨNH KHANG"
 		},
 		{
-			"id": "13063",
-			"name": "Xã Nam Hồng"
+			"id": 26227,
+			"name": "XÃ NINH KHANG"
 		},
 		{
-			"id": "13066",
-			"name": "Xã Nam Hưng"
-		},
-		{
-			"id": "13072",
-			"name": "Xã Nam Phú"
-		},
-		{
-			"id": "13042",
-			"name": "Xã Nam Thắng"
-		},
-		{
-			"id": "13057",
-			"name": "Xã Nam Thanh"
-		},
-		{
-			"id": "13051",
-			"name": "Xã Nam Thịnh"
-		},
-		{
-			"id": "13060",
-			"name": "Xã Nam Trung"
-		},
-		{
-			"id": "13027",
-			"name": "Xã Phương Công"
-		},
-		{
-			"id": "13021",
-			"name": "Xã Tây Giang"
-		},
-		{
-			"id": "12991",
-			"name": "Xã Tây Lương"
-		},
-		{
-			"id": "12994",
-			"name": "Xã Tây Ninh"
-		},
-		{
-			"id": "13030",
-			"name": "Xã Tây Phong"
-		},
-		{
-			"id": "13033",
-			"name": "Xã Tây Tiến"
-		},
-		{
-			"id": "12970",
-			"name": "Thị trấn Tiền Hải"
-		},
-		{
-			"id": "13039",
-			"name": "Xã Vân Trường"
-		},
-		{
-			"id": "12985",
-			"name": "Xã Vũ Lăng"
+			"id": 26228,
+			"name": "XÃ MINH TÂN"
 		}
 	]
 }

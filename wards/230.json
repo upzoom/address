@@ -1,94 +1,50 @@
 {
-	"id": "230",
-	"name": "Huyện Đoan Hùng",
+	"id": 230,
+	"name": "HUYỆN PẮC NẶM",
 	"data": [
 		{
-			"id": "07996",
-			"name": "Xã Bằng Doãn"
+			"id": 3973,
+			"name": "XÃ AN THẮNG"
 		},
 		{
-			"id": "07981",
-			"name": "Xã Bằng Luân"
+			"id": 3974,
+			"name": "XÃ BẰNG THÀNH"
 		},
 		{
-			"id": "08050",
-			"name": "Xã Ca Đình"
+			"id": 3975,
+			"name": "XÃ XUÂN LA"
 		},
 		{
-			"id": "08047",
-			"name": "Xã Chân Mộng"
+			"id": 3976,
+			"name": "XÃ NGHIÊN LOAN"
 		},
 		{
-			"id": "07999",
-			"name": "Xã Chí Đám"
+			"id": 3977,
+			"name": "XÃ CAO TÂN"
 		},
 		{
-			"id": "07969",
-			"name": "Thị trấn Đoan Hùng"
+			"id": 3978,
+			"name": "XÃ CỔ LINH"
 		},
 		{
-			"id": "08014",
-			"name": "Xã Hợp Nhất"
+			"id": 3979,
+			"name": "XÃ CÔNG BẰNG"
 		},
 		{
-			"id": "08029",
-			"name": "Xã Hùng Long"
+			"id": 3980,
+			"name": "XÃ GIÁO HIỆU"
 		},
 		{
-			"id": "07975",
-			"name": "Xã Hùng Xuyên"
+			"id": 3981,
+			"name": "XÃ NHẠN MÔN"
 		},
 		{
-			"id": "07993",
-			"name": "Xã Minh Lương"
+			"id": 3982,
+			"name": "XÃ BỘC BỐ"
 		},
 		{
-			"id": "08044",
-			"name": "Xã Minh Phú"
-		},
-		{
-			"id": "08041",
-			"name": "Xã Minh Tiến"
-		},
-		{
-			"id": "08008",
-			"name": "Xã Ngọc Quan"
-		},
-		{
-			"id": "07987",
-			"name": "Xã Phú Lâm"
-		},
-		{
-			"id": "08005",
-			"name": "Xã Phúc Lai"
-		},
-		{
-			"id": "08017",
-			"name": "Xã Sóc Đăng"
-		},
-		{
-			"id": "08023",
-			"name": "Xã Tây Cốc"
-		},
-		{
-			"id": "08038",
-			"name": "Xã Tiêu Sơn"
-		},
-		{
-			"id": "08035",
-			"name": "Xã Vân Đồn"
-		},
-		{
-			"id": "07984",
-			"name": "Xã Vân Du"
-		},
-		{
-			"id": "08032",
-			"name": "Xã Vụ Quang"
-		},
-		{
-			"id": "08026",
-			"name": "Xã Yên Kiện"
+			"id": 3983,
+			"name": "TT HUYỆN PẮC NẶM"
 		}
 	]
 }

@@ -1,62 +1,78 @@
 {
-	"id": "653",
-	"name": "Huyện Krông Bông",
+	"id": 653,
+	"name": "HUYỆN MỎ CÀY NAM",
 	"data": [
 		{
-			"id": "24484",
-			"name": "Xã Cư Drăm"
+			"id": 10973,
+			"name": "XÃ TÂN TRUNG"
 		},
 		{
-			"id": "24454",
-			"name": "Xã Cư KTy"
+			"id": 10974,
+			"name": "XÃ BÌNH KHÁNH TÂY"
 		},
 		{
-			"id": "24478",
-			"name": "Xã Cư Pui"
+			"id": 10975,
+			"name": "XÃ NGÃI ĐĂNG"
 		},
 		{
-			"id": "24451",
-			"name": "Xã Dang Kang"
+			"id": 10976,
+			"name": "XÃ THÀNH THỚI A"
 		},
 		{
-			"id": "24472",
-			"name": "Xã Ea Trul"
+			"id": 10977,
+			"name": "XÃ MINH ĐỨC"
 		},
 		{
-			"id": "24466",
-			"name": "Xã Hòa Lễ"
+			"id": 10978,
+			"name": "THỊ TRẤN MỎ CÀY"
 		},
 		{
-			"id": "24463",
-			"name": "Xã Hòa Phong"
+			"id": 10979,
+			"name": "XÃ BÌNH KHÁNH ĐÔNG"
 		},
 		{
-			"id": "24481",
-			"name": "Xã Hòa Sơn"
+			"id": 10980,
+			"name": "XÃ CẨM SƠN"
 		},
 		{
-			"id": "24460",
-			"name": "Xã Hòa Tân"
+			"id": 10981,
+			"name": "XÃ AN ĐỊNH"
 		},
 		{
-			"id": "24457",
-			"name": "Xã Hòa Thành"
+			"id": 10982,
+			"name": "XÃ PHƯỚC HIỆP"
 		},
 		{
-			"id": "24475",
-			"name": "Xã Khuê Ngọc Điền"
+			"id": 10983,
+			"name": "XÃ ĐỊNH THỦY"
 		},
 		{
-			"id": "24448",
-			"name": "Thị trấn Krông Kmar"
+			"id": 10984,
+			"name": "XÃ ĐA PHƯỚC HỘI"
 		},
 		{
-			"id": "24487",
-			"name": "Xã Yang Mao"
+			"id": 10985,
+			"name": "XÃ AN THẠNH"
 		},
 		{
-			"id": "24469",
-			"name": "Xã Yang Reh"
+			"id": 10986,
+			"name": "XÃ HƯƠNG MỸ"
+		},
+		{
+			"id": 10987,
+			"name": "XÃ THÀNH THỚI B"
+		},
+		{
+			"id": 10988,
+			"name": "XÃ AN THỚI"
+		},
+		{
+			"id": 10989,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 26140,
+			"name": "XÃ BÌNH KHÁNH"
 		}
 	]
 }

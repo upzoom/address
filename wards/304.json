@@ -1,54 +1,62 @@
 {
-	"id": "304",
-	"name": "Quận Ngô Quyền",
+	"id": 304,
+	"name": "HUYỆN TAM ĐƯỜNG",
 	"data": [
 		{
-			"id": "11344",
-			"name": "Phường Cầu Đất"
+			"id": 5507,
+			"name": "THỊ TRẤN BÌNH LƯ"
 		},
 		{
-			"id": "11338",
-			"name": "Phường Cầu Tre"
+			"id": 5508,
+			"name": "XÃ HỒ THẦU"
 		},
 		{
-			"id": "11359",
-			"name": "Phường Đằng Giang"
+			"id": 5509,
+			"name": "XÃ NÀ TĂM"
 		},
 		{
-			"id": "11350",
-			"name": "Phường Đông Khê"
+			"id": 5510,
+			"name": "XÃ SÙNG PHÀI"
 		},
 		{
-			"id": "11365",
-			"name": "Phường Đổng Quốc Bình"
+			"id": 5511,
+			"name": "THỊ TRẤN TAM ĐƯỜNG"
 		},
 		{
-			"id": "11347",
-			"name": "Phường Gia Viên"
+			"id": 5512,
+			"name": "XÃ THÈN SIN"
 		},
 		{
-			"id": "11341",
-			"name": "Phường Lạc Viên"
+			"id": 5513,
+			"name": "XÃ BÀN GIANG"
 		},
 		{
-			"id": "11362",
-			"name": "Phường Lạch Tray"
+			"id": 5514,
+			"name": "XÃ BẢN HON"
 		},
 		{
-			"id": "11356",
-			"name": "Phường Lê Lợi"
+			"id": 5515,
+			"name": "XÃ KHUN HÁ"
 		},
 		{
-			"id": "11329",
-			"name": "Phường Máy Chai"
+			"id": 5516,
+			"name": "XÃ NÙNG NÀNG"
 		},
 		{
-			"id": "11332",
-			"name": "Phường Máy Tơ"
+			"id": 5517,
+			"name": "XÃ TÀ LÈNG"
 		},
 		{
-			"id": "11335",
-			"name": "Phường Vạn Mỹ"
+			"id": 5518,
+			"name": "XÃ BẢN BO"
+		},
+		{
+			"id": 5519,
+			"name": "XÃ SƠN BÌNH"
+		},
+		{
+			"id": 5520,
+			"name": "XÃ GIANG MA"
 		}
 	]
 }

@@ -1,122 +1,58 @@
 {
-	"id": "119",
-	"name": "Huyện Thuận Châu",
+	"id": 119,
+	"name": "HUYỆN TAM DƯƠNG",
 	"data": [
 		{
-			"id": "03805",
-			"name": "Xã Bản Lầm"
+			"id": 1691,
+			"name": "THỊ TRẤN HỢP HÒA"
 		},
 		{
-			"id": "03778",
-			"name": "Xã Bó Mười"
+			"id": 1692,
+			"name": "XÃ HOÀNG HOA"
 		},
 		{
-			"id": "03793",
-			"name": "Xã Bon Phặng"
+			"id": 1693,
+			"name": "XÃ ĐỒNG TĨNH"
 		},
 		{
-			"id": "03766",
-			"name": "Xã Chiềng Bôm"
+			"id": 1694,
+			"name": "XÃ KIM LONG"
 		},
 		{
-			"id": "03733",
-			"name": "Xã Chiềng La"
+			"id": 1695,
+			"name": "XÃ HƯỚNG ĐẠO"
 		},
 		{
-			"id": "03751",
-			"name": "Xã Chiềng Ly"
+			"id": 1696,
+			"name": "XÃ ĐẠO TÚ"
 		},
 		{
-			"id": "03736",
-			"name": "Xã Chiềng Ngàm"
+			"id": 1697,
+			"name": "XÃ AN HÒA"
 		},
 		{
-			"id": "03787",
-			"name": "Xã Chiềng Pấc"
+			"id": 1698,
+			"name": "XÃ THANH VÂN"
 		},
 		{
-			"id": "03730",
-			"name": "Xã Chiềng Pha"
+			"id": 1699,
+			"name": "XÃ DUY PHIÊN"
 		},
 		{
-			"id": "03781",
-			"name": "Xã Co Mạ"
+			"id": 1700,
+			"name": "XÃ HOÀNG ĐAN"
 		},
 		{
-			"id": "03796",
-			"name": "Xã Co Tòng"
+			"id": 1701,
+			"name": "XÃ HOÀNG LÂU"
 		},
 		{
-			"id": "03739",
-			"name": "Xã Liệp Tè"
+			"id": 1702,
+			"name": "XÃ VÂN HỘI"
 		},
 		{
-			"id": "03763",
-			"name": "Xã Long Hẹ"
-		},
-		{
-			"id": "03799",
-			"name": "Xã Muổi Nọi"
-		},
-		{
-			"id": "03760",
-			"name": "Xã Mường Bám"
-		},
-		{
-			"id": "03757",
-			"name": "Xã Mường Khiêng"
-		},
-		{
-			"id": "03727",
-			"name": "Xã Mường é"
-		},
-		{
-			"id": "03790",
-			"name": "Xã Nậm Lầu"
-		},
-		{
-			"id": "03754",
-			"name": "Xã Noong Lay"
-		},
-		{
-			"id": "03802",
-			"name": "Xã Pá Lông"
-		},
-		{
-			"id": "03724",
-			"name": "Xã Phổng Lái"
-		},
-		{
-			"id": "03748",
-			"name": "Xã Phổng Lăng"
-		},
-		{
-			"id": "03745",
-			"name": "Xã Phổng Lập"
-		},
-		{
-			"id": "03784",
-			"name": "Xã Púng Tra"
-		},
-		{
-			"id": "03769",
-			"name": "Xã Thôm Mòn"
-		},
-		{
-			"id": "03721",
-			"name": "Thị trấn Thuận Châu"
-		},
-		{
-			"id": "03775",
-			"name": "Xã Tông Cọ"
-		},
-		{
-			"id": "03772",
-			"name": "Xã Tông Lạnh"
-		},
-		{
-			"id": "03742",
-			"name": "Xã é Tòng"
+			"id": 1703,
+			"name": "XÃ HỢP THỊNH"
 		}
 	]
 }

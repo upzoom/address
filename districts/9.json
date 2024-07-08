@@ -1,0 +1,38 @@
+{
+	"id": 9,
+	"name": "Đăk Nông",
+	"data": [
+		{
+			"id": 111,
+			"name": "HUYỆN TUY ĐỨC"
+		},
+		{
+			"id": 112,
+			"name": "THÀNH PHỐ GIA NGHĨA"
+		},
+		{
+			"id": 113,
+			"name": "HUYỆN CƯ JÚT"
+		},
+		{
+			"id": 114,
+			"name": "HUYỆN KRÔNG NÔ"
+		},
+		{
+			"id": 115,
+			"name": "HUYỆN ĐẮK SONG"
+		},
+		{
+			"id": 116,
+			"name": "HUYỆN ĐẮK MIL"
+		},
+		{
+			"id": 117,
+			"name": "HUYỆN ĐẮK RLẤP"
+		},
+		{
+			"id": 110,
+			"name": "HUYỆN ĐẮK GLONG"
+		}
+	]
+}

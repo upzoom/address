@@ -1,70 +1,78 @@
 {
-	"id": "273",
-	"name": "Huyện Đan Phượng",
+	"id": 273,
+	"name": "HUYỆN TÂN SƠN",
 	"data": [
 		{
-			"id": "09823",
-			"name": "Xã Đan Phượng"
+			"id": 4917,
+			"name": "XÃ TÂN PHÚ"
 		},
 		{
-			"id": "09826",
-			"name": "Xã Đồng Tháp"
+			"id": 4918,
+			"name": "XÃ MỸ THUẬN"
 		},
 		{
-			"id": "09805",
-			"name": "Xã Hạ Mỗ"
+			"id": 4919,
+			"name": "XÃ THU NGẠC"
 		},
 		{
-			"id": "09796",
-			"name": "Xã Hồng Hà"
+			"id": 4920,
+			"name": "XÃ VĂN LUÔNG"
 		},
 		{
-			"id": "09802",
-			"name": "Xã Liên Hà"
+			"id": 4921,
+			"name": "XÃ MINH ĐÀI"
 		},
 		{
-			"id": "09799",
-			"name": "Xã Liên Hồng"
+			"id": 4922,
+			"name": "XÃ THẠCH KIỆT"
 		},
 		{
-			"id": "09808",
-			"name": "Xã Liên Trung"
+			"id": 4923,
+			"name": "XÃ KIỆT SƠN"
 		},
 		{
-			"id": "09784",
-			"name": "Thị trấn Phùng"
+			"id": 4924,
+			"name": "XÃ TÂN SƠN"
 		},
 		{
-			"id": "09811",
-			"name": "Xã Phương Đình"
+			"id": 4925,
+			"name": "XÃ XUÂN ĐÀI"
 		},
 		{
-			"id": "09829",
-			"name": "Xã Song Phượng"
+			"id": 4926,
+			"name": "XÃ LAI ĐỒNG"
 		},
 		{
-			"id": "09817",
-			"name": "Xã Tân Hội"
+			"id": 4927,
+			"name": "XÃ THU CÚC"
 		},
 		{
-			"id": "09820",
-			"name": "Xã Tân Lập"
+			"id": 4928,
+			"name": "XÃ TAM THANH"
 		},
 		{
-			"id": "09790",
-			"name": "Xã Thọ An"
+			"id": 4929,
+			"name": "XÃ LONG CỐC"
 		},
 		{
-			"id": "09793",
-			"name": "Xã Thọ Xuân"
+			"id": 4930,
+			"name": "XÃ XUÂN SƠN"
 		},
 		{
-			"id": "09814",
-			"name": "Xã Thượng Mỗ"
+			"id": 4931,
+			"name": "XÃ ĐÔNG SƠN"
 		},
 		{
-			"id": "09787",
-			"name": "Xã Trung Châu"
+			"id": 4932,
+			"name": "XÃ TAM THANH"
+		},
+		{
+			"id": 4933,
+			"name": "XÃ VINH TIẾN"
+		},
+		{
+			"id": 4934,
+			"name": "XÃ KIM THƯỢNG"
 		}
 	]
 }

@@ -1,34 +1,66 @@
 {
-	"id": "649",
-	"name": "Huyện Krông Búk",
+	"id": 649,
+	"name": "HUYỆN MANG THÍT",
 	"data": [
 		{
-			"id": "24310",
-			"name": "Xã Chư KBô"
+			"id": 10903,
+			"name": "TT CÁI NHUM"
 		},
 		{
-			"id": "24307",
-			"name": "Xã Cư Né"
+			"id": 10904,
+			"name": "XÃ MANG THÍT"
 		},
 		{
-			"id": "24313",
-			"name": "Xã Cư Pơng"
+			"id": 10905,
+			"name": "AN PHƯỚC"
 		},
 		{
-			"id": "24319",
-			"name": "Xã Ea Ngai"
+			"id": 10906,
+			"name": "CHÁNH AN"
 		},
 		{
-			"id": "24314",
-			"name": "Xã Ea Sin"
+			"id": 10907,
+			"name": "BÌNH PHƯỚC"
 		},
 		{
-			"id": "24316",
-			"name": "Thị trấn Pơng Drang"
+			"id": 10908,
+			"name": "CHÁNH HỘI"
 		},
 		{
-			"id": "24317",
-			"name": "Xã Tân Lập"
+			"id": 10909,
+			"name": "MỸ AN"
+		},
+		{
+			"id": 10910,
+			"name": "MỸ PHƯỚC"
+		},
+		{
+			"id": 10911,
+			"name": "NHƠN PHÚ"
+		},
+		{
+			"id": 10912,
+			"name": "TÂN AN HỘI"
+		},
+		{
+			"id": 10913,
+			"name": "TÂN LONG HỘI"
+		},
+		{
+			"id": 10914,
+			"name": "TÂN QUỚI TRUNG"
+		},
+		{
+			"id": 10915,
+			"name": "XÃ TÂN LONG"
+		},
+		{
+			"id": 10916,
+			"name": "XÃ LONG MỸ"
+		},
+		{
+			"id": 10917,
+			"name": "XÃ HOÀ TỊNH"
 		}
 	]
 }

@@ -1,82 +1,86 @@
 {
-	"id": "126",
-	"name": "Huyện Sông Mã",
+	"id": 126,
+	"name": "HUYỆN LẬP THẠCH",
 	"data": [
 		{
-			"id": "04171",
-			"name": "Xã Bó Sinh"
+			"id": 1793,
+			"name": "THỊ TRẤN LẬP THẠCH"
 		},
 		{
-			"id": "04207",
-			"name": "Xã Chiềng Cang"
+			"id": 1794,
+			"name": "THỊ TRẤN HOA SƠN"
 		},
 		{
-			"id": "04180",
-			"name": "Xã Chiềng En"
+			"id": 1795,
+			"name": "XÃ QUANG SƠN"
 		},
 		{
-			"id": "04204",
-			"name": "Xã Chiềng Khoong"
+			"id": 1796,
+			"name": "XÃ NGỌC MỸ"
 		},
 		{
-			"id": "04222",
-			"name": "Xã Chiềng Khương"
+			"id": 1797,
+			"name": "XÃ HỢP LÝ"
 		},
 		{
-			"id": "04177",
-			"name": "Xã Chiềng Phung"
+			"id": 1798,
+			"name": "XÃ BẮC BÌNH"
 		},
 		{
-			"id": "04195",
-			"name": "Xã Chiềng Sơ"
+			"id": 1799,
+			"name": "XÃ THÁI HÒA"
 		},
 		{
-			"id": "04189",
-			"name": "Xã Đứa Mòn"
+			"id": 1800,
+			"name": "XÃ LIỄN SƠN"
 		},
 		{
-			"id": "04210",
-			"name": "Xã Huổi Một"
+			"id": 1801,
+			"name": "XÃ XUÂN HÒA"
 		},
 		{
-			"id": "04216",
-			"name": "Xã Mường Cai"
+			"id": 1802,
+			"name": "XÃ VÂN TRỤC"
 		},
 		{
-			"id": "04219",
-			"name": "Xã Mường Hung"
+			"id": 1803,
+			"name": "XÃ LIÊN HÒA"
 		},
 		{
-			"id": "04183",
-			"name": "Xã Mường Lầm"
+			"id": 1804,
+			"name": "XÃ TỬ DU"
 		},
 		{
-			"id": "04213",
-			"name": "Xã Mường Sai"
+			"id": 1805,
+			"name": "XÃ BÀN GIẢN"
 		},
 		{
-			"id": "04198",
-			"name": "Xã Nà Nghịu"
+			"id": 1806,
+			"name": "XÃ XUÂN LÔI"
 		},
 		{
-			"id": "04201",
-			"name": "Xã Nậm Mằn"
+			"id": 1807,
+			"name": "XÃ ĐỒNG ÍCH"
 		},
 		{
-			"id": "04186",
-			"name": "Xã Nậm Ty"
+			"id": 1808,
+			"name": "XÃ TIÊN LỮ"
 		},
 		{
-			"id": "04174",
-			"name": "Xã Pú Pẩu"
+			"id": 1809,
+			"name": "XÃ VĂN QUÁN"
 		},
 		{
-			"id": "04168",
-			"name": "Thị trấn Sông Mã"
+			"id": 1810,
+			"name": "XÃ ĐÌNH CHU"
 		},
 		{
-			"id": "04192",
-			"name": "Xã Yên Hưng"
+			"id": 1811,
+			"name": "XÃ TRIỆU ĐỀ"
+		},
+		{
+			"id": 1812,
+			"name": "XÃ SƠN ĐÔNG"
 		}
 	]
 }

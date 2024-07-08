@@ -1,0 +1,54 @@
+{
+	"id": 99,
+	"name": "THỊ XÃ GÒ CÔNG",
+	"data": [
+		{
+			"id": 1459,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 1460,
+			"name": "PHƯỜNG 2"
+		},
+		{
+			"id": 1461,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 1462,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 1463,
+			"name": "PHƯỜNG 5"
+		},
+		{
+			"id": 1464,
+			"name": "XÃ LONG CHÁNH"
+		},
+		{
+			"id": 1465,
+			"name": "XÃ LONG THUẬN"
+		},
+		{
+			"id": 1466,
+			"name": "XÃ LONG HÒA"
+		},
+		{
+			"id": 1467,
+			"name": "XÃ LONG HƯNG"
+		},
+		{
+			"id": 1468,
+			"name": "XÃ TÂN TRUNG"
+		},
+		{
+			"id": 1469,
+			"name": "XÃ BÌNH ĐÔNG"
+		},
+		{
+			"id": 1470,
+			"name": "XÃ BÌNH XUÂN"
+		}
+	]
+}

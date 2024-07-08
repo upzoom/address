@@ -1,78 +1,90 @@
 {
-	"id": "293",
-	"name": "Huyện Kim Thành",
+	"id": 293,
+	"name": "THỊ XÃ ĐÔNG TRIỀU",
 	"data": [
 		{
-			"id": "10798",
-			"name": "Xã Bình Dân"
+			"id": 5361,
+			"name": "THỊ TRẤN ĐÔNG TRIỀU"
 		},
 		{
-			"id": "10762",
-			"name": "Xã Cổ Dũng"
+			"id": 5362,
+			"name": "XÃ NGUYỄN HUỆ"
 		},
 		{
-			"id": "10756",
-			"name": "Xã Cộng Hòa"
+			"id": 5363,
+			"name": "THỊ TRẤN MẠO KHÊ"
 		},
 		{
-			"id": "10810",
-			"name": "Xã Đại Đức"
+			"id": 5364,
+			"name": "XÃ ĐỨC CHÍNH"
 		},
 		{
-			"id": "10804",
-			"name": "Xã Đồng Cẩm"
+			"id": 5365,
+			"name": "XÃ HOÀNG QUẾ"
 		},
 		{
-			"id": "10780",
-			"name": "Xã Kim Anh"
+			"id": 5366,
+			"name": "XÃ HỒNG PHONG"
 		},
 		{
-			"id": "10792",
-			"name": "Xã Kim Đính"
+			"id": 5367,
+			"name": "XÃ HƯNG ĐẠO"
 		},
 		{
-			"id": "10783",
-			"name": "Xã Kim Liên"
+			"id": 5368,
+			"name": "XÃ KIM SƠN"
 		},
 		{
-			"id": "10786",
-			"name": "Xã Kim Tân"
+			"id": 5369,
+			"name": "XÃ VIỆT DÂN"
 		},
 		{
-			"id": "10771",
-			"name": "Xã Kim Xuyên"
+			"id": 5370,
+			"name": "XUÂN SƠN"
 		},
 		{
-			"id": "10753",
-			"name": "Xã Lai Vu"
+			"id": 5371,
+			"name": "XÃ YÊN ĐỨC"
 		},
 		{
-			"id": "10807",
-			"name": "Xã Liên Hòa"
+			"id": 5372,
+			"name": "XÃ YÊN THỌ"
 		},
 		{
-			"id": "10777",
-			"name": "Xã Ngũ Phúc"
+			"id": 5373,
+			"name": "XÃ AN SINH"
 		},
 		{
-			"id": "10750",
-			"name": "Thị trấn Phú Thái"
+			"id": 5374,
+			"name": "XÃ BÌNH DƯƠNG"
 		},
 		{
-			"id": "10774",
-			"name": "Xã Phúc Thành A"
+			"id": 5375,
+			"name": "XÃ BÌNH KHÊ"
 		},
 		{
-			"id": "10801",
-			"name": "Xã Tam Kỳ"
+			"id": 5376,
+			"name": "XÃ TÂN VIỆT"
 		},
 		{
-			"id": "10759",
-			"name": "Xã Thượng Vũ"
+			"id": 5377,
+			"name": "XÃ HỒNG THÁI ĐÔNG"
 		},
 		{
-			"id": "10768",
-			"name": "Xã Tuấn Việt"
+			"id": 5378,
+			"name": "XÃ HỒNG THÁI TÂY"
+		},
+		{
+			"id": 5379,
+			"name": "XÃ THỦY AN"
+		},
+		{
+			"id": 5380,
+			"name": "XÃ TRÀNG AN"
+		},
+		{
+			"id": 5381,
+			"name": "XÃ TRÀNG LƯƠNG"
 		}
 	]
 }

@@ -1,38 +1,58 @@
 {
-	"id": "34",
-	"name": "Tỉnh Thái Bình",
+	"id": 34,
+	"name": "Hà Tĩnh",
 	"data": [
 		{
-			"id": "340",
-			"name": "Huyện Đông Hưng"
+			"id": 383,
+			"name": "HUYỆN VŨ QUANG"
 		},
 		{
-			"id": "339",
-			"name": "Huyện Hưng Hà"
+			"id": 384,
+			"name": "HUYỆN ĐỨC THỌ"
 		},
 		{
-			"id": "343",
-			"name": "Huyện Kiến Xương"
+			"id": 385,
+			"name": "HUYỆN CAN LỘC"
 		},
 		{
-			"id": "338",
-			"name": "Huyện Quỳnh Phụ"
+			"id": 386,
+			"name": "HUYỆN LỘC HÀ"
 		},
 		{
-			"id": "336",
-			"name": "Thành phố Thái Bình"
+			"id": 387,
+			"name": "HUYỆN NGHI XUÂN"
 		},
 		{
-			"id": "341",
-			"name": "Huyện Thái Thụy"
+			"id": 388,
+			"name": "HUYỆN HƯƠNG SƠN"
 		},
 		{
-			"id": "342",
-			"name": "Huyện Tiền Hải"
+			"id": 389,
+			"name": "HUYỆN HƯƠNG KHÊ"
 		},
 		{
-			"id": "344",
-			"name": "Huyện Vũ Thư"
+			"id": 390,
+			"name": "HUYỆN CẨM XUYÊN"
+		},
+		{
+			"id": 391,
+			"name": "THÀNH PHỐ HÀ TĨNH"
+		},
+		{
+			"id": 392,
+			"name": "HUYỆN THẠCH HÀ"
+		},
+		{
+			"id": 393,
+			"name": "THỊ XÃ KỲ ANH"
+		},
+		{
+			"id": 394,
+			"name": "HUYỆN KỲ ANH"
+		},
+		{
+			"id": 395,
+			"name": "THỊ XÃ HỒNG LĨNH"
 		}
 	]
 }

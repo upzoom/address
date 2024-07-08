@@ -1,62 +1,78 @@
 {
-	"id": "258",
-	"name": "Huyện Yên Phong",
+	"id": 258,
+	"name": "THỊ XÃ PHỔ YÊN",
 	"data": [
 		{
-			"id": "09193",
-			"name": "Thị trấn Chờ"
+			"id": 4601,
+			"name": "THỊ TRẤN BÃI BÔNG"
 		},
 		{
-			"id": "09229",
-			"name": "Xã Đông Phong"
+			"id": 4602,
+			"name": "THỊ TRẤN BẮC SƠN"
 		},
 		{
-			"id": "09241",
-			"name": "Xã Đông Thọ"
+			"id": 4603,
+			"name": "THỊ TRẤN BA HÀNG"
 		},
 		{
-			"id": "09217",
-			"name": "Xã Đông Tiến"
+			"id": 4604,
+			"name": "XÃ PHÚC TÂN"
 		},
 		{
-			"id": "09196",
-			"name": "Xã Dũng Liệt"
+			"id": 4605,
+			"name": "XÃ PHÚC THUẬN"
 		},
 		{
-			"id": "09211",
-			"name": "Xã Hòa Tiến"
+			"id": 4606,
+			"name": "XÃ HỒNG TIẾN"
 		},
 		{
-			"id": "09232",
-			"name": "Xã Long Châu"
+			"id": 4607,
+			"name": "XÃ MINH ĐỨC"
 		},
 		{
-			"id": "09199",
-			"name": "Xã Tam Đa"
+			"id": 4608,
+			"name": "XÃ ĐẮC SƠN"
 		},
 		{
-			"id": "09202",
-			"name": "Xã Tam Giang"
+			"id": 4609,
+			"name": "XÃ ĐỒNG TIẾN"
 		},
 		{
-			"id": "09208",
-			"name": "Xã Thụy Hòa"
+			"id": 4610,
+			"name": "XÃ THÀNH CÔNG"
 		},
 		{
-			"id": "09223",
-			"name": "Xã Trung Nghĩa"
+			"id": 4611,
+			"name": "XÃ TIÊN PHONG"
 		},
 		{
-			"id": "09238",
-			"name": "Xã Văn Môn"
+			"id": 4612,
+			"name": "XÃ VẠN PHÁI"
 		},
 		{
-			"id": "09220",
-			"name": "Xã Yên Phụ"
+			"id": 4613,
+			"name": "XÃ NAM TIẾN"
 		},
 		{
-			"id": "09205",
-			"name": "Xã Yên Trung"
+			"id": 4614,
+			"name": "XÃ TÂN HƯƠNG"
+		},
+		{
+			"id": 4615,
+			"name": "XÃ ĐÔNG CAO"
+		},
+		{
+			"id": 4616,
+			"name": "XÃ TRUNG THÀNH"
+		},
+		{
+			"id": 4617,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 4618,
+			"name": "XÃ THUẬN THÀNH"
 		}
 	]
 }

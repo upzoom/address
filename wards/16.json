@@ -1,0 +1,90 @@
+{
+	"id": 16,
+	"name": "HUYỆN THANH OAI",
+	"data": [
+		{
+			"id": 328,
+			"name": "XÃ BÍCH HÒA"
+		},
+		{
+			"id": 329,
+			"name": "XÃ CỰ KHÊ"
+		},
+		{
+			"id": 330,
+			"name": "XÃ BÌNH MINH"
+		},
+		{
+			"id": 331,
+			"name": "XÃ THANH MAI"
+		},
+		{
+			"id": 332,
+			"name": "XÃ THANH THÙY"
+		},
+		{
+			"id": 333,
+			"name": "XÃ KIM THƯ"
+		},
+		{
+			"id": 334,
+			"name": "XÃ LIÊN CHÂU"
+		},
+		{
+			"id": 335,
+			"name": "XÃ XUÂN DƯƠNG"
+		},
+		{
+			"id": 336,
+			"name": "THỊ TRẤN KIM BÀI"
+		},
+		{
+			"id": 337,
+			"name": "XÃ KIM AN"
+		},
+		{
+			"id": 338,
+			"name": "XÃ CAO DƯƠNG"
+		},
+		{
+			"id": 339,
+			"name": "XÃ DÂN HÒA"
+		},
+		{
+			"id": 340,
+			"name": "XÃ TÂN ƯỚC"
+		},
+		{
+			"id": 341,
+			"name": "XÃ CAO VIÊN"
+		},
+		{
+			"id": 342,
+			"name": "XÃ MỸ HƯNG"
+		},
+		{
+			"id": 343,
+			"name": "XÃ TAM HƯNG"
+		},
+		{
+			"id": 344,
+			"name": "XÃ THANH CAO"
+		},
+		{
+			"id": 345,
+			"name": "XÃ THANH VĂN"
+		},
+		{
+			"id": 346,
+			"name": "XÃ ĐỖ ĐỘNG"
+		},
+		{
+			"id": 347,
+			"name": "XÃ PHƯƠNG TRUNG"
+		},
+		{
+			"id": 348,
+			"name": "XÃ HỒNG DƯƠNG"
+		}
+	]
+}

@@ -1,46 +1,58 @@
 {
-	"id": "705",
-	"name": "Huyện Tân Biên",
+	"id": 705,
+	"name": "HUYỆN TRẦN VĂN THỜI",
 	"data": [
 		{
-			"id": "25504",
-			"name": "Xã Hòa Hiệp"
+			"id": 11589,
+			"name": "XÃ KHÁNH BÌNH TÂY"
 		},
 		{
-			"id": "25510",
-			"name": "Xã Mỏ Công"
+			"id": 11590,
+			"name": "XÃ KHÁNH BÌNH TÂY BẮC"
 		},
 		{
-			"id": "25486",
-			"name": "Thị trấn Tân Biên"
+			"id": 11591,
+			"name": "XÃ KHÁNH HẢI"
 		},
 		{
-			"id": "25495",
-			"name": "Xã Tân Bình"
+			"id": 11592,
+			"name": "XÃ KHÁNH HƯNG"
 		},
 		{
-			"id": "25489",
-			"name": "Xã Tân Lập"
+			"id": 11593,
+			"name": "XÃ KHÁNH LỘC"
 		},
 		{
-			"id": "25507",
-			"name": "Xã Tân Phong"
+			"id": 11594,
+			"name": "XÃ KHÁNH BÌNH ĐÔNG"
 		},
 		{
-			"id": "25492",
-			"name": "Xã Thạnh Bắc"
+			"id": 11595,
+			"name": "XÃ KHÁNH BÌNH"
 		},
 		{
-			"id": "25498",
-			"name": "Xã Thạnh Bình"
+			"id": 11596,
+			"name": "XÃ TRẦN HỢI"
 		},
 		{
-			"id": "25501",
-			"name": "Xã Thạnh Tây"
+			"id": 11597,
+			"name": "TT TRẦN VĂN THỜI"
 		},
 		{
-			"id": "25513",
-			"name": "Xã Trà Vong"
+			"id": 11598,
+			"name": "XÃ LỢI AN"
+		},
+		{
+			"id": 11599,
+			"name": "XÃ PHONG LẠC"
+		},
+		{
+			"id": 11600,
+			"name": "TT SÔNG ĐỐC"
+		},
+		{
+			"id": 11601,
+			"name": "XÃ PHONG ĐIỀN"
 		}
 	]
 }

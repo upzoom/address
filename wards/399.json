@@ -1,154 +1,146 @@
 {
-	"id": "399",
-	"name": "Huyện Hoằng Hóa",
+	"id": 399,
+	"name": "HUYỆN QUẢNG TRẠCH",
 	"data": [
 		{
-			"id": "15865",
-			"name": "Thị trấn Bút Sơn"
+			"id": 7568,
+			"name": "THỊ TRẤN BA ĐỒN"
 		},
 		{
-			"id": "15907",
-			"name": "Xã Hoằng Cát"
+			"id": 7569,
+			"name": "XÃ QUẢNG THỌ"
 		},
 		{
-			"id": "15979",
-			"name": "Xã Hoằng Châu"
+			"id": 7570,
+			"name": "XÃ QUẢNG LONG"
 		},
 		{
-			"id": "15946",
-			"name": "Xã Hoằng Đạo"
+			"id": 7571,
+			"name": "XÃ QUẢNG PHONG"
 		},
 		{
-			"id": "15940",
-			"name": "Xã Hoằng Đạt"
+			"id": 7572,
+			"name": "XÃ QUẢNG HỢP"
 		},
 		{
-			"id": "15952",
-			"name": "Xã Hoằng Đồng"
+			"id": 7573,
+			"name": "XÃ QUẢNG THUẬN"
 		},
 		{
-			"id": "15997",
-			"name": "Xã Hoằng Đông"
+			"id": 7574,
+			"name": "XÃ QUẢNG XUÂN"
 		},
 		{
-			"id": "15928",
-			"name": "Xã Hoằng Đức"
+			"id": 7575,
+			"name": "XÃ QUẢNG THANH"
 		},
 		{
-			"id": "15871",
-			"name": "Xã Hoằng Giang"
+			"id": 7576,
+			"name": "XÃ QUẢNG KIM"
 		},
 		{
-			"id": "15937",
-			"name": "Xã Hoằng Hà"
+			"id": 7577,
+			"name": "XÃ QUẢNG PHÚ"
 		},
 		{
-			"id": "15991",
-			"name": "Xã Hoằng Hải"
+			"id": 7578,
+			"name": "XÃ QUẢNG ĐÔNG"
 		},
 		{
-			"id": "15919",
-			"name": "Xã Hoằng Hợp"
+			"id": 7579,
+			"name": "XÃ QUẢNG LIÊN"
 		},
 		{
-			"id": "15889",
-			"name": "Xã Hoằng Kim"
+			"id": 7580,
+			"name": "XÃ QUẢNG TIẾN"
 		},
 		{
-			"id": "15964",
-			"name": "Xã Hoằng Lộc"
+			"id": 7581,
+			"name": "XÃ QUẢNG CHÂU"
 		},
 		{
-			"id": "15976",
-			"name": "Xã Hoằng Lưu"
+			"id": 7582,
+			"name": "XÃ QUẢNG LƯU"
 		},
 		{
-			"id": "15994",
-			"name": "Xã Hoằng Ngọc"
+			"id": 7583,
+			"name": "XÃ QUẢNG TRƯỜNG"
 		},
 		{
-			"id": "15973",
-			"name": "Xã Hoằng Phong"
+			"id": 7584,
+			"name": "XÃ QUẢNG HẢI"
 		},
 		{
-			"id": "15883",
-			"name": "Xã Hoằng Phú"
+			"id": 7585,
+			"name": "XÃ QUẢNG VĂN"
 		},
 		{
-			"id": "16003",
-			"name": "Xã Hoằng Phụ"
+			"id": 7586,
+			"name": "XÃ QUẢNG LỘC"
 		},
 		{
-			"id": "15880",
-			"name": "Xã Hoằng Phượng"
+			"id": 7587,
+			"name": "XÃ QUẢNG HÒA"
 		},
 		{
-			"id": "15886",
-			"name": "Xã Hoằng Quỳ"
+			"id": 7588,
+			"name": "XÃ QUẢNG MINH"
 		},
 		{
-			"id": "15916",
-			"name": "Xã Hoằng Quý"
+			"id": 7589,
+			"name": "XÃ QUẢNG SƠN"
 		},
 		{
-			"id": "15901",
-			"name": "Xã Hoằng Sơn"
+			"id": 7590,
+			"name": "XÃ QUẢNG TRUNG"
 		},
 		{
-			"id": "15982",
-			"name": "Xã Hoằng Tân"
+			"id": 7591,
+			"name": "XÃ QUẢNG TÂN"
 		},
 		{
-			"id": "15955",
-			"name": "Xã Hoằng Thái"
+			"id": 7592,
+			"name": "XÃ QUẢNG TIÊN"
 		},
 		{
-			"id": "15949",
-			"name": "Xã Hoằng Thắng"
+			"id": 7593,
+			"name": "XÃ QUẢNG THỦY"
 		},
 		{
-			"id": "15961",
-			"name": "Xã Hoằng Thành"
+			"id": 7594,
+			"name": "XÃ CẢNH HÓA"
 		},
 		{
-			"id": "16000",
-			"name": "Xã Hoằng Thanh"
+			"id": 7595,
+			"name": "XÃ QUẢNG PHÚC"
 		},
 		{
-			"id": "15958",
-			"name": "Xã Hoằng Thịnh"
+			"id": 7596,
+			"name": "XÃ PHÙ HÓA"
 		},
 		{
-			"id": "15988",
-			"name": "Xã Hoằng Tiến"
+			"id": 7597,
+			"name": "XÃ QUẢNG HƯNG"
 		},
 		{
-			"id": "15967",
-			"name": "Xã Hoằng Trạch"
+			"id": 7598,
+			"name": "XÃ QUẢNG PHƯƠNG"
 		},
 		{
-			"id": "15895",
-			"name": "Xã Hoằng Trinh"
+			"id": 7599,
+			"name": "XÃ QUẢNG THẠCH"
 		},
 		{
-			"id": "15892",
-			"name": "Xã Hoằng Trung"
+			"id": 7600,
+			"name": "XÃ QUẢNG TÙNG"
 		},
 		{
-			"id": "16006",
-			"name": "Xã Hoằng Trường"
+			"id": 7601,
+			"name": "XÃ CẢNH DƯƠNG"
 		},
 		{
-			"id": "15877",
-			"name": "Xã Hoằng Xuân"
-		},
-		{
-			"id": "15910",
-			"name": "Xã Hoằng Xuyên"
-		},
-		{
-			"id": "15985",
-			"name": "Xã Hoằng Yến"
+			"id": 26176,
+			"name": "XÃ LIÊN TRƯỜNG"
 		}
 	]
 }

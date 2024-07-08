@@ -1,0 +1,122 @@
+{
+	"id": 142,
+	"name": "THỊ XÃ KINH MÔN",
+	"data": [
+		{
+			"id": 2119,
+			"name": "XÃ AN LƯU"
+		},
+		{
+			"id": 2120,
+			"name": "XÃ AN PHỤ"
+		},
+		{
+			"id": 2121,
+			"name": "XÃ AN SINH"
+		},
+		{
+			"id": 2122,
+			"name": "XÃ BẠCH ĐẰNG"
+		},
+		{
+			"id": 2123,
+			"name": "XÃ DUY TÂN"
+		},
+		{
+			"id": 2124,
+			"name": "XÃ HIẾN THÀNH"
+		},
+		{
+			"id": 2125,
+			"name": "XÃ HIỆP AN"
+		},
+		{
+			"id": 2126,
+			"name": "XÃ HIỆP HÒA"
+		},
+		{
+			"id": 2127,
+			"name": "XÃ HIỆP SƠN"
+		},
+		{
+			"id": 2128,
+			"name": "XÃ HOÀNH SƠN"
+		},
+		{
+			"id": 2129,
+			"name": "XÃ LẠC LONG"
+		},
+		{
+			"id": 2130,
+			"name": "XÃ LÊ NINH"
+		},
+		{
+			"id": 2131,
+			"name": "XÃ MINH HÒA"
+		},
+		{
+			"id": 2132,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 2133,
+			"name": "XÃ PHẠM MỆNH"
+		},
+		{
+			"id": 2134,
+			"name": "THỊ TRẤN PHÚ THỨ"
+		},
+		{
+			"id": 2135,
+			"name": "XÃ PHÚC THÀNH B"
+		},
+		{
+			"id": 2136,
+			"name": "XÃ QUANG TRUNG"
+		},
+		{
+			"id": 2137,
+			"name": "XÃ TÂN DÂN"
+		},
+		{
+			"id": 2138,
+			"name": "XÃ THÁI SƠN"
+		},
+		{
+			"id": 2139,
+			"name": "XÃ THÁI THỊNH"
+		},
+		{
+			"id": 2140,
+			"name": "XÃ THĂNG LONG"
+		},
+		{
+			"id": 2141,
+			"name": "XÃ THẤT HÙNG"
+		},
+		{
+			"id": 2142,
+			"name": "THỊ TRẤN KINH MÔN"
+		},
+		{
+			"id": 2143,
+			"name": "THỊ TRẤN MINH TÂN"
+		},
+		{
+			"id": 2144,
+			"name": "XÃ THƯỢNG QUẬN"
+		},
+		{
+			"id": 2145,
+			"name": "XÃ LONG XUYÊN"
+		},
+		{
+			"id": 25650,
+			"name": "PHƯỜNG PHẠM THÁI"
+		},
+		{
+			"id": 25651,
+			"name": "XÃ QUANG THÀNH"
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": 537,
+	"name": "HUYỆN ĐỨC TRỌNG",
+	"data": [
+		{
+			"id": 9482,
+			"name": "XÃ HIỆP AN"
+		},
+		{
+			"id": 9483,
+			"name": "XÃ HIỆP THẠNH"
+		},
+		{
+			"id": 9484,
+			"name": "XÃ LIÊN HIỆP"
+		},
+		{
+			"id": 9485,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 9486,
+			"name": "THỊ TRẤN LIÊN NGHĨA"
+		},
+		{
+			"id": 9487,
+			"name": "XÃ ĐÀ LOAN"
+		},
+		{
+			"id": 9488,
+			"name": "XÃ TÀ NĂNG"
+		},
+		{
+			"id": 9489,
+			"name": "XÃ PHÚ HỘI"
+		},
+		{
+			"id": 9490,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 9491,
+			"name": "XÃ NINH GIA"
+		},
+		{
+			"id": 9492,
+			"name": "XÃ N'THÔN HẠ"
+		},
+		{
+			"id": 9493,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 9494,
+			"name": "XÃ TÀ HINE"
+		},
+		{
+			"id": 9495,
+			"name": "XÃ ĐA QUYN"
+		},
+		{
+			"id": 9496,
+			"name": "XÃ NINH LOAN"
+		}
+	]
+}

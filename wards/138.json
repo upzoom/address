@@ -1,90 +1,114 @@
 {
-	"id": "138",
-	"name": "Huyện Trấn Yên",
+	"id": 138,
+	"name": "HUYỆN THANH HÀ ",
 	"data": [
 		{
-			"id": "04504",
-			"name": "Xã Báo Đáp"
+			"id": 26270,
+			"name": "XÃ AN PHƯỢNG"
 		},
 		{
-			"id": "04561",
-			"name": "Xã Bảo Hưng"
+			"id": 2023,
+			"name": "XÃ HỒNG LẠC"
 		},
 		{
-			"id": "04498",
-			"name": "Thị trấn Cổ Phúc"
+			"id": 2024,
+			"name": "XÃ LIÊN MẠC"
 		},
 		{
-			"id": "04522",
-			"name": "Xã Cường Thịnh"
+			"id": 2025,
+			"name": "XÃ PHƯỢNG HOÀNG"
 		},
 		{
-			"id": "04507",
-			"name": "Xã Đào Thịnh"
+			"id": 2026,
+			"name": "XÃ TÂN VIỆT"
 		},
 		{
-			"id": "04513",
-			"name": "Xã Hòa Cuông"
+			"id": 2027,
+			"name": "XÃ THANH BÍNH"
 		},
 		{
-			"id": "04570",
-			"name": "Xã Hồng Ca"
+			"id": 2028,
+			"name": "XÃ THANH HẢI"
 		},
 		{
-			"id": "04576",
-			"name": "Xã Hưng Khánh"
+			"id": 2029,
+			"name": "XÃ THANH HỒNG"
 		},
 		{
-			"id": "04573",
-			"name": "Xã Hưng Thịnh"
+			"id": 2030,
+			"name": "XÃ THANH KHÊ"
 		},
 		{
-			"id": "04525",
-			"name": "Xã Kiên Thành"
+			"id": 2031,
+			"name": "XÃ THANH LANG"
 		},
 		{
-			"id": "04537",
-			"name": "Xã Lương Thịnh"
+			"id": 2032,
+			"name": "XÃ THANH SƠN"
 		},
 		{
-			"id": "04516",
-			"name": "Xã Minh Quán"
+			"id": 2033,
+			"name": "XÃ THANH THỦY"
 		},
 		{
-			"id": "04567",
-			"name": "Xã Minh Quân"
+			"id": 2034,
+			"name": "XÃ THANH XÁ"
 		},
 		{
-			"id": "04528",
-			"name": "Xã Nga Quán"
+			"id": 2035,
+			"name": "XÃ TRƯỜNG THÀNH"
 		},
 		{
-			"id": "04519",
-			"name": "Xã Quy Mông"
+			"id": 2036,
+			"name": "THỊ TRẤN THANH HÀ"
 		},
 		{
-			"id": "04501",
-			"name": "Xã Tân Đồng"
+			"id": 2037,
+			"name": "XÃ VIỆT HỒNG"
 		},
 		{
-			"id": "04582",
-			"name": "Xã Vân Hội"
+			"id": 2038,
+			"name": "XÃ VĨNH LẬP"
 		},
 		{
-			"id": "04564",
-			"name": "Xã Việt Cường"
+			"id": 2039,
+			"name": "XÃ AN LƯƠNG"
 		},
 		{
-			"id": "04579",
-			"name": "Xã Việt Hồng"
+			"id": 2040,
+			"name": "XÃ CẨM CHẾ"
 		},
 		{
-			"id": "04510",
-			"name": "Xã Việt Thành"
+			"id": 2041,
+			"name": "XÃ TIỀN TIẾN"
 		},
 		{
-			"id": "04531",
-			"name": "Xã Y Can"
+			"id": 2042,
+			"name": "XÃ THANH AN"
+		},
+		{
+			"id": 2043,
+			"name": "XÃ THANH CƯỜNG"
+		},
+		{
+			"id": 2044,
+			"name": "XÃ THANH XUÂN"
+		},
+		{
+			"id": 2045,
+			"name": "XÃ HỢP ĐỨC"
+		},
+		{
+			"id": 2046,
+			"name": "XÃ TÂN AN"
+		},
+		{
+			"id": 2047,
+			"name": "XÃ QUYẾT THẮNG"
+		},
+		{
+			"id": 26269,
+			"name": "XÃ THANH QUANG"
 		}
 	]
 }

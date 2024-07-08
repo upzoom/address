@@ -1,0 +1,106 @@
+{
+	"id": 192,
+	"name": "HUYỆN VỊ XUYÊN",
+	"data": [
+		{
+			"id": 3298,
+			"name": "THỊ TRẤN VỊ XUYÊN"
+		},
+		{
+			"id": 3299,
+			"name": "XÃ VIỆT LÂM"
+		},
+		{
+			"id": 3300,
+			"name": "XÃ PHÚ LINH"
+		},
+		{
+			"id": 3301,
+			"name": "XÃ PHONG QUANG"
+		},
+		{
+			"id": 3302,
+			"name": "XÃ NGỌC LINH"
+		},
+		{
+			"id": 3303,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 3304,
+			"name": "XÃ KIM LINH"
+		},
+		{
+			"id": 3305,
+			"name": "XÃ KIM THẠCH"
+		},
+		{
+			"id": 3306,
+			"name": "XÃ THUẬN HÒA"
+		},
+		{
+			"id": 3307,
+			"name": "XÃ VIỆT LÂM"
+		},
+		{
+			"id": 3308,
+			"name": "XÃ THANH THUỶ"
+		},
+		{
+			"id": 3309,
+			"name": "XÃ TRUNG THÀNH"
+		},
+		{
+			"id": 3310,
+			"name": "XÃ ĐẠO ĐỨC"
+		},
+		{
+			"id": 3311,
+			"name": "TT NÔNG TRƯỜNG VIỆT LÂM"
+		},
+		{
+			"id": 3312,
+			"name": "XÃ TÙNG BÁ"
+		},
+		{
+			"id": 3313,
+			"name": "XÃ BẠCH NGỌC"
+		},
+		{
+			"id": 3314,
+			"name": "XÃ NGỌC MINH"
+		},
+		{
+			"id": 3315,
+			"name": "XÃ THANH ĐỨC"
+		},
+		{
+			"id": 3316,
+			"name": "XÃ XÍN CHẢI"
+		},
+		{
+			"id": 3317,
+			"name": "XÃ PHƯƠNG TIẾN"
+		},
+		{
+			"id": 3318,
+			"name": "XÃ LAO CHẢI"
+		},
+		{
+			"id": 3319,
+			"name": "XÃ CAO BỒ"
+		},
+		{
+			"id": 3320,
+			"name": "XÃ THƯỢNG SƠN"
+		},
+		{
+			"id": 3321,
+			"name": "XÃ LINH HỒ"
+		},
+		{
+			"id": 3322,
+			"name": "XÃ QUẢNG NGẦN"
+		}
+	]
+}

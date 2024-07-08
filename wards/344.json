@@ -1,126 +1,158 @@
 {
-	"id": "344",
-	"name": "Huyện Vũ Thư",
+	"id": 344,
+	"name": "THÀNH PHỐ THANH HÓA",
 	"data": [
 		{
-			"id": "13243",
-			"name": "Xã Bách Thuận"
+			"id": 17000,
+			"name": "PHƯỜNG AN HOẠCH"
 		},
 		{
-			"id": "13198",
-			"name": "Xã Đồng Thanh"
+			"id": 13327,
+			"name": "XÃ QUẢNG CÁT"
 		},
 		{
-			"id": "13231",
-			"name": "Xã Dũng Nghĩa"
+			"id": 14348,
+			"name": "XÃ QUẢNG TÂM"
 		},
 		{
-			"id": "13279",
-			"name": "Xã Duy Nhất"
+			"id": 18469,
+			"name": "PHƯỜNG QUẢNG CHÂU"
 		},
 		{
-			"id": "13204",
-			"name": "Xã Hiệp Hòa"
+			"id": 21519,
+			"name": "THỊ TRẤN NGÃ BA MÔI"
 		},
 		{
-			"id": "13258",
-			"name": "Xã Hòa Bình"
+			"id": 21521,
+			"name": "XÃ QUẢNG PHÚ"
 		},
 		{
-			"id": "13195",
-			"name": "Xã Hồng Lý"
+			"id": 21522,
+			"name": "XÃ THIỆU KHÁNH"
 		},
 		{
-			"id": "13282",
-			"name": "Xã Hồng Phong"
+			"id": 22026,
+			"name": "XÃ ĐÔNG LĨNH"
 		},
 		{
-			"id": "13228",
-			"name": "Xã Minh Khai"
+			"id": 18468,
+			"name": "PHƯỜNG TÀO XUYÊN"
 		},
 		{
-			"id": "13222",
-			"name": "Xã Minh Lãng"
+			"id": 21520,
+			"name": "XÃ QUẢNG ĐÔNG"
 		},
 		{
-			"id": "13234",
-			"name": "Xã Minh Quang"
+			"id": 24075,
+			"name": "XÃ THIỆU DƯƠNG"
 		},
 		{
-			"id": "13261",
-			"name": "Xã Nguyên Xá"
+			"id": 24601,
+			"name": "XÃ THIỆU VÂN"
 		},
 		{
-			"id": "13207",
-			"name": "Xã Phúc Thành"
+			"id": 24600,
+			"name": "XÃ THIỆU DƯƠNG"
 		},
 		{
-			"id": "13249",
-			"name": "Xã Song An"
+			"id": 24602,
+			"name": "XÃ ĐÔNG TÂN"
 		},
 		{
-			"id": "13213",
-			"name": "Xã Song Lãng"
+			"id": 24603,
+			"name": "XÃ ĐÔNG VINH"
 		},
 		{
-			"id": "13237",
-			"name": "Xã Tam Quang"
+			"id": 6290,
+			"name": "PHƯỜNG BA ĐÌNH"
 		},
 		{
-			"id": "13216",
-			"name": "Xã Tân Hòa"
+			"id": 6291,
+			"name": "PHƯỜNG NGỌC TRẠO"
 		},
 		{
-			"id": "13240",
-			"name": "Xã Tân Lập"
+			"id": 6292,
+			"name": "PHƯỜNG ĐÔNG VỆ"
 		},
 		{
-			"id": "13210",
-			"name": "Xã Tân Phong"
+			"id": 6293,
+			"name": "PHƯỜNG PHÚ SƠN"
 		},
 		{
-			"id": "13252",
-			"name": "Xã Trung An"
+			"id": 6294,
+			"name": "PHƯỜNG TÂN SƠN"
 		},
 		{
-			"id": "13246",
-			"name": "Xã Tự Tân"
+			"id": 6295,
+			"name": "PHƯỜNG ĐIỆN BIÊN"
 		},
 		{
-			"id": "13219",
-			"name": "Xã Việt Hùng"
+			"id": 6296,
+			"name": "XÃ ĐÔNG CƯƠNG"
 		},
 		{
-			"id": "13264",
-			"name": "Xã Việt Thuận"
+			"id": 6297,
+			"name": "PHƯỜNG ĐÔNG SƠN"
 		},
 		{
-			"id": "13270",
-			"name": "Xã Vũ Đoài"
+			"id": 6298,
+			"name": "PHƯỜNG LAM SƠN"
 		},
 		{
-			"id": "13255",
-			"name": "Xã Vũ Hội"
+			"id": 6299,
+			"name": "PHƯỜNG TRƯỜNG THI"
 		},
 		{
-			"id": "13192",
-			"name": "Thị trấn Vũ Thư"
+			"id": 6300,
+			"name": "PHƯỜNG ĐÔNG THỌ"
 		},
 		{
-			"id": "13273",
-			"name": "Xã Vũ Tiến"
+			"id": 6301,
+			"name": "PHƯỜNG HÀM RỒNG"
 		},
 		{
-			"id": "13276",
-			"name": "Xã Vũ Vân"
+			"id": 6302,
+			"name": "PHƯỜNG NAM NGẠN"
 		},
 		{
-			"id": "13267",
-			"name": "Xã Vũ Vinh"
+			"id": 6303,
+			"name": "XÃ QUẢNG HƯNG"
 		},
 		{
-			"id": "13201",
-			"name": "Xã Xuân Hòa"
+			"id": 6304,
+			"name": "XÃ QUẢNG THẮNG"
+		},
+		{
+			"id": 6305,
+			"name": "XÃ ĐÔNG HƯƠNG"
+		},
+		{
+			"id": 6306,
+			"name": "XÃ ĐÔNG HẢI"
+		},
+		{
+			"id": 6307,
+			"name": "XÃ QUẢNG THÀNH"
+		},
+		{
+			"id": 26234,
+			"name": "PHƯỜNG QUẢNG THỊNH"
+		},
+		{
+			"id": 26235,
+			"name": "PHƯỜNG AN HƯNG"
+		},
+		{
+			"id": 26238,
+			"name": "PHƯỜNG LONG ANH"
+		},
+		{
+			"id": 26236,
+			"name": "XÃ HOẰNG ĐẠI"
+		},
+		{
+			"id": 26237,
+			"name": "XÃ HOẰNG QUANG"
 		}
 	]
 }

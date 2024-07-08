@@ -1,46 +1,90 @@
 {
-	"id": "33",
-	"name": "Tỉnh Hưng Yên",
+	"id": 33,
+	"name": "Nghệ An",
 	"data": [
 		{
-			"id": "329",
-			"name": "Huyện Ân Thi"
+			"id": 362,
+			"name": "HUYỆN ANH SƠN"
 		},
 		{
-			"id": "323",
-			"name": "Thành phố Hưng Yên"
+			"id": 363,
+			"name": "HUYỆN CON CUÔNG"
 		},
 		{
-			"id": "330",
-			"name": "Huyện Khoái Châu"
+			"id": 364,
+			"name": "HUYỆN HƯNG NGUYÊN"
 		},
 		{
-			"id": "331",
-			"name": "Huyện Kim Động"
+			"id": 365,
+			"name": "THỊ XÃ THÁI HÒA"
 		},
 		{
-			"id": "328",
-			"name": "Thị xã Mỹ Hào"
+			"id": 366,
+			"name": "HUYỆN QUỲ CHÂU"
 		},
 		{
-			"id": "333",
-			"name": "Huyện Phù Cừ"
+			"id": 367,
+			"name": "THỊ XÃ CỬA LÒ"
 		},
 		{
-			"id": "332",
-			"name": "Huyện Tiên Lữ"
+			"id": 368,
+			"name": "HUYỆN TƯƠNG DƯƠNG"
 		},
 		{
-			"id": "326",
-			"name": "Huyện Văn Giang"
+			"id": 369,
+			"name": "HUYỆN QUẾ PHONG"
 		},
 		{
-			"id": "325",
-			"name": "Huyện Văn Lâm"
+			"id": 370,
+			"name": "HUYỆN TÂN KỲ"
 		},
 		{
-			"id": "327",
-			"name": "Huyện Yên Mỹ"
+			"id": 371,
+			"name": "HUYỆN DIỄN CHÂU"
+		},
+		{
+			"id": 372,
+			"name": "HUYỆN KỲ SƠN"
+		},
+		{
+			"id": 373,
+			"name": "THÀNH PHỐ VINH"
+		},
+		{
+			"id": 374,
+			"name": "HUYỆN ĐÔ LƯƠNG"
+		},
+		{
+			"id": 375,
+			"name": "HUYỆN NGHI LỘC"
+		},
+		{
+			"id": 376,
+			"name": "HUYỆN YÊN THÀNH"
+		},
+		{
+			"id": 377,
+			"name": "HUYỆN QUỲNH LƯU"
+		},
+		{
+			"id": 378,
+			"name": "HUYỆN NAM ĐÀN"
+		},
+		{
+			"id": 379,
+			"name": "HUYỆN NGHĨA ĐÀN"
+		},
+		{
+			"id": 380,
+			"name": "THỊ XÃ HOÀNG MAI"
+		},
+		{
+			"id": 381,
+			"name": "HUYỆN THANH CHƯƠNG"
+		},
+		{
+			"id": 382,
+			"name": "HUYỆN QUỲ HỢP"
 		}
 	]
 }

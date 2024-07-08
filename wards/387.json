@@ -1,54 +1,90 @@
 {
-	"id": "387",
-	"name": "Huyện Quan Sơn",
+	"id": 387,
+	"name": "HUYỆN NGHI XUÂN",
 	"data": [
 		{
-			"id": "15025",
-			"name": "Xã Mường Mìn"
+			"id": 7304,
+			"name": "THỊ TRẤN XUÂN AN"
 		},
 		{
-			"id": "15013",
-			"name": "Xã Na Mèo"
+			"id": 7305,
+			"name": "XÃ XUÂN HỘI"
 		},
 		{
-			"id": "15022",
-			"name": "Xã Sơn Điện"
+			"id": 7306,
+			"name": "XÃ XUÂN TRƯỜNG"
 		},
 		{
-			"id": "15004",
-			"name": "Xã Sơn Hà"
+			"id": 7307,
+			"name": "XÃ XUÂN ĐAN"
 		},
 		{
-			"id": "15016",
-			"name": "Thị trấn Sơn Lư"
+			"id": 7308,
+			"name": "XÃ XUÂN PHỔ"
 		},
 		{
-			"id": "15010",
-			"name": "Xã Sơn Thủy"
+			"id": 7309,
+			"name": "XÃ XUÂN HẢI"
 		},
 		{
-			"id": "15019",
-			"name": "Xã Tam Lư"
+			"id": 7310,
+			"name": "XÃ XUÂN YÊN"
 		},
 		{
-			"id": "15007",
-			"name": "Xã Tam Thanh"
+			"id": 7311,
+			"name": "XÃ TIÊN ĐIỀN"
 		},
 		{
-			"id": "15001",
-			"name": "Xã Trung Hạ"
+			"id": 7312,
+			"name": "XÃ XUÂN GIANG"
 		},
 		{
-			"id": "14998",
-			"name": "Xã Trung Thượng"
+			"id": 7313,
+			"name": "XÃ XUÂN MỸ"
 		},
 		{
-			"id": "14999",
-			"name": "Xã Trung Tiến"
+			"id": 7314,
+			"name": "XÃ XUÂN THÀNH"
 		},
 		{
-			"id": "14995",
-			"name": "Xã Trung Xuân"
+			"id": 7315,
+			"name": "XÃ XUÂN HỒNG"
+		},
+		{
+			"id": 7316,
+			"name": "XÃ XUÂN VIÊN"
+		},
+		{
+			"id": 7317,
+			"name": "XÃ XUÂN LAM"
+		},
+		{
+			"id": 7318,
+			"name": "XÃ XUÂN LĨNH"
+		},
+		{
+			"id": 7319,
+			"name": "XÃ XUÂN LIÊN"
+		},
+		{
+			"id": 7320,
+			"name": "XÃ CỔ ĐẠM"
+		},
+		{
+			"id": 7321,
+			"name": "XÃ CƯƠNG GIÁN"
+		},
+		{
+			"id": 7322,
+			"name": "THỊ TRẤN NGHI XUÂN"
+		},
+		{
+			"id": 28659,
+			"name": "THỊ TRẤN TIÊN ĐIỀN"
+		},
+		{
+			"id": 26190,
+			"name": "XÃ ĐAN TRƯỜNG"
 		}
 	]
 }

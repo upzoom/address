@@ -1,82 +1,206 @@
 {
-	"id": "336",
-	"name": "Thành phố Thái Bình",
+	"id": 336,
+	"name": "HUYỆN HOẰNG HÓA",
 	"data": [
 		{
-			"id": "12436",
-			"name": "Phường Bồ Xuyên"
+			"id": 24588,
+			"name": "XÃ HOẰNG THÀNH"
 		},
 		{
-			"id": "12439",
-			"name": "Phường Đề Thám"
+			"id": 6078,
+			"name": "THỊ TRẤN BÚT SƠN"
 		},
 		{
-			"id": "12457",
-			"name": "Xã Đông Hòa"
+			"id": 6079,
+			"name": "THỊ TRẤN TÀO XUYÊN"
 		},
 		{
-			"id": "12817",
-			"name": "Xã Đông Mỹ"
+			"id": 6080,
+			"name": "XÃ HOẰNG KIM"
 		},
 		{
-			"id": "12820",
-			"name": "Xã Đông Thọ"
+			"id": 6081,
+			"name": "XÃ HOẰNG PHÚ"
 		},
 		{
-			"id": "12460",
-			"name": "Phường Hoàng Diệu"
+			"id": 6082,
+			"name": "XÃ HOẰNG KHÊ"
 		},
 		{
-			"id": "12442",
-			"name": "Phường Kỳ Bá"
+			"id": 6083,
+			"name": "XÃ HOẰNG LÝ"
 		},
 		{
-			"id": "12433",
-			"name": "Phường Lê Hồng Phong"
+			"id": 6084,
+			"name": "XÃ HOẰNG THẮNG"
 		},
 		{
-			"id": "12448",
-			"name": "Phường Phú Khánh"
+			"id": 6085,
+			"name": "XÃ HOẰNG THANH"
 		},
 		{
-			"id": "12463",
-			"name": "Xã Phú Xuân"
+			"id": 6086,
+			"name": "XÃ HOẰNG LƯU"
 		},
 		{
-			"id": "12445",
-			"name": "Phường Quang Trung"
+			"id": 6087,
+			"name": "XÃ HOẰNG HỢP"
 		},
 		{
-			"id": "13225",
-			"name": "Xã Tân Bình"
+			"id": 6088,
+			"name": "XÃ HOẰNG CÁT"
 		},
 		{
-			"id": "12451",
-			"name": "Phường Tiền Phong"
+			"id": 6089,
+			"name": "XÃ HOẰNG ANH"
 		},
 		{
-			"id": "12452",
-			"name": "Phường Trần Hưng Đạo"
+			"id": 6090,
+			"name": "XÃ HOẰNG PHÚC"
 		},
 		{
-			"id": "12454",
-			"name": "Phường Trần Lãm"
+			"id": 6091,
+			"name": "XÃ HOẰNG ĐẠI"
 		},
 		{
-			"id": "12469",
-			"name": "Xã Vũ Chính"
+			"id": 6092,
+			"name": "XÃ HOẰNG ĐÔNG"
 		},
 		{
-			"id": "13084",
-			"name": "Xã Vũ Đông"
+			"id": 6093,
+			"name": "XÃ HOẰNG PHƯỢNG"
 		},
 		{
-			"id": "13108",
-			"name": "Xã Vũ Lạc"
+			"id": 6094,
+			"name": "XÃ HOẰNG QUÝ"
 		},
 		{
-			"id": "12466",
-			"name": "Xã Vũ Phúc"
+			"id": 6095,
+			"name": "XÃ HOẰNG SƠN"
+		},
+		{
+			"id": 6096,
+			"name": "XÃ HOẰNG XUYÊN"
+		},
+		{
+			"id": 6097,
+			"name": "XÃ HOẰNG ĐẠT"
+		},
+		{
+			"id": 6098,
+			"name": "XÃ HOẰNG ĐẠO"
+		},
+		{
+			"id": 6099,
+			"name": "XÃ HOẰNG QUANG"
+		},
+		{
+			"id": 6100,
+			"name": "XÃ HOẰNG THỊNH"
+		},
+		{
+			"id": 6101,
+			"name": "XÃ HOẰNG THÁI"
+		},
+		{
+			"id": 6102,
+			"name": "XÃ HOẰNG YẾN"
+		},
+		{
+			"id": 6103,
+			"name": "XÃ HOẰNG TRƯỜNG"
+		},
+		{
+			"id": 6104,
+			"name": "XÃ HOẰNG TIẾN"
+		},
+		{
+			"id": 6105,
+			"name": "XÃ HOẰNG CHÂU"
+		},
+		{
+			"id": 6106,
+			"name": "XÃ HOẰNG TRUNG"
+		},
+		{
+			"id": 6107,
+			"name": "XÃ HOẰNG GIANG"
+		},
+		{
+			"id": 6108,
+			"name": "XÃ HOẰNG ĐỨC"
+		},
+		{
+			"id": 6109,
+			"name": "XÃ HOẰNG ĐỒNG"
+		},
+		{
+			"id": 6110,
+			"name": "XÃ HOẰNG HÀ"
+		},
+		{
+			"id": 6111,
+			"name": "XÃ HOẰNG HẢI"
+		},
+		{
+			"id": 6112,
+			"name": "XÃ HOẰNG TÂN"
+		},
+		{
+			"id": 6113,
+			"name": "XÃ HOẰNG TRẠCH"
+		},
+		{
+			"id": 6114,
+			"name": "XÃ HOẰNG NGỌC"
+		},
+		{
+			"id": 6115,
+			"name": "XÃ HOẰNG PHONG"
+		},
+		{
+			"id": 6116,
+			"name": "XÃ HOẰNG QUỲ"
+		},
+		{
+			"id": 6117,
+			"name": "XÃ HOẰNG TRINH"
+		},
+		{
+			"id": 6118,
+			"name": "XÃ HOẰNG LƯƠNG"
+		},
+		{
+			"id": 6119,
+			"name": "XÃ HOẰNG LONG"
+		},
+		{
+			"id": 6120,
+			"name": "XÃ HOẰNG MINH"
+		},
+		{
+			"id": 6121,
+			"name": "XÃ HOẰNG VINH"
+		},
+		{
+			"id": 6122,
+			"name": "XÃ HOẰNG KHÁNH"
+		},
+		{
+			"id": 6123,
+			"name": "XÃ HOẰNG XUÂN"
+		},
+		{
+			"id": 6124,
+			"name": "XÃ HOẰNG PHỤ"
+		},
+		{
+			"id": 6125,
+			"name": "XÃ HOẰNG DŨNG"
+		},
+		{
+			"id": 6126,
+			"name": "XÃ HOẰNG LỘC"
 		}
 	]
 }

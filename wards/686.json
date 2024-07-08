@@ -1,0 +1,62 @@
+{
+	"id": 686,
+	"name": "HUYỆN KẾ SÁCH",
+	"data": [
+		{
+			"id": 11394,
+			"name": "THỊ TRẤN KẾ SÁCH"
+		},
+		{
+			"id": 11395,
+			"name": "XÃ SONG PHỤNG"
+		},
+		{
+			"id": 11396,
+			"name": "XÃ XUÂN HOÀ"
+		},
+		{
+			"id": 11397,
+			"name": "XÃ AN LẠC THÔN"
+		},
+		{
+			"id": 11398,
+			"name": "XÃ BA TRINH"
+		},
+		{
+			"id": 11399,
+			"name": "XÃ TRINH PHÚ"
+		},
+		{
+			"id": 11400,
+			"name": "XÃ AN LẠC TÂY"
+		},
+		{
+			"id": 11401,
+			"name": "XÃ THỚI AN HỘI"
+		},
+		{
+			"id": 11402,
+			"name": "XÃ ĐẠI HẢI"
+		},
+		{
+			"id": 11403,
+			"name": "XÃ KẾ AN"
+		},
+		{
+			"id": 11404,
+			"name": "XÃ KẾ THÀNH"
+		},
+		{
+			"id": 11405,
+			"name": "XÃ NHƠN MỸ"
+		},
+		{
+			"id": 11406,
+			"name": "XÃ AN MỸ"
+		},
+		{
+			"id": 11407,
+			"name": "XÃ PHONG NẪM"
+		}
+	]
+}

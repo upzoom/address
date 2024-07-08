@@ -1,58 +1,50 @@
 {
-	"id": "22",
-	"name": "Tỉnh Quảng Ninh",
+	"id": 22,
+	"name": "Lạng Sơn",
 	"data": [
 		{
-			"id": "202",
-			"name": "Huyện Ba Chẽ"
+			"id": 231,
+			"name": "HUYỆN VĂN QUAN"
 		},
 		{
-			"id": "198",
-			"name": "Huyện Bình Liêu"
+			"id": 232,
+			"name": "HUYỆN HỮU LŨNG"
 		},
 		{
-			"id": "195",
-			"name": "Thành phố Cẩm Phả"
+			"id": 233,
+			"name": "HUYỆN CHI LĂNG"
 		},
 		{
-			"id": "207",
-			"name": "Huyện Cô Tô"
+			"id": 234,
+			"name": "HUYỆN BẮC SƠN"
 		},
 		{
-			"id": "200",
-			"name": "Huyện Đầm Hà"
+			"id": 235,
+			"name": "HUYỆN VĂN LÃNG"
 		},
 		{
-			"id": "205",
-			"name": "Thị xã Đông Triều"
+			"id": 236,
+			"name": "HUYỆN LỘC BÌNH"
 		},
 		{
-			"id": "193",
-			"name": "Thành phố Hạ Long"
+			"id": 237,
+			"name": "HUYỆN CAO LỘC"
 		},
 		{
-			"id": "201",
-			"name": "Huyện Hải Hà"
+			"id": 238,
+			"name": "HUYỆN ĐÌNH LẬP"
 		},
 		{
-			"id": "194",
-			"name": "Thành phố Móng Cái"
+			"id": 239,
+			"name": "HUYỆN BÌNH GIA"
 		},
 		{
-			"id": "206",
-			"name": "Thị xã Quảng Yên"
+			"id": 240,
+			"name": "THÀNH PHỐ LẠNG SƠN"
 		},
 		{
-			"id": "199",
-			"name": "Huyện Tiên Yên"
-		},
-		{
-			"id": "196",
-			"name": "Thành phố Uông Bí"
-		},
-		{
-			"id": "203",
-			"name": "Huyện Vân Đồn"
+			"id": 241,
+			"name": "HUYỆN TRÀNG ĐỊNH"
 		}
 	]
 }

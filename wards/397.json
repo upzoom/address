@@ -1,142 +1,86 @@
 {
-	"id": "397",
-	"name": "Huyện Triệu Sơn",
+	"id": 397,
+	"name": "HUYỆN TUYÊN HÓA",
 	"data": [
 		{
-			"id": "15709",
-			"name": "Xã An Nông"
+			"id": 7531,
+			"name": "THỊ TRẤN ĐỒNG LÊ"
 		},
 		{
-			"id": "15769",
-			"name": "Xã Bình Sơn"
+			"id": 7532,
+			"name": "XÃ LÂM HÓA"
 		},
 		{
-			"id": "15700",
-			"name": "Xã Dân Lực"
+			"id": 7533,
+			"name": "XÃ HƯƠNG HÓA"
 		},
 		{
-			"id": "15703",
-			"name": "Xã Dân Lý"
+			"id": 7534,
+			"name": "XÃ THANH HÓA"
 		},
 		{
-			"id": "15706",
-			"name": "Xã Dân Quyền"
+			"id": 7535,
+			"name": "XÃ THANH THẠCH"
 		},
 		{
-			"id": "15721",
-			"name": "Xã Đồng Lợi"
+			"id": 7536,
+			"name": "XÃ KIM HÓA"
 		},
 		{
-			"id": "15727",
-			"name": "Xã Đồng Thắng"
+			"id": 7537,
+			"name": "XÃ SƠN HÓA"
 		},
 		{
-			"id": "15724",
-			"name": "Xã Đồng Tiến"
+			"id": 7538,
+			"name": "XÃ LÊ HÓA"
 		},
 		{
-			"id": "15676",
-			"name": "Xã Hợp Lý"
+			"id": 7539,
+			"name": "XÃ THUẬN HÓA"
 		},
 		{
-			"id": "15688",
-			"name": "Xã Hợp Thắng"
+			"id": 7540,
+			"name": "XÃ ĐỒNG HÓA"
 		},
 		{
-			"id": "15682",
-			"name": "Xã Hợp Thành"
+			"id": 7541,
+			"name": "XÃ THẠCH HÓA"
 		},
 		{
-			"id": "15679",
-			"name": "Xã Hợp Tiến"
+			"id": 7542,
+			"name": "XÃ NAM HÓA"
 		},
 		{
-			"id": "15733",
-			"name": "Xã Khuyến Nông"
+			"id": 7543,
+			"name": "XÃ ĐỨC HÓA"
 		},
 		{
-			"id": "15691",
-			"name": "Xã Minh Sơn"
+			"id": 7544,
+			"name": "XÃ PHONG HÓA"
 		},
 		{
-			"id": "15766",
-			"name": "Xã Nông Trường"
+			"id": 7545,
+			"name": "XÃ MAI HÓA"
 		},
 		{
-			"id": "15718",
-			"name": "Thị trấn Nưa"
+			"id": 7546,
+			"name": "XÃ NGƯ HÓA"
 		},
 		{
-			"id": "15715",
-			"name": "Xã Thái Hòa"
+			"id": 7547,
+			"name": "XÃ TIẾN HÓA"
 		},
 		{
-			"id": "15670",
-			"name": "Xã Thọ Bình"
+			"id": 7548,
+			"name": "XÃ CHÂU HÓA"
 		},
 		{
-			"id": "15754",
-			"name": "Xã Thọ Cường"
+			"id": 7549,
+			"name": "XÃ CAO QUẢNG"
 		},
 		{
-			"id": "15742",
-			"name": "Xã Thọ Dân"
-		},
-		{
-			"id": "15751",
-			"name": "Xã Thọ Ngọc"
-		},
-		{
-			"id": "15757",
-			"name": "Xã Thọ Phú"
-		},
-		{
-			"id": "15667",
-			"name": "Xã Thọ Sơn"
-		},
-		{
-			"id": "15748",
-			"name": "Xã Thọ Tân"
-		},
-		{
-			"id": "15763",
-			"name": "Xã Thọ Thế"
-		},
-		{
-			"id": "15673",
-			"name": "Xã Thọ Tiến"
-		},
-		{
-			"id": "15760",
-			"name": "Xã Thọ Vực"
-		},
-		{
-			"id": "15730",
-			"name": "Xã Tiến Nông"
-		},
-		{
-			"id": "15664",
-			"name": "Thị trấn Triệu Sơn"
-		},
-		{
-			"id": "15685",
-			"name": "Xã Triệu Thành"
-		},
-		{
-			"id": "15712",
-			"name": "Xã Văn Sơn"
-		},
-		{
-			"id": "15739",
-			"name": "Xã Xuân Lộc"
-		},
-		{
-			"id": "15736",
-			"name": "Xã Xuân Thịnh"
-		},
-		{
-			"id": "15745",
-			"name": "Xã Xuân Thọ"
+			"id": 7550,
+			"name": "XÃ VĂN HÓA"
 		}
 	]
 }

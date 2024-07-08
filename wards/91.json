@@ -1,0 +1,38 @@
+{
+	"id": 91,
+	"name": "QUẬN BÌNH THỦY",
+	"data": [
+		{
+			"id": 1334,
+			"name": "PHƯỜNG TRÀ NÓC"
+		},
+		{
+			"id": 1335,
+			"name": "PHƯỜNG AN THỚI"
+		},
+		{
+			"id": 1336,
+			"name": "PHƯỜNG BÌNH THỦY"
+		},
+		{
+			"id": 1337,
+			"name": "PHƯỜNG LONG HÒA"
+		},
+		{
+			"id": 1338,
+			"name": "PHƯỜNG TRÀ AN"
+		},
+		{
+			"id": 1339,
+			"name": "PHƯỜNG BÙI HỮU NGHĨA"
+		},
+		{
+			"id": 1340,
+			"name": "PHƯỜNG LONG TUYỀN"
+		},
+		{
+			"id": 1341,
+			"name": "PHƯỜNG THỚI AN ĐÔNG"
+		}
+	]
+}

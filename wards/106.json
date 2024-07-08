@@ -1,58 +1,46 @@
 {
-	"id": "106",
-	"name": "Huyện Tam Đường",
+	"id": 106,
+	"name": "HUYỆN VỊ THỦY",
 	"data": [
 		{
-			"id": "03424",
-			"name": "Xã Bản Bo"
+			"id": 1563,
+			"name": "XÃ VỊ THỦY"
 		},
 		{
-			"id": "03418",
-			"name": "Xã Bản Giang"
+			"id": 1564,
+			"name": "XÃ VĨNH THUẬN TÂY"
 		},
 		{
-			"id": "03421",
-			"name": "Xã Bản Hon"
+			"id": 1565,
+			"name": "XÃ VỊ ĐÔNG"
 		},
 		{
-			"id": "03412",
-			"name": "Xã Bình Lư"
+			"id": 1566,
+			"name": "XÃ VỊ THẮNG"
 		},
 		{
-			"id": "03405",
-			"name": "Xã Giang Ma"
+			"id": 1567,
+			"name": "XÃ VỊ TRUNG"
 		},
 		{
-			"id": "03406",
-			"name": "Xã Hồ Thầu"
+			"id": 1568,
+			"name": "XÃ VĨNH TƯỜNG"
 		},
 		{
-			"id": "03430",
-			"name": "Xã Khun Há"
+			"id": 1569,
+			"name": "XÃ VĨNH TRUNG"
 		},
 		{
-			"id": "03427",
-			"name": "Xã Nà Tăm"
+			"id": 1570,
+			"name": "XÃ VỊ THANH"
 		},
 		{
-			"id": "03415",
-			"name": "Xã Nùng Nàng"
+			"id": 1571,
+			"name": "XÃ VỊ BÌNH"
 		},
 		{
-			"id": "03413",
-			"name": "Xã Sơn Bình"
-		},
-		{
-			"id": "03400",
-			"name": "Xã Tả Lèng"
-		},
-		{
-			"id": "03390",
-			"name": "Thị trấn Tam Đường"
-		},
-		{
-			"id": "03394",
-			"name": "Xã Thèn Sin"
+			"id": 1572,
+			"name": "TT NÀNG MAU"
 		}
 	]
 }

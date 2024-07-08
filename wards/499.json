@@ -1,0 +1,38 @@
+{
+	"id": 499,
+	"name": "HUYỆN ĐĂK PƠ",
+	"data": [
+		{
+			"id": 9017,
+			"name": "XÃ ĐAKPƠ"
+		},
+		{
+			"id": 9018,
+			"name": "XÃ CƯ AN"
+		},
+		{
+			"id": 9019,
+			"name": "XÃ TÂN AN"
+		},
+		{
+			"id": 9020,
+			"name": "XÃ HÀ TAM"
+		},
+		{
+			"id": 9021,
+			"name": "XÃ PHÚ AN"
+		},
+		{
+			"id": 9022,
+			"name": "XÃ AN THÀNH"
+		},
+		{
+			"id": 9023,
+			"name": "XÃ YA HỘI"
+		},
+		{
+			"id": 9024,
+			"name": "XÃ YANG BẮC"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"id": 1,
+	"name": "Hà Nội",
+	"data": [
+		{
+			"id": 1,
+			"name": "QUẬN HOÀN KIẾM"
+		},
+		{
+			"id": 2,
+			"name": "HUYỆN BA VÌ"
+		},
+		{
+			"id": 3,
+			"name": "HUYỆN HOÀI ĐỨC"
+		},
+		{
+			"id": 4,
+			"name": "QUẬN HOÀNG MAI"
+		},
+		{
+			"id": 5,
+			"name": "HUYỆN THẠCH THẤT"
+		},
+		{
+			"id": 6,
+			"name": "HUYỆN CHƯƠNG MỸ"
+		},
+		{
+			"id": 7,
+			"name": "HUYỆN SÓC SƠN"
+		},
+		{
+			"id": 8,
+			"name": "HUYỆN GIA LÂM"
+		},
+		{
+			"id": 9,
+			"name": "QUẬN HAI BÀ TRƯNG"
+		},
+		{
+			"id": 10,
+			"name": "QUẬN TÂY HỒ"
+		},
+		{
+			"id": 11,
+			"name": "HUYỆN MÊ LINH"
+		},
+		{
+			"id": 12,
+			"name": "HUYỆN THANH TRÌ"
+		},
+		{
+			"id": 13,
+			"name": "HUYỆN ỨNG HÒA"
+		},
+		{
+			"id": 14,
+			"name": "QUẬN CẦU GIẤY"
+		},
+		{
+			"id": 15,
+			"name": "HUYỆN PHÚC THỌ"
+		},
+		{
+			"id": 16,
+			"name": "HUYỆN THANH OAI"
+		},
+		{
+			"id": 17,
+			"name": "HUYỆN MỸ ĐỨC"
+		},
+		{
+			"id": 18,
+			"name": "THỊ XÃ SƠN TÂY"
+		},
+		{
+			"id": 19,
+			"name": "HUYỆN ĐAN PHƯỢNG"
+		},
+		{
+			"id": 20,
+			"name": "QUẬN LONG BIÊN"
+		},
+		{
+			"id": 21,
+			"name": "HUYỆN QUỐC OAI"
+		},
+		{
+			"id": 22,
+			"name": "QUẬN BA ĐÌNH"
+		},
+		{
+			"id": 23,
+			"name": "QUẬN THANH XUÂN"
+		},
+		{
+			"id": 24,
+			"name": "QUẬN ĐỐNG ĐA"
+		},
+		{
+			"id": 25,
+			"name": "QUẬN NAM TỪ LIÊM"
+		},
+		{
+			"id": 26,
+			"name": "QUẬN BẮC TỪ LIÊM"
+		},
+		{
+			"id": 27,
+			"name": "HUYỆN PHÚ XUYÊN"
+		},
+		{
+			"id": 28,
+			"name": "HUYỆN ĐÔNG ANH"
+		},
+		{
+			"id": 29,
+			"name": "HUYỆN TỪ LIÊM"
+		},
+		{
+			"id": 30,
+			"name": "QUẬN HÀ ĐÔNG"
+		},
+		{
+			"id": 31,
+			"name": "HUYỆN THƯỜNG TÍN"
+		}
+	]
+}

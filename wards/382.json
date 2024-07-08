@@ -1,50 +1,90 @@
 {
-	"id": "382",
-	"name": "Thành phố Sầm Sơn",
+	"id": 382,
+	"name": "HUYỆN QUỲ HỢP",
 	"data": [
 		{
-			"id": "14833",
-			"name": "Phường Bắc Sơn"
+			"id": 7203,
+			"name": "THỊ TRẤN QUỲ HỢP"
 		},
 		{
-			"id": "16531",
-			"name": "Phường Quảng Châu"
+			"id": 7204,
+			"name": "XÃ CHÂU CƯỜNG"
 		},
 		{
-			"id": "14839",
-			"name": "Phường Quảng Cư"
+			"id": 7205,
+			"name": "XÃ CHÂU ĐÌNH"
 		},
 		{
-			"id": "16537",
-			"name": "Xã Quảng Đại"
+			"id": 7206,
+			"name": "XÃ CHÂU LỘC"
 		},
 		{
-			"id": "16516",
-			"name": "Xã Quảng Hùng"
+			"id": 7207,
+			"name": "XÃ CHÂU LÝ"
 		},
 		{
-			"id": "16513",
-			"name": "Xã Quảng Minh"
+			"id": 7208,
+			"name": "XÃ CHÂU QUANG"
 		},
 		{
-			"id": "16528",
-			"name": "Phường Quảng Thọ"
+			"id": 7209,
+			"name": "XÃ CHÂU THÁI"
 		},
 		{
-			"id": "14842",
-			"name": "Phường Quảng Tiến"
+			"id": 7210,
+			"name": "XÃ ĐỒNG HỢP"
 		},
 		{
-			"id": "16534",
-			"name": "Phường Quảng Vinh"
+			"id": 7211,
+			"name": "XÃ TAM HỢP"
 		},
 		{
-			"id": "14830",
-			"name": "Phường Trung Sơn"
+			"id": 7212,
+			"name": "XÃ THỌ HỢP"
 		},
 		{
-			"id": "14836",
-			"name": "Phường Trường Sơn"
+			"id": 7213,
+			"name": "XÃ BẮC SƠN"
+		},
+		{
+			"id": 7214,
+			"name": "XÃ CHÂU HỒNG"
+		},
+		{
+			"id": 7215,
+			"name": "XÃ CHÂU THÀNH"
+		},
+		{
+			"id": 7216,
+			"name": "XÃ CHÂU TIẾN"
+		},
+		{
+			"id": 7217,
+			"name": "XÃ HẠ SƠN"
+		},
+		{
+			"id": 7218,
+			"name": "XÃ LIÊN HỢP"
+		},
+		{
+			"id": 7219,
+			"name": "XÃ MINH HỢP"
+		},
+		{
+			"id": 7220,
+			"name": "XÃ NAM SƠN"
+		},
+		{
+			"id": 7221,
+			"name": "XÃ NGHĨA XUÂN"
+		},
+		{
+			"id": 7222,
+			"name": "XÃ VĂN LỢI"
+		},
+		{
+			"id": 7223,
+			"name": "XÃ YÊN HỢP"
 		}
 	]
 }

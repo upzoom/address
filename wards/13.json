@@ -1,0 +1,126 @@
+{
+	"id": 13,
+	"name": "HUYỆN ỨNG HÒA",
+	"data": [
+		{
+			"id": 265,
+			"name": "XÃ CAO THÀNH"
+		},
+		{
+			"id": 266,
+			"name": "XÃ ĐẠI CƯỜNG"
+		},
+		{
+			"id": 267,
+			"name": "XÃ ĐẠI HÙNG"
+		},
+		{
+			"id": 268,
+			"name": "XÃ ĐỘI BÌNH"
+		},
+		{
+			"id": 269,
+			"name": "XÃ ĐÔNG LỖ"
+		},
+		{
+			"id": 270,
+			"name": "XÃ ĐỒNG TÂN"
+		},
+		{
+			"id": 271,
+			"name": "XÃ HÒA LÂM"
+		},
+		{
+			"id": 272,
+			"name": "XÃ HÒA PHÚ"
+		},
+		{
+			"id": 273,
+			"name": "XÃ HÒA XÁ"
+		},
+		{
+			"id": 274,
+			"name": "XÃ TRUNG TÚ"
+		},
+		{
+			"id": 275,
+			"name": "XÃ TRƯỜNG THỊNH"
+		},
+		{
+			"id": 276,
+			"name": "XÃ VIÊN AN"
+		},
+		{
+			"id": 277,
+			"name": "THỊ TRẤN VÂN ĐÌNH"
+		},
+		{
+			"id": 278,
+			"name": "XÃ ĐỒNG TIẾN"
+		},
+		{
+			"id": 279,
+			"name": "XÃ HOA SƠN"
+		},
+		{
+			"id": 280,
+			"name": "XÃ HÒA NAM"
+		},
+		{
+			"id": 281,
+			"name": "XÃ HỒNG QUANG"
+		},
+		{
+			"id": 282,
+			"name": "XÃ KIM ĐƯỜNG"
+		},
+		{
+			"id": 283,
+			"name": "XÃ LIÊN BẠT"
+		},
+		{
+			"id": 284,
+			"name": "XÃ LƯU HOÀNG"
+		},
+		{
+			"id": 285,
+			"name": "XÃ MINH ĐỨC"
+		},
+		{
+			"id": 286,
+			"name": "XÃ PHÙ LƯU"
+		},
+		{
+			"id": 287,
+			"name": "XÃ PHƯƠNG TÚ"
+		},
+		{
+			"id": 288,
+			"name": "XÃ QUẢNG PHÚ CẦU"
+		},
+		{
+			"id": 289,
+			"name": "XÃ SƠN CÔNG"
+		},
+		{
+			"id": 290,
+			"name": "XÃ TẢO DƯƠNG VĂN"
+		},
+		{
+			"id": 291,
+			"name": "XÃ TRẦM LỘNG"
+		},
+		{
+			"id": 292,
+			"name": "XÃ VẠN THÁI"
+		},
+		{
+			"id": 293,
+			"name": "XÃ VIÊN NỘI"
+		},
+		{
+			"id": 294,
+			"name": "XÃ TÂN PHƯƠNG"
+		}
+	]
+}

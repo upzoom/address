@@ -1,50 +1,38 @@
 {
-	"id": "477",
-	"name": "Huyện Quảng Điền",
+	"id": 477,
+	"name": "HUYỆN KHÁNH SƠN",
 	"data": [
 		{
-			"id": "19888",
-			"name": "Xã Quảng An"
+			"id": 8741,
+			"name": "XÃ BA CỤM BẮC"
 		},
 		{
-			"id": "19879",
-			"name": "Xã Quảng Công"
+			"id": 8742,
+			"name": "XÃ BA CỤM NAM"
 		},
 		{
-			"id": "19876",
-			"name": "Xã Quảng Lợi"
+			"id": 8743,
+			"name": "XÃ SƠN BÌNH"
 		},
 		{
-			"id": "19873",
-			"name": "Xã Quảng Ngạn"
+			"id": 8744,
+			"name": "XÃ SƠN HIỆP"
 		},
 		{
-			"id": "19897",
-			"name": "Xã Quảng Phú"
+			"id": 8745,
+			"name": "XÃ SƠN LÂM"
 		},
 		{
-			"id": "19882",
-			"name": "Xã Quảng Phước"
+			"id": 8746,
+			"name": "XÃ SƠN TRUNG"
 		},
 		{
-			"id": "19870",
-			"name": "Xã Quảng Thái"
+			"id": 8747,
+			"name": "XÃ THÀNH SƠN"
 		},
 		{
-			"id": "19891",
-			"name": "Xã Quảng Thành"
-		},
-		{
-			"id": "19894",
-			"name": "Xã Quảng Thọ"
-		},
-		{
-			"id": "19885",
-			"name": "Xã Quảng Vinh"
-		},
-		{
-			"id": "19867",
-			"name": "Thị trấn Sịa"
+			"id": 8748,
+			"name": "THỊ TRẤN TÔ HẠP"
 		}
 	]
 }

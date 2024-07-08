@@ -1,38 +1,58 @@
 {
-	"id": "611",
-	"name": "Huyện Ngọc Hồi",
+	"id": 611,
+	"name": "HUYỆN TÂN THẠNH",
 	"data": [
 		{
-			"id": "23395",
-			"name": "Xã Bờ Y"
+			"id": 10394,
+			"name": "THỊ TRẤN TÂN THẠNH"
 		},
 		{
-			"id": "23380",
-			"name": "Xã Đắk Ang"
+			"id": 10395,
+			"name": "XÃ HẬU THẠNH TÂY"
 		},
 		{
-			"id": "23383",
-			"name": "Xã Đắk Dục"
+			"id": 10396,
+			"name": "XÃ HẬU THẠNH ĐÔNG"
 		},
 		{
-			"id": "23392",
-			"name": "Xã Đắk Kan"
+			"id": 10397,
+			"name": "XÃ BẮC HÒA"
 		},
 		{
-			"id": "23386",
-			"name": "Xã Đắk Nông"
+			"id": 10398,
+			"name": "XÃ NHƠN HÒA LẬP"
 		},
 		{
-			"id": "23389",
-			"name": "Xã Đắk Xú"
+			"id": 10399,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "23377",
-			"name": "Thị trấn Plei Kần"
+			"id": 10400,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "23398",
-			"name": "Xã Sa Loong"
+			"id": 10401,
+			"name": "XÃ TÂN NINH"
+		},
+		{
+			"id": 10402,
+			"name": "XÃ NHƠN NINH"
+		},
+		{
+			"id": 10403,
+			"name": "XÃ TÂN HÒA"
+		},
+		{
+			"id": 10404,
+			"name": "XÃ TÂN BÌNH"
+		},
+		{
+			"id": 10405,
+			"name": "XÃ NHƠN HÒA"
+		},
+		{
+			"id": 10406,
+			"name": "XÃ KIẾN BÌNH"
 		}
 	]
 }

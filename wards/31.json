@@ -1,0 +1,122 @@
+{
+	"id": 31,
+	"name": "HUYỆN THƯỜNG TÍN",
+	"data": [
+		{
+			"id": 600,
+			"name": "THỊ TRẤN THƯỜNG TÍN"
+		},
+		{
+			"id": 601,
+			"name": "XÃ DŨNG TIẾN"
+		},
+		{
+			"id": 602,
+			"name": "XÃ NGUYỄN TRÃI"
+		},
+		{
+			"id": 603,
+			"name": "XÃ TIỀN PHONG"
+		},
+		{
+			"id": 604,
+			"name": "XÃ VĂN PHÚ"
+		},
+		{
+			"id": 605,
+			"name": "XÃ NINH SỞ"
+		},
+		{
+			"id": 606,
+			"name": "XÃ TỰ NHIÊN"
+		},
+		{
+			"id": 607,
+			"name": "XÃ THƯ PHÚ"
+		},
+		{
+			"id": 608,
+			"name": "XÃ LIÊN PHƯƠNG"
+		},
+		{
+			"id": 609,
+			"name": "XÃ QUẤT ĐỘNG"
+		},
+		{
+			"id": 610,
+			"name": "XÃ LÊ LỢI"
+		},
+		{
+			"id": 611,
+			"name": "XÃ THẮNG LỢI"
+		},
+		{
+			"id": 612,
+			"name": "XÃ TÔ HIỆU"
+		},
+		{
+			"id": 613,
+			"name": "XÃ MINH CƯỜNG"
+		},
+		{
+			"id": 614,
+			"name": "XÃ TÂN MINH"
+		},
+		{
+			"id": 615,
+			"name": "XÃ HIỀN GIANG"
+		},
+		{
+			"id": 616,
+			"name": "XÃ HÒA BÌNH"
+		},
+		{
+			"id": 617,
+			"name": "XÃ KHÁNH HÀ"
+		},
+		{
+			"id": 618,
+			"name": "XÃ NHỊ KHÊ"
+		},
+		{
+			"id": 619,
+			"name": "XÃ DUYÊN THÁI"
+		},
+		{
+			"id": 620,
+			"name": "XÃ HỒNG VÂN"
+		},
+		{
+			"id": 621,
+			"name": "XÃ VÂN TẢO"
+		},
+		{
+			"id": 622,
+			"name": "XÃ VĂN BÌNH"
+		},
+		{
+			"id": 623,
+			"name": "XÃ HÀ HỒI"
+		},
+		{
+			"id": 624,
+			"name": "XÃ CHƯƠNG DƯƠNG"
+		},
+		{
+			"id": 625,
+			"name": "XÃ VĂN TỰ"
+		},
+		{
+			"id": 626,
+			"name": "XÃ THỐNG NHẤT"
+		},
+		{
+			"id": 627,
+			"name": "XÃ VẠN ĐIỂM"
+		},
+		{
+			"id": 628,
+			"name": "XÃ NGHIÊM XUYÊN"
+		}
+	]
+}

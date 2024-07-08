@@ -1,86 +1,110 @@
 {
-	"id": "362",
-	"name": "Huyện Nam Trực",
+	"id": 362,
+	"name": "HUYỆN ANH SƠN",
 	"data": [
 		{
-			"id": "14011",
-			"name": "Xã Bình Minh"
+			"id": 6708,
+			"name": "XÃ CẨM SƠN"
 		},
 		{
-			"id": "13972",
-			"name": "Xã Điền Xá"
+			"id": 6709,
+			"name": "XÃ CAO SƠN"
 		},
 		{
-			"id": "14014",
-			"name": "Xã Đồng Sơn"
+			"id": 6710,
+			"name": "XÃ HOA SƠN"
 		},
 		{
-			"id": "13984",
-			"name": "Xã Hồng Quang"
+			"id": 6711,
+			"name": "XÃ HỘI SƠN"
 		},
 		{
-			"id": "13990",
-			"name": "Xã Nam Cường"
+			"id": 6712,
+			"name": "XÃ HÙNG SƠN"
 		},
 		{
-			"id": "14002",
-			"name": "Xã Nam Dương"
+			"id": 6713,
+			"name": "XÃ LĨNH SƠN"
 		},
 		{
-			"id": "13966",
-			"name": "Thị trấn Nam Giang"
+			"id": 6714,
+			"name": "XÃ TAM SƠN"
 		},
 		{
-			"id": "14020",
-			"name": "Xã Nam Hải"
+			"id": 6715,
+			"name": "XÃ TÀO SƠN"
 		},
 		{
-			"id": "13999",
-			"name": "Xã Nam Hoa"
+			"id": 6716,
+			"name": "XÃ THẠCH SƠN"
 		},
 		{
-			"id": "13993",
-			"name": "Xã Nam Hồng"
+			"id": 6717,
+			"name": "XÃ THÀNH SƠN"
 		},
 		{
-			"id": "13996",
-			"name": "Xã Nam Hùng"
+			"id": 6718,
+			"name": "XÃ THỌ SƠN"
 		},
 		{
-			"id": "14008",
-			"name": "Xã Nam Lợi"
+			"id": 6719,
+			"name": "XÃ TƯỜNG SƠN"
 		},
 		{
-			"id": "13969",
-			"name": "Xã Nam Mỹ"
+			"id": 6720,
+			"name": "THỊ TRẤN ANH SƠN"
 		},
 		{
-			"id": "14023",
-			"name": "Xã Nam Thái"
+			"id": 6721,
+			"name": "XÃ ĐỈNH SƠN"
 		},
 		{
-			"id": "13978",
-			"name": "Xã Nam Thắng"
+			"id": 6722,
+			"name": "XÃ ĐỨC SƠN"
 		},
 		{
-			"id": "14005",
-			"name": "Xã Nam Thanh"
+			"id": 6723,
+			"name": "XÃ KHAI SƠN"
 		},
 		{
-			"id": "14017",
-			"name": "Xã Nam Tiến"
+			"id": 6724,
+			"name": "XÃ LẠNG SƠN"
 		},
 		{
-			"id": "13981",
-			"name": "Xã Nam Toàn"
+			"id": 6725,
+			"name": "XÃ LONG SƠN"
 		},
 		{
-			"id": "13975",
-			"name": "Xã Nghĩa An"
+			"id": 6726,
+			"name": "XÃ PHÚC SƠN"
 		},
 		{
-			"id": "13987",
-			"name": "Xã Tân Thịnh"
+			"id": 6727,
+			"name": "XÃ VĨNH SƠN"
+		},
+		{
+			"id": 6728,
+			"name": "XÃ BÌNH SƠN"
+		},
+		{
+			"id": 6729,
+			"name": "XÃ YÊN KHÊ"
+		},
+		{
+			"id": 6730,
+			"name": "XÃ MÔN SƠN"
+		},
+		{
+			"id": 6731,
+			"name": "XÃ LỤC DẠ"
+		},
+		{
+			"id": 6732,
+			"name": "XÃ TIẾN THÀNH"
+		},
+		{
+			"id": 6733,
+			"name": "XUÂN THÀNH"
 		}
 	]
 }

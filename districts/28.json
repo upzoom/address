@@ -1,0 +1,62 @@
+{
+	"id": 28,
+	"name": "Quảng Ninh",
+	"data": [
+		{
+			"id": 290,
+			"name": "HUYỆN TIÊN YÊN"
+		},
+		{
+			"id": 291,
+			"name": "THÀNH PHỐ UÔNG BÍ"
+		},
+		{
+			"id": 292,
+			"name": "THỊ XÃ QUẢNG YÊN"
+		},
+		{
+			"id": 293,
+			"name": "THỊ XÃ ĐÔNG TRIỀU"
+		},
+		{
+			"id": 294,
+			"name": "HUYỆN BA CHẼ"
+		},
+		{
+			"id": 295,
+			"name": "HUYỆN BÌNH LIÊU"
+		},
+		{
+			"id": 296,
+			"name": "HUYỆN ĐẦM HÀ"
+		},
+		{
+			"id": 297,
+			"name": "HUYỆN VÂN ĐỒN"
+		},
+		{
+			"id": 298,
+			"name": "THÀNH PHỐ CẨM PHẢ"
+		},
+		{
+			"id": 299,
+			"name": "HUYỆN CÔ TÔ"
+		},
+		{
+			"id": 300,
+			"name": "THÀNH PHỐ MÓNG CÁI"
+		},
+		{
+			"id": 301,
+			"name": "HUYỆN HẢI HÀ"
+		},
+		{
+			"id": 302,
+			"name": "THÀNH PHỐ HẠ LONG"
+		},
+		{
+			"id": 303,
+			"name": "HUYỆN HOÀNH BỒ"
+		}
+	]
+}

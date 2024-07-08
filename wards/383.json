@@ -1,0 +1,66 @@
+{
+	"id": 383,
+	"name": "HUYỆN VŨ QUANG",
+	"data": [
+		{
+			"id": 7224,
+			"name": "THỊ TRẤN VŨ QUANG"
+		},
+		{
+			"id": 7225,
+			"name": "XÃ ĐỨC LIÊN"
+		},
+		{
+			"id": 7226,
+			"name": "XÃ ĐỨC HƯƠNG"
+		},
+		{
+			"id": 7227,
+			"name": "XÃ ĐỨC BỒNG"
+		},
+		{
+			"id": 7228,
+			"name": "XÃ ĐỨC LĨNH"
+		},
+		{
+			"id": 7229,
+			"name": "XÃ ĐỨC GIANG"
+		},
+		{
+			"id": 7230,
+			"name": "XÃ ÂN PHÚ"
+		},
+		{
+			"id": 7231,
+			"name": "XÃ HƯƠNG THỌ"
+		},
+		{
+			"id": 7232,
+			"name": "XÃ HƯƠNG MINH"
+		},
+		{
+			"id": 7233,
+			"name": "XÃ HƯƠNG ĐẠI"
+		},
+		{
+			"id": 7234,
+			"name": "XÃ HƯƠNG ĐIỀN"
+		},
+		{
+			"id": 7235,
+			"name": "XÃ HƯƠNG QUANG"
+		},
+		{
+			"id": 7236,
+			"name": "XÃ SƠN THỌ"
+		},
+		{
+			"id": 26192,
+			"name": "XÃ THỌ ĐIỀN"
+		},
+		{
+			"id": 26191,
+			"name": "XÃ QUANG THỌ"
+		}
+	]
+}

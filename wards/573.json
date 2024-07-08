@@ -1,62 +1,62 @@
 {
-	"id": "573",
-	"name": "Huyện Khánh Vĩnh",
+	"id": 573,
+	"name": "THÀNH PHỐ THỦ DẦU MỘT",
 	"data": [
 		{
-			"id": "22636",
-			"name": "Xã Cầu Bà"
+			"id": 9860,
+			"name": "PHƯỜNG ĐỊNH HÒA"
 		},
 		{
-			"id": "22633",
-			"name": "Xã Giang Ly"
+			"id": 9861,
+			"name": "XÃ TƯƠNG BÌNH HIỆP"
 		},
 		{
-			"id": "22615",
-			"name": "Xã Khánh Bình"
+			"id": 9862,
+			"name": "XÃ TÂN AN"
 		},
 		{
-			"id": "22621",
-			"name": "Xã Khánh Đông"
+			"id": 9863,
+			"name": "PHƯỜNG HÒA PHÚ"
 		},
 		{
-			"id": "22612",
-			"name": "Xã Khánh Hiệp"
+			"id": 9850,
+			"name": "XÃ CHÁNH MỸ"
 		},
 		{
-			"id": "22627",
-			"name": "Xã Khánh Nam"
+			"id": 9851,
+			"name": "PHƯỜNG HIỆP THÀNH"
 		},
 		{
-			"id": "22645",
-			"name": "Xã Khánh Phú"
+			"id": 9852,
+			"name": "PHƯỜNG PHÚ LỢI"
 		},
 		{
-			"id": "22642",
-			"name": "Xã Khánh Thành"
+			"id": 9853,
+			"name": "PHƯỜNG PHÚ CƯỜNG"
 		},
 		{
-			"id": "22624",
-			"name": "Xã Khánh Thượng"
+			"id": 9854,
+			"name": "PHƯỜNG PHÚ HÒA"
 		},
 		{
-			"id": "22618",
-			"name": "Xã Khánh Trung"
+			"id": 9855,
+			"name": "PHƯỜNG PHÚ THỌ"
 		},
 		{
-			"id": "22609",
-			"name": "Thị trấn Khánh Vĩnh"
+			"id": 9856,
+			"name": "PHƯỜNG CHÁNH NGHĨA"
 		},
 		{
-			"id": "22639",
-			"name": "Xã Liên Sang"
+			"id": 9857,
+			"name": "PHƯỜNG PHÚ MỸ"
 		},
 		{
-			"id": "22648",
-			"name": "Xã Sơn Thái"
+			"id": 9858,
+			"name": "PHƯỜNG HIỆP AN"
 		},
 		{
-			"id": "22630",
-			"name": "Xã Sông Cầu"
+			"id": 9859,
+			"name": "PHƯỜNG PHÚ TÂN"
 		}
 	]
 }

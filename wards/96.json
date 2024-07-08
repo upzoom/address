@@ -1,0 +1,70 @@
+{
+	"id": 96,
+	"name": "HUYỆN GÒ CÔNG ĐÔNG",
+	"data": [
+		{
+			"id": 1405,
+			"name": "THỊ TRẤN TÂN HÒA"
+		},
+		{
+			"id": 1406,
+			"name": "XÃ TÂN TÂY"
+		},
+		{
+			"id": 1407,
+			"name": "XÃ VÀM LÁNG"
+		},
+		{
+			"id": 1408,
+			"name": "XÃ PHÚ TÂN"
+		},
+		{
+			"id": 1409,
+			"name": "XÃ TÂN PHƯỚC"
+		},
+		{
+			"id": 1410,
+			"name": "XÃ BÌNH ÂN"
+		},
+		{
+			"id": 1411,
+			"name": "XÃ BÌNH NGHỊ"
+		},
+		{
+			"id": 1412,
+			"name": "XÃ KIỂNG PHƯỚC"
+		},
+		{
+			"id": 1413,
+			"name": "XÃ GIA THUẬN"
+		},
+		{
+			"id": 1414,
+			"name": "XÃ TÂN ĐIỀN"
+		},
+		{
+			"id": 1415,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 1416,
+			"name": "XÃ TÂN ĐÔNG"
+		},
+		{
+			"id": 1417,
+			"name": "XÃ PHƯỚC TRUNG"
+		},
+		{
+			"id": 1418,
+			"name": "XÃ BÌNH ĐÔNG"
+		},
+		{
+			"id": 1419,
+			"name": "XÃ PHÚ ĐÔNG"
+		},
+		{
+			"id": 1420,
+			"name": "XÃ TĂNG HÒA"
+		}
+	]
+}

@@ -1,50 +1,54 @@
 {
-	"id": "623",
-	"name": "Thị xã An Khê",
+	"id": 623,
+	"name": "HUYỆN CHÂU THÀNH",
 	"data": [
 		{
-			"id": "23614",
-			"name": "Phường An Bình"
+			"id": 10545,
+			"name": "TT CÁI TÀU HẠ"
 		},
 		{
-			"id": "23620",
-			"name": "Phường An Phú"
+			"id": 10546,
+			"name": "XÃ AN HIỆP"
 		},
 		{
-			"id": "23630",
-			"name": "Phường An Phước"
+			"id": 10547,
+			"name": "XÃ AN NHƠN"
 		},
 		{
-			"id": "23623",
-			"name": "Phường An Tân"
+			"id": 10548,
+			"name": "XÃ TÂN NHUẬN ĐÔNG"
 		},
 		{
-			"id": "23629",
-			"name": "Xã Cửu An"
+			"id": 10549,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "23633",
-			"name": "Phường Ngô Mây"
+			"id": 10550,
+			"name": "XÃ PHÚ TRUNG"
 		},
 		{
-			"id": "23632",
-			"name": "Xã Song An"
+			"id": 10551,
+			"name": "XÃ PHÚ LONG"
 		},
 		{
-			"id": "23617",
-			"name": "Phường Tây Sơn"
+			"id": 10552,
+			"name": "XÃ PHÚ THUẬN"
 		},
 		{
-			"id": "23635",
-			"name": "Xã Thành An"
+			"id": 10553,
+			"name": "XÃ PHÚ HỰU"
 		},
 		{
-			"id": "23626",
-			"name": "Xã Tú An"
+			"id": 10554,
+			"name": "XÃ AN KHÁNH"
 		},
 		{
-			"id": "23627",
-			"name": "Xã Xuân An"
+			"id": 10555,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 10556,
+			"name": "XÃ HÒA TÂN"
 		}
 	]
 }

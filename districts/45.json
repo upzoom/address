@@ -1,46 +1,66 @@
 {
-	"id": "45",
-	"name": "Tỉnh Quảng Trị",
+	"id": 45,
+	"name": "Đăk Lăk",
 	"data": [
 		{
-			"id": "468",
-			"name": "Huyện Cam Lộ"
+			"id": 511,
+			"name": "HUYỆN KRÔNG BÚK"
 		},
 		{
-			"id": "471",
-			"name": "Huyện Cồn Cỏ"
+			"id": 512,
+			"name": "HUYỆN KRÔNG NĂNG"
 		},
 		{
-			"id": "467",
-			"name": "Huyện Đa Krông"
+			"id": 513,
+			"name": "THỊ XÃ BUÔN HỒ"
 		},
 		{
-			"id": "461",
-			"name": "Thành phố Đông Hà"
+			"id": 514,
+			"name": "HUYỆN EA KAR"
 		},
 		{
-			"id": "466",
-			"name": "Huyện Gio Linh"
+			"id": 515,
+			"name": "THÀNH PHỐ BUÔN MA THUỘT"
 		},
 		{
-			"id": "470",
-			"name": "Huyện Hải Lăng"
+			"id": 516,
+			"name": "HUYỆN KRÔNG A NA"
 		},
 		{
-			"id": "465",
-			"name": "Huyện Hướng Hóa"
+			"id": 517,
+			"name": "HUYỆN LẮK"
 		},
 		{
-			"id": "462",
-			"name": "Thị xã Quảng Trị"
+			"id": 518,
+			"name": "HUYỆN CƯ M'GAR"
 		},
 		{
-			"id": "469",
-			"name": "Huyện Triệu Phong"
+			"id": 519,
+			"name": "HUYỆN BUÔN ĐÔN"
 		},
 		{
-			"id": "464",
-			"name": "Huyện Vĩnh Linh"
+			"id": 520,
+			"name": "HUYỆN EA SÚP"
+		},
+		{
+			"id": 521,
+			"name": "HUYỆN KRÔNG BÔNG"
+		},
+		{
+			"id": 522,
+			"name": "HUYỆN M'ĐRẮK"
+		},
+		{
+			"id": 523,
+			"name": "HUYỆN EA H'LEO"
+		},
+		{
+			"id": 524,
+			"name": "HUYỆN CƯ KUIN"
+		},
+		{
+			"id": 525,
+			"name": "HUYỆN KRÔNG PẮK"
 		}
 	]
 }

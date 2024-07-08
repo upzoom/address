@@ -1,58 +1,70 @@
 {
-	"id": "598",
-	"name": "Huyện Hàm Thuận Nam",
+	"id": 598,
+	"name": "HUYỆN CHÂU ĐỨC",
 	"data": [
 		{
-			"id": "23116",
-			"name": "Xã Hàm Cần"
+			"id": 10239,
+			"name": "TT NGÃI GIAO"
 		},
 		{
-			"id": "23128",
-			"name": "Xã Hàm Cường"
+			"id": 10240,
+			"name": "TT KIM LONG"
 		},
 		{
-			"id": "23125",
-			"name": "Xã Hàm Kiệm"
+			"id": 10241,
+			"name": "XÃ CÙ BỊ"
 		},
 		{
-			"id": "23137",
-			"name": "Xã Hàm Minh"
+			"id": 10242,
+			"name": "XÃ XÀ BANG"
 		},
 		{
-			"id": "23131",
-			"name": "Xã Hàm Mỹ"
+			"id": 10243,
+			"name": "XÃ QUẢNG THÀNH"
 		},
 		{
-			"id": "23122",
-			"name": "Xã Hàm Thạnh"
+			"id": 10244,
+			"name": "XÃ LÁNG LỚN"
 		},
 		{
-			"id": "23119",
-			"name": "Xã Mương Mán"
+			"id": 10245,
+			"name": "XÃ BẦU CHINH"
 		},
 		{
-			"id": "23113",
-			"name": "Xã Mỹ Thạnh"
+			"id": 10246,
+			"name": "XÃ BÌNH BA"
 		},
 		{
-			"id": "23134",
-			"name": "Xã Tân Lập"
+			"id": 10247,
+			"name": "XÃ SUỐI NGHỆ"
 		},
 		{
-			"id": "23146",
-			"name": "Xã Tân Thành"
+			"id": 10248,
+			"name": "XÃ BÌNH TRUNG"
 		},
 		{
-			"id": "23143",
-			"name": "Xã Tân Thuận"
+			"id": 10249,
+			"name": "XÃ BÌNH GIÃ"
 		},
 		{
-			"id": "23110",
-			"name": "Thị trấn Thuận Nam"
+			"id": 10250,
+			"name": "XÃ XUÂN SƠN"
 		},
 		{
-			"id": "23140",
-			"name": "Xã Thuận Quí"
+			"id": 10251,
+			"name": "XÃ SƠN BÌNH"
+		},
+		{
+			"id": 10252,
+			"name": "XÃ SUỐI RAO"
+		},
+		{
+			"id": 10253,
+			"name": "XÃ ĐÁ BẠC"
+		},
+		{
+			"id": 10254,
+			"name": "XÃ NGHĨA THÀNH"
 		}
 	]
 }

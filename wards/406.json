@@ -1,110 +1,98 @@
 {
-	"id": "406",
-	"name": "Huyện Quảng Xương",
+	"id": 406,
+	"name": "HUYỆN HƯỚNG HÓA",
 	"data": [
 		{
-			"id": "16468",
-			"name": "Xã Quảng Bình"
+			"id": 7707,
+			"name": "XÃ HÚC"
 		},
 		{
-			"id": "16495",
-			"name": "Xã Quảng Chính"
+			"id": 7708,
+			"name": "XÃ HƯỚNG LỘC"
 		},
 		{
-			"id": "16456",
-			"name": "Xã Quảng Định"
+			"id": 7709,
+			"name": "XÃ TÂN HỢP"
 		},
 		{
-			"id": "16453",
-			"name": "Xã Quảng Đức"
+			"id": 7710,
+			"name": "XÃ TÂN LIÊN"
 		},
 		{
-			"id": "16519",
-			"name": "Xã Quảng Giao"
+			"id": 7711,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "16540",
-			"name": "Xã Quảng Hải"
+			"id": 7712,
+			"name": "XÃ TÂN LONG"
 		},
 		{
-			"id": "16483",
-			"name": "Xã Quảng Hòa"
+			"id": 7713,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "16471",
-			"name": "Xã Quảng Hợp"
+			"id": 7714,
+			"name": "XÃ HƯỚNG TÂN"
 		},
 		{
-			"id": "16489",
-			"name": "Xã Quảng Khê"
+			"id": 7715,
+			"name": "XÃ HƯỚNG LINH"
 		},
 		{
-			"id": "16546",
-			"name": "Xã Quảng Lộc"
+			"id": 7716,
+			"name": "XÃ HƯỚNG PHÙNG"
 		},
 		{
-			"id": "16477",
-			"name": "Xã Quảng Long"
+			"id": 7717,
+			"name": "XÃ HƯỚNG SƠN"
 		},
 		{
-			"id": "16543",
-			"name": "Xã Quảng Lưu"
+			"id": 7718,
+			"name": "XÃ HƯỚNG VIỆT"
 		},
 		{
-			"id": "16498",
-			"name": "Xã Quảng Ngọc"
+			"id": 7719,
+			"name": "XÃ HƯỚNG LẬP"
 		},
 		{
-			"id": "16552",
-			"name": "Xã Quảng Nham"
+			"id": 7720,
+			"name": "THỊ TRẤN KHE SANH"
 		},
 		{
-			"id": "16462",
-			"name": "Xã Quảng Nhân"
+			"id": 7721,
+			"name": "THỊ TRẤN LAO BẢO"
 		},
 		{
-			"id": "16465",
-			"name": "Xã Quảng Ninh"
+			"id": 7722,
+			"name": "XÃ XY"
 		},
 		{
-			"id": "16510",
-			"name": "Xã Quảng Phúc"
+			"id": 7723,
+			"name": "XÃ A TÚC"
 		},
 		{
-			"id": "16555",
-			"name": "Xã Quảng Thạch"
+			"id": 7724,
+			"name": "XÃ A DƠI"
 		},
 		{
-			"id": "16558",
-			"name": "Xã Quảng Thái"
+			"id": 7725,
+			"name": "XÃ A XING"
 		},
 		{
-			"id": "16447",
-			"name": "Xã Quảng Trạch"
+			"id": 7726,
+			"name": "XÃ THANH"
 		},
 		{
-			"id": "16492",
-			"name": "Xã Quảng Trung"
+			"id": 7727,
+			"name": "XÃ THUẬN"
 		},
 		{
-			"id": "16501",
-			"name": "Xã Quảng Trường"
+			"id": 7728,
+			"name": "XÃ PA TẦNG"
 		},
 		{
-			"id": "16474",
-			"name": "Xã Quảng Văn"
-		},
-		{
-			"id": "16480",
-			"name": "Xã Quảng Yên"
-		},
-		{
-			"id": "16438",
-			"name": "Thị trấn Tân Phong"
-		},
-		{
-			"id": "16549",
-			"name": "Xã Tiên Trang"
+			"id": 26170,
+			"name": "XÃ LÌA"
 		}
 	]
 }

@@ -1,50 +1,98 @@
 {
-	"id": "497",
-	"name": "Huyện Hòa Vang",
+	"id": 497,
+	"name": "THÀNH PHỐ PLEIKU",
 	"data": [
 		{
-			"id": "20293",
-			"name": "Xã Hòa Bắc"
+			"id": 8976,
+			"name": "PHƯỜNG HỘI PHÚ"
 		},
 		{
-			"id": "20323",
-			"name": "Xã Hòa Châu"
+			"id": 8977,
+			"name": "XÃ AN PHÚ"
 		},
 		{
-			"id": "20332",
-			"name": "Xã Hòa Khương"
+			"id": 8978,
+			"name": "XÃ DIÊN PHÚ"
 		},
 		{
-			"id": "20296",
-			"name": "Xã Hòa Liên"
+			"id": 8979,
+			"name": "XÃ IAKÊNH"
 		},
 		{
-			"id": "20308",
-			"name": "Xã Hòa Nhơn"
+			"id": 8980,
+			"name": "XÃ BIỂN HỒ"
 		},
 		{
-			"id": "20299",
-			"name": "Xã Hòa Ninh"
+			"id": 8981,
+			"name": "XÃ TRÀ ĐA"
 		},
 		{
-			"id": "20320",
-			"name": "Xã Hòa Phong"
+			"id": 8982,
+			"name": "XÃ CHƯHDRÔNG"
 		},
 		{
-			"id": "20317",
-			"name": "Xã Hòa Phú"
+			"id": 8983,
+			"name": "XÃ CHƯ Á"
 		},
 		{
-			"id": "20329",
-			"name": "Xã Hòa Phước"
+			"id": 8984,
+			"name": "XÃ TÂN SƠN"
 		},
 		{
-			"id": "20302",
-			"name": "Xã Hòa Sơn"
+			"id": 8985,
+			"name": "PHƯỜNG CHI LĂNG"
 		},
 		{
-			"id": "20326",
-			"name": "Xã Hòa Tiến"
+			"id": 8986,
+			"name": "PHƯỜNG HOA LƯ"
+		},
+		{
+			"id": 8987,
+			"name": "PHƯỜNG YÊN THẾ"
+		},
+		{
+			"id": 8988,
+			"name": "PHƯỜNG THỐNG NHẤT"
+		},
+		{
+			"id": 8989,
+			"name": "PHƯỜNG TÂY SƠN"
+		},
+		{
+			"id": 8990,
+			"name": "PHƯỜNG THẮNG LỢI"
+		},
+		{
+			"id": 8991,
+			"name": "PHƯỜNG ĐỐNG ĐA"
+		},
+		{
+			"id": 8992,
+			"name": "PHƯỜNG YÊN ĐỔ"
+		},
+		{
+			"id": 8993,
+			"name": "PHƯỜNG DIÊN HỒNG"
+		},
+		{
+			"id": 8994,
+			"name": "PHƯỜNG TRÀ BÁ"
+		},
+		{
+			"id": 8995,
+			"name": "PHƯỜNG IAKRING"
+		},
+		{
+			"id": 8996,
+			"name": "PHƯỜNG HỘI THƯƠNG"
+		},
+		{
+			"id": 8997,
+			"name": "PHƯỜNG PHÙ ĐỔNG"
+		},
+		{
+			"id": 8998,
+			"name": "XÃ GÀO"
 		}
 	]
 }

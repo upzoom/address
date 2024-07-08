@@ -1,90 +1,110 @@
 {
-	"id": "444",
-	"name": "Huyện Hương Khê",
+	"id": 444,
+	"name": "HUYỆN BÌNH SƠN",
 	"data": [
 		{
-			"id": "18499",
-			"name": "Xã Điền Mỹ"
+			"id": 8258,
+			"name": "XÃ BÌNH THANH TÂY"
 		},
 		{
-			"id": "18532",
-			"name": "Xã Gia Phố"
+			"id": 8259,
+			"name": "XÃ BÌNH CHÁNH"
 		},
 		{
-			"id": "18502",
-			"name": "Xã Hà Linh"
+			"id": 8260,
+			"name": "XÃ BÌNH CHƯƠNG"
 		},
 		{
-			"id": "18508",
-			"name": "Xã Hòa Hải"
+			"id": 8261,
+			"name": "XÃ BÌNH AN"
 		},
 		{
-			"id": "18523",
-			"name": "Xã Hương Bình"
+			"id": 8262,
+			"name": "XÃ BÌNH CHÂU"
 		},
 		{
-			"id": "18538",
-			"name": "Xã Hương Đô"
+			"id": 8263,
+			"name": "XÃ BÌNH DƯƠNG"
 		},
 		{
-			"id": "18517",
-			"name": "Xã Hương Giang"
+			"id": 8264,
+			"name": "XÃ BÌNH HIỆP"
 		},
 		{
-			"id": "18496",
-			"name": "Thị trấn Hương Khê"
+			"id": 8265,
+			"name": "XÃ BÌNH HÒA"
 		},
 		{
-			"id": "18556",
-			"name": "Xã Hương Lâm"
+			"id": 8266,
+			"name": "XÃ BÌNH KHƯƠNG"
 		},
 		{
-			"id": "18559",
-			"name": "Xã Hương Liên"
+			"id": 8267,
+			"name": "XÃ BÌNH LONG"
 		},
 		{
-			"id": "18526",
-			"name": "Xã Hương Long"
+			"id": 8268,
+			"name": "XÃ BÌNH MINH"
 		},
 		{
-			"id": "18505",
-			"name": "Xã Hương Thủy"
+			"id": 8269,
+			"name": "XÃ BÌNH MỸ"
 		},
 		{
-			"id": "18550",
-			"name": "Xã Hương Trà"
+			"id": 8270,
+			"name": "XÃ BÌNH NGUYÊN"
 		},
 		{
-			"id": "18553",
-			"name": "Xã Hương Trạch"
+			"id": 8271,
+			"name": "XÃ BÌNH PHÚ"
 		},
 		{
-			"id": "18541",
-			"name": "Xã Hương Vĩnh"
+			"id": 8272,
+			"name": "XÃ BÌNH PHƯỚC"
 		},
 		{
-			"id": "18544",
-			"name": "Xã Hương Xuân"
+			"id": 8273,
+			"name": "XÃ BÌNH TÂN"
 		},
 		{
-			"id": "18520",
-			"name": "Xã Lộc Yên"
+			"id": 8274,
+			"name": "XÃ BÌNH THANH ĐÔNG"
 		},
 		{
-			"id": "18529",
-			"name": "Xã Phú Gia"
+			"id": 8275,
+			"name": "XÃ BÌNH THỚI"
 		},
 		{
-			"id": "18535",
-			"name": "Xã Phú Phong"
+			"id": 8276,
+			"name": "XÃ BÌNH TRUNG"
 		},
 		{
-			"id": "18514",
-			"name": "Xã Phúc Đồng"
+			"id": 8277,
+			"name": "XÃ BÌNH ĐÔNG"
 		},
 		{
-			"id": "18547",
-			"name": "Xã Phúc Trạch"
+			"id": 8278,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 8279,
+			"name": "THỊ TRẤN CHÂU Ổ"
+		},
+		{
+			"id": 8280,
+			"name": "XÃ BÌNH HẢI"
+		},
+		{
+			"id": 8281,
+			"name": "XÃ BÌNH TRỊ"
+		},
+		{
+			"id": 8282,
+			"name": "XÃ BÌNH THUẬN"
+		},
+		{
+			"id": 26153,
+			"name": "XÃ BÌNH TÂN PHÚ"
 		}
 	]
 }

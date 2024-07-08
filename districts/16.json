@@ -1,0 +1,38 @@
+{
+	"id": 16,
+	"name": "Thái Bình",
+	"data": [
+		{
+			"id": 173,
+			"name": "HUYỆN THÁI THỤY"
+		},
+		{
+			"id": 174,
+			"name": "HUYỆN VŨ THƯ"
+		},
+		{
+			"id": 175,
+			"name": "HUYỆN QUỲNH PHỤ"
+		},
+		{
+			"id": 176,
+			"name": "HUYỆN HƯNG HÀ"
+		},
+		{
+			"id": 178,
+			"name": "THÀNH PHỐ THÁI BÌNH"
+		},
+		{
+			"id": 179,
+			"name": "HUYỆN ĐÔNG HƯNG"
+		},
+		{
+			"id": 180,
+			"name": "HUYỆN TIỀN HẢI"
+		},
+		{
+			"id": 181,
+			"name": "HUYỆN KIẾN XƯƠNG"
+		}
+	]
+}

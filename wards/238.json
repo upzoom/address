@@ -1,98 +1,54 @@
 {
-	"id": "238",
-	"name": "Huyện Thanh Sơn",
+	"id": 238,
+	"name": "HUYỆN ĐÌNH LẬP",
 	"data": [
 		{
-			"id": "08614",
-			"name": "Xã Cự Đồng"
+			"id": 4149,
+			"name": "XÃ BẮC LÃNG"
 		},
 		{
-			"id": "08602",
-			"name": "Xã Cự Thắng"
+			"id": 4150,
+			"name": "XÃ BẮC XA"
 		},
 		{
-			"id": "08572",
-			"name": "Xã Địch Quả"
+			"id": 4151,
+			"name": "XÃ BÍNH XÁ"
 		},
 		{
-			"id": "08638",
-			"name": "Xã Đông Cửu"
+			"id": 4152,
+			"name": "XÃ CHÂU SƠN"
 		},
 		{
-			"id": "08575",
-			"name": "Xã Giáp Lai"
+			"id": 4153,
+			"name": "XÃ CƯỜNG LỢI"
 		},
 		{
-			"id": "08632",
-			"name": "Xã Hương Cần"
+			"id": 4154,
+			"name": "XÃ ĐỒNG THẮNG"
 		},
 		{
-			"id": "08635",
-			"name": "Xã Khả Cửu"
+			"id": 4155,
+			"name": "XÃ KIÊN MỘC"
 		},
 		{
-			"id": "08653",
-			"name": "Xã Lương Nha"
+			"id": 4156,
+			"name": "XÃ LÂM CA"
 		},
 		{
-			"id": "08563",
-			"name": "Xã Sơn Hùng"
+			"id": 4157,
+			"name": "XÃ THÁI BÌNH"
 		},
 		{
-			"id": "08641",
-			"name": "Xã Tân Lập"
+			"id": 4158,
+			"name": "THỊ TRẤN CHÈ NÔNG TRƯỜNG THÁI BÌNH"
 		},
 		{
-			"id": "08629",
-			"name": "Xã Tân Minh"
+			"id": 4159,
+			"name": "THỊ TRẤN ĐÌNH LẬP"
 		},
 		{
-			"id": "08605",
-			"name": "Xã Tất Thắng"
-		},
-		{
-			"id": "08587",
-			"name": "Xã Thạch Khoán"
-		},
-		{
-			"id": "08623",
-			"name": "Xã Thắng Sơn"
-		},
-		{
-			"id": "08542",
-			"name": "Thị trấn Thanh Sơn"
-		},
-		{
-			"id": "08581",
-			"name": "Xã Thục Luyện"
-		},
-		{
-			"id": "08650",
-			"name": "Xã Thượng Cửu"
-		},
-		{
-			"id": "08659",
-			"name": "Xã Tinh Nhuệ"
-		},
-		{
-			"id": "08611",
-			"name": "Xã Văn Miếu"
-		},
-		{
-			"id": "08584",
-			"name": "Xã Võ Miếu"
-		},
-		{
-			"id": "08644",
-			"name": "Xã Yên Lãng"
-		},
-		{
-			"id": "08647",
-			"name": "Xã Yên Lương"
-		},
-		{
-			"id": "08656",
-			"name": "Xã Yên Sơn"
+			"id": 4160,
+			"name": "XÃ ĐÌNH LẬP"
 		}
 	]
 }

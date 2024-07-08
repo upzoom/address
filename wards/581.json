@@ -1,0 +1,90 @@
+{
+	"id": 581,
+	"name": "HUYỆN XUÂN LỘC",
+	"data": [
+		{
+			"id": 9999,
+			"name": "THỊ TRẤN XUÂN LỘC"
+		},
+		{
+			"id": 10000,
+			"name": "THỊ TRẤN GIA RAY"
+		},
+		{
+			"id": 10001,
+			"name": "XÃ BẢO ĐỊNH"
+		},
+		{
+			"id": 10002,
+			"name": "XÃ BẢO HÒA"
+		},
+		{
+			"id": 10003,
+			"name": "XÃ SUỐI CÁT"
+		},
+		{
+			"id": 10004,
+			"name": "XÃ XUÂN BẮC"
+		},
+		{
+			"id": 10005,
+			"name": "XÃ XUÂN ĐỊNH"
+		},
+		{
+			"id": 10006,
+			"name": "XÃ XUÂN PHÚ"
+		},
+		{
+			"id": 10007,
+			"name": "XÃ XUÂN TÂM"
+		},
+		{
+			"id": 10008,
+			"name": "XÃ LANG MINH"
+		},
+		{
+			"id": 10009,
+			"name": "XÃ SUỐI CAO"
+		},
+		{
+			"id": 10010,
+			"name": "XÃ XUÂN BẢO"
+		},
+		{
+			"id": 10011,
+			"name": "XÃ XUÂN ĐÔNG"
+		},
+		{
+			"id": 10012,
+			"name": "XÃ XUÂN HIỆP"
+		},
+		{
+			"id": 10013,
+			"name": "XÃ XUÂN HÒA"
+		},
+		{
+			"id": 10014,
+			"name": "XÃ XUÂN HƯNG"
+		},
+		{
+			"id": 10015,
+			"name": "XÃ XUÂN THÀNH"
+		},
+		{
+			"id": 10016,
+			"name": "XÃ XUÂN THỌ"
+		},
+		{
+			"id": 10017,
+			"name": "XÃ XUÂN TOÀN"
+		},
+		{
+			"id": 10018,
+			"name": "XÃ XUÂN TRƯỜNG"
+		},
+		{
+			"id": 10019,
+			"name": "KCN XUÂN LỘC"
+		}
+	]
+}

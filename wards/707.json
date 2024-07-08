@@ -1,50 +1,70 @@
 {
-	"id": "707",
-	"name": "Huyện Dương Minh Châu",
+	"id": 707,
+	"name": "THÀNH PHỐ CÀ MAU",
 	"data": [
 		{
-			"id": "25567",
-			"name": "Xã Bàu Năng"
+			"id": 11611,
+			"name": "PHƯỜNG LÝ VĂN LÂM"
 		},
 		{
-			"id": "25576",
-			"name": "Xã Bến Củi"
+			"id": 11612,
+			"name": "XÃ TẮC VÂN"
 		},
 		{
-			"id": "25573",
-			"name": "Xã Cầu Khởi"
+			"id": 11613,
+			"name": "XÃ AN XUYÊN"
 		},
 		{
-			"id": "25570",
-			"name": "Xã Chà Là"
+			"id": 11614,
+			"name": "XÃ ĐỊNH BÌNH"
 		},
 		{
-			"id": "25552",
-			"name": "Thị trấn Dương Minh Châu"
+			"id": 11615,
+			"name": "XÃ HÒA THÀNH"
 		},
 		{
-			"id": "25579",
-			"name": "Xã Lộc Ninh"
+			"id": 11616,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25558",
-			"name": "Xã Phan"
+			"id": 11617,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "25564",
-			"name": "Xã Phước Minh"
+			"id": 11618,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "25561",
-			"name": "Xã Phước Ninh"
+			"id": 11619,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "25555",
-			"name": "Xã Suối Đá"
+			"id": 11620,
+			"name": "PHƯỜNG 6"
 		},
 		{
-			"id": "25582",
-			"name": "Xã Truông Mít"
+			"id": 11621,
+			"name": "PHƯỜNG 7"
+		},
+		{
+			"id": 11622,
+			"name": "PHƯỜNG 8"
+		},
+		{
+			"id": 11623,
+			"name": "PHƯỜNG 9"
+		},
+		{
+			"id": 11624,
+			"name": "PHƯỜNG TÂN XUYÊN"
+		},
+		{
+			"id": 11625,
+			"name": "PHƯỜNG TÂN THÀNH"
+		},
+		{
+			"id": 11626,
+			"name": "XÃ HÒA TÂN"
 		}
 	]
 }

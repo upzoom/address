@@ -1,38 +1,70 @@
 {
-	"id": "624",
-	"name": "Thị xã Ayun Pa",
+	"id": 624,
+	"name": "HUYỆN HỒNG NGỰ",
 	"data": [
 		{
-			"id": "24041",
-			"name": "Phường Cheo Reo"
+			"id": 10557,
+			"name": "TT HỒNG NGỰ"
 		},
 		{
-			"id": "24065",
-			"name": "Xã Chư Băh"
+			"id": 10558,
+			"name": "XÃ THƯỜNG PHƯỚC 1"
 		},
 		{
-			"id": "24044",
-			"name": "Phường Đoàn Kết"
+			"id": 10559,
+			"name": "XÃ BÌNH THẠNH"
 		},
 		{
-			"id": "24042",
-			"name": "Phường Hòa Bình"
+			"id": 10560,
+			"name": "XÃ THƯỜNG THỚI HẬU A"
 		},
 		{
-			"id": "24064",
-			"name": "Xã Ia RBol"
+			"id": 10561,
+			"name": "XÃ TÂN HỘI"
 		},
 		{
-			"id": "24070",
-			"name": "Xã Ia RTô"
+			"id": 10562,
+			"name": "XÃ THƯỜNG THỚI HẬU B"
 		},
 		{
-			"id": "24073",
-			"name": "Xã Ia Sao"
+			"id": 10563,
+			"name": "XÃ THƯỜNG THỚI TIỀN"
 		},
 		{
-			"id": "24045",
-			"name": "Phường Sông Bờ"
+			"id": 10564,
+			"name": "XÃ THƯỜNG PHƯỚC 2"
+		},
+		{
+			"id": 10565,
+			"name": "XÃ THƯỜNG LẠC"
+		},
+		{
+			"id": 10566,
+			"name": "XÃ LONG KHÁNH A"
+		},
+		{
+			"id": 10567,
+			"name": "XÃ LONG KHÁNH B"
+		},
+		{
+			"id": 10568,
+			"name": "XÃ AN BÌNH A"
+		},
+		{
+			"id": 10569,
+			"name": "XÃ AN BÌNH B"
+		},
+		{
+			"id": 10570,
+			"name": "XÃ LONG THUẬN"
+		},
+		{
+			"id": 10571,
+			"name": "XÃ PHÚ THUẬN B"
+		},
+		{
+			"id": 10572,
+			"name": "XÃ PHÚ THUẬN A"
 		}
 	]
 }

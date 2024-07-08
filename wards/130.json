@@ -1,0 +1,82 @@
+{
+	"id": 130,
+	"name": "HUYỆN THUẬN THÀNH",
+	"data": [
+		{
+			"id": 1860,
+			"name": "THỊ TRẤN HỒ"
+		},
+		{
+			"id": 1861,
+			"name": "XÃ SONG HỒ"
+		},
+		{
+			"id": 1862,
+			"name": "XÃ GIA ĐÔNG"
+		},
+		{
+			"id": 1863,
+			"name": "XÃ MÃO ĐIỀN"
+		},
+		{
+			"id": 1864,
+			"name": "XÃ AN BÌNH"
+		},
+		{
+			"id": 1865,
+			"name": "XÃ HOÀI THƯỢNG"
+		},
+		{
+			"id": 1866,
+			"name": "XÃ ĐÌNH TỔ"
+		},
+		{
+			"id": 1867,
+			"name": "XÃ ĐẠI ĐỒNG THÀNH"
+		},
+		{
+			"id": 1868,
+			"name": "XÃ NINH XÁ"
+		},
+		{
+			"id": 1869,
+			"name": "XÃ TRẠM LỘ"
+		},
+		{
+			"id": 1870,
+			"name": "XÃ NGHĨA ĐẠO"
+		},
+		{
+			"id": 1871,
+			"name": "XÃ NGUYỆT ĐỨC"
+		},
+		{
+			"id": 1872,
+			"name": "XÃ NGŨ THÁI"
+		},
+		{
+			"id": 1873,
+			"name": "XÃ TRÍ QUẢ"
+		},
+		{
+			"id": 1874,
+			"name": "XÃ THANH KHƯƠNG"
+		},
+		{
+			"id": 1875,
+			"name": "XÃ XUÂN LÂM"
+		},
+		{
+			"id": 1876,
+			"name": "XÃ HÀ MÃN"
+		},
+		{
+			"id": 1877,
+			"name": "XÃ SONG LIỄU"
+		},
+		{
+			"id": 1878,
+			"name": "ĐÔNG CÔI"
+		}
+	]
+}

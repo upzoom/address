@@ -1,30 +1,70 @@
 {
-	"id": "588",
-	"name": "Huyện Thuận Bắc",
+	"id": 588,
+	"name": "HUYỆN TÁNH LINH",
 	"data": [
 		{
-			"id": "22856",
-			"name": "Xã Bắc Phong"
+			"id": 10104,
+			"name": "XÃ LẠC HÀ"
 		},
 		{
-			"id": "22853",
-			"name": "Xã Bắc Sơn"
+			"id": 10105,
+			"name": "THỊ TRẤN LẠC TÁNH"
 		},
 		{
-			"id": "22840",
-			"name": "Xã Công Hải"
+			"id": 10106,
+			"name": "XÃ LẠC HƯNG"
 		},
 		{
-			"id": "22849",
-			"name": "Xã Lợi Hải"
+			"id": 10107,
+			"name": "XÃ ĐỒNG KHO"
 		},
 		{
-			"id": "22837",
-			"name": "Xã Phước Chiến"
+			"id": 10108,
+			"name": "XÃ ĐỨC BÌNH"
 		},
 		{
-			"id": "22843",
-			"name": "Xã Phước Kháng"
+			"id": 10109,
+			"name": "XÃ ĐỨC THUẬN"
+		},
+		{
+			"id": 10110,
+			"name": "XÃ GIA AN"
+		},
+		{
+			"id": 10111,
+			"name": "XÃ GIA HUYNH"
+		},
+		{
+			"id": 10112,
+			"name": "XÃ HUY KHIÊM"
+		},
+		{
+			"id": 10113,
+			"name": "XÃ LA NGÂU"
+		},
+		{
+			"id": 10114,
+			"name": "XÃ ĐỨC TÂN"
+		},
+		{
+			"id": 10115,
+			"name": "XÃ ĐỨC PHÚ"
+		},
+		{
+			"id": 10116,
+			"name": "XÃ BẮC RUỘNG"
+		},
+		{
+			"id": 10117,
+			"name": "XÃ NGHỊ ĐỨC"
+		},
+		{
+			"id": 10118,
+			"name": "XÃ SUỐI KIẾT"
+		},
+		{
+			"id": 10119,
+			"name": "XÃ MĂNG TỐ"
 		}
 	]
 }

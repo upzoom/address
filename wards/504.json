@@ -1,46 +1,62 @@
 {
-	"id": "504",
-	"name": "Huyện Tây Giang",
+	"id": 504,
+	"name": "HUYỆN KÔNG CHRO",
 	"data": [
 		{
-			"id": "20452",
-			"name": "Xã A Nông"
+			"id": 9077,
+			"name": "THỊ TRẤN KON CHRO"
 		},
 		{
-			"id": "20455",
-			"name": "Xã A Tiêng"
+			"id": 9078,
+			"name": "XÃ KÔNG YANG"
 		},
 		{
-			"id": "20461",
-			"name": "Xã A Vương"
+			"id": 9079,
+			"name": "XÃ YAMA"
 		},
 		{
-			"id": "20443",
-			"name": "Xã A Xan"
+			"id": 9080,
+			"name": "XÃ AN TRUNG"
 		},
 		{
-			"id": "20458",
-			"name": "Xã Bha Lê"
+			"id": 9081,
+			"name": "XÃ YANG TRUNG"
 		},
 		{
-			"id": "20437",
-			"name": "Xã Ch'ơm"
+			"id": 9082,
+			"name": "XÃ ĐĂK PƠ PHO"
 		},
 		{
-			"id": "20464",
-			"name": "Xã Dang"
+			"id": 9083,
+			"name": "XÃ YANG NAM"
 		},
 		{
-			"id": "20440",
-			"name": "Xã Ga Ri"
+			"id": 9084,
+			"name": "XÃ CHƠ LONG"
 		},
 		{
-			"id": "20449",
-			"name": "Xã Lăng"
+			"id": 9085,
+			"name": "XÃ CHƯ KREI"
 		},
 		{
-			"id": "20446",
-			"name": "Xã Tr'Hy"
+			"id": 9086,
+			"name": "XÃ ĐĂK KƠ NING"
+		},
+		{
+			"id": 9087,
+			"name": "XÃ ĐĂK TƠ PANG"
+		},
+		{
+			"id": 9088,
+			"name": "XÃ SRÓ"
+		},
+		{
+			"id": 9089,
+			"name": "XÃ ĐĂK PLING"
+		},
+		{
+			"id": 9090,
+			"name": "XÃ ĐĂK SONG"
 		}
 	]
 }

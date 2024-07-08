@@ -1,0 +1,70 @@
+{
+	"id": 19,
+	"name": "HUYỆN ĐAN PHƯỢNG",
+	"data": [
+		{
+			"id": 389,
+			"name": "XÃ HẠ MỖ"
+		},
+		{
+			"id": 390,
+			"name": "XÃ LIÊN HÀ"
+		},
+		{
+			"id": 391,
+			"name": "XÃ LIÊN TRUNG"
+		},
+		{
+			"id": 392,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 393,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 394,
+			"name": "THỊ TRẤN PHÙNG"
+		},
+		{
+			"id": 395,
+			"name": "XÃ PHƯƠNG ĐÌNH"
+		},
+		{
+			"id": 396,
+			"name": "XÃ THƯỢNG MỖ"
+		},
+		{
+			"id": 397,
+			"name": "XÃ TRUNG CHÂU"
+		},
+		{
+			"id": 398,
+			"name": "XÃ THỌ AN"
+		},
+		{
+			"id": 399,
+			"name": "XÃ THỌ XUÂN"
+		},
+		{
+			"id": 400,
+			"name": "XÃ ĐAN PHƯỢNG"
+		},
+		{
+			"id": 401,
+			"name": "XÃ ĐỒNG THÁP"
+		},
+		{
+			"id": 402,
+			"name": "XÃ HỒNG HÀ"
+		},
+		{
+			"id": 403,
+			"name": "XÃ LIÊN HỒNG"
+		},
+		{
+			"id": 404,
+			"name": "XÃ SONG PHƯỢNG"
+		}
+	]
+}

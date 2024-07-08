@@ -1,0 +1,38 @@
+{
+	"id": 541,
+	"name": "HUYỆN THUẬN NAM",
+	"data": [
+		{
+			"id": 9523,
+			"name": "XÃ PHƯỚC NAM"
+		},
+		{
+			"id": 9524,
+			"name": "XÃ NHỊ HÀ"
+		},
+		{
+			"id": 9525,
+			"name": "XÃ PHƯỚC DINH"
+		},
+		{
+			"id": 9526,
+			"name": "XÃ PHƯỚC MINH"
+		},
+		{
+			"id": 9527,
+			"name": "XÃ PHƯỚC DIÊM"
+		},
+		{
+			"id": 9528,
+			"name": "XÃ PHƯỚC HÀ"
+		},
+		{
+			"id": 9529,
+			"name": "XÃ CÀ NÁ"
+		},
+		{
+			"id": 17930,
+			"name": "XÃ PHƯỚC NINH"
+		}
+	]
+}

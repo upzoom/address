@@ -1,38 +1,62 @@
 {
-	"id": "468",
-	"name": "Huyện Cam Lộ",
+	"id": 468,
+	"name": "HUYỆN TÂY HÒA",
 	"data": [
 		{
-			"id": "19618",
-			"name": "Xã Cam Chính"
+			"id": 8601,
+			"name": "THỊ TRẤN TÂY HOÀ"
 		},
 		{
-			"id": "19615",
-			"name": "Xã Cam Hiếu"
+			"id": 8602,
+			"name": "XÃ HOÀ THÀNH"
 		},
 		{
-			"id": "19597",
-			"name": "Thị trấn Cam Lộ"
+			"id": 8603,
+			"name": "XÃ HOÀ BÌNH 1"
 		},
 		{
-			"id": "19621",
-			"name": "Xã Cam Nghĩa"
+			"id": 8604,
+			"name": "XÃ HÒA MỸ ĐÔNG"
 		},
 		{
-			"id": "19612",
-			"name": "Xã Cam Thành"
+			"id": 8605,
+			"name": "XÃ HÒA MỸ TÂY"
 		},
 		{
-			"id": "19606",
-			"name": "Xã Cam Thủy"
+			"id": 8606,
+			"name": "XÃ HÒA PHONG"
 		},
 		{
-			"id": "19600",
-			"name": "Xã Cam Tuyền"
+			"id": 8607,
+			"name": "XÃ HÒA PHÚ"
 		},
 		{
-			"id": "19603",
-			"name": "Xã Thanh An"
+			"id": 8608,
+			"name": "XÃ HÒA THỊNH"
+		},
+		{
+			"id": 8609,
+			"name": "XÃ HÒA ĐỒNG"
+		},
+		{
+			"id": 8610,
+			"name": "XÃ HÒA TÂN TÂY"
+		},
+		{
+			"id": 8611,
+			"name": "XÃ SƠN THÀNH TÂY"
+		},
+		{
+			"id": 8612,
+			"name": "XÃ SƠN THÀNH ĐÔNG"
+		},
+		{
+			"id": 8613,
+			"name": "XÃ HÒA BÌNH 2"
+		},
+		{
+			"id": 24589,
+			"name": "THỊ TRẤN PHÚ THỨ"
 		}
 	]
 }

@@ -1,50 +1,66 @@
 {
-	"id": "527",
-	"name": "Huyện Sơn Tịnh",
+	"id": 527,
+	"name": "HUYỆN BẢO LÂM",
 	"data": [
 		{
-			"id": "21205",
-			"name": "Xã Tịnh Bắc"
+			"id": 9354,
+			"name": "XÃ LỘC QUẢNG"
 		},
 		{
-			"id": "21193",
-			"name": "Xã Tịnh Bình"
+			"id": 9355,
+			"name": "XÃ LỘC NGÃI"
 		},
 		{
-			"id": "21196",
-			"name": "Xã Tịnh Đông"
+			"id": 9356,
+			"name": "XÃ LỘC ĐỨC"
 		},
 		{
-			"id": "21226",
-			"name": "Xã Tịnh Giang"
+			"id": 9357,
+			"name": "XÃ LỘC PHÚ"
 		},
 		{
-			"id": "21220",
-			"name": "Xã Tịnh Hà"
+			"id": 9358,
+			"name": "XÃ LỘC TLÂM"
 		},
 		{
-			"id": "21184",
-			"name": "Xã Tịnh Hiệp"
+			"id": 9359,
+			"name": "THỊ TRẤN LỘC THẮNG"
 		},
 		{
-			"id": "21229",
-			"name": "Xã Tịnh Minh"
+			"id": 9360,
+			"name": "XÃ LỘC BẮC"
 		},
 		{
-			"id": "21181",
-			"name": "Xã Tịnh Phong"
+			"id": 9361,
+			"name": "XÃ LỘC BẢO`"
 		},
 		{
-			"id": "21217",
-			"name": "Xã Tịnh Sơn"
+			"id": 9362,
+			"name": "XÃ LỘC AN"
 		},
 		{
-			"id": "21175",
-			"name": "Xã Tịnh Thọ"
+			"id": 9363,
+			"name": "XÃ LỘC TÂN"
 		},
 		{
-			"id": "21178",
-			"name": "Xã Tịnh Trà"
+			"id": 9364,
+			"name": "XÃ LỘC THÀNH"
+		},
+		{
+			"id": 9365,
+			"name": "XÃ LỘC NAM"
+		},
+		{
+			"id": 9366,
+			"name": "XÃ B'LÁ"
+		},
+		{
+			"id": 9367,
+			"name": "XÃ TÂN LẠC"
+		},
+		{
+			"id": 13326,
+			"name": "XÃ LỘC QUẢNG"
 		}
 	]
 }

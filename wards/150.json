@@ -1,74 +1,90 @@
 {
-	"id": "150",
-	"name": "Huyện Đà Bắc",
+	"id": 150,
+	"name": "HUYỆN ÂN THI",
 	"data": [
 		{
-			"id": "04876",
-			"name": "Xã Cao Sơn"
+			"id": 2294,
+			"name": "THỊ TRẤN ÂN THI"
 		},
 		{
-			"id": "04831",
-			"name": "Thị trấn Đà Bắc"
+			"id": 2295,
+			"name": "XÃ PHÙ ỦNG"
 		},
 		{
-			"id": "04858",
-			"name": "Xã Đoàn Kết"
+			"id": 2296,
+			"name": "XÃ  BÃI SẬY"
 		},
 		{
-			"id": "04852",
-			"name": "Xã Đồng Chum"
+			"id": 2297,
+			"name": "XÃ  BẮC SƠN"
 		},
 		{
-			"id": "04861",
-			"name": "Xã Đồng Ruộng"
+			"id": 2298,
+			"name": "XÃ ĐÀO DƯƠNG"
 		},
 		{
-			"id": "04840",
-			"name": "Xã Giáp Đắt"
+			"id": 2299,
+			"name": "XÃ TÂN PHÚC"
 		},
 		{
-			"id": "04885",
-			"name": "Xã Hiền Lương"
+			"id": 2300,
+			"name": "XÃ VĂN NHUỆ"
 		},
 		{
-			"id": "04846",
-			"name": "Xã Mường Chiềng"
+			"id": 2301,
+			"name": "XÃ HOÀNG HOA THÁM"
 		},
 		{
-			"id": "04834",
-			"name": "Xã Nánh Nghê"
+			"id": 2302,
+			"name": "XÃ QUANG VINH"
 		},
 		{
-			"id": "04855",
-			"name": "Xã Tân Minh"
+			"id": 2303,
+			"name": "XÃ VÂN DU"
 		},
 		{
-			"id": "04849",
-			"name": "Xã Tân Pheo"
+			"id": 2304,
+			"name": "XÃ XUÂN TRÚC"
 		},
 		{
-			"id": "04888",
-			"name": "Xã Tiền Phong"
+			"id": 2305,
+			"name": "XÃ  QUẢNG LÃNG"
 		},
 		{
-			"id": "04879",
-			"name": "Xã Toàn Sơn"
+			"id": 2306,
+			"name": "XÃ  ĐẶNG LỄ"
 		},
 		{
-			"id": "04870",
-			"name": "Xã Trung Thành"
+			"id": 2307,
+			"name": "XÃ CẨM NINH"
 		},
 		{
-			"id": "04867",
-			"name": "Xã Tú Lý"
+			"id": 2308,
+			"name": "XÃ  NGUYỄN TRÃI"
 		},
 		{
-			"id": "04891",
-			"name": "Xã Vầy Nưa"
+			"id": 2309,
+			"name": "XÃ  ĐA LỘC"
 		},
 		{
-			"id": "04873",
-			"name": "Xã Yên Hòa"
+			"id": 2310,
+			"name": "XÃ  TIỀN PHONG"
+		},
+		{
+			"id": 2311,
+			"name": "XÃ  HỒ TÙNG MẬU"
+		},
+		{
+			"id": 2312,
+			"name": "XÃ  HỒNG VÂN"
+		},
+		{
+			"id": 2313,
+			"name": "XÃ HỒNG QUANG"
+		},
+		{
+			"id": 2314,
+			"name": "XÃ  HẠ LỄ"
 		}
 	]
 }

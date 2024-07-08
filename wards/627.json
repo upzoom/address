@@ -1,62 +1,58 @@
 {
-	"id": "627",
-	"name": "Huyện Chư Păh",
+	"id": 627,
+	"name": "HUYỆN THÁP MƯỜI",
 	"data": [
 		{
-			"id": "23746",
-			"name": "Xã Chư Đăng Ya"
+			"id": 10600,
+			"name": "XÃ THẠNH LỢI"
 		},
 		{
-			"id": "23740",
-			"name": "Xã Đăk Tơ Ver"
+			"id": 10601,
+			"name": "XÃ HƯNG THẠNH"
 		},
 		{
-			"id": "23725",
-			"name": "Xã Hà Tây"
+			"id": 10602,
+			"name": "XÃ TRƯỜNG XUÂN"
 		},
 		{
-			"id": "23743",
-			"name": "Xã Hòa Phú"
+			"id": 10603,
+			"name": "XÃ TÂN KIỀU"
 		},
 		{
-			"id": "23749",
-			"name": "Xã Ia Ka"
+			"id": 10604,
+			"name": "XÃ MỸ HÒA"
 		},
 		{
-			"id": "23728",
-			"name": "Xã Ia Khươl"
+			"id": 10605,
+			"name": "XÃ MỸ QUÝ"
 		},
 		{
-			"id": "23738",
-			"name": "Xã Ia Kreng"
+			"id": 10606,
+			"name": "XÃ MỸ ĐÔNG"
 		},
 		{
-			"id": "23734",
-			"name": "Thị trấn Ia Ly"
+			"id": 10607,
+			"name": "XÃ ĐỐC BINH KIỀU"
 		},
 		{
-			"id": "23737",
-			"name": "Xã Ia Mơ Nông"
+			"id": 10608,
+			"name": "TT MỸ AN"
 		},
 		{
-			"id": "23752",
-			"name": "Xã Ia Nhin"
+			"id": 10609,
+			"name": "XÃ PHÚ ĐIỀN"
 		},
 		{
-			"id": "23731",
-			"name": "Xã Ia Phí"
+			"id": 10610,
+			"name": "XÃ LÁNG BIỂN"
 		},
 		{
-			"id": "23755",
-			"name": "Xã Nghĩa Hòa"
+			"id": 10611,
+			"name": "XÃ THANH MỸ"
 		},
 		{
-			"id": "23761",
-			"name": "Xã Nghĩa Hưng"
-		},
-		{
-			"id": "23722",
-			"name": "Thị trấn Phú Hòa"
+			"id": 10612,
+			"name": "XÃ MỸ AN"
 		}
 	]
 }

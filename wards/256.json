@@ -1,82 +1,114 @@
 {
-	"id": "256",
-	"name": "Thành phố Bắc Ninh",
+	"id": 256,
+	"name": "HUYỆN TRẤN YÊN",
 	"data": [
 		{
-			"id": "09181",
-			"name": "Phường Đại Phúc"
+			"id": 4557,
+			"name": "XÃ BẢO HƯNG"
 		},
 		{
-			"id": "09166",
-			"name": "Phường Đáp Cầu"
+			"id": 4558,
+			"name": "XÃ HÒA CUÔNG"
 		},
 		{
-			"id": "09331",
-			"name": "Phường Hạp Lĩnh"
+			"id": 4559,
+			"name": "XÃ HỒNG CA"
 		},
 		{
-			"id": "09214",
-			"name": "Phường Hòa Long"
+			"id": 4560,
+			"name": "XÃ HỢP MINH"
 		},
 		{
-			"id": "09325",
-			"name": "Phường Khắc Niệm"
+			"id": 4561,
+			"name": "XÃ HƯNG KHÁNH"
 		},
 		{
-			"id": "09235",
-			"name": "Phường Khúc Xuyên"
+			"id": 4562,
+			"name": "XÃ HƯNG THỊNH"
 		},
 		{
-			"id": "09256",
-			"name": "Phường Kim Chân"
+			"id": 4563,
+			"name": "XÃ MINH TIẾN"
 		},
 		{
-			"id": "09172",
-			"name": "Phường Kinh Bắc"
+			"id": 4564,
+			"name": "XÃ PHÚC LỘC"
 		},
 		{
-			"id": "09286",
-			"name": "Phường Nam Sơn"
+			"id": 4565,
+			"name": "XÃ LƯƠNG THỊNH"
 		},
 		{
-			"id": "09184",
-			"name": "Phường Ninh Xá"
+			"id": 4566,
+			"name": "XÃ MINH QUÁN"
 		},
 		{
-			"id": "09244",
-			"name": "Phường Phong Khê"
+			"id": 4567,
+			"name": "XÃ MINH QUÂN"
 		},
 		{
-			"id": "09187",
-			"name": "Phường Suối Hoa"
+			"id": 4568,
+			"name": "XÃ NGA QUÁN"
 		},
 		{
-			"id": "09169",
-			"name": "Phường Thị Cầu"
+			"id": 4569,
+			"name": "XÃ VIỆT CƯỜNG"
 		},
 		{
-			"id": "09178",
-			"name": "Phường Tiền An"
+			"id": 4570,
+			"name": "XÃ VIỆT HỒNG"
 		},
 		{
-			"id": "09226",
-			"name": "Phường Vạn An"
+			"id": 4571,
+			"name": "XÃ VIỆT THÀNH"
 		},
 		{
-			"id": "09271",
-			"name": "Phường Vân Dương"
+			"id": 4572,
+			"name": "THỊ TRẤN CỔ PHÚC"
 		},
 		{
-			"id": "09175",
-			"name": "Phường Vệ An"
+			"id": 4573,
+			"name": "XÃ ÂU LÂU"
 		},
 		{
-			"id": "09190",
-			"name": "Phường Võ Cường"
+			"id": 4574,
+			"name": "XÃ BÁO ĐÁP"
 		},
 		{
-			"id": "09163",
-			"name": "Phường Vũ Ninh"
+			"id": 4575,
+			"name": "XÃ QUY MÔNG"
+		},
+		{
+			"id": 4576,
+			"name": "XÃ TÂN ĐỒNG"
+		},
+		{
+			"id": 4577,
+			"name": "XÃ VÂN HỘI"
+		},
+		{
+			"id": 4578,
+			"name": "XÃ VĂN LÃNG"
+		},
+		{
+			"id": 4579,
+			"name": "XÃ VĂN PHÚ"
+		},
+		{
+			"id": 4580,
+			"name": "XÃ Y CAN"
+		},
+		{
+			"id": 4581,
+			"name": "XÃ CƯỜNG THỊNH"
+		},
+		{
+			"id": 4582,
+			"name": "XÃ ĐÀO THỊNH"
+		},
+		{
+			"id": 4583,
+			"name": "XÃ KIÊN THÀNH"
 		}
 	]
 }

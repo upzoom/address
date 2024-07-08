@@ -1,0 +1,46 @@
+{
+	"id": 43,
+	"name": "QUẬN 1",
+	"data": [
+		{
+			"id": 772,
+			"name": "PHƯỜNG BẾN NGHÉ"
+		},
+		{
+			"id": 773,
+			"name": "PHƯỜNG NGUYỄN THÁI BÌNH"
+		},
+		{
+			"id": 774,
+			"name": "PHƯỜNG NGUYỄN CƯ TRINH"
+		},
+		{
+			"id": 775,
+			"name": "PHƯỜNG TÂN ĐỊNH"
+		},
+		{
+			"id": 776,
+			"name": "PHƯỜNG ĐA KAO"
+		},
+		{
+			"id": 777,
+			"name": "PHƯỜNG BẾN THÀNH"
+		},
+		{
+			"id": 778,
+			"name": "PHƯỜNG PHẠM NGŨ LÃO"
+		},
+		{
+			"id": 779,
+			"name": "PHƯỜNG CÔ GIANG"
+		},
+		{
+			"id": 780,
+			"name": "PHƯỜNG CẦU ÔNG LÃNH"
+		},
+		{
+			"id": 781,
+			"name": "PHƯỜNG CẦU KHO"
+		}
+	]
+}

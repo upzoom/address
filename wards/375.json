@@ -1,82 +1,150 @@
 {
-	"id": "375",
-	"name": "Huyện Yên Khánh",
+	"id": 375,
+	"name": "HUYỆN NGHI LỘC",
 	"data": [
 		{
-			"id": "14575",
-			"name": "Xã Khánh An"
+			"id": 6978,
+			"name": "XÃ NGHI KHÁNH"
 		},
 		{
-			"id": "14602",
-			"name": "Xã Khánh Công"
+			"id": 6979,
+			"name": "XÃ NGHI PHONG"
 		},
 		{
-			"id": "14581",
-			"name": "Xã Khánh Cư"
+			"id": 6980,
+			"name": "XÃ NGHI LONG"
 		},
 		{
-			"id": "14578",
-			"name": "Xã Khánh Cường"
+			"id": 6981,
+			"name": "XÃ NGHI PHƯƠNG"
 		},
 		{
-			"id": "14587",
-			"name": "Xã Khánh Hải"
+			"id": 6982,
+			"name": "XÃ NGHI THẠCH"
 		},
 		{
-			"id": "14569",
-			"name": "Xã Khánh Hòa"
+			"id": 6983,
+			"name": "XÃ NGHI THỊNH"
 		},
 		{
-			"id": "14599",
-			"name": "Xã Khánh Hội"
+			"id": 6984,
+			"name": "XÃ NGHI THUẬN"
 		},
 		{
-			"id": "14617",
-			"name": "Xã Khánh Hồng"
+			"id": 6985,
+			"name": "XÃ NGHI TRUNG"
 		},
 		{
-			"id": "14572",
-			"name": "Xã Khánh Lợi"
+			"id": 6986,
+			"name": "XÃ NGHI TRƯỜNG"
 		},
 		{
-			"id": "14593",
-			"name": "Xã Khánh Mậu"
+			"id": 6987,
+			"name": "XÃ NGHI XÁ"
 		},
 		{
-			"id": "14611",
-			"name": "Xã Khánh Nhạc"
+			"id": 6988,
+			"name": "XÃ NGHI YÊN"
 		},
 		{
-			"id": "14566",
-			"name": "Xã Khánh Phú"
+			"id": 6989,
+			"name": "XÃ NGHI CÔNG BẮC"
 		},
 		{
-			"id": "14608",
-			"name": "Xã Khánh Thành"
+			"id": 6990,
+			"name": "XÃ NGHI CÔNG NAM"
 		},
 		{
-			"id": "14584",
-			"name": "Xã Khánh Thiện"
+			"id": 6991,
+			"name": "XÃ NGHI ĐỒNG"
 		},
 		{
-			"id": "14614",
-			"name": "Xã Khánh Thủy"
+			"id": 6992,
+			"name": "XÃ NGHI HƯNG"
 		},
 		{
-			"id": "14563",
-			"name": "Xã Khánh Tiên"
+			"id": 6993,
+			"name": "XÃ NGHI KIỀU"
 		},
 		{
-			"id": "14590",
-			"name": "Xã Khánh Trung"
+			"id": 6994,
+			"name": "XÃ NGHI LÂM"
 		},
 		{
-			"id": "14596",
-			"name": "Xã Khánh Vân"
+			"id": 6995,
+			"name": "XÃ NGHI MỸ"
 		},
 		{
-			"id": "14560",
-			"name": "Thị trấn Yên Ninh"
+			"id": 6996,
+			"name": "XÃ NGHI QUANG"
+		},
+		{
+			"id": 6997,
+			"name": "XÃ NGHI THÁI"
+		},
+		{
+			"id": 6998,
+			"name": "XÃ NGHI THIẾT"
+		},
+		{
+			"id": 6999,
+			"name": "XÃ NGHI VẠN"
+		},
+		{
+			"id": 7000,
+			"name": "XÃ NGHI TIẾN"
+		},
+		{
+			"id": 7001,
+			"name": "XÃ NGHI VĂN"
+		},
+		{
+			"id": 7002,
+			"name": "XÃ NGHI XUÂN"
+		},
+		{
+			"id": 7003,
+			"name": "XÃ PHÚC THỌ"
+		},
+		{
+			"id": 7004,
+			"name": "THỊ TRẤN QUÁN HÀNH"
+		},
+		{
+			"id": 7005,
+			"name": "XÃ NGHI DIÊN"
+		},
+		{
+			"id": 7006,
+			"name": "XÃ NGHI HOA"
+		},
+		{
+			"id": 7007,
+			"name": "XÃ NGHI HỢP"
+		},
+		{
+			"id": 7008,
+			"name": "XÃ NGHI ÂN(QL46)"
+		},
+		{
+			"id": 7009,
+			"name": "XÃ NGHI KIM"
+		},
+		{
+			"id": 7010,
+			"name": "XÃ NGHI ĐỨC"
+		},
+		{
+			"id": 7011,
+			"name": "XÃ NGHI LIÊN"
+		},
+		{
+			"id": 7012,
+			"name": "XÃ NGHI KHÁNH"
+		},
+		{
+			"id": 26213,
+			"name": "XÃ KHÁNH HỢP"
 		}
 	]
 }

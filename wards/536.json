@@ -1,5 +1,46 @@
 {
-	"id": "536",
-	"name": "Huyện Lý Sơn",
-	"data": []
+	"id": 536,
+	"name": "HUYỆN ĐƠN DƯƠNG",
+	"data": [
+		{
+			"id": 9472,
+			"name": "XÃ ĐÀ RÒN"
+		},
+		{
+			"id": 9473,
+			"name": "XÃ KA ĐÔ"
+		},
+		{
+			"id": 9474,
+			"name": "XÃ LẠC XUÂN"
+		},
+		{
+			"id": 9475,
+			"name": "XÃ QUẢNG LẬP"
+		},
+		{
+			"id": 9476,
+			"name": "XÃ TU TRA"
+		},
+		{
+			"id": 9477,
+			"name": "XÃ K'ĐƠN"
+		},
+		{
+			"id": 9478,
+			"name": "XÃ P'RÓH"
+		},
+		{
+			"id": 9479,
+			"name": "XÃ LẠC LÂM"
+		},
+		{
+			"id": 9480,
+			"name": "THỊ TRẤN THẠNH MỸ"
+		},
+		{
+			"id": 9481,
+			"name": "THỊ TRẤN ĐRAN"
+		}
+	]
 }

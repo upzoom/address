@@ -1,66 +1,46 @@
 {
-	"id": "559",
-	"name": "Huyện Tuy An",
+	"id": 559,
+	"name": "HUYỆN TÂN BIÊN",
 	"data": [
 		{
-			"id": "22156",
-			"name": "Xã An Chấn"
+			"id": 9713,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "22138",
-			"name": "Xã An Cư"
+			"id": 9714,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "22117",
-			"name": "Xã An Dân"
+			"id": 9715,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "22129",
-			"name": "Xã An Định"
+			"id": 9716,
+			"name": "XÃ THẠNH BẮC"
 		},
 		{
-			"id": "22150",
-			"name": "Xã An Hiệp"
+			"id": 9717,
+			"name": "XÃ THẠNH BÌNH"
 		},
 		{
-			"id": "22147",
-			"name": "Xã An Hòa Hải"
+			"id": 9718,
+			"name": "XÃ THẠNH TÂY"
 		},
 		{
-			"id": "22144",
-			"name": "Xã An Lĩnh"
+			"id": 9719,
+			"name": "XÃ TRÀ VONG"
 		},
 		{
-			"id": "22153",
-			"name": "Xã An Mỹ"
+			"id": 9720,
+			"name": "THỊ TRẤN TÂN BIÊN"
 		},
 		{
-			"id": "22132",
-			"name": "Xã An Nghiệp"
+			"id": 9721,
+			"name": "XÃ HOÀ HIỆP"
 		},
 		{
-			"id": "22123",
-			"name": "Xã An Ninh Đông"
-		},
-		{
-			"id": "22120",
-			"name": "Xã An Ninh Tây"
-		},
-		{
-			"id": "22126",
-			"name": "Xã An Thạch"
-		},
-		{
-			"id": "22159",
-			"name": "Xã An Thọ"
-		},
-		{
-			"id": "22141",
-			"name": "Xã An Xuân"
-		},
-		{
-			"id": "22114",
-			"name": "Thị trấn Chí Thạnh"
+			"id": 9722,
+			"name": "XÃ MỎ CÔNG"
 		}
 	]
 }

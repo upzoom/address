@@ -1,0 +1,74 @@
+{
+	"id": 49,
+	"name": "HUYỆN BÌNH CHÁNH",
+	"data": [
+		{
+			"id": 855,
+			"name": "XÃ VĨNH LỘC A"
+		},
+		{
+			"id": 856,
+			"name": "XÃ VĨNH LỘC B"
+		},
+		{
+			"id": 857,
+			"name": "XÃ LÊ MINH XUÂN"
+		},
+		{
+			"id": 858,
+			"name": "XÃ TÂN KIÊN"
+		},
+		{
+			"id": 859,
+			"name": "XÃ TÂN TÚC"
+		},
+		{
+			"id": 860,
+			"name": "XÃ BÌNH CHÁNH"
+		},
+		{
+			"id": 861,
+			"name": "XÃ TÂN NHỰT"
+		},
+		{
+			"id": 862,
+			"name": "XÃ AN PHÚ TÂY"
+		},
+		{
+			"id": 863,
+			"name": "XÃ TÂN QUÝ TÂY"
+		},
+		{
+			"id": 864,
+			"name": "XÃ BÌNH HƯNG"
+		},
+		{
+			"id": 865,
+			"name": "XÃ BÌNH LỢI"
+		},
+		{
+			"id": 866,
+			"name": "XÃ ĐA PHƯỚC"
+		},
+		{
+			"id": 867,
+			"name": "XÃ PHONG PHÚ"
+		},
+		{
+			"id": 868,
+			"name": "XÃ PHẠM VĂN HAI"
+		},
+		{
+			"id": 869,
+			"name": "XÃ HƯNG LONG"
+		},
+		{
+			"id": 870,
+			"name": "XÃ QUY ĐỨC"
+		},
+		{
+			"id": 871,
+			"name": "THỊ TRẤN TÂN TÚC"
+		}
+	]
+}

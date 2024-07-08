@@ -1,46 +1,66 @@
 {
-	"id": "432",
-	"name": "Thị xã Hoàng Mai",
+	"id": 432,
+	"name": "HUYỆN TIÊN PHƯỚC",
 	"data": [
 		{
-			"id": "17125",
-			"name": "Phường Mai Hùng"
+			"id": 8099,
+			"name": "THỊ TRẤN TIÊN KỲ"
 		},
 		{
-			"id": "17128",
-			"name": "Phường Quỳnh Dị"
+			"id": 8100,
+			"name": "XÃ TIÊN CẢNH"
 		},
 		{
-			"id": "17113",
-			"name": "Xã Quỳnh Lập"
+			"id": 8101,
+			"name": "XÃ TIÊN PHONG"
 		},
 		{
-			"id": "17137",
-			"name": "Xã Quỳnh Liên"
+			"id": 8102,
+			"name": "XÃ TIÊN HIỆP"
 		},
 		{
-			"id": "17107",
-			"name": "Xã Quỳnh Lộc"
+			"id": 8103,
+			"name": "XÃ TIÊN HÀ"
 		},
 		{
-			"id": "17134",
-			"name": "Phường Quỳnh Phương"
+			"id": 8104,
+			"name": "XÃ TIÊN THỌ"
 		},
 		{
-			"id": "17110",
-			"name": "Phường Quỳnh Thiện"
+			"id": 8105,
+			"name": "XÃ TIÊN CHÂU"
 		},
 		{
-			"id": "17116",
-			"name": "Xã Quỳnh Trang"
+			"id": 8106,
+			"name": "XÃ TIÊN LẬP"
 		},
 		{
-			"id": "17104",
-			"name": "Xã Quỳnh Vinh"
+			"id": 8107,
+			"name": "XÃ TIÊN LỘC"
 		},
 		{
-			"id": "17131",
-			"name": "Phường Quỳnh Xuân"
+			"id": 8108,
+			"name": "XÃ TIÊN AN"
+		},
+		{
+			"id": 8109,
+			"name": "XÃ TIÊN LÃNH"
+		},
+		{
+			"id": 8110,
+			"name": "XÃ TIÊN NGỌC"
+		},
+		{
+			"id": 8111,
+			"name": "XÃ TIÊN CẨM"
+		},
+		{
+			"id": 8112,
+			"name": "XÃ TIÊN MỸ"
+		},
+		{
+			"id": 8113,
+			"name": "XÃ TIÊN SƠN"
 		}
 	]
 }

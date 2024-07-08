@@ -1,86 +1,150 @@
 {
-	"id": "392",
-	"name": "Huyện Hà Trung",
+	"id": 392,
+	"name": "HUYỆN THẠCH HÀ",
 	"data": [
 		{
-			"id": "15280",
-			"name": "Xã Hà Bắc"
+			"id": 7421,
+			"name": "THỊ TRẤN THẠCH HÀ"
 		},
 		{
-			"id": "15328",
-			"name": "Xã Hà Bình"
+			"id": 7422,
+			"name": "XÃ THẠCH LIÊN"
 		},
 		{
-			"id": "15334",
-			"name": "Xã Hà Châu"
+			"id": 7423,
+			"name": "XÃ THẠCH KÊNH"
 		},
 		{
-			"id": "15319",
-			"name": "Xã Hà Đông"
+			"id": 7424,
+			"name": "XÃ VIỆT XUYÊN"
 		},
 		{
-			"id": "15292",
-			"name": "Xã Hà Giang"
+			"id": 7425,
+			"name": "XÃ THẠCH SƠN"
 		},
 		{
-			"id": "15343",
-			"name": "Xã Hà Hải"
+			"id": 7426,
+			"name": "XÃ THẠCH HỘI"
 		},
 		{
-			"id": "15331",
-			"name": "Xã Hà Lai"
+			"id": 7427,
+			"name": "XÃ THẠCH BÀN"
 		},
 		{
-			"id": "15316",
-			"name": "Xã Hà Lĩnh"
+			"id": 7428,
+			"name": "XÃ PHÙ VIỆT"
 		},
 		{
-			"id": "15274",
-			"name": "Xã Hà Long"
+			"id": 7429,
+			"name": "XÃ THẠCH LONG"
 		},
 		{
-			"id": "15304",
-			"name": "Xã Hà Ngọc"
+			"id": 7430,
+			"name": "XÃ THẠCH KHÊ"
 		},
 		{
-			"id": "15313",
-			"name": "Xã Hà Sơn"
+			"id": 7431,
+			"name": "XÃ THẠCH ĐỈNH"
 		},
 		{
-			"id": "15322",
-			"name": "Xã Hà Tân"
+			"id": 7432,
+			"name": "XÃ THẠCH HẢI"
 		},
 		{
-			"id": "15340",
-			"name": "Xã Hà Thái"
+			"id": 7433,
+			"name": "XÃ THẠCH TIẾN"
 		},
 		{
-			"id": "15325",
-			"name": "Xã Hà Tiến"
+			"id": 7434,
+			"name": "XÃ THẠCH THANH"
 		},
 		{
-			"id": "15271",
-			"name": "Thị trấn Hà Trung"
+			"id": 7435,
+			"name": "XÃ THẠCH TRỊ"
 		},
 		{
-			"id": "15277",
-			"name": "Xã Hà Vinh"
+			"id": 7436,
+			"name": "XÃ TƯỢNG SƠN"
 		},
 		{
-			"id": "15283",
-			"name": "Xã Hoạt Giang"
+			"id": 7437,
+			"name": "XÃ THẠCH LẠC"
 		},
 		{
-			"id": "15298",
-			"name": "Xã Lĩnh Toại"
+			"id": 7438,
+			"name": "XÃ THẠCH NGỌC"
 		},
 		{
-			"id": "15286",
-			"name": "Xã Yên Dương"
+			"id": 7439,
+			"name": "XÃ THẠCH VĨNH"
 		},
 		{
-			"id": "15307",
-			"name": "Xã Yến Sơn"
+			"id": 7440,
+			"name": "XÃ THẠCH LƯU"
+		},
+		{
+			"id": 7441,
+			"name": "XÃ BẮC SƠN"
+		},
+		{
+			"id": 7442,
+			"name": "XÃ THẠCH ĐÀI"
+		},
+		{
+			"id": 7443,
+			"name": "XÃ THẠCH THẮNG"
+		},
+		{
+			"id": 7444,
+			"name": "XÃ THẠCH VĂN"
+		},
+		{
+			"id": 7445,
+			"name": "XÃ THẠCH XUÂN"
+		},
+		{
+			"id": 7446,
+			"name": "XÃ THẠCH TÂN"
+		},
+		{
+			"id": 7447,
+			"name": "XÃ THẠCH HƯƠNG"
+		},
+		{
+			"id": 7448,
+			"name": "XÃ THẠCH ĐIỀN"
+		},
+		{
+			"id": 7449,
+			"name": "XÃ NAM HƯƠNG"
+		},
+		{
+			"id": 7450,
+			"name": "XÃ THẠCH LÂM"
+		},
+		{
+			"id": 7451,
+			"name": "XÃ NGỌC SƠN"
+		},
+		{
+			"id": 26183,
+			"name": "XÃ TÂN LÂM HƯƠNG"
+		},
+		{
+			"id": 26185,
+			"name": "XÃ VIỆT TIẾN"
+		},
+		{
+			"id": 26186,
+			"name": "XÃ ĐỈNH BÀN"
+		},
+		{
+			"id": 26182,
+			"name": "XÃ NAM ĐIỀN"
+		},
+		{
+			"id": 26184,
+			"name": "XÃ LƯU VĨNH SƠN"
 		}
 	]
 }

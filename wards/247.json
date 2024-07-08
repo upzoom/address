@@ -1,58 +1,46 @@
 {
-	"id": "247",
-	"name": "Huyện Tam Dương",
+	"id": 247,
+	"name": "HUYỆN LÂM BÌNH",
 	"data": [
 		{
-			"id": "08887",
-			"name": "Xã An Hòa"
+			"id": 4311,
+			"name": "XÃ MINH QUANG"
 		},
 		{
-			"id": "08884",
-			"name": "Xã Đạo Tú"
+			"id": 4351,
+			"name": "XÃ LĂNG CAN"
 		},
 		{
-			"id": "08875",
-			"name": "Xã Đồng Tĩnh"
+			"id": 4352,
+			"name": "XÃ XUÂN LẬP"
 		},
 		{
-			"id": "08893",
-			"name": "Xã Duy Phiên"
+			"id": 4353,
+			"name": "XÃ THƯỢNG LÂM"
 		},
 		{
-			"id": "08896",
-			"name": "Xã Hoàng Đan"
+			"id": 4354,
+			"name": "XÃ THỔ BÌNH"
 		},
 		{
-			"id": "08872",
-			"name": "Xã Hoàng Hoa"
+			"id": 4355,
+			"name": "XÃ PHÚC YÊN"
 		},
 		{
-			"id": "08899",
-			"name": "Xã Hoàng Lâu"
+			"id": 4356,
+			"name": "XÃ KHUÔN HÀ"
 		},
 		{
-			"id": "08869",
-			"name": "Thị trấn Hợp Hòa"
+			"id": 4357,
+			"name": "XÃ HỒNG QUANG"
 		},
 		{
-			"id": "08905",
-			"name": "Xã Hợp Thịnh"
+			"id": 4358,
+			"name": "XÃ BÌNH AN"
 		},
 		{
-			"id": "08881",
-			"name": "Xã Hướng Đạo"
-		},
-		{
-			"id": "08878",
-			"name": "Thị trấn Kim Long"
-		},
-		{
-			"id": "08890",
-			"name": "Xã Thanh Vân"
-		},
-		{
-			"id": "08902",
-			"name": "Xã Vân Hội"
+			"id": 27659,
+			"name": "XÃ PHÚC SƠN"
 		}
 	]
 }

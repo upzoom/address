@@ -1,86 +1,230 @@
 {
-	"id": "173",
-	"name": "Huyện Phú Bình",
+	"id": 173,
+	"name": "HUYỆN THÁI THỤY",
 	"data": [
 		{
-			"id": "05911",
-			"name": "Xã Bàn Đạt"
+			"id": 2773,
+			"name": "XÃ THÁI TÂN"
 		},
 		{
-			"id": "05929",
-			"name": "Xã Bảo Lý"
+			"id": 2774,
+			"name": "XÃ THÁI THÀNH"
 		},
 		{
-			"id": "05926",
-			"name": "Xã Đào Xá"
+			"id": 2775,
+			"name": "XÃ THÁI THỊNH"
 		},
 		{
-			"id": "05941",
-			"name": "Xã Điềm Thụy"
+			"id": 2776,
+			"name": "XÃ THÁI THỌ"
 		},
 		{
-			"id": "05965",
-			"name": "Xã Dương Thành"
+			"id": 2777,
+			"name": "XÃ THÁI THUẦN"
 		},
 		{
-			"id": "05968",
-			"name": "Xã Hà Châu"
+			"id": 2778,
+			"name": "XÃ THÁI THƯỢNG"
 		},
 		{
-			"id": "05908",
-			"name": "Thị trấn Hương Sơn"
+			"id": 2779,
+			"name": "XÃ THÁI THỦY"
 		},
 		{
-			"id": "05959",
-			"name": "Xã Kha Sơn"
+			"id": 2780,
+			"name": "XÃ THÁI XUYÊN"
 		},
 		{
-			"id": "05953",
-			"name": "Xã Lương Phú"
+			"id": 2781,
+			"name": "THỊ TRẤN DIÊM ĐIỀN"
 		},
 		{
-			"id": "05956",
-			"name": "Xã Nga My"
+			"id": 2782,
+			"name": "XÃ THỤY AN"
 		},
 		{
-			"id": "05938",
-			"name": "Xã Nhã Lộng"
+			"id": 2783,
+			"name": "XÃ THỤY BÌNH"
 		},
 		{
-			"id": "05947",
-			"name": "Xã Tân Đức"
+			"id": 2784,
+			"name": "XÃ THỤY CHÍNH"
 		},
 		{
-			"id": "05935",
-			"name": "Xã Tân Hòa"
+			"id": 2785,
+			"name": "XÃ THỤY DÂN"
 		},
 		{
-			"id": "05917",
-			"name": "Xã Tân Khánh"
+			"id": 2786,
+			"name": "XÃ THỤY DŨNG"
 		},
 		{
-			"id": "05920",
-			"name": "Xã Tân Kim"
+			"id": 2787,
+			"name": "XÃ THỤY DƯƠNG"
 		},
 		{
-			"id": "05923",
-			"name": "Xã Tân Thành"
+			"id": 2788,
+			"name": "XÃ THỤY DUYÊN"
 		},
 		{
-			"id": "05962",
-			"name": "Xã Thanh Ninh"
+			"id": 2789,
+			"name": "XÃ THỤY HÀ"
 		},
 		{
-			"id": "05932",
-			"name": "Xã Thượng Đình"
+			"id": 2790,
+			"name": "XÃ THỤY HẢI"
 		},
 		{
-			"id": "05950",
-			"name": "Xã Úc Kỳ"
+			"id": 2791,
+			"name": "XÃ THỤY VIỆT"
 		},
 		{
-			"id": "05944",
-			"name": "Xã Xuân Phương"
+			"id": 2792,
+			"name": "XÃ THỤY XUÂN"
+		},
+		{
+			"id": 2793,
+			"name": "XÃ HỒNG QUỲNH"
+		},
+		{
+			"id": 2794,
+			"name": "XÃ MỸ LỘC"
+		},
+		{
+			"id": 2795,
+			"name": "XÃ THÁI AN"
+		},
+		{
+			"id": 2796,
+			"name": "XÃ THÁI ĐÔ"
+		},
+		{
+			"id": 2797,
+			"name": "XÃ THÁI DƯƠNG"
+		},
+		{
+			"id": 2798,
+			"name": "XÃ THÁI GIANG"
+		},
+		{
+			"id": 2799,
+			"name": "XÃ THÁI HÀ"
+		},
+		{
+			"id": 2800,
+			"name": "XÃ THÁI HỌC"
+		},
+		{
+			"id": 2801,
+			"name": "XÃ THÁI HỒNG"
+		},
+		{
+			"id": 2802,
+			"name": "XÃ THÁI HƯNG"
+		},
+		{
+			"id": 2803,
+			"name": "XÃ THÁI NGUYÊN"
+		},
+		{
+			"id": 2804,
+			"name": "XÃ THÁI PHÚC"
+		},
+		{
+			"id": 2805,
+			"name": "XÃ THÁI SƠN"
+		},
+		{
+			"id": 2806,
+			"name": "XÃ THỤY HỒNG"
+		},
+		{
+			"id": 2807,
+			"name": "XÃ THỤY HƯNG"
+		},
+		{
+			"id": 2808,
+			"name": "XÃ THỤY LIÊN"
+		},
+		{
+			"id": 2809,
+			"name": "XÃ THỤY LƯƠNG"
+		},
+		{
+			"id": 2810,
+			"name": "XÃ THỤY NINH"
+		},
+		{
+			"id": 2811,
+			"name": "XÃ THỤY PHONG"
+		},
+		{
+			"id": 2812,
+			"name": "XÃ THỤY PHÚC"
+		},
+		{
+			"id": 2813,
+			"name": "XÃ THỤY QUỲNH"
+		},
+		{
+			"id": 2814,
+			"name": "XÃ THỤY SƠN"
+		},
+		{
+			"id": 2815,
+			"name": "XÃ THỤY TÂN"
+		},
+		{
+			"id": 2816,
+			"name": "XÃ THỤY THANH"
+		},
+		{
+			"id": 2817,
+			"name": "XÃ THỤY TRÌNH"
+		},
+		{
+			"id": 2818,
+			"name": "XÃ THỤY TRƯỜNG"
+		},
+		{
+			"id": 2819,
+			"name": "XÃ THỤY VĂN"
+		},
+		{
+			"id": 2820,
+			"name": "XÃ THÁI HÒA"
+		},
+		{
+			"id": 26248,
+			"name": "XÃ HÒA AN"
+		},
+		{
+			"id": 26250,
+			"name": "XÃ DƯƠNG PHÚC"
+		},
+		{
+			"id": 26246,
+			"name": "XÃ TÂN HỌC"
+		},
+		{
+			"id": 26247,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 26251,
+			"name": "XÃ AN TÂN"
+		},
+		{
+			"id": 26252,
+			"name": "XÃ HỒNG DŨNG"
+		},
+		{
+			"id": 26245,
+			"name": "XÃ THUẦN THÀNH"
+		},
+		{
+			"id": 26249,
+			"name": "XÃ DƯƠNG HỒNG THỦY"
 		}
 	]
 }

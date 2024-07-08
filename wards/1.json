@@ -1,0 +1,102 @@
+{
+	"id": 1,
+	"name": "QUẬN HOÀN KIẾM",
+	"data": [
+		{
+			"id": 6685,
+			"name": "XÃ THIỆU KHÁNH"
+		},
+		{
+			"id": 6692,
+			"name": "XÃ THIỆU VÂN"
+		},
+		{
+			"id": 6693,
+			"name": "XÃ THIỆU DƯƠNG"
+		},
+		{
+			"id": 6240,
+			"name": "XÃ ĐÔNG TÂN"
+		},
+		{
+			"id": 6243,
+			"name": "XÃ ĐÔNG LĨNH"
+		},
+		{
+			"id": 6246,
+			"name": "XÃ ĐÔNG VINH"
+		},
+		{
+			"id": 1,
+			"name": "PHƯỜNG HÀNG BUỒM"
+		},
+		{
+			"id": 2,
+			"name": "PHƯỜNG HÀNG ĐÀO"
+		},
+		{
+			"id": 3,
+			"name": "PHƯỜNG HÀNG GAI"
+		},
+		{
+			"id": 4,
+			"name": "PHƯỜNG HÀNG MÃ"
+		},
+		{
+			"id": 5,
+			"name": "PHƯỜNG LÝ THÁI TỔ"
+		},
+		{
+			"id": 6,
+			"name": "PHƯỜNG PHÚC TÂN"
+		},
+		{
+			"id": 7,
+			"name": "PHƯỜNG HÀNG BÀI"
+		},
+		{
+			"id": 8,
+			"name": "PHƯỜNG HÀNG BÔNG"
+		},
+		{
+			"id": 9,
+			"name": "PHƯỜNG TRÀNG TIỀN"
+		},
+		{
+			"id": 10,
+			"name": "PHƯỜNG PHAN CHU TRINH"
+		},
+		{
+			"id": 11,
+			"name": "PHƯỜNG CHƯƠNG DƯƠNG ĐỘ"
+		},
+		{
+			"id": 12,
+			"name": "PHƯỜNG CỬA NAM"
+		},
+		{
+			"id": 13,
+			"name": "PHƯỜNG TRẦN HƯNG ĐẠO"
+		},
+		{
+			"id": 14,
+			"name": "PHƯỜNG CỬA ĐÔNG"
+		},
+		{
+			"id": 15,
+			"name": "PHƯỜNG ĐỒNG XUÂN"
+		},
+		{
+			"id": 16,
+			"name": "PHƯỜNG HÀNG BẠC"
+		},
+		{
+			"id": 17,
+			"name": "PHƯỜNG HÀNG BỒ"
+		},
+		{
+			"id": 18,
+			"name": "PHƯỜNG HÀNG TRỐNG"
+		}
+	]
+}

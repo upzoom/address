@@ -1,46 +1,38 @@
 {
-	"id": "712",
-	"name": "Thị xã Trảng Bàng",
+	"id": 712,
+	"name": "THỊ XÃ MƯỜNG LAY",
 	"data": [
 		{
-			"id": "25735",
-			"name": "Phường An Hòa"
+			"id": 11687,
+			"name": "PHƯỜNG NA LAY"
 		},
 		{
-			"id": "25732",
-			"name": "Phường An Tịnh"
+			"id": 11688,
+			"name": "PHƯỜNG SÔNG ĐÀ"
 		},
 		{
-			"id": "25711",
-			"name": "Xã Đôn Thuận"
+			"id": 11689,
+			"name": "PHƯỜNG LAY NƯA"
 		},
 		{
-			"id": "25723",
-			"name": "Phường Gia Bình"
+			"id": 16993,
+			"name": "XÃ NẬM NÈN"
 		},
 		{
-			"id": "25720",
-			"name": "Phường Gia Lộc"
+			"id": 16998,
+			"name": "XÃ MƯỜNG TÙNG"
 		},
 		{
-			"id": "25714",
-			"name": "Xã Hưng Thuận"
+			"id": 16999,
+			"name": "XÃ SÁ TỔNG"
 		},
 		{
-			"id": "25717",
-			"name": "Phường Lộc Hưng"
+			"id": 17007,
+			"name": "XÃ PA HAM"
 		},
 		{
-			"id": "25729",
-			"name": "Xã Phước Bình"
-		},
-		{
-			"id": "25738",
-			"name": "Xã Phước Chỉ"
-		},
-		{
-			"id": "25708",
-			"name": "Phường Trảng Bàng"
+			"id": 17013,
+			"name": "XÃ NẬM MỨC"
 		}
 	]
 }

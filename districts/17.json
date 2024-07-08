@@ -1,46 +1,38 @@
 {
-	"id": "17",
-	"name": "Tỉnh Hoà Bình",
+	"id": 17,
+	"name": "Ninh Bình",
 	"data": [
 		{
-			"id": "154",
-			"name": "Huyện Cao Phong"
+			"id": 182,
+			"name": "THÀNH PHỐ NINH BÌNH"
 		},
 		{
-			"id": "150",
-			"name": "Huyện Đà Bắc"
+			"id": 183,
+			"name": "HUYỆN KIM SƠN"
 		},
 		{
-			"id": "148",
-			"name": "Thành phố Hòa Bình"
+			"id": 184,
+			"name": "HUYỆN NHO QUAN"
 		},
 		{
-			"id": "153",
-			"name": "Huyện Kim Bôi"
+			"id": 185,
+			"name": "HUYỆN GIA VIỄN"
 		},
 		{
-			"id": "157",
-			"name": "Huyện Lạc Sơn"
+			"id": 186,
+			"name": "HUYỆN YÊN MÔ"
 		},
 		{
-			"id": "159",
-			"name": "Huyện Lạc Thủy"
+			"id": 187,
+			"name": "HUYỆN YÊN KHÁNH"
 		},
 		{
-			"id": "152",
-			"name": "Huyện Lương Sơn"
+			"id": 188,
+			"name": "HUYỆN HOA LƯ"
 		},
 		{
-			"id": "156",
-			"name": "Huyện Mai Châu"
-		},
-		{
-			"id": "155",
-			"name": "Huyện Tân Lạc"
-		},
-		{
-			"id": "158",
-			"name": "Huyện Yên Thủy"
+			"id": 189,
+			"name": "THÀNH PHỐ TAM ĐIỆP"
 		}
 	]
 }

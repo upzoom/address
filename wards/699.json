@@ -1,0 +1,38 @@
+{
+	"id": 699,
+	"name": "HUYỆN PHƯỚC LONG",
+	"data": [
+		{
+			"id": 11535,
+			"name": "TT PHƯỚC LONG"
+		},
+		{
+			"id": 11536,
+			"name": "XÃ PHONG THẠNH TÂY A"
+		},
+		{
+			"id": 11537,
+			"name": "XÃ PHONG THẠNH TÂY B"
+		},
+		{
+			"id": 11538,
+			"name": "XÃ PHƯỚC LONG"
+		},
+		{
+			"id": 11539,
+			"name": "XÃ HƯNG PHÚ"
+		},
+		{
+			"id": 11532,
+			"name": "XÃ VĨNH THANH"
+		},
+		{
+			"id": 11533,
+			"name": "XÃ VĨNH PHÚ ĐÔNG"
+		},
+		{
+			"id": 11534,
+			"name": "XÃ VĨNH PHÚ TÂY"
+		}
+	]
+}

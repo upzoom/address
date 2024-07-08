@@ -1,0 +1,30 @@
+{
+	"id": 71,
+	"name": "QUẬN CẨM LỆ",
+	"data": [
+		{
+			"id": 1177,
+			"name": "PHƯỜNG KHUÊ TRUNG"
+		},
+		{
+			"id": 1178,
+			"name": "PHƯỜNG HÒA THỌ ĐÔNG"
+		},
+		{
+			"id": 1179,
+			"name": "PHƯỜNG HÒA THỌ TÂY"
+		},
+		{
+			"id": 1180,
+			"name": "PHƯỜNG HÒA PHÁT"
+		},
+		{
+			"id": 1181,
+			"name": "PHƯỜNG HÒA XUÂN"
+		},
+		{
+			"id": 1182,
+			"name": "PHƯỜNG HÒA AN"
+		}
+	]
+}

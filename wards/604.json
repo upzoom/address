@@ -1,0 +1,54 @@
+{
+	"id": 604,
+	"name": "HUYỆN TÂN TRỤ",
+	"data": [
+		{
+			"id": 10295,
+			"name": "THỊ TRẤN TÂN TRỤ"
+		},
+		{
+			"id": 10296,
+			"name": "XÃ BÌNH TỊNH"
+		},
+		{
+			"id": 10297,
+			"name": "XÃ BÌNH TRINH ĐÔNG"
+		},
+		{
+			"id": 10298,
+			"name": "XÃ TÂN PHƯỚC TÂY"
+		},
+		{
+			"id": 10299,
+			"name": "XÃ ĐỨC TÂN"
+		},
+		{
+			"id": 10300,
+			"name": "XÃ NHỰT NINH"
+		},
+		{
+			"id": 10301,
+			"name": "XÃ MỸ BÌNH"
+		},
+		{
+			"id": 10302,
+			"name": "XÃ QUÊ MỸ THẠNH"
+		},
+		{
+			"id": 10303,
+			"name": "XÃ AN NHỰT TÂN"
+		},
+		{
+			"id": 10304,
+			"name": "XÃ LẠC TẤN"
+		},
+		{
+			"id": 10305,
+			"name": "XÃ BÌNH LÃNG"
+		},
+		{
+			"id": 26142,
+			"name": "XÃ TÂN BÌNH"
+		}
+	]
+}

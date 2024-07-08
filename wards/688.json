@@ -1,34 +1,50 @@
 {
-	"id": "688",
-	"name": "Thị xã Phước Long",
+	"id": 688,
+	"name": "HUYỆN TRẦN ĐỀ",
 	"data": [
 		{
-			"id": "25245",
-			"name": "Xã Long Giang"
+			"id": 11416,
+			"name": "TT LỊCH HỘI THƯỢNG"
 		},
 		{
-			"id": "25220",
-			"name": "Phường Long Phước"
+			"id": 11417,
+			"name": "TT TRẦN ĐỀ"
 		},
 		{
-			"id": "25217",
-			"name": "Phường Long Thủy"
+			"id": 11418,
+			"name": "XÃ ĐẠI ÂN 2"
 		},
 		{
-			"id": "25219",
-			"name": "Phường Phước Bình"
+			"id": 11419,
+			"name": "XÃ LỊCH HỘI THƯỢNG"
 		},
 		{
-			"id": "25249",
-			"name": "Xã Phước Tín"
+			"id": 11420,
+			"name": "XÃ LIÊU TÚ"
 		},
 		{
-			"id": "25237",
-			"name": "Phường Sơn Giang"
+			"id": 11421,
+			"name": "XÃ TÀI VĂN"
 		},
 		{
-			"id": "25216",
-			"name": "Phường Thác Mơ"
+			"id": 11422,
+			"name": "XÃ THẠNH THỚI AN"
+		},
+		{
+			"id": 11423,
+			"name": "XÃ TRUNG BÌNH"
+		},
+		{
+			"id": 11424,
+			"name": "XÃ VIÊN AN"
+		},
+		{
+			"id": 11425,
+			"name": "XÃ VIÊN BÌNH"
+		},
+		{
+			"id": 11426,
+			"name": "XÃ THẠNH THỚI THUẬN"
 		}
 	]
 }

@@ -1,26 +1,38 @@
 {
-	"id": "490",
-	"name": "Quận Liên Chiểu",
+	"id": 490,
+	"name": "HUYỆN NGỌC HỒI",
 	"data": [
 		{
-			"id": "20194",
-			"name": "Phường Hòa Hiệp Bắc"
+			"id": 8902,
+			"name": "THỊ TRẤN PLEI KẦN"
 		},
 		{
-			"id": "20195",
-			"name": "Phường Hòa Hiệp Nam"
+			"id": 8903,
+			"name": "XÃ ĐĂK ANG"
 		},
 		{
-			"id": "20197",
-			"name": "Phường Hòa Khánh Bắc"
+			"id": 8904,
+			"name": "XÃ ĐĂK DỤC"
 		},
 		{
-			"id": "20198",
-			"name": "Phường Hòa Khánh Nam"
+			"id": 8905,
+			"name": "XÃ ĐĂK NÔNG"
 		},
 		{
-			"id": "20200",
-			"name": "Phường Hòa Minh"
+			"id": 8906,
+			"name": "XÃ ĐĂK KAN"
+		},
+		{
+			"id": 8907,
+			"name": "XÃ PỜ Y"
+		},
+		{
+			"id": 8908,
+			"name": "XÃ SA LOONG"
+		},
+		{
+			"id": 8909,
+			"name": "XÃ ĐĂK XÚ"
 		}
 	]
 }

@@ -1,0 +1,30 @@
+{
+	"id": 76,
+	"name": "QUẬN LIÊN CHIỂU",
+	"data": [
+		{
+			"id": 1219,
+			"name": "PHƯỜNG HÒA KHÁNH BẮC"
+		},
+		{
+			"id": 1220,
+			"name": "PHƯỜNG HÒA MINH"
+		},
+		{
+			"id": 1221,
+			"name": "PHƯỜNG HÒA HIỆP NAM"
+		},
+		{
+			"id": 1222,
+			"name": "PHƯỜNG HÒA HIỆP BẮC"
+		},
+		{
+			"id": 1223,
+			"name": "PHƯỜNG HÒA KHÁNH NAM"
+		},
+		{
+			"id": 1224,
+			"name": "PHƯỜNG THANH KHÊ TÂY"
+		}
+	]
+}

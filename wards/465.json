@@ -1,90 +1,82 @@
 {
-	"id": "465",
-	"name": "Huyện Hướng Hóa",
+	"id": 465,
+	"name": "HUYỆN PHÙ CÁT",
 	"data": [
 		{
-			"id": "19483",
-			"name": "Xã  A Dơi"
+			"id": 8551,
+			"name": "THỊ TRẤN NGÔ MÂY"
 		},
 		{
-			"id": "19477",
-			"name": "Xã Ba Tầng"
+			"id": 8552,
+			"name": "XÃ CÁT SƠN"
 		},
 		{
-			"id": "19468",
-			"name": "Xã Húc"
+			"id": 8553,
+			"name": "XÃ CÁT MINH"
 		},
 		{
-			"id": "19435",
-			"name": "Xã Hướng Lập"
+			"id": 8554,
+			"name": "XÃ CÁT TÀI"
 		},
 		{
-			"id": "19447",
-			"name": "Xã Hướng Linh"
+			"id": 8555,
+			"name": "XÃ CÁT KHÁNH"
 		},
 		{
-			"id": "19474",
-			"name": "Xã Hướng Lộc"
+			"id": 8556,
+			"name": "XÃ CÁT LÂM"
 		},
 		{
-			"id": "19441",
-			"name": "Xã Hướng Phùng"
+			"id": 8557,
+			"name": "XÃ CÁT HANH"
 		},
 		{
-			"id": "19444",
-			"name": "Xã Hướng Sơn"
+			"id": 8558,
+			"name": "XÃ CÁT THÀNH"
 		},
 		{
-			"id": "19453",
-			"name": "Xã Hướng Tân"
+			"id": 8559,
+			"name": "XÃ CÁT HẢI"
 		},
 		{
-			"id": "19438",
-			"name": "Xã Hướng Việt"
+			"id": 8560,
+			"name": "XÃ CÁT HIỆP"
 		},
 		{
-			"id": "19429",
-			"name": "Thị trấn Khe Sanh"
+			"id": 8561,
+			"name": "XÃ CÁT TRINH"
 		},
 		{
-			"id": "19432",
-			"name": "Thị trấn Lao Bảo"
+			"id": 8562,
+			"name": "XÃ CÁT NHƠN"
 		},
 		{
-			"id": "19489",
-			"name": "Xã Lìa"
+			"id": 8563,
+			"name": "XÃ CÁT HƯNG"
 		},
 		{
-			"id": "19450",
-			"name": "Xã Tân Hợp"
+			"id": 8564,
+			"name": "XÃ CÁT TƯỜNG"
 		},
 		{
-			"id": "19462",
-			"name": "Xã Tân Lập"
+			"id": 8565,
+			"name": "XÃ CÁT TÂN"
 		},
 		{
-			"id": "19465",
-			"name": "Xã Tân Liên"
+			"id": 8566,
+			"name": "XÃ CÁT TIẾN"
 		},
 		{
-			"id": "19459",
-			"name": "Xã Tân Long"
+			"id": 8567,
+			"name": "THỊ TRẤN GÒ GĂNG"
 		},
 		{
-			"id": "19456",
-			"name": "Xã Tân Thành"
+			"id": 8568,
+			"name": "XÃ CÁT THẮNG"
 		},
 		{
-			"id": "19480",
-			"name": "Xã Thanh"
-		},
-		{
-			"id": "19471",
-			"name": "Xã Thuận"
-		},
-		{
-			"id": "19492",
-			"name": "Xã Xy"
+			"id": 8569,
+			"name": "XÃ CÁT CHÁNH"
 		}
 	]
 }

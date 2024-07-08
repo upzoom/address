@@ -1,0 +1,46 @@
+{
+	"id": 211,
+	"name": "HUYỆN TRÀ LĨNH",
+	"data": [
+		{
+			"id": 3616,
+			"name": "THỊ TRẤN HÙNG QUỐC"
+		},
+		{
+			"id": 3617,
+			"name": "XÃ CÔ  MƯỜI"
+		},
+		{
+			"id": 3618,
+			"name": "XÃ TRI PHƯƠNG"
+		},
+		{
+			"id": 3619,
+			"name": "XÃ QUANG HÁN"
+		},
+		{
+			"id": 3620,
+			"name": "XÃ QUANG VINH"
+		},
+		{
+			"id": 3621,
+			"name": "XÃ QUANG TRUNG"
+		},
+		{
+			"id": 3622,
+			"name": "XÃ LƯU NGỌC"
+		},
+		{
+			"id": 3623,
+			"name": "XÃ XUÂN NỘI"
+		},
+		{
+			"id": 3624,
+			"name": "XÃ CAO CHƯƠNG"
+		},
+		{
+			"id": 3625,
+			"name": "XÃ QUỐC TOẢN"
+		}
+	]
+}

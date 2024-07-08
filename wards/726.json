@@ -1,46 +1,70 @@
 {
-	"id": "726",
-	"name": "Huyện Bắc Tân Uyên",
+	"id": 726,
+	"name": "THỊ XÃ CAI LẬY",
 	"data": [
 		{
-			"id": "25897",
-			"name": "Xã Bình Mỹ"
+			"id": 20578,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "25907",
-			"name": "Xã Đất Cuốc"
+			"id": 20579,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "25908",
-			"name": "Xã Hiếu Liêm"
+			"id": 20580,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "25909",
-			"name": "Xã Lạc An"
+			"id": 20581,
+			"name": "XÃ MỸ PHƯỚC TÂY"
 		},
 		{
-			"id": "25900",
-			"name": "Thị trấn Tân Bình"
+			"id": 20585,
+			"name": "XÃ LONG KHÁNH"
 		},
 		{
-			"id": "25894",
-			"name": "Xã Tân Định"
+			"id": 20575,
+			"name": "XÃ THANH HÒA"
 		},
 		{
-			"id": "25903",
-			"name": "Xã Tân Lập"
+			"id": 20576,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "25918",
-			"name": "Xã Tân Mỹ"
+			"id": 20586,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25906",
-			"name": "Thị trấn Tân Thành"
+			"id": 20587,
+			"name": "XÃ PHÚ QUÝ"
 		},
 		{
-			"id": "25927",
-			"name": "Xã Thường Tân"
+			"id": 20572,
+			"name": "XÃ NHỊ QUÝ"
+		},
+		{
+			"id": 20573,
+			"name": "XÃ NHỊ MỸ"
+		},
+		{
+			"id": 20574,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 20577,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 20582,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 20583,
+			"name": "XÃ MỸ HẠNH ĐÔNG"
+		},
+		{
+			"id": 20584,
+			"name": "XÃ MỸ HẠNH TRUNG"
 		}
 	]
 }

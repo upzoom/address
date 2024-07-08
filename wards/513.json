@@ -1,94 +1,58 @@
 {
-	"id": "513",
-	"name": "Huyện Thăng Bình",
+	"id": 513,
+	"name": "THỊ XÃ BUÔN HỒ",
 	"data": [
 		{
-			"id": "20845",
-			"name": "Xã Bình An"
+			"id": 9177,
+			"name": "PHƯỜNG AN LẠC"
 		},
 		{
-			"id": "20830",
-			"name": "Xã Bình Chánh"
+			"id": 9178,
+			"name": "PHƯỜNG ĐOÀN KẾT"
 		},
 		{
-			"id": "20809",
-			"name": "Xã Bình Đào"
+			"id": 9179,
+			"name": "PHƯỜNG AN BÌNH"
 		},
 		{
-			"id": "20821",
-			"name": "Xã Bình Định Bắc"
+			"id": 9180,
+			"name": "XÃ EA DRÔNG"
 		},
 		{
-			"id": "20822",
-			"name": "Xã Bình Định Nam"
+			"id": 9181,
+			"name": "XÃ BÌNH THUẬN"
 		},
 		{
-			"id": "20794",
-			"name": "Xã Bình Dương"
+			"id": 9182,
+			"name": "XÃ CƯ BAO"
 		},
 		{
-			"id": "20797",
-			"name": "Xã Bình Giang"
+			"id": 9183,
+			"name": "XÃ EA SIÊN"
 		},
 		{
-			"id": "20839",
-			"name": "Xã Bình Hải"
+			"id": 9184,
+			"name": "XÃ EA BLANG"
 		},
 		{
-			"id": "20815",
-			"name": "Xã Bình Lãnh"
+			"id": 9185,
+			"name": "PHƯỜNG THIỆN AN"
 		},
 		{
-			"id": "20812",
-			"name": "Xã Bình Minh"
+			"id": 9186,
+			"name": "PHƯỜNG THỐNG NHẤT"
 		},
 		{
-			"id": "20851",
-			"name": "Xã Bình Nam"
+			"id": 9187,
+			"name": "PHƯỜNG ĐẠT HIẾU"
 		},
 		{
-			"id": "20800",
-			"name": "Xã Bình Nguyên"
+			"id": 9188,
+			"name": "PHƯỜNG BÌNH TÂN"
 		},
 		{
-			"id": "20827",
-			"name": "Xã Bình Phú"
-		},
-		{
-			"id": "20803",
-			"name": "Xã Bình Phục"
-		},
-		{
-			"id": "20842",
-			"name": "Xã Bình Quế"
-		},
-		{
-			"id": "20824",
-			"name": "Xã Bình Quý"
-		},
-		{
-			"id": "20836",
-			"name": "Xã Bình Sa"
-		},
-		{
-			"id": "20818",
-			"name": "Xã Bình Trị"
-		},
-		{
-			"id": "20806",
-			"name": "Xã Bình Triều"
-		},
-		{
-			"id": "20848",
-			"name": "Xã Bình Trung"
-		},
-		{
-			"id": "20833",
-			"name": "Xã Bình Tú"
-		},
-		{
-			"id": "20791",
-			"name": "Thị trấn Hà Lam"
+			"id": 9189,
+			"name": "PHƯỜNG BÌNH AN"
 		}
 	]
 }

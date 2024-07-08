@@ -1,90 +1,50 @@
 {
-	"id": "40",
-	"name": "Tỉnh Nghệ An",
+	"id": 40,
+	"name": "Bình Ðịnh",
 	"data": [
 		{
-			"id": "424",
-			"name": "Huyện Anh Sơn"
+			"id": 455,
+			"name": "HUYỆN TÂY SƠN"
 		},
 		{
-			"id": "422",
-			"name": "Huyện Con Cuông"
+			"id": 456,
+			"name": "HUYỆN HOÀI ÂN"
 		},
 		{
-			"id": "413",
-			"name": "Thị xã Cửa Lò"
+			"id": 457,
+			"name": "HUYỆN VÂN CANH"
 		},
 		{
-			"id": "425",
-			"name": "Huyện Diễn Châu"
+			"id": 458,
+			"name": "THỊ XÃ AN NHƠN"
 		},
 		{
-			"id": "427",
-			"name": "Huyện Đô Lương"
+			"id": 459,
+			"name": "HUYỆN HOÀI NHƠN"
 		},
 		{
-			"id": "432",
-			"name": "Thị xã Hoàng Mai"
+			"id": 460,
+			"name": "HUYỆN AN LÃO"
 		},
 		{
-			"id": "431",
-			"name": "Huyện Hưng Nguyên"
+			"id": 461,
+			"name": "HUYỆN VĨNH THẠNH"
 		},
 		{
-			"id": "417",
-			"name": "Huyện Kỳ Sơn"
+			"id": 462,
+			"name": "HUYỆN TUY PHƯỚC"
 		},
 		{
-			"id": "430",
-			"name": "Huyện Nam Đàn"
+			"id": 463,
+			"name": "HUYỆN PHÙ MỸ"
 		},
 		{
-			"id": "429",
-			"name": "Huyện Nghi Lộc"
+			"id": 464,
+			"name": "THÀNH PHỐ QUI NHƠN"
 		},
 		{
-			"id": "419",
-			"name": "Huyện Nghĩa Đàn"
-		},
-		{
-			"id": "415",
-			"name": "Huyện Quế Phong"
-		},
-		{
-			"id": "416",
-			"name": "Huyện Quỳ Châu"
-		},
-		{
-			"id": "420",
-			"name": "Huyện Quỳ Hợp"
-		},
-		{
-			"id": "421",
-			"name": "Huyện Quỳnh Lưu"
-		},
-		{
-			"id": "423",
-			"name": "Huyện Tân Kỳ"
-		},
-		{
-			"id": "414",
-			"name": "Thị xã Thái Hoà"
-		},
-		{
-			"id": "428",
-			"name": "Huyện Thanh Chương"
-		},
-		{
-			"id": "418",
-			"name": "Huyện Tương Dương"
-		},
-		{
-			"id": "412",
-			"name": "Thành phố Vinh"
-		},
-		{
-			"id": "426",
-			"name": "Huyện Yên Thành"
+			"id": 465,
+			"name": "HUYỆN PHÙ CÁT"
 		}
 	]
 }

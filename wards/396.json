@@ -1,70 +1,122 @@
 {
-	"id": "396",
-	"name": "Huyện Thường Xuân",
+	"id": 396,
+	"name": "HUYỆN LỆ THỦY",
 	"data": [
 		{
-			"id": "15607",
-			"name": "Xã Bát Mọt"
+			"id": 7503,
+			"name": "THỊ TRẤN KIẾN GIANG"
 		},
 		{
-			"id": "15637",
-			"name": "Xã Luận Khê"
+			"id": 7504,
+			"name": "XÃ PHONG THỦY"
 		},
 		{
-			"id": "15634",
-			"name": "Xã Luận Thành"
+			"id": 7505,
+			"name": "XÃ LIÊN THỦY"
 		},
 		{
-			"id": "15628",
-			"name": "Xã Lương Sơn"
+			"id": 7506,
+			"name": "XÃ LỘC THỦY"
 		},
 		{
-			"id": "15655",
-			"name": "Xã Ngọc Phụng"
+			"id": 7507,
+			"name": "XÃ HỒNG THỦY"
 		},
 		{
-			"id": "15661",
-			"name": "Xã Tân Thành"
+			"id": 7508,
+			"name": "XÃ THANH THỦY"
 		},
 		{
-			"id": "15652",
-			"name": "Xã Thọ Thanh"
+			"id": 7509,
+			"name": "XÃ HOA THỦY"
 		},
 		{
-			"id": "15646",
-			"name": "Thị trấn Thường Xuân"
+			"id": 7510,
+			"name": "XÃ AN THỦY"
 		},
 		{
-			"id": "15622",
-			"name": "Xã Vạn Xuân"
+			"id": 7511,
+			"name": "XÃ SƠN THỦY"
 		},
 		{
-			"id": "15631",
-			"name": "Xã Xuân Cao"
+			"id": 7512,
+			"name": "XÃ NGÂN THỦY"
 		},
 		{
-			"id": "15658",
-			"name": "Xã Xuân Chinh"
+			"id": 7513,
+			"name": "XÃ HƯNG THỦY"
 		},
 		{
-			"id": "15649",
-			"name": "Xã Xuân Dương"
+			"id": 7514,
+			"name": "XÃ TÂN THỦY"
 		},
 		{
-			"id": "15619",
-			"name": "Xã Xuân Lẹ"
+			"id": 7515,
+			"name": "XÃ XUÂN THỦY"
 		},
 		{
-			"id": "15643",
-			"name": "Xã Xuân Lộc"
+			"id": 7516,
+			"name": "XÃ DƯƠNG THỦY"
 		},
 		{
-			"id": "15640",
-			"name": "Xã Xuân Thắng"
+			"id": 7517,
+			"name": "XÃ MAI THỦY"
 		},
 		{
-			"id": "15610",
-			"name": "Xã Yên Nhân"
+			"id": 7518,
+			"name": "XÃ PHÚ THỦY"
+		},
+		{
+			"id": 7519,
+			"name": "XÃ MỸ THỦY"
+		},
+		{
+			"id": 7520,
+			"name": "XÃ SEN THỦY"
+		},
+		{
+			"id": 7521,
+			"name": "XÃ TRƯỜNG THỦY"
+		},
+		{
+			"id": 7522,
+			"name": "XÃ VĂN THỦY"
+		},
+		{
+			"id": 7523,
+			"name": "XÃ KIM THỦY"
+		},
+		{
+			"id": 7524,
+			"name": "XÃ THÁI THỦY"
+		},
+		{
+			"id": 7525,
+			"name": "THỊ TRẤN NÔNG TRƯỜNG LỆ NINH"
+		},
+		{
+			"id": 7526,
+			"name": "XÃ CAM THỦY"
+		},
+		{
+			"id": 7527,
+			"name": "XÃ LÂM THỦY"
+		},
+		{
+			"id": 7528,
+			"name": "XÃ NGƯ THỦY BẮC"
+		},
+		{
+			"id": 7529,
+			"name": "XÃ NGƯ THỦY TRUNG"
+		},
+		{
+			"id": 7530,
+			"name": "XÃ NGƯ THỦY NAM"
+		},
+		{
+			"id": 26174,
+			"name": "XÃ NGƯ THỦY"
 		}
 	]
 }

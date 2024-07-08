@@ -1,0 +1,42 @@
+{
+	"id": 619,
+	"name": "HUYỆN TÂN HỒNG",
+	"data": [
+		{
+			"id": 10496,
+			"name": "XÃ THÔNG BÌNH"
+		},
+		{
+			"id": 10497,
+			"name": "XÃ BÌNH PHÚ"
+		},
+		{
+			"id": 10498,
+			"name": "XÃ TÂN THÀNH A"
+		},
+		{
+			"id": 10499,
+			"name": "XÃ TÂN THÀNH B"
+		},
+		{
+			"id": 10500,
+			"name": "TT SA RÀI"
+		},
+		{
+			"id": 10501,
+			"name": "XÃ TÂN HỘI CƠ"
+		},
+		{
+			"id": 10502,
+			"name": "XÃ TÂN PHƯỚC"
+		},
+		{
+			"id": 10503,
+			"name": "XÃ TÂN CÔNG CHÍ"
+		},
+		{
+			"id": 10504,
+			"name": "XÃ AN PHƯỚC"
+		}
+	]
+}

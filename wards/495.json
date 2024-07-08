@@ -1,30 +1,62 @@
 {
-	"id": "495",
-	"name": "Quận Cẩm Lệ",
+	"id": 495,
+	"name": "HUYỆN KRÔNG PA",
 	"data": [
 		{
-			"id": "20306",
-			"name": "Phường Hòa An"
+			"id": 8952,
+			"name": "XÃ IAR MOOK"
 		},
 		{
-			"id": "20305",
-			"name": "Phường Hòa Phát"
+			"id": 8953,
+			"name": "XÃ KRÔNG NĂNG"
 		},
 		{
-			"id": "20312",
-			"name": "Phường Hòa Thọ Đông"
+			"id": 8954,
+			"name": "XÃ IA MLÁH"
 		},
 		{
-			"id": "20311",
-			"name": "Phường Hòa Thọ Tây"
+			"id": 8955,
+			"name": "XÃ ĐẤT BẰNG"
 		},
 		{
-			"id": "20314",
-			"name": "Phường Hòa Xuân"
+			"id": 8956,
+			"name": "XÃ IA HDREH"
 		},
 		{
-			"id": "20260",
-			"name": "Phường Khuê Trung"
+			"id": 8957,
+			"name": "XÃ UAR"
+		},
+		{
+			"id": 8958,
+			"name": "XÃ CHƯR CĂM"
+		},
+		{
+			"id": 8959,
+			"name": "THỊ TRẤN PHÚ TÚC"
+		},
+		{
+			"id": 8960,
+			"name": "XÃ PHÚ CẦN"
+		},
+		{
+			"id": 8961,
+			"name": "XÃ CHƯ GU"
+		},
+		{
+			"id": 8962,
+			"name": "XÃ CHƯ NGỌC"
+		},
+		{
+			"id": 8963,
+			"name": "XÃ IARSƯƠM"
+		},
+		{
+			"id": 8964,
+			"name": "XÃ CHƯ DRĂNG"
+		},
+		{
+			"id": 8965,
+			"name": "XÃ IA SAI"
 		}
 	]
 }

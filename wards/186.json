@@ -1,102 +1,82 @@
 {
-	"id": "186",
-	"name": "Huyện Hữu Lũng",
+	"id": 186,
+	"name": "HUYỆN YÊN MÔ",
 	"data": [
 		{
-			"id": "06427",
-			"name": "Xã Cai Kinh"
+			"id": 3194,
+			"name": "XÃ KHÁNH DƯƠNG"
 		},
 		{
-			"id": "06424",
-			"name": "Xã Đồng Tân"
+			"id": 3195,
+			"name": "XÃ KHÁNH THỊNH"
 		},
 		{
-			"id": "06436",
-			"name": "Xã Đồng Tiến"
+			"id": 3196,
+			"name": "THỊ TRẤN YÊN THỊNH"
 		},
 		{
-			"id": "06451",
-			"name": "Xã Hồ Sơn"
+			"id": 3197,
+			"name": "XÃ YÊN HOÀ"
 		},
 		{
-			"id": "06397",
-			"name": "Xã Hòa Bình"
+			"id": 3198,
+			"name": "XÃ YÊN HƯNG"
 		},
 		{
-			"id": "06430",
-			"name": "Xã Hòa Lạc"
+			"id": 3199,
+			"name": "XÃ YÊN LÂM"
 		},
 		{
-			"id": "06445",
-			"name": "Xã Hòa Sơn"
+			"id": 3200,
+			"name": "XÃ YÊN MẠC"
 		},
 		{
-			"id": "06460",
-			"name": "Xã Hòa Thắng"
+			"id": 3201,
+			"name": "XÃ YÊN MỸ"
 		},
 		{
-			"id": "06388",
-			"name": "Xã Hữu Liên"
+			"id": 3202,
+			"name": "XÃ YÊN NHÂN"
 		},
 		{
-			"id": "06385",
-			"name": "Thị trấn Hữu Lũng"
+			"id": 3203,
+			"name": "XÃ YÊN PHONG"
 		},
 		{
-			"id": "06457",
-			"name": "Xã Minh Hòa"
+			"id": 3204,
+			"name": "XÃ YÊN PHÚ"
 		},
 		{
-			"id": "06448",
-			"name": "Xã Minh Sơn"
+			"id": 3205,
+			"name": "XÃ YÊN TỪ"
 		},
 		{
-			"id": "06415",
-			"name": "Xã Minh Tiến"
+			"id": 3206,
+			"name": "XÃ KHÁNH THƯỢNG"
 		},
 		{
-			"id": "06418",
-			"name": "Xã Nhật Tiến"
+			"id": 3207,
+			"name": "XÃ MAI SƠN"
 		},
 		{
-			"id": "06394",
-			"name": "Xã Quyết Thắng"
+			"id": 3208,
+			"name": "XÃ YÊN ĐÔNG"
 		},
 		{
-			"id": "06454",
-			"name": "Xã Sơn Hà"
+			"id": 3209,
+			"name": "XÃ YÊN THÁI"
 		},
 		{
-			"id": "06442",
-			"name": "Xã Tân Thành"
+			"id": 3210,
+			"name": "XÃ YÊN THẮNG"
 		},
 		{
-			"id": "06421",
-			"name": "Xã Thanh Sơn"
+			"id": 3211,
+			"name": "XÃ YÊN THÀNH"
 		},
 		{
-			"id": "06406",
-			"name": "Xã Thiện Tân"
-		},
-		{
-			"id": "06433",
-			"name": "Xã Vân Nham"
-		},
-		{
-			"id": "06391",
-			"name": "Xã Yên Bình"
-		},
-		{
-			"id": "06403",
-			"name": "Xã Yên Sơn"
-		},
-		{
-			"id": "06400",
-			"name": "Xã Yên Thịnh"
-		},
-		{
-			"id": "06412",
-			"name": "Xã Yên Vượng"
+			"id": 3212,
+			"name": "THỊ TRẤN NGÓ"
 		}
 	]
 }

@@ -1,0 +1,98 @@
+{
+	"id": 5,
+	"name": "HUYỆN THẠCH THẤT",
+	"data": [
+		{
+			"id": 87,
+			"name": "XÃ CANH NẬU"
+		},
+		{
+			"id": 88,
+			"name": "XÃ CẨM YÊN"
+		},
+		{
+			"id": 89,
+			"name": "XÃ CẦN KIỆM"
+		},
+		{
+			"id": 90,
+			"name": "XÃ CHÀNG SƠN"
+		},
+		{
+			"id": 91,
+			"name": "XÃ DỊ NẬU"
+		},
+		{
+			"id": 92,
+			"name": "XÃ ĐẠI ĐỒNG"
+		},
+		{
+			"id": 93,
+			"name": "XÃ ĐỒNG TRÚC"
+		},
+		{
+			"id": 94,
+			"name": "XÃ HẠ BẰNG"
+		},
+		{
+			"id": 95,
+			"name": "XÃ HƯƠNG NGẢI"
+		},
+		{
+			"id": 96,
+			"name": "THỊ TRẤN LIÊN QUAN"
+		},
+		{
+			"id": 97,
+			"name": "XÃ TIẾN XUÂN"
+		},
+		{
+			"id": 98,
+			"name": "XÃ THẠCH XÁ"
+		},
+		{
+			"id": 99,
+			"name": "XÃ YÊN BÌNH"
+		},
+		{
+			"id": 100,
+			"name": "XÃ YÊN TRUNG"
+		},
+		{
+			"id": 101,
+			"name": "XÃ BÌNH PHÚ"
+		},
+		{
+			"id": 102,
+			"name": "XÃ BÌNH YÊN"
+		},
+		{
+			"id": 103,
+			"name": "XÃ HỮU BẰNG"
+		},
+		{
+			"id": 104,
+			"name": "XÃ KIM QUAN"
+		},
+		{
+			"id": 105,
+			"name": "XÃ LẠI THƯỢNG"
+		},
+		{
+			"id": 106,
+			"name": "XÃ PHÚ KIM"
+		},
+		{
+			"id": 107,
+			"name": "XÃ PHÙNG XÁ"
+		},
+		{
+			"id": 108,
+			"name": "XÃ TÂN XÃ"
+		},
+		{
+			"id": 109,
+			"name": "XÃ THẠCH HÒA"
+		}
+	]
+}

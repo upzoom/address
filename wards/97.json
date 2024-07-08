@@ -1,0 +1,106 @@
+{
+	"id": 97,
+	"name": "HUYỆN CHÂU THÀNH",
+	"data": [
+		{
+			"id": 1421,
+			"name": "THỊ TRẤN TÂN HIỆP"
+		},
+		{
+			"id": 1422,
+			"name": "XÃ DƯỠNG ĐIỂM"
+		},
+		{
+			"id": 1423,
+			"name": "XÃ VĨNH KIM"
+		},
+		{
+			"id": 1424,
+			"name": "XÃ KIM SƠN"
+		},
+		{
+			"id": 1425,
+			"name": "XÃ ĐIỀM HY"
+		},
+		{
+			"id": 1426,
+			"name": "XÃ NHỊ BÌNH"
+		},
+		{
+			"id": 1427,
+			"name": "XÃ TAM HIỆP"
+		},
+		{
+			"id": 1428,
+			"name": "XÃ THÂN CỬU NGHĨA"
+		},
+		{
+			"id": 1429,
+			"name": "XÃ LONG ĐỊNH"
+		},
+		{
+			"id": 1430,
+			"name": "XÃ THỚI SƠN"
+		},
+		{
+			"id": 1431,
+			"name": "XÃ BÀN LONG"
+		},
+		{
+			"id": 1432,
+			"name": "XÃ SONG THUẬN"
+		},
+		{
+			"id": 1433,
+			"name": "XÃ TÂN LÝ ĐÔNG"
+		},
+		{
+			"id": 1434,
+			"name": "XÃ TÂN LÝ TÂY"
+		},
+		{
+			"id": 1435,
+			"name": "XÃ LONG AN"
+		},
+		{
+			"id": 1436,
+			"name": "XÃ TÂN HƯƠNG"
+		},
+		{
+			"id": 1437,
+			"name": "XÃ THẠNH PHÚ"
+		},
+		{
+			"id": 1438,
+			"name": "XÃ BÌNH ĐỨC"
+		},
+		{
+			"id": 1439,
+			"name": "XÃ ĐÔNG HÒA"
+		},
+		{
+			"id": 1440,
+			"name": "XÃ PHƯỚC THẠNH"
+		},
+		{
+			"id": 1441,
+			"name": "XÃ BÌNH TRƯNG"
+		},
+		{
+			"id": 1442,
+			"name": "XÃ TÂN HỘI ĐÔNG"
+		},
+		{
+			"id": 1443,
+			"name": "XÃ HỮU ĐẠO"
+		},
+		{
+			"id": 1444,
+			"name": "XÃ LONG HƯNG"
+		},
+		{
+			"id": 1445,
+			"name": "XÃ PHÚ PHONG"
+		}
+	]
+}

@@ -1,42 +1,94 @@
 {
-	"id": "370",
-	"name": "Thành phố Tam Điệp",
+	"id": 370,
+	"name": "HUYỆN TÂN KỲ",
 	"data": [
 		{
-			"id": "14362",
-			"name": "Phường Bắc Sơn"
+			"id": 6835,
+			"name": "THỊ TRẤN TÂN KỲ"
 		},
 		{
-			"id": "14380",
-			"name": "Xã Đông Sơn"
+			"id": 6836,
+			"name": "XÃ KỲ SƠN"
 		},
 		{
-			"id": "14368",
-			"name": "Phường Nam Sơn"
+			"id": 6837,
+			"name": "XÃ KỲ TÂN"
 		},
 		{
-			"id": "14377",
-			"name": "Xã Quang Sơn"
+			"id": 6838,
+			"name": "XÃ NGHĨA DŨNG"
 		},
 		{
-			"id": "14375",
-			"name": "Phường Tân Bình"
+			"id": 6839,
+			"name": "XÃ NGHĨA HÀNH"
 		},
 		{
-			"id": "14369",
-			"name": "Phường Tây Sơn"
+			"id": 6840,
+			"name": "XÃ TÂN LONG"
 		},
 		{
-			"id": "14365",
-			"name": "Phường Trung Sơn"
+			"id": 6841,
+			"name": "XÃ TÂN HƯƠNG"
 		},
 		{
-			"id": "14374",
-			"name": "Phường Yên Bình"
+			"id": 6842,
+			"name": "XÃ ĐỒNG VĂN"
 		},
 		{
-			"id": "14371",
-			"name": "Xã Yên Sơn"
+			"id": 6843,
+			"name": "XÃ GIAI XUÂN"
+		},
+		{
+			"id": 6844,
+			"name": "XÃ HƯƠNG SƠN"
+		},
+		{
+			"id": 6845,
+			"name": "XÃ NGHĨA BÌNH"
+		},
+		{
+			"id": 6846,
+			"name": "XÃ NGHĨA ĐỒNG"
+		},
+		{
+			"id": 6847,
+			"name": "XÃ NGHĨA HOÀN"
+		},
+		{
+			"id": 6848,
+			"name": "XÃ NGHĨA HỢP"
+		},
+		{
+			"id": 6849,
+			"name": "XÃ NGHĨA PHÚC"
+		},
+		{
+			"id": 6850,
+			"name": "XÃ NGHĨA THÁI"
+		},
+		{
+			"id": 6851,
+			"name": "XÃ PHÚ SƠN"
+		},
+		{
+			"id": 6852,
+			"name": "XÃ TÂN AN"
+		},
+		{
+			"id": 6853,
+			"name": "XÃ TÂN HỢP"
+		},
+		{
+			"id": 6854,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 6855,
+			"name": "XÃ TÂN XUÂN"
+		},
+		{
+			"id": 6856,
+			"name": "XÃ TIÊN KỲ"
 		}
 	]
 }

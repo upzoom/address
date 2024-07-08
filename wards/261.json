@@ -1,54 +1,138 @@
 {
-	"id": "261",
-	"name": "Thành phố Từ Sơn",
+	"id": 261,
+	"name": "THÀNH PHỐ THÁI NGUYÊN",
 	"data": [
 		{
-			"id": "09388",
-			"name": "Phường Châu Khê"
+			"id": 18467,
+			"name": "PHƯỜNG CHÙA HANG"
 		},
 		{
-			"id": "09394",
-			"name": "Phường Đình Bảng"
+			"id": 4650,
+			"name": "PHƯỜNG QUÁN TRIỀU"
 		},
 		{
-			"id": "09382",
-			"name": "Phường Đồng Kỵ"
+			"id": 4651,
+			"name": "PHƯỜNG QUANG VINH"
 		},
 		{
-			"id": "09367",
-			"name": "Phường Đông Ngàn"
+			"id": 4652,
+			"name": "PHƯỜNG TÚC DUYÊN"
 		},
 		{
-			"id": "09385",
-			"name": "Phường Đồng Nguyên"
+			"id": 4653,
+			"name": "PHƯỜNG HOÀNG VĂN THỤ"
 		},
 		{
-			"id": "09373",
-			"name": "Phường Hương Mạc"
+			"id": 4654,
+			"name": "PHƯỜNG QUANG TRUNG"
 		},
 		{
-			"id": "09397",
-			"name": "Phường Phù Chẩn"
+			"id": 4655,
+			"name": "PHƯỜNG PHAN ĐÌNH PHÙNG"
 		},
 		{
-			"id": "09379",
-			"name": "Phường Phù Khê"
+			"id": 4656,
+			"name": "PHƯỜNG TÂN THỊNH"
 		},
 		{
-			"id": "09370",
-			"name": "Phường Tam Sơn"
+			"id": 4657,
+			"name": "PHƯỜNG THỊNH ĐÁN"
 		},
 		{
-			"id": "09391",
-			"name": "Phường Tân Hồng"
+			"id": 4658,
+			"name": "PHƯỜNG ĐỒNG QUANG"
 		},
 		{
-			"id": "09383",
-			"name": "Phường Trang Hạ"
+			"id": 4659,
+			"name": "PHƯỜNG GIA SÀNG"
 		},
 		{
-			"id": "09376",
-			"name": "Phường Tương Giang"
+			"id": 4660,
+			"name": "PHƯỜNG TÂN LẬP"
+		},
+		{
+			"id": 4661,
+			"name": "PHƯỜNG CAM GIÁ"
+		},
+		{
+			"id": 4662,
+			"name": "PHƯỜNG PHÚ XÁ"
+		},
+		{
+			"id": 4663,
+			"name": "PHƯỜNG HƯƠNG SƠN"
+		},
+		{
+			"id": 4664,
+			"name": "PHƯỜNG TRUNG THÀNH"
+		},
+		{
+			"id": 4665,
+			"name": "PHƯỜNG TÂN THÀNH"
+		},
+		{
+			"id": 4666,
+			"name": "PHƯỜNG TÂN LONG"
+		},
+		{
+			"id": 4667,
+			"name": "XÃ PHÚC HÀ"
+		},
+		{
+			"id": 4668,
+			"name": "XÃ PHÚC XUÂN"
+		},
+		{
+			"id": 4669,
+			"name": "XÃ QUYẾT THẮNG"
+		},
+		{
+			"id": 4670,
+			"name": "XÃ PHÚC TRÌU"
+		},
+		{
+			"id": 4671,
+			"name": "XÃ THỊNH ĐỨC"
+		},
+		{
+			"id": 4672,
+			"name": "XÃ TÍCH LƯƠNG"
+		},
+		{
+			"id": 4673,
+			"name": "XÃ TÂN CƯƠNG"
+		},
+		{
+			"id": 4674,
+			"name": "XÃ LƯƠNG SƠN"
+		},
+		{
+			"id": 4675,
+			"name": "PHƯỜNG TRƯNG VƯƠNG"
+		},
+		{
+			"id": 4676,
+			"name": "XÃ CAO NGẠN"
+		},
+		{
+			"id": 4677,
+			"name": "XÃ ĐỒNG BẨM"
+		},
+		{
+			"id": 26310,
+			"name": "XÃ SƠN CẨM"
+		},
+		{
+			"id": 26308,
+			"name": "XÃ HUỐNG THƯỢNG"
+		},
+		{
+			"id": 26309,
+			"name": "XÃ LINH SƠN"
+		},
+		{
+			"id": 26307,
+			"name": "XÃ ĐỒNG LIÊN"
 		}
 	]
 }

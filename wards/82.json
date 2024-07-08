@@ -1,0 +1,58 @@
+{
+	"id": 82,
+	"name": "QUẬN NINH KIỀU",
+	"data": [
+		{
+			"id": 1276,
+			"name": "PHƯỜNG CÁI KHẾ"
+		},
+		{
+			"id": 1277,
+			"name": "PHƯỜNG THỚI BÌNH"
+		},
+		{
+			"id": 1278,
+			"name": "PHƯỜNG AN NGHIỆP"
+		},
+		{
+			"id": 1279,
+			"name": "PHƯỜNG AN CƯ"
+		},
+		{
+			"id": 1280,
+			"name": "PHƯỜNG AN HỘI"
+		},
+		{
+			"id": 1281,
+			"name": "PHƯỜNG TÂN AN"
+		},
+		{
+			"id": 1282,
+			"name": "PHƯỜNG AN LẠC"
+		},
+		{
+			"id": 1283,
+			"name": "PHƯỜNG AN PHÚ"
+		},
+		{
+			"id": 1284,
+			"name": "PHƯỜNG XUÂN KHÁNH"
+		},
+		{
+			"id": 1285,
+			"name": "PHƯỜNG HƯNG LỢI"
+		},
+		{
+			"id": 1286,
+			"name": "PHƯỜNG AN BÌNH"
+		},
+		{
+			"id": 1287,
+			"name": "PHƯỜNG AN KHÁNH"
+		},
+		{
+			"id": 1288,
+			"name": "PHƯỜNG AN HÒA"
+		}
+	]
+}

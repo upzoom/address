@@ -1,62 +1,70 @@
 {
-	"id": "478",
-	"name": "Huyện Phú Vang",
+	"id": 478,
+	"name": "THÀNH PHỐ CAM RANH",
 	"data": [
 		{
-			"id": "19912",
-			"name": "Xã Phú An"
+			"id": 8749,
+			"name": "PHƯỜNG BA NGÒI"
 		},
 		{
-			"id": "19942",
-			"name": "Thị trấn Phú Đa"
+			"id": 8750,
+			"name": "XÃ CAM BÌNH"
 		},
 		{
-			"id": "19921",
-			"name": "Xã Phú Diên"
+			"id": 8751,
+			"name": "XÃ CAM LẬP"
 		},
 		{
-			"id": "19954",
-			"name": "Xã Phú Gia"
+			"id": 8752,
+			"name": "PHƯỜNG CAM LINH"
 		},
 		{
-			"id": "19915",
-			"name": "Xã Phú Hải"
+			"id": 8753,
+			"name": "PHƯỜNG CAM LỘC"
 		},
 		{
-			"id": "19933",
-			"name": "Xã Phú Hồ"
+			"id": 8754,
+			"name": "PHƯỜNG CAM LỢI"
 		},
 		{
-			"id": "19939",
-			"name": "Xã Phú Lương"
+			"id": 8755,
+			"name": "PHƯỜNG CAM NGHĨA"
 		},
 		{
-			"id": "19927",
-			"name": "Xã Phú Mỹ"
+			"id": 8756,
+			"name": "PHƯỜNG CAM PHÚ"
 		},
 		{
-			"id": "19903",
-			"name": "Xã Phú Thuận"
+			"id": 8757,
+			"name": "PHƯỜNG CAM PHÚC NAM"
 		},
 		{
-			"id": "19918",
-			"name": "Xã Phú Xuân"
+			"id": 8758,
+			"name": "XÃ CAM PHƯỚC ĐÔNG"
 		},
 		{
-			"id": "19948",
-			"name": "Xã Vinh An"
+			"id": 8759,
+			"name": "PHƯỜNG CAM PHÚC BẮC"
 		},
 		{
-			"id": "19957",
-			"name": "Xã Vinh Hà"
+			"id": 8760,
+			"name": "XÃ CAM THÀNH NAM"
 		},
 		{
-			"id": "19945",
-			"name": "Xã Vinh Thanh"
+			"id": 8761,
+			"name": "XÃ CAM THỊNH ĐÔNG"
 		},
 		{
-			"id": "19936",
-			"name": "Xã Vinh Xuân"
+			"id": 8762,
+			"name": "XÃ CAM THỊNH TÂY"
+		},
+		{
+			"id": 8763,
+			"name": "PHƯỜNG CAM THUẬN"
+		},
+		{
+			"id": 8764,
+			"name": "THỊ TRẤN MỸ CA"
 		}
 	]
 }

@@ -1,42 +1,94 @@
 {
-	"id": "248",
-	"name": "Huyện Tam Đảo",
+	"id": 248,
+	"name": "HUYỆN HÀM YÊN",
 	"data": [
 		{
-			"id": "08920",
-			"name": "Xã Bồ Lý"
+			"id": 4359,
+			"name": "XÃ THÀNH LONG"
 		},
 		{
-			"id": "08923",
-			"name": "Thị trấn Đại Đình"
+			"id": 4360,
+			"name": "XÃ THÚY HOA"
 		},
 		{
-			"id": "08914",
-			"name": "Xã Đạo Trù"
+			"id": 4361,
+			"name": "THỊ TRẤN TÂN YÊN"
 		},
 		{
-			"id": "08929",
-			"name": "Xã Hồ Sơn"
+			"id": 4362,
+			"name": "XÃ YÊN HOA"
 		},
 		{
-			"id": "08911",
-			"name": "Thị trấn Hợp Châu"
+			"id": 4363,
+			"name": "XÃ YÊN HƯƠNG"
 		},
 		{
-			"id": "08932",
-			"name": "Xã Minh Quang"
+			"id": 4364,
+			"name": "XÃ YÊN LÂM"
 		},
 		{
-			"id": "08908",
-			"name": "Thị trấn Tam Đảo"
+			"id": 4365,
+			"name": "XÃ YÊN PHÚ"
 		},
 		{
-			"id": "08926",
-			"name": "Xã Tam Quan"
+			"id": 4366,
+			"name": "XÃ YÊN THUẬN"
 		},
 		{
-			"id": "08917",
-			"name": "Xã Yên Dương"
+			"id": 4367,
+			"name": "XÃ BẠCH XA"
+		},
+		{
+			"id": 4368,
+			"name": "XÃ BẰNG CỐC"
+		},
+		{
+			"id": 4369,
+			"name": "XÃ ĐỨC MINH"
+		},
+		{
+			"id": 4370,
+			"name": "XÃ HÙNG ĐỨC"
+		},
+		{
+			"id": 4371,
+			"name": "XÃ MINH DÂN"
+		},
+		{
+			"id": 4372,
+			"name": "XÃ MINH HƯƠNG"
+		},
+		{
+			"id": 4373,
+			"name": "XÃ MINH KHƯƠNG"
+		},
+		{
+			"id": 4374,
+			"name": "XÃ NHÂN MỤC"
+		},
+		{
+			"id": 4375,
+			"name": "XÃ PHÙ LƯU"
+		},
+		{
+			"id": 4376,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 4377,
+			"name": "XÃ THÁI HÒA"
+		},
+		{
+			"id": 4378,
+			"name": "XÃ THÁI SƠN"
+		},
+		{
+			"id": 4379,
+			"name": "XÃ ĐỨC NINH"
+		},
+		{
+			"id": 4380,
+			"name": "XÃ BÌNH XA"
 		}
 	]
 }

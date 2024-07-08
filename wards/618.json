@@ -1,18 +1,38 @@
 {
-	"id": "618",
-	"name": "Huyện Ia H' Drai",
+	"id": 618,
+	"name": "THỊ XÃ KIẾN TƯỜNG",
 	"data": [
 		{
-			"id": "23535",
-			"name": "Xã Ia Đal"
+			"id": 10488,
+			"name": "XÃ BÌNH HIỆP"
 		},
 		{
-			"id": "23537",
-			"name": "Xã Ia Dom"
+			"id": 10489,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "23538",
-			"name": "Xã Ia Tơi"
+			"id": 10490,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 10491,
+			"name": "XÃ THẠNH HƯNG"
+		},
+		{
+			"id": 10492,
+			"name": "XÃ THẠNH TRỊ"
+		},
+		{
+			"id": 10493,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 10494,
+			"name": "XÃ TUYÊN THẠNH"
+		},
+		{
+			"id": 10495,
+			"name": "XÃ BÌNH TÂN"
 		}
 	]
 }

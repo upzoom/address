@@ -1,42 +1,70 @@
 {
-	"id": "546",
-	"name": "Huyện Vĩnh Thạnh",
+	"id": 546,
+	"name": "HUYỆN LỘC NINH",
 	"data": [
 		{
-			"id": "21799",
-			"name": "Xã Vĩnh Hảo"
+			"id": 9569,
+			"name": "THỊ TRẤN LỘC NINH"
 		},
 		{
-			"id": "21796",
-			"name": "Xã Vĩnh Hiệp"
+			"id": 9570,
+			"name": "XÃ LỘC QUANG"
 		},
 		{
-			"id": "21801",
-			"name": "Xã Vĩnh Hòa"
+			"id": 9571,
+			"name": "XÃ LỘC THIỆN"
 		},
 		{
-			"id": "21790",
-			"name": "Xã Vĩnh Kim"
+			"id": 9572,
+			"name": "XÃ LỘC PHÚ"
 		},
 		{
-			"id": "21805",
-			"name": "Xã Vĩnh Quang"
+			"id": 9573,
+			"name": "XÃ LỘC THỊNH"
 		},
 		{
-			"id": "21787",
-			"name": "Xã Vĩnh Sơn"
+			"id": 9574,
+			"name": "XÃ LỘC THÁI"
 		},
 		{
-			"id": "21786",
-			"name": "Thị trấn Vĩnh Thạnh"
+			"id": 9575,
+			"name": "XÃ LỘC HIỆP"
 		},
 		{
-			"id": "21802",
-			"name": "Xã Vĩnh Thịnh"
+			"id": 9576,
+			"name": "XÃ LỘC HƯNG"
 		},
 		{
-			"id": "21804",
-			"name": "Xã Vĩnh Thuận"
+			"id": 9577,
+			"name": "XÃ LỘC TẤN"
+		},
+		{
+			"id": 9578,
+			"name": "XÃ LỘC ĐIỀN"
+		},
+		{
+			"id": 9579,
+			"name": "XÃ LỘC KHÁNH"
+		},
+		{
+			"id": 9580,
+			"name": "XÃ LÔC THÀNH"
+		},
+		{
+			"id": 9581,
+			"name": "XÃ LỘC HÒA"
+		},
+		{
+			"id": 9582,
+			"name": "XÃ LỘC AN"
+		},
+		{
+			"id": 9583,
+			"name": "XÃ LỘC THẠCH"
+		},
+		{
+			"id": 9584,
+			"name": "XÃ LỘC THUẬN"
 		}
 	]
 }

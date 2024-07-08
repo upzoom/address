@@ -1,54 +1,38 @@
 {
-	"id": "510",
-	"name": "Huyện Nam Giang",
+	"id": 510,
+	"name": "THỊ XÃ AYUN PA",
 	"data": [
 		{
-			"id": "20713",
-			"name": "Xã Cà Dy"
+			"id": 9148,
+			"name": "PHƯỜNG HÒA BÌNH"
 		},
 		{
-			"id": "20707",
-			"name": "Xã Chà Vàl"
+			"id": 9149,
+			"name": "PHƯỜNG ĐOÀN KẾT"
 		},
 		{
-			"id": "20699",
-			"name": "Xã Chơ Chun"
+			"id": 9150,
+			"name": "PHƯỜNG CHEO REO"
 		},
 		{
-			"id": "20716",
-			"name": "Xã Đắc Pre"
+			"id": 9151,
+			"name": "PHƯỜNG SÔNG BỜ"
 		},
 		{
-			"id": "20719",
-			"name": "Xã Đắc Pring"
+			"id": 9152,
+			"name": "XÃ IASAO"
 		},
 		{
-			"id": "20705",
-			"name": "Xã Đắc Tôi"
+			"id": 9153,
+			"name": "XÃ RBOL"
 		},
 		{
-			"id": "20704",
-			"name": "Xã La Dêê"
+			"id": 9154,
+			"name": "XÃ CHƯ BAP"
 		},
 		{
-			"id": "20698",
-			"name": "Xã Laêê"
-		},
-		{
-			"id": "20710",
-			"name": "Xã Tà Bhinh"
-		},
-		{
-			"id": "20702",
-			"name": "Xã Tà Pơơ"
-		},
-		{
-			"id": "20695",
-			"name": "Thị trấn Thạnh Mỹ"
-		},
-		{
-			"id": "20701",
-			"name": "Xã Zuôich"
+			"id": 9155,
+			"name": "XÃ IARTÔ"
 		}
 	]
 }

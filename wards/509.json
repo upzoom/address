@@ -1,58 +1,50 @@
 {
-	"id": "509",
-	"name": "Huyện Quế Sơn",
+	"id": 509,
+	"name": "THỊ XÃ AN KHÊ",
 	"data": [
 		{
-			"id": "20641",
-			"name": "Thị trấn Đông Phú"
+			"id": 9137,
+			"name": "PHƯỜNG AN BÌNH"
 		},
 		{
-			"id": "20651",
-			"name": "Thị trấn Hương An"
+			"id": 9138,
+			"name": "PHƯỜNG NGÔ MÂY"
 		},
 		{
-			"id": "20686",
-			"name": "Xã Quế An"
+			"id": 9139,
+			"name": "PHƯỜNG AN PHƯỚC"
 		},
 		{
-			"id": "20680",
-			"name": "Xã Quế Châu"
+			"id": 9140,
+			"name": "PHƯỜNG AN PHÚ"
 		},
 		{
-			"id": "20659",
-			"name": "Xã Quế Hiệp"
+			"id": 9141,
+			"name": "PHƯỜNG TÂY SƠN"
 		},
 		{
-			"id": "20677",
-			"name": "Xã Quế Long"
+			"id": 9142,
+			"name": "PHƯỜNG AN TÂN"
 		},
 		{
-			"id": "20689",
-			"name": "Xã Quế Minh"
+			"id": 9143,
+			"name": "XÃ SONG AN"
 		},
 		{
-			"id": "20665",
-			"name": "Xã Quế Mỹ"
+			"id": 9144,
+			"name": "XÃ TÚ AN"
 		},
 		{
-			"id": "20683",
-			"name": "Xã Quế Phong"
+			"id": 9145,
+			"name": "XÃ CỬU AN"
 		},
 		{
-			"id": "20650",
-			"name": "Xã Quế Phú"
+			"id": 9146,
+			"name": "XÃ XUÂN AN"
 		},
 		{
-			"id": "20662",
-			"name": "Xã Quế Thuận"
-		},
-		{
-			"id": "20644",
-			"name": "Xã Quế Xuân 1"
-		},
-		{
-			"id": "20647",
-			"name": "Xã Quế Xuân 2"
+			"id": 9147,
+			"name": "XÃ THÀNH AN"
 		}
 	]
 }

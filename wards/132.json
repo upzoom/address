@@ -1,66 +1,62 @@
 {
-	"id": "132",
-	"name": "Thành phố Yên Bái",
+	"id": 132,
+	"name": "HUYỆN YÊN PHONG",
 	"data": [
 		{
-			"id": "04540",
-			"name": "Xã Âu Lâu"
+			"id": 1901,
+			"name": "XÃ YÊN TRUNG"
 		},
 		{
-			"id": "04261",
-			"name": "Phường Đồng Tâm"
+			"id": 1902,
+			"name": "XÃ THỤY HÒA"
 		},
 		{
-			"id": "04543",
-			"name": "Xã Giới Phiên"
+			"id": 1903,
+			"name": "XÃ DŨNG LIỆT"
 		},
 		{
-			"id": "04267",
-			"name": "Phường Hồng Hà"
+			"id": 1904,
+			"name": "XÃ ĐÔNG TIẾN"
 		},
 		{
-			"id": "04546",
-			"name": "Phường Hợp Minh"
+			"id": 1905,
+			"name": "THỊ TRẤN CHỜ"
 		},
 		{
-			"id": "04270",
-			"name": "Xã Minh Bảo"
+			"id": 1906,
+			"name": "XÃ VĂN MÔN"
 		},
 		{
-			"id": "04255",
-			"name": "Phường Minh Tân"
+			"id": 1907,
+			"name": "XÃ ĐÔNG THỌ"
 		},
 		{
-			"id": "04273",
-			"name": "Phường Nam Cường"
+			"id": 1908,
+			"name": "XÃ YÊN PHỤ"
 		},
 		{
-			"id": "04264",
-			"name": "Phường Nguyễn Phúc"
+			"id": 1909,
+			"name": "XÃ HÒA TIẾN"
 		},
 		{
-			"id": "04258",
-			"name": "Phường Nguyễn Thái Học"
+			"id": 1910,
+			"name": "XÃ TAM GIANG"
 		},
 		{
-			"id": "04279",
-			"name": "Xã Tân Thịnh"
+			"id": 1911,
+			"name": "XÃ TRUNG NGHĨA"
 		},
 		{
-			"id": "04276",
-			"name": "Xã Tuy Lộc"
+			"id": 1912,
+			"name": "XÃ LONG CHÂU"
 		},
 		{
-			"id": "04558",
-			"name": "Xã Văn Phú"
+			"id": 1913,
+			"name": "XÃ ĐÔNG PHONG"
 		},
 		{
-			"id": "04252",
-			"name": "Phường Yên Ninh"
-		},
-		{
-			"id": "04249",
-			"name": "Phường Yên Thịnh"
+			"id": 1914,
+			"name": "XÃ TAM ĐA"
 		}
 	]
 }

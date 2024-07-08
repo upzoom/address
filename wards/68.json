@@ -1,0 +1,58 @@
+{
+	"id": 68,
+	"name": "QUẬN NGÔ QUYỀN",
+	"data": [
+		{
+			"id": 1132,
+			"name": "PHƯỜNG MÁY TƠ"
+		},
+		{
+			"id": 1133,
+			"name": "PHƯỜNG LƯƠNG KHÁNH THIỆN"
+		},
+		{
+			"id": 1134,
+			"name": "PHƯỜNG CẦU ĐẤT"
+		},
+		{
+			"id": 1135,
+			"name": "PHƯỜNG LẠCH TRAY"
+		},
+		{
+			"id": 1136,
+			"name": "PHƯỜNG LÊ LỢI"
+		},
+		{
+			"id": 1137,
+			"name": "PHƯỜNG ĐẰNG GIANG"
+		},
+		{
+			"id": 1138,
+			"name": "PHƯỜNG ĐÔNG KHÊ"
+		},
+		{
+			"id": 1139,
+			"name": "PHƯỜNG CẦU TRE"
+		},
+		{
+			"id": 1140,
+			"name": "PHƯỜNG ĐỒNG QUỐC BÌNH"
+		},
+		{
+			"id": 1141,
+			"name": "PHƯỜNG MÁY CHAI"
+		},
+		{
+			"id": 1142,
+			"name": "PHƯỜNG GIA VIỆN"
+		},
+		{
+			"id": 1143,
+			"name": "PHƯỜNG LẠC VIÊN"
+		},
+		{
+			"id": 1144,
+			"name": "PHƯỜNG VẠN MỸ"
+		}
+	]
+}

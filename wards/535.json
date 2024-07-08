@@ -1,82 +1,50 @@
 {
-	"id": "535",
-	"name": "Huyện Ba Tơ",
+	"id": 535,
+	"name": "THÀNH PHỐ BẢO LỘC",
 	"data": [
 		{
-			"id": "21526",
-			"name": "Xã Ba Bích"
+			"id": 9461,
+			"name": "PHƯỜNG LỘC SƠN"
 		},
 		{
-			"id": "21511",
-			"name": "Xã Ba Cung"
+			"id": 9462,
+			"name": "PHƯỜNG LỘC TIẾN"
 		},
 		{
-			"id": "21487",
-			"name": "Xã Ba Điền"
+			"id": 9463,
+			"name": "XÃ ĐAMBRI"
 		},
 		{
-			"id": "21499",
-			"name": "Xã Ba Dinh"
+			"id": 9464,
+			"name": "PHƯỜNG LỘC PHÁT"
 		},
 		{
-			"id": "21496",
-			"name": "Xã Ba Động"
+			"id": 9465,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "21500",
-			"name": "Xã Ba Giang"
+			"id": 9466,
+			"name": "PHƯỜNG BLAO"
 		},
 		{
-			"id": "21508",
-			"name": "Xã Ba Khâm"
+			"id": 9467,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "21532",
-			"name": "Xã Ba Lế"
+			"id": 9468,
+			"name": "XÃ ĐẠI LÀO"
 		},
 		{
-			"id": "21502",
-			"name": "Xã Ba Liên"
+			"id": 9469,
+			"name": "XÃ LỘC CHÂU"
 		},
 		{
-			"id": "21535",
-			"name": "Xã Ba Nam"
+			"id": 9470,
+			"name": "XÃ LỘC THANH"
 		},
 		{
-			"id": "21505",
-			"name": "Xã Ba Ngạc"
-		},
-		{
-			"id": "21493",
-			"name": "Xã Ba Thành"
-		},
-		{
-			"id": "21517",
-			"name": "Xã Ba Tiêu"
-		},
-		{
-			"id": "21484",
-			"name": "Thị trấn Ba Tơ"
-		},
-		{
-			"id": "21523",
-			"name": "Xã Ba Tô"
-		},
-		{
-			"id": "21520",
-			"name": "Xã Ba Trang"
-		},
-		{
-			"id": "21529",
-			"name": "Xã Ba Vì"
-		},
-		{
-			"id": "21490",
-			"name": "Xã Ba Vinh"
-		},
-		{
-			"id": "21538",
-			"name": "Xã Ba Xa"
+			"id": 9471,
+			"name": "XÃ LỘC NGA"
 		}
 	]
 }

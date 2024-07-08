@@ -1,58 +1,82 @@
 {
-	"id": "415",
-	"name": "Huyện Quế Phong",
+	"id": 415,
+	"name": "HUYỆN PHÚ LỘC",
 	"data": [
 		{
-			"id": "16774",
-			"name": "Xã Căm Muộn"
+			"id": 7843,
+			"name": "THỊ TRẤN PHÚ LỘC"
 		},
 		{
-			"id": "16759",
-			"name": "Xã Châu Kim"
+			"id": 7844,
+			"name": "XÃ LỘC AN"
 		},
 		{
-			"id": "16765",
-			"name": "Xã Châu Thôn"
+			"id": 7845,
+			"name": "XÃ VINH HẢI"
 		},
 		{
-			"id": "16744",
-			"name": "Xã Đồng Văn"
+			"id": 7846,
+			"name": "XÃ LỘC VĨNH"
 		},
 		{
-			"id": "16747",
-			"name": "Xã Hạnh Dịch"
+			"id": 7847,
+			"name": "XÃ VINH HƯNG"
 		},
 		{
-			"id": "16738",
-			"name": "Thị trấn Kim Sơn"
+			"id": 7848,
+			"name": "XÃ VINH GIANG"
 		},
 		{
-			"id": "16763",
-			"name": "Xã Mường Nọc"
+			"id": 7849,
+			"name": "XÃ LỘC TRÌ"
 		},
 		{
-			"id": "16753",
-			"name": "Xã Nậm Giải"
+			"id": 7850,
+			"name": "THỊ TRẤN LĂNG CÔ"
 		},
 		{
-			"id": "16768",
-			"name": "Xã Nậm Nhoóng"
+			"id": 7851,
+			"name": "XÃ LỘC BỔN"
 		},
 		{
-			"id": "16771",
-			"name": "Xã Quang Phong"
+			"id": 7852,
+			"name": "XÃ VINH HIỀN"
 		},
 		{
-			"id": "16741",
-			"name": "Xã Thông Thụ"
+			"id": 7853,
+			"name": "XÃ LỘC THUỶ"
 		},
 		{
-			"id": "16750",
-			"name": "Xã Tiền Phong"
+			"id": 7854,
+			"name": "XÃ XUÂN LỘC"
 		},
 		{
-			"id": "16756",
-			"name": "Xã Tri Lễ"
+			"id": 7855,
+			"name": "XÃ LỘC SƠN"
+		},
+		{
+			"id": 7856,
+			"name": "XÃ LỘC HOÀ"
+		},
+		{
+			"id": 7857,
+			"name": "XÃ LỘC TIẾN"
+		},
+		{
+			"id": 7858,
+			"name": "XÃ VINH MỸ"
+		},
+		{
+			"id": 7859,
+			"name": "XÃ LỘC ĐIỀN"
+		},
+		{
+			"id": 7860,
+			"name": "XÃ LỘC BÌNH"
+		},
+		{
+			"id": 26158,
+			"name": "XÃ GIANG HẢI"
 		}
 	]
 }

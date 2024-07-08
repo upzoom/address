@@ -1,70 +1,50 @@
 {
-	"id": "651",
-	"name": "Huyện Ea Kar",
+	"id": 651,
+	"name": "HUYỆN CHỢ LÁCH",
 	"data": [
 		{
-			"id": "24406",
-			"name": "Xã Cư Bông"
+			"id": 10942,
+			"name": "THỊ TRẤN CHỢ LÁCH"
 		},
 		{
-			"id": "24404",
-			"name": "Xã Cư ELang"
+			"id": 10943,
+			"name": "XÃ PHÚ PHỤNG"
 		},
 		{
-			"id": "24385",
-			"name": "Xã Cư Huê"
+			"id": 10944,
+			"name": "XÃ VĨNH BÌNH"
 		},
 		{
-			"id": "24409",
-			"name": "Xã Cư Jang"
+			"id": 10945,
+			"name": "XÃ LONG THỚI"
 		},
 		{
-			"id": "24397",
-			"name": "Xã Cư Ni"
+			"id": 10946,
+			"name": "XÃ VĨNH THÀNH"
 		},
 		{
-			"id": "24401",
-			"name": "Xã Cư Prông"
+			"id": 10947,
+			"name": "XÃ PHÚ SƠN"
 		},
 		{
-			"id": "24391",
-			"name": "Xã Ea Đar"
+			"id": 10948,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "24373",
-			"name": "Thị trấn Ea Kar"
+			"id": 10949,
+			"name": "XÃ TÂN THIỀNG"
 		},
 		{
-			"id": "24394",
-			"name": "Xã Ea Kmút"
+			"id": 10950,
+			"name": "XÃ SƠN ĐỊNH"
 		},
 		{
-			"id": "24376",
-			"name": "Thị trấn Ea Knốp"
+			"id": 10951,
+			"name": "XÃ HÒA NGHĨA"
 		},
 		{
-			"id": "24403",
-			"name": "Xã Ea Ô"
-		},
-		{
-			"id": "24400",
-			"name": "Xã Ea Păl"
-		},
-		{
-			"id": "24380",
-			"name": "Xã Ea Sar"
-		},
-		{
-			"id": "24379",
-			"name": "Xã Ea Sô"
-		},
-		{
-			"id": "24388",
-			"name": "Xã Ea Tih"
-		},
-		{
-			"id": "24382",
-			"name": "Xã Xuân Phú"
+			"id": 13325,
+			"name": "XÃ HƯNG KHÁNH TRUNG B"
 		}
 	]
 }

@@ -1,46 +1,38 @@
 {
-	"id": "703",
-	"name": "Thành phố Tây Ninh",
+	"id": 703,
+	"name": "HUYỆN NGỌC HIỂN",
 	"data": [
 		{
-			"id": "25456",
-			"name": "Phường 1"
+			"id": 11575,
+			"name": "XÃ TAM GIANG TÂY"
 		},
 		{
-			"id": "25468",
-			"name": "Phường 2"
+			"id": 11576,
+			"name": "XÃ ĐẤT MŨI"
 		},
 		{
-			"id": "25459",
-			"name": "Phường 3"
+			"id": 11577,
+			"name": "XÃ VIÊN AN"
 		},
 		{
-			"id": "25462",
-			"name": "Phường 4"
+			"id": 11578,
+			"name": "XÃ VIÊN AN ĐÔNG"
 		},
 		{
-			"id": "25477",
-			"name": "Xã Bình Minh"
+			"id": 11579,
+			"name": "XÃ TÂN ÂN"
 		},
 		{
-			"id": "25465",
-			"name": "Phường Hiệp Ninh"
+			"id": 11580,
+			"name": "XÃ TÂN ÂN TÂY"
 		},
 		{
-			"id": "25480",
-			"name": "Phường Ninh Sơn"
+			"id": 13332,
+			"name": "THỊ TRẤN RẠCH GỐC"
 		},
 		{
-			"id": "25483",
-			"name": "Phường Ninh Thạnh"
-		},
-		{
-			"id": "25474",
-			"name": "Xã Tân Bình"
-		},
-		{
-			"id": "25471",
-			"name": "Xã Thạnh Tân"
+			"id": 16996,
+			"name": "THỊ TRẤN RẠCH GỐC"
 		}
 	]
 }

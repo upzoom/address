@@ -1,30 +1,38 @@
 {
-	"id": "519",
-	"name": "Huyện Nông Sơn",
+	"id": 519,
+	"name": "HUYỆN BUÔN ĐÔN",
 	"data": [
 		{
-			"id": "20668",
-			"name": "Xã Ninh Phước"
+			"id": 9265,
+			"name": "XÃ EA BAR"
 		},
 		{
-			"id": "20669",
-			"name": "Xã Phước Ninh"
+			"id": 9266,
+			"name": "XÃ EA NUÔL"
 		},
 		{
-			"id": "20692",
-			"name": "Xã Quế Lâm"
+			"id": 9267,
+			"name": "XÃ EA WER"
 		},
 		{
-			"id": "20671",
-			"name": "Xã Quế Lộc"
+			"id": 9268,
+			"name": "XÃ KRÔNG NA"
 		},
 		{
-			"id": "20672",
-			"name": "Xã Sơn Viên"
+			"id": 9269,
+			"name": "XÃ TÂN HOÀ"
 		},
 		{
-			"id": "20656",
-			"name": "Thị trấn Trung Phước"
+			"id": 9270,
+			"name": "XÃ EA HUAR"
+		},
+		{
+			"id": 9271,
+			"name": "XÃ CUÔR KNIA"
+		},
+		{
+			"id": 9272,
+			"name": "TRUNG TÂM HUYỆN BUÔN ĐÔN"
 		}
 	]
 }

@@ -1,0 +1,118 @@
+{
+	"id": 27,
+	"name": "HUYỆN PHÚ XUYÊN",
+	"data": [
+		{
+			"id": 513,
+			"name": "XÃ QUANG LÃNG"
+		},
+		{
+			"id": 514,
+			"name": "XÃ TÂN DÂN"
+		},
+		{
+			"id": 515,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 516,
+			"name": "XÃ PHÚC TIẾN"
+		},
+		{
+			"id": 517,
+			"name": "XÃ PHÚ YÊN"
+		},
+		{
+			"id": 518,
+			"name": "XÃ HỒNG THÁI"
+		},
+		{
+			"id": 519,
+			"name": "XÃ KHAI THÁI"
+		},
+		{
+			"id": 520,
+			"name": "XÃ VĂN NHÂN"
+		},
+		{
+			"id": 521,
+			"name": "XÃ TRI THỦY"
+		},
+		{
+			"id": 522,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 523,
+			"name": "XÃ HỒNG MINH"
+		},
+		{
+			"id": 524,
+			"name": "XÃ PHƯỢNG DỰC"
+		},
+		{
+			"id": 525,
+			"name": "XÃ ĐẠI THẮNG"
+		},
+		{
+			"id": 526,
+			"name": "XÃ TRI TRUNG"
+		},
+		{
+			"id": 527,
+			"name": "XÃ VĂN HOÀNG"
+		},
+		{
+			"id": 528,
+			"name": "XÃ PHÚ TÚC"
+		},
+		{
+			"id": 529,
+			"name": "XÃ QUANG TRUNG"
+		},
+		{
+			"id": 530,
+			"name": "XÃ NAM TRIỀU"
+		},
+		{
+			"id": 531,
+			"name": "XÃ VÂN TỪ"
+		},
+		{
+			"id": 532,
+			"name": "XÃ CHÂU CAN"
+		},
+		{
+			"id": 533,
+			"name": "XÃ BẠCH HẠ"
+		},
+		{
+			"id": 534,
+			"name": "XÃ HOÀNG LONG"
+		},
+		{
+			"id": 535,
+			"name": "XÃ CHUYÊN MỸ"
+		},
+		{
+			"id": 536,
+			"name": "XÃ ĐẠI XUYÊN"
+		},
+		{
+			"id": 537,
+			"name": "XÃ THỤY PHÚ"
+		},
+		{
+			"id": 538,
+			"name": "XÃ NAM PHONG"
+		},
+		{
+			"id": 539,
+			"name": "THỊ TRẤN PHÚ MINH"
+		},
+		{
+			"id": 540,
+			"name": "THỊ TRẤN PHÚ XUYÊN"
+		}
+	]
+}

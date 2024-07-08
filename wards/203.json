@@ -1,54 +1,90 @@
 {
-	"id": "203",
-	"name": "Huyện Vân Đồn",
+	"id": 203,
+	"name": "HUYỆN NGUYÊN BÌNH",
 	"data": [
 		{
-			"id": "07018",
-			"name": "Xã Bản Sen"
+			"id": 3495,
+			"name": "THỊ TRẤN NGUYÊN BÌNH"
 		},
 		{
-			"id": "07000",
-			"name": "Xã Bình Dân"
+			"id": 3496,
+			"name": "THỊ TRẤN TĨNH TÚC"
 		},
 		{
-			"id": "06994",
-			"name": "Thị trấn Cái Rồng"
+			"id": 3497,
+			"name": "XÃ YÊN LẠC"
 		},
 		{
-			"id": "06997",
-			"name": "Xã Đài Xuyên"
+			"id": 3498,
+			"name": "XÃ CA THÀNH"
 		},
 		{
-			"id": "07009",
-			"name": "Xã Đoàn Kết"
+			"id": 3499,
+			"name": "XÃ TRIỆU NGUYÊN"
 		},
 		{
-			"id": "07015",
-			"name": "Xã Đông Xá"
+			"id": 3500,
+			"name": "XÃ VŨ NÔNG"
 		},
 		{
-			"id": "07012",
-			"name": "Xã Hạ Long"
+			"id": 3501,
+			"name": "XÃ THÁI HỌC"
 		},
 		{
-			"id": "07006",
-			"name": "Xã Minh Châu"
+			"id": 3502,
+			"name": "XÃ THỂ DỤC"
 		},
 		{
-			"id": "07027",
-			"name": "Xã Ngọc Vừng"
+			"id": 3503,
+			"name": "XÃ BẮC HỢP"
 		},
 		{
-			"id": "07024",
-			"name": "Xã Quan Lạn"
+			"id": 3504,
+			"name": "XÃ MINH TÂM"
 		},
 		{
-			"id": "07021",
-			"name": "Xã Thắng Lợi"
+			"id": 3505,
+			"name": "XÃ MINH THANH"
 		},
 		{
-			"id": "07003",
-			"name": "Xã Vạn Yên"
+			"id": 3506,
+			"name": "XÃ LANG MÔN"
+		},
+		{
+			"id": 3507,
+			"name": "XÃ MAI LONG"
+		},
+		{
+			"id": 3508,
+			"name": "XÃ PHAN THANH"
+		},
+		{
+			"id": 3509,
+			"name": "XÃ QUANG THÀNH"
+		},
+		{
+			"id": 3510,
+			"name": "XÃ TAM KIM"
+		},
+		{
+			"id": 3511,
+			"name": "XÃ HOA THÁM"
+		},
+		{
+			"id": 3512,
+			"name": "XÃ THÀNH CÔNG"
+		},
+		{
+			"id": 3513,
+			"name": "XÃ HƯNG ĐẠO"
+		},
+		{
+			"id": 3514,
+			"name": "XÃ THỊNH VƯỢNG"
+		},
+		{
+			"id": 26132,
+			"name": "XÃ VŨ MINH"
 		}
 	]
 }

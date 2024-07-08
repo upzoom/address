@@ -1,0 +1,78 @@
+{
+	"id": 61,
+	"name": "HUYỆN KIẾN THỤY",
+	"data": [
+		{
+			"id": 1002,
+			"name": "TT NÚI ĐỐI"
+		},
+		{
+			"id": 1003,
+			"name": "XÃ ĐÔNG PHƯƠNG"
+		},
+		{
+			"id": 1004,
+			"name": "XÃ THANH SƠN"
+		},
+		{
+			"id": 1005,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 1006,
+			"name": "XÃ HỮU BẰNG"
+		},
+		{
+			"id": 1007,
+			"name": "XÃ THUẬN THIÊN"
+		},
+		{
+			"id": 1008,
+			"name": "XÃ DU LỄ"
+		},
+		{
+			"id": 1009,
+			"name": "XÃ NGŨ PHÚC"
+		},
+		{
+			"id": 1010,
+			"name": "XÃ KIẾN QUỐC"
+		},
+		{
+			"id": 1011,
+			"name": "XÃ THỤY HƯƠNG"
+		},
+		{
+			"id": 1012,
+			"name": "XÃ ĐẠI HÀ"
+		},
+		{
+			"id": 1013,
+			"name": "XÃ NGŨ ĐOAN"
+		},
+		{
+			"id": 1014,
+			"name": "XÃ TÂN TRÀO"
+		},
+		{
+			"id": 1015,
+			"name": "XÃ ĐOÀN XÁ"
+		},
+		{
+			"id": 1016,
+			"name": "XÃ ĐẠI HỢP"
+		},
+		{
+			"id": 1017,
+			"name": "XÃ TÚ SƠN"
+		},
+		{
+			"id": 1018,
+			"name": "XÃ TÂN PHONG"
+		},
+		{
+			"id": 1019,
+			"name": "XÃ ĐẠI ĐỒNG"
+		}
+	]
+}

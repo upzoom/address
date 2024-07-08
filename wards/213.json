@@ -1,70 +1,74 @@
 {
-	"id": "213",
-	"name": "Thành phố Bắc Giang",
+	"id": 213,
+	"name": "HUYỆN QUẢNG UYÊN",
 	"data": [
 		{
-			"id": "07228",
-			"name": "Phường Đa Mai"
+			"id": 3650,
+			"name": "NGỌC ĐỘNG"
 		},
 		{
-			"id": "07231",
-			"name": "Phường Dĩnh Kế"
+			"id": 3651,
+			"name": "XÃ HỒNG ĐỊNH"
 		},
 		{
-			"id": "07441",
-			"name": "Xã Dĩnh Trì"
+			"id": 3652,
+			"name": "XÃ HỒNG QUANG"
 		},
 		{
-			"id": "07696",
-			"name": "Xã Đồng Sơn"
+			"id": 3653,
+			"name": "XÃ HOÀNG HẢI"
 		},
 		{
-			"id": "07210",
-			"name": "Phường Hoàng Văn Thụ"
+			"id": 3654,
+			"name": "XÃ HẠNH PHÚC"
 		},
 		{
-			"id": "07219",
-			"name": "Phường Lê Lợi"
+			"id": 3655,
+			"name": "THỊ TRẤN QUẢNG UYÊN"
 		},
 		{
-			"id": "07216",
-			"name": "Phường Mỹ Độ"
+			"id": 3656,
+			"name": "XÃ PHI HẢI"
 		},
 		{
-			"id": "07207",
-			"name": "Phường Ngô Quyền"
+			"id": 3657,
+			"name": "XÃ QUẢNG HƯNG"
 		},
 		{
-			"id": "07705",
-			"name": "Xã Song Khê"
+			"id": 3658,
+			"name": "XÃ BÌNH LĂNG"
 		},
 		{
-			"id": "07222",
-			"name": "Xã Song Mai"
+			"id": 3659,
+			"name": "XÃ ĐỘC LẬP"
 		},
 		{
-			"id": "07687",
-			"name": "Xã Tân Mỹ"
+			"id": 3660,
+			"name": "XÃ QUỐC PHONG"
 		},
 		{
-			"id": "07699",
-			"name": "Xã Tân Tiến"
+			"id": 3661,
+			"name": "XÃ QUỐC DÂN"
 		},
 		{
-			"id": "07201",
-			"name": "Phường Thọ Xương"
+			"id": 3662,
+			"name": "XÃ ĐOÀI KHÔN"
 		},
 		{
-			"id": "07204",
-			"name": "Phường Trần Nguyên Hãn"
+			"id": 3663,
+			"name": "XÃ PHÚC SEN"
 		},
 		{
-			"id": "07213",
-			"name": "Phường Trần Phú"
+			"id": 3664,
+			"name": "XÃ CHÍ THẢO"
 		},
 		{
-			"id": "07225",
-			"name": "Phường Xương Giang"
+			"id": 3665,
+			"name": "XÃ CAI BỘ"
+		},
+		{
+			"id": 3666,
+			"name": "XÃ TỰ DO"
 		}
 	]
 }

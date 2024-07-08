@@ -1,66 +1,70 @@
 {
-	"id": "544",
-	"name": "Huyện Hoài Ân",
+	"id": 544,
+	"name": "THÀNH PHỐ PHAN RANG-THÁP CHÀM",
 	"data": [
 		{
-			"id": "21712",
-			"name": "Xã Ân Đức"
+			"id": 9546,
+			"name": "XÃ THÀNH HẢI"
 		},
 		{
-			"id": "21691",
-			"name": "Xã Ân Hảo Đông"
+			"id": 9547,
+			"name": "PHƯỜNG BẢO AN"
 		},
 		{
-			"id": "21690",
-			"name": "Xã Ân Hảo Tây"
+			"id": 9548,
+			"name": "PHƯỜNG ĐÔ VINH"
 		},
 		{
-			"id": "21715",
-			"name": "Xã Ân Hữu"
+			"id": 9549,
+			"name": "PHƯỜNG PHƯỚC MỸ"
 		},
 		{
-			"id": "21697",
-			"name": "Xã Ân Mỹ"
+			"id": 9550,
+			"name": "PHƯỜNG ĐÀI SƠN"
 		},
 		{
-			"id": "21727",
-			"name": "Xã Ân Nghĩa"
+			"id": 9551,
+			"name": "PHƯỜNG THANH SƠN"
 		},
 		{
-			"id": "21709",
-			"name": "Xã Ân Phong"
+			"id": 9552,
+			"name": "PHƯỜNG PHỦ HÀ"
 		},
 		{
-			"id": "21694",
-			"name": "Xã Ân Sơn"
+			"id": 9553,
+			"name": "PHƯỜNG TẤN TÀI"
 		},
 		{
-			"id": "21706",
-			"name": "Xã Ân Thạnh"
+			"id": 9554,
+			"name": "PHƯỜNG KINH DINH"
 		},
 		{
-			"id": "21703",
-			"name": "Xã Ân Tín"
+			"id": 9555,
+			"name": "PHƯỜNG MỸ BÌNH"
 		},
 		{
-			"id": "21724",
-			"name": "Xã Ân Tường Đông"
+			"id": 9556,
+			"name": "PHƯỜNG MỸ HƯƠNG"
 		},
 		{
-			"id": "21721",
-			"name": "Xã Ân Tường Tây"
+			"id": 9557,
+			"name": "PHƯỜNG ĐẠO LONG"
 		},
 		{
-			"id": "21718",
-			"name": "Xã Bok Tới"
+			"id": 9558,
+			"name": "PHƯỜNG MỸ ĐÔNG"
 		},
 		{
-			"id": "21700",
-			"name": "Xã Đak Mang"
+			"id": 9559,
+			"name": "PHƯỜNG MỸ HẢI"
 		},
 		{
-			"id": "21688",
-			"name": "Thị trấn Tăng Bạt Hổ"
+			"id": 9560,
+			"name": "PHƯỜNG VĂN HẢI"
+		},
+		{
+			"id": 9561,
+			"name": "PHƯỜNG ĐÔNG HẢI"
 		}
 	]
 }

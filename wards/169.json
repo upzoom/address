@@ -1,66 +1,146 @@
 {
-	"id": "169",
-	"name": "Huyện Đồng Hỷ",
+	"id": 169,
+	"name": "HUYỆN HẢI HẬU",
 	"data": [
 		{
-			"id": "05689",
-			"name": "Xã Cây Thị"
+			"id": 2665,
+			"name": "XÃ HẢI BẮC"
 		},
 		{
-			"id": "05671",
-			"name": "Xã Hòa Bình"
+			"id": 2666,
+			"name": "XÃ HẢI CHÂU"
 		},
 		{
-			"id": "05692",
-			"name": "Thị trấn Hóa Thượng"
+			"id": 2667,
+			"name": "XÃ HẢI CƯỜNG"
 		},
 		{
-			"id": "05683",
-			"name": "Xã Hóa Trung"
+			"id": 2668,
+			"name": "XÃ HẢI ĐƯỜNG"
 		},
 		{
-			"id": "05698",
-			"name": "Xã Hợp Tiến"
+			"id": 2669,
+			"name": "XÃ HẢI GIANG"
 		},
 		{
-			"id": "05686",
-			"name": "Xã Khe Mo"
+			"id": 2670,
+			"name": "XÃ HẢI HÀ"
 		},
 		{
-			"id": "05677",
-			"name": "Xã Minh Lập"
+			"id": 2671,
+			"name": "XÃ HẢI HÒA"
 		},
 		{
-			"id": "05707",
-			"name": "Xã Nam Hòa"
+			"id": 2672,
+			"name": "XÃ HẢI LONG"
 		},
 		{
-			"id": "05674",
-			"name": "Xã Quang Sơn"
+			"id": 2673,
+			"name": "XÃ HẢI PHÚC"
 		},
 		{
-			"id": "05656",
-			"name": "Thị trấn Sông Cầu"
+			"id": 2674,
+			"name": "XÃ HẢI QUANG"
 		},
 		{
-			"id": "05704",
-			"name": "Xã Tân Lợi"
+			"id": 2675,
+			"name": "XÃ HẢI SƠN"
 		},
 		{
-			"id": "05668",
-			"name": "Xã Tân Long"
+			"id": 2676,
+			"name": "XÃ HẢI TRIỀU"
 		},
 		{
-			"id": "05662",
-			"name": "Thị trấn Trại Cau"
+			"id": 2677,
+			"name": "XÃ HẢI TRUNG"
 		},
 		{
-			"id": "05680",
-			"name": "Xã Văn Hán"
+			"id": 2678,
+			"name": "XÃ HẢI VÂN"
 		},
 		{
-			"id": "05665",
-			"name": "Xã Văn Lăng"
+			"id": 2679,
+			"name": "XÃ HẢI TÂN"
+		},
+		{
+			"id": 2680,
+			"name": "XÃ HẢI TÂY"
+		},
+		{
+			"id": 2681,
+			"name": "XÃ HẢI THANH"
+		},
+		{
+			"id": 2682,
+			"name": "XÃ HẢI TOÀN"
+		},
+		{
+			"id": 2683,
+			"name": "XÃ HẢI XUÂN"
+		},
+		{
+			"id": 2684,
+			"name": "THỊ TRẤN CỒN"
+		},
+		{
+			"id": 2685,
+			"name": "THỊ TRẤN THỊNH LONG"
+		},
+		{
+			"id": 2686,
+			"name": "THỊ TRẤN YÊN ĐỊNH"
+		},
+		{
+			"id": 2687,
+			"name": "XÃ HẢI AN"
+		},
+		{
+			"id": 2688,
+			"name": "XÃ HẢI ANH"
+		},
+		{
+			"id": 2689,
+			"name": "XÃ HẢI CHÍNH"
+		},
+		{
+			"id": 2690,
+			"name": "XÃ HẢI ĐÔNG"
+		},
+		{
+			"id": 2691,
+			"name": "XÃ HẢI HƯNG"
+		},
+		{
+			"id": 2692,
+			"name": "XÃ HẢI LỘC"
+		},
+		{
+			"id": 2693,
+			"name": "XÃ HẢI LÝ"
+		},
+		{
+			"id": 2694,
+			"name": "XÃ HẢI MINH"
+		},
+		{
+			"id": 2695,
+			"name": "XÃ HẢI NAM"
+		},
+		{
+			"id": 2696,
+			"name": "XÃ HẢI NINH"
+		},
+		{
+			"id": 2697,
+			"name": "XÃ HẢI PHONG"
+		},
+		{
+			"id": 2698,
+			"name": "XÃ HẢI PHÚ"
+		},
+		{
+			"id": 2699,
+			"name": "XÃ HẢI PHƯƠNG"
 		}
 	]
 }

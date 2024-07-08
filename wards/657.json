@@ -1,38 +1,98 @@
 {
-	"id": "657",
-	"name": "Huyện Cư Kuin",
+	"id": 657,
+	"name": "HUYỆN CHÂU THÀNH",
 	"data": [
 		{
-			"id": "24541",
-			"name": "Xã Cư Ê Wi"
+			"id": 11044,
+			"name": "XÃ AN KHÁNH"
 		},
 		{
-			"id": "24561",
-			"name": "Xã Dray Bhăng"
+			"id": 11045,
+			"name": "XÃ THÀNH TRIỆU"
 		},
 		{
-			"id": "24550",
-			"name": "Xã Ea BHốk"
+			"id": 11046,
+			"name": "XÃ PHÚ ĐỨC"
 		},
 		{
-			"id": "24553",
-			"name": "Xã Ea Hu"
+			"id": 11047,
+			"name": "THỊ TRẤN CHÂU THÀNH"
 		},
 		{
-			"id": "24544",
-			"name": "Xã Ea Ktur"
+			"id": 11048,
+			"name": "XÃ PHÚ TÚC"
 		},
 		{
-			"id": "24540",
-			"name": "Xã Ea Ning"
+			"id": 11049,
+			"name": "XÃ TƯỜNG ĐA"
 		},
 		{
-			"id": "24547",
-			"name": "Xã Ea Tiêu"
+			"id": 11050,
+			"name": "XÃ TAM PHƯỚC"
 		},
 		{
-			"id": "24562",
-			"name": "Xã Hòa Hiệp"
+			"id": 11051,
+			"name": "XÃ PHƯỚC THẠNH"
+		},
+		{
+			"id": 11052,
+			"name": "XÃ HỮU ĐỊNH"
+		},
+		{
+			"id": 11053,
+			"name": "XÃ TÂN THẠCH"
+		},
+		{
+			"id": 11054,
+			"name": "XÃ AN PHƯỚC"
+		},
+		{
+			"id": 11055,
+			"name": "XÃ GIAO LONG"
+		},
+		{
+			"id": 11056,
+			"name": "XÃ AN HIỆP"
+		},
+		{
+			"id": 11057,
+			"name": "XÃ QUỚI SƠN"
+		},
+		{
+			"id": 11058,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 11059,
+			"name": "XÃ MỸ THÀNH"
+		},
+		{
+			"id": 11060,
+			"name": "XÃ PHÚ AN HÒA"
+		},
+		{
+			"id": 11061,
+			"name": "XÃ AN HÓA"
+		},
+		{
+			"id": 11062,
+			"name": "XÃ GIAO HÒA"
+		},
+		{
+			"id": 11063,
+			"name": "XÃ TIÊN LONG"
+		},
+		{
+			"id": 11064,
+			"name": "XÃ TIÊN THỦY"
+		},
+		{
+			"id": 11065,
+			"name": "XÃ QUỚI THÀNH"
+		},
+		{
+			"id": 11066,
+			"name": "XÃ SƠN HÒA"
 		}
 	]
 }

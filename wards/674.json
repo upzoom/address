@@ -1,38 +1,78 @@
 {
-	"id": "674",
-	"name": "Huyện Đam Rông",
+	"id": 674,
+	"name": "HUYỆN TRÀ CÚ",
 	"data": [
 		{
-			"id": "24889",
-			"name": "Xã Đạ K' Nàng"
+			"id": 11245,
+			"name": "TẬP SƠN"
 		},
 		{
-			"id": "24856",
-			"name": "Xã Đạ Long"
+			"id": 11246,
+			"name": "THANH SƠN"
 		},
 		{
-			"id": "24859",
-			"name": "Xã Đạ M' Rong"
+			"id": 11247,
+			"name": "ĐÔN CHÂU"
 		},
 		{
-			"id": "24875",
-			"name": "Xã Đạ Rsal"
+			"id": 11248,
+			"name": "ĐÔN XUÂN"
 		},
 		{
-			"id": "24853",
-			"name": "Xã Đạ Tông"
+			"id": 11249,
+			"name": "NGÃI XUYÊN"
 		},
 		{
-			"id": "24874",
-			"name": "Xã Liêng Srônh"
+			"id": 11250,
+			"name": "LƯU NGHIỆP ANH"
 		},
 		{
-			"id": "24886",
-			"name": "Xã Phi Liêng"
+			"id": 11251,
+			"name": "PHƯỚC HƯNG"
 		},
 		{
-			"id": "24877",
-			"name": "Xã Rô Men"
+			"id": 11252,
+			"name": "HÀM GIANG"
+		},
+		{
+			"id": 11253,
+			"name": "HÀM TÂN"
+		},
+		{
+			"id": 11254,
+			"name": "TT TRÀ CÚ"
+		},
+		{
+			"id": 11255,
+			"name": "AN QUẢNG HỮU"
+		},
+		{
+			"id": 11256,
+			"name": "TÂN HIỆP"
+		},
+		{
+			"id": 11257,
+			"name": "NGỌC BIÊN"
+		},
+		{
+			"id": 11258,
+			"name": "LÔNG HIỆP"
+		},
+		{
+			"id": 11259,
+			"name": "KIM SƠN"
+		},
+		{
+			"id": 11260,
+			"name": "TÂN SƠN"
+		},
+		{
+			"id": 11261,
+			"name": "XÃ ĐẠI AN"
+		},
+		{
+			"id": 11262,
+			"name": "XÃ ĐỊNH AN"
 		}
 	]
 }

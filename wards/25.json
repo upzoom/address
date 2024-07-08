@@ -1,0 +1,50 @@
+{
+	"id": 25,
+	"name": "QUẬN NAM TỪ LIÊM",
+	"data": [
+		{
+			"id": 27147,
+			"name": "MAI MEI"
+		},
+		{
+			"id": 490,
+			"name": "PHƯỜNG PHÚ ĐÔ"
+		},
+		{
+			"id": 491,
+			"name": "PHƯỜNG MỸ ĐÌNH I"
+		},
+		{
+			"id": 492,
+			"name": "PHƯỜNG PHƯƠNG CANH"
+		},
+		{
+			"id": 493,
+			"name": "PHƯỜNG CẦU DIỄN"
+		},
+		{
+			"id": 494,
+			"name": "PHƯỜNG MỸ ĐÌNH II"
+		},
+		{
+			"id": 495,
+			"name": "PHƯỜNG XUÂN PHƯƠNG"
+		},
+		{
+			"id": 496,
+			"name": "PHƯỜNG MỄ TRÌ"
+		},
+		{
+			"id": 497,
+			"name": "PHƯỜNG TRUNG VĂN"
+		},
+		{
+			"id": 498,
+			"name": "PHƯỜNG ĐẠI MỖ"
+		},
+		{
+			"id": 499,
+			"name": "PHƯỜNG TÂY MỖ"
+		}
+	]
+}

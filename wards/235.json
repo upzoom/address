@@ -1,102 +1,94 @@
 {
-	"id": "235",
-	"name": "Huyện Cẩm Khê",
+	"id": 235,
+	"name": "HUYỆN VĂN LÃNG",
 	"data": [
 		{
-			"id": "08341",
-			"name": "Thị trấn Cẩm Khê"
+			"id": 4077,
+			"name": "XÃ HOÀNG VIỆT"
 		},
 		{
-			"id": "08383",
-			"name": "Xã Cấp Dẫn"
+			"id": 4078,
+			"name": "THỊ TRẤN NA SẦM"
 		},
 		{
-			"id": "08413",
-			"name": "Xã Chương Xá"
+			"id": 4079,
+			"name": "XÃ AN HÙNG"
 		},
 		{
-			"id": "08428",
-			"name": "Xã Điêu Lương"
+			"id": 4080,
+			"name": "XÃ GIA MIỄN"
 		},
 		{
-			"id": "08431",
-			"name": "Xã Đồng Lương"
+			"id": 4081,
+			"name": "XÃ BẮC LA"
 		},
 		{
-			"id": "08416",
-			"name": "Xã Hùng Việt"
+			"id": 4082,
+			"name": "XÃ HOÀNG VĂN THỤ"
 		},
 		{
-			"id": "08401",
-			"name": "Xã Hương Lung"
+			"id": 4083,
+			"name": "XÃ HỒNG THÁI"
 		},
 		{
-			"id": "08353",
-			"name": "Xã Minh Tân"
+			"id": 4084,
+			"name": "XÃ HỘI HOAN"
 		},
 		{
-			"id": "08350",
-			"name": "Xã Ngô Xá"
+			"id": 4085,
+			"name": "XÃ NAM LA"
 		},
 		{
-			"id": "08392",
-			"name": "Xã Phú Khê"
+			"id": 4086,
+			"name": "XÃ NHẠC KỲ"
 		},
 		{
-			"id": "08407",
-			"name": "Xã Phú Lạc"
+			"id": 4087,
+			"name": "XÃ THANH LONG"
 		},
 		{
-			"id": "08356",
-			"name": "Xã Phượng Vĩ"
+			"id": 4088,
+			"name": "XÃ THÀNH HÒA"
 		},
 		{
-			"id": "08395",
-			"name": "Xã Sơn Tình"
+			"id": 4089,
+			"name": "XÃ THỤY HÙNG"
 		},
 		{
-			"id": "08404",
-			"name": "Xã Tạ Xá"
+			"id": 4090,
+			"name": "XÃ TRÙNG KHÁNH"
 		},
 		{
-			"id": "08377",
-			"name": "Xã Tam Sơn"
+			"id": 4091,
+			"name": "XÃ TRÙNG QUÁN"
 		},
 		{
-			"id": "08362",
-			"name": "Xã Thụy Liễu"
+			"id": 4092,
+			"name": "XÃ TÂN MỸ"
 		},
 		{
-			"id": "08344",
-			"name": "Xã Tiên Lương"
+			"id": 4093,
+			"name": "XÃ TÂN TÁC"
 		},
 		{
-			"id": "08374",
-			"name": "Xã Tùng Khê"
+			"id": 4094,
+			"name": "XÃ TÂN VIỆT"
 		},
 		{
-			"id": "08347",
-			"name": "Xã Tuy Lộc"
+			"id": 4095,
+			"name": "XÃ TÂN LANG"
 		},
 		{
-			"id": "08380",
-			"name": "Xã Văn Bán"
+			"id": 4096,
+			"name": "XÃ TÂN THANH"
 		},
 		{
-			"id": "08419",
-			"name": "Xã Văn Khúc"
+			"id": 26304,
+			"name": "XÃ BẮC VIỆT"
 		},
 		{
-			"id": "08389",
-			"name": "Xã Xương Thịnh"
-		},
-		{
-			"id": "08422",
-			"name": "Xã Yên Dưỡng"
-		},
-		{
-			"id": "08398",
-			"name": "Xã Yên Tập"
+			"id": 26305,
+			"name": "XÃ BẮC HÙNG"
 		}
 	]
 }

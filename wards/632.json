@@ -1,86 +1,78 @@
 {
-	"id": "632",
-	"name": "Huyện Chư Prông",
+	"id": 632,
+	"name": "HUYỆN PHÚ TÂN",
 	"data": [
 		{
-			"id": "23899",
-			"name": "Xã Bàu Cạn"
+			"id": 10652,
+			"name": "XÃ LONG HOÀ"
 		},
 		{
-			"id": "23890",
-			"name": "Xã Bình Giáo"
+			"id": 10653,
+			"name": "XÃ PHÚ HIỆP"
 		},
 		{
-			"id": "23887",
-			"name": "Thị trấn Chư Prông"
+			"id": 10654,
+			"name": "THỊ TRẤN PHÚ MỸ"
 		},
 		{
-			"id": "23905",
-			"name": "Xã Ia Băng"
+			"id": 10655,
+			"name": "THỊ TRẤN CHỢ VÀM"
 		},
 		{
-			"id": "23924",
-			"name": "Xã Ia Bang"
+			"id": 10656,
+			"name": "XÃ PHÚ LONG"
 		},
 		{
-			"id": "23911",
-			"name": "Xã Ia Boòng"
+			"id": 10657,
+			"name": "XÃ PHÚ LÂM"
 		},
 		{
-			"id": "23893",
-			"name": "Xã Ia Drăng"
+			"id": 10658,
+			"name": "XÃ PHÚ THẠNH"
 		},
 		{
-			"id": "23929",
-			"name": "Xã Ia Ga"
+			"id": 10659,
+			"name": "XÃ PHÚ AN"
 		},
 		{
-			"id": "23888",
-			"name": "Xã Ia Kly"
+			"id": 10660,
+			"name": "XÃ PHÚ XUÂN"
 		},
 		{
-			"id": "23932",
-			"name": "Xã Ia Lâu"
+			"id": 10661,
+			"name": "XÃ HIỆP XƯƠNG"
 		},
 		{
-			"id": "23920",
-			"name": "Xã Ia Me"
+			"id": 10662,
+			"name": "XÃ PHÚ BÌNH"
 		},
 		{
-			"id": "23938",
-			"name": "Xã Ia Mơ"
+			"id": 10663,
+			"name": "XÃ PHÚ HƯNG"
 		},
 		{
-			"id": "23914",
-			"name": "Xã Ia O"
+			"id": 10664,
+			"name": "XÃ BÌNH THẠNH ĐÔNG"
 		},
 		{
-			"id": "23902",
-			"name": "Xã Ia Phìn"
+			"id": 10665,
+			"name": "XÃ TÂN HOÀ"
 		},
 		{
-			"id": "23926",
-			"name": "Xã Ia Pia"
+			"id": 10666,
+			"name": "XÃ TÂN TRUNG"
 		},
 		{
-			"id": "23935",
-			"name": "Xã Ia Piơr"
+			"id": 10667,
+			"name": "XÃ PHÚ THỌ"
 		},
 		{
-			"id": "23917",
-			"name": "Xã Ia Púch"
+			"id": 10668,
+			"name": "XÃ PHÚ THÀNH"
 		},
 		{
-			"id": "23908",
-			"name": "Xã Ia Tôr"
-		},
-		{
-			"id": "23923",
-			"name": "Xã Ia Vê"
-		},
-		{
-			"id": "23896",
-			"name": "Xã Thăng Hưng"
+			"id": 10669,
+			"name": "XÃ HÒA LẠC"
 		}
 	]
 }

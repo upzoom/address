@@ -1,0 +1,58 @@
+{
+	"id": 98,
+	"name": "HUYỆN TÂN PHƯỚC",
+	"data": [
+		{
+			"id": 1446,
+			"name": "THỊ TRẤN MỸ PHƯỚC"
+		},
+		{
+			"id": 1447,
+			"name": "XÃ PHÚ MỸ"
+		},
+		{
+			"id": 1448,
+			"name": "XÃ MỸ PHƯỚC"
+		},
+		{
+			"id": 1449,
+			"name": "XÃ HƯNG THẠNH"
+		},
+		{
+			"id": 1450,
+			"name": "XÃ PHƯỚC LẬP"
+		},
+		{
+			"id": 1451,
+			"name": "XÃ TÂN HÒA TÂY"
+		},
+		{
+			"id": 1452,
+			"name": "XÃ TÂN HÒA THÀNH"
+		},
+		{
+			"id": 1453,
+			"name": "XÃ TÂN LẬP 1"
+		},
+		{
+			"id": 1454,
+			"name": "XÃ TÂN LẬP 2"
+		},
+		{
+			"id": 1455,
+			"name": "XÃ THẠNH HÒA"
+		},
+		{
+			"id": 1456,
+			"name": "XÃ THẠNH MỸ"
+		},
+		{
+			"id": 1457,
+			"name": "XÃ THẠNH TÂN"
+		},
+		{
+			"id": 1458,
+			"name": "XÃ TÂN HÒA ĐÔNG"
+		}
+	]
+}

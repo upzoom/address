@@ -1,0 +1,34 @@
+{
+	"id": 671,
+	"name": "THÀNH PHỐ HÀ TIÊN",
+	"data": [
+		{
+			"id": 11222,
+			"name": "PHƯỜNG TÔ CHÂU"
+		},
+		{
+			"id": 11223,
+			"name": "PHƯỜNG PHÁO ĐÀI"
+		},
+		{
+			"id": 11224,
+			"name": "PHƯỜNG BÌNH SAN"
+		},
+		{
+			"id": 11225,
+			"name": "PHƯỜNG ĐÔNG HỒ"
+		},
+		{
+			"id": 11226,
+			"name": "XÃ MỸ ĐỨC"
+		},
+		{
+			"id": 11227,
+			"name": "XÃ  TIÊN HẢI"
+		},
+		{
+			"id": 11228,
+			"name": "XÃ THUẬN YÊN"
+		}
+	]
+}

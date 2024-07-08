@@ -1,74 +1,74 @@
 {
-	"id": "300",
-	"name": "Huyện Thanh Miện",
+	"id": 300,
+	"name": "THÀNH PHỐ MÓNG CÁI",
 	"data": [
 		{
-			"id": "11278",
-			"name": "Xã Cao Thắng"
+			"id": 5440,
+			"name": "PHƯỜNG  KA LONG"
 		},
 		{
-			"id": "11281",
-			"name": "Xã Chi Lăng Bắc"
+			"id": 5441,
+			"name": "PHƯỜNG TRẦN PHÚ"
 		},
 		{
-			"id": "11284",
-			"name": "Xã Chi Lăng Nam"
+			"id": 5442,
+			"name": "PHƯỜNG HÒA LẠC"
 		},
 		{
-			"id": "11263",
-			"name": "Xã Đoàn Kết"
+			"id": 5443,
+			"name": "PHƯỜNG HẢI YÊN"
 		},
 		{
-			"id": "11251",
-			"name": "Xã Đoàn Tùng"
+			"id": 5444,
+			"name": "PHƯỜNG NINH DƯƠNG"
 		},
 		{
-			"id": "11293",
-			"name": "Xã Hồng Phong"
+			"id": 5445,
+			"name": "XÃ HẢI XUÂN"
 		},
 		{
-			"id": "11254",
-			"name": "Xã Hồng Quang"
+			"id": 5446,
+			"name": "PHƯỜNG HẢI HÒA"
 		},
 		{
-			"id": "11260",
-			"name": "Xã Lam Sơn"
+			"id": 5447,
+			"name": "PHƯỜNG  TRÀ CỔ"
 		},
 		{
-			"id": "11266",
-			"name": "Xã Lê Hồng"
+			"id": 5448,
+			"name": "XÃ BÌNH NGỌC"
 		},
 		{
-			"id": "11248",
-			"name": "Xã Ngô Quyền"
+			"id": 5449,
+			"name": "XÃ BẮC SƠN"
 		},
 		{
-			"id": "11275",
-			"name": "Xã Ngũ Hùng"
+			"id": 5450,
+			"name": "XÃ QUẢNG NGHĨA"
 		},
 		{
-			"id": "11245",
-			"name": "Xã Phạm Kha"
+			"id": 5451,
+			"name": "XÃ VĨNH THỰC"
 		},
 		{
-			"id": "11257",
-			"name": "Xã Tân Trào"
+			"id": 5452,
+			"name": "XÃ HẢI TIẾN"
 		},
 		{
-			"id": "11287",
-			"name": "Xã Thanh Giang"
+			"id": 5453,
+			"name": "XÃ HẢI ĐÔNG"
 		},
 		{
-			"id": "11239",
-			"name": "Thị trấn Thanh Miện"
+			"id": 5454,
+			"name": "XÃ VẠN NINH"
 		},
 		{
-			"id": "11242",
-			"name": "Xã Thanh Tùng"
+			"id": 5455,
+			"name": "XÃ HẢI SƠN"
 		},
 		{
-			"id": "11269",
-			"name": "Xã Tứ Cường"
+			"id": 5456,
+			"name": "XÃ VĨNH TRUNG"
 		}
 	]
 }

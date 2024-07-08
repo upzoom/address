@@ -1,0 +1,46 @@
+{
+	"id": 438,
+	"name": "HUYỆN NAM TRÀ MY",
+	"data": [
+		{
+			"id": 8186,
+			"name": "XÃ TRÀ DON"
+		},
+		{
+			"id": 8187,
+			"name": "XÃ TRÀ VÂN"
+		},
+		{
+			"id": 8188,
+			"name": "XÃ TRÀ LENG"
+		},
+		{
+			"id": 8189,
+			"name": "XÃ TRÀ VINH"
+		},
+		{
+			"id": 8190,
+			"name": "XÃ TRÀ TẬP"
+		},
+		{
+			"id": 8191,
+			"name": "XÃ TRÀ DƠN"
+		},
+		{
+			"id": 8192,
+			"name": "XÃ TRÀ NAM"
+		},
+		{
+			"id": 8193,
+			"name": "XÃ TRÀ CANG"
+		},
+		{
+			"id": 8194,
+			"name": "XÃ TRÀ MAI"
+		},
+		{
+			"id": 8195,
+			"name": "XÃ TRÀ LINH"
+		}
+	]
+}

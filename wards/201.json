@@ -1,50 +1,70 @@
 {
-	"id": "201",
-	"name": "Huyện Hải Hà",
+	"id": 201,
+	"name": "HUYỆN THẠCH AN",
 	"data": [
 		{
-			"id": "06967",
-			"name": "Xã Cái Chiên"
+			"id": 3465,
+			"name": "XÃ ĐỨC THÔNG"
 		},
 		{
-			"id": "06949",
-			"name": "Xã Đường Hoa"
+			"id": 3466,
+			"name": "XÃ QUANG TRỌNG"
 		},
 		{
-			"id": "06943",
-			"name": "Xã Quảng Chính"
+			"id": 3467,
+			"name": "XÃ THÁI CƯỜNG"
 		},
 		{
-			"id": "06925",
-			"name": "Xã Quảng Đức"
+			"id": 3468,
+			"name": "XÃ VÂN TRÌNH"
 		},
 		{
-			"id": "06922",
-			"name": "Thị trấn Quảng Hà"
+			"id": 3469,
+			"name": "XÃ THỊ NGÂN"
 		},
 		{
-			"id": "06946",
-			"name": "Xã Quảng Long"
+			"id": 3470,
+			"name": "XÃ THỤY HÙNG"
 		},
 		{
-			"id": "06940",
-			"name": "Xã Quảng Minh"
+			"id": 3471,
+			"name": "XÃ ĐỨC LONG"
 		},
 		{
-			"id": "06952",
-			"name": "Xã Quảng Phong"
+			"id": 3472,
+			"name": "XÃ TRỌNG CON"
 		},
 		{
-			"id": "06928",
-			"name": "Xã Quảng Sơn"
+			"id": 3473,
+			"name": "XÃ DANH SỸ"
 		},
 		{
-			"id": "06931",
-			"name": "Xã Quảng Thành"
+			"id": 3474,
+			"name": "XÃ LÊ LỢI"
 		},
 		{
-			"id": "06937",
-			"name": "Xã Quảng Thịnh"
+			"id": 3475,
+			"name": "XÃ ĐỨC XUÂN"
+		},
+		{
+			"id": 3476,
+			"name": "THỊ TRẤN ĐÔNG KHÊ"
+		},
+		{
+			"id": 3477,
+			"name": "XA LÊ LAI"
+		},
+		{
+			"id": 3478,
+			"name": "XÃ CANH TÂN"
+		},
+		{
+			"id": 3479,
+			"name": "XÃ KIM ĐỒNG"
+		},
+		{
+			"id": 3480,
+			"name": "XÃ MINH KHAI"
 		}
 	]
 }

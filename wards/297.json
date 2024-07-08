@@ -1,78 +1,54 @@
 {
-	"id": "297",
-	"name": "Huyện Gia Lộc",
+	"id": 297,
+	"name": "HUYỆN VÂN ĐỒN",
 	"data": [
 		{
-			"id": "11056",
-			"name": "Xã Đoàn Thượng"
+			"id": 5409,
+			"name": "THỊ TRẤN CÁI RỒNG"
 		},
 		{
-			"id": "11065",
-			"name": "Xã Đồng Quang"
+			"id": 5410,
+			"name": "XÃ QUAN LẠN"
 		},
 		{
-			"id": "11071",
-			"name": "Xã Đức Xương"
+			"id": 5411,
+			"name": "XÃ THẮNG LỢI"
 		},
 		{
-			"id": "11035",
-			"name": "Xã Gia Khánh"
+			"id": 5412,
+			"name": "XÃ VẠN YÊN"
 		},
 		{
-			"id": "10999",
-			"name": "Thị trấn Gia Lộc"
+			"id": 5413,
+			"name": "XÃ BẢN SEN"
 		},
 		{
-			"id": "11038",
-			"name": "Xã Gia Lương"
+			"id": 5414,
+			"name": "XÃ ĐÔNG XÁ"
 		},
 		{
-			"id": "11029",
-			"name": "Xã Gia Tân"
+			"id": 5415,
+			"name": "XÃ BÌNH DÂN"
 		},
 		{
-			"id": "11047",
-			"name": "Xã Hoàng Diệu"
+			"id": 5416,
+			"name": "XÃ ĐÀI XUYÊN"
 		},
 		{
-			"id": "11050",
-			"name": "Xã Hồng Hưng"
+			"id": 5417,
+			"name": "XÃ ĐOÀN KẾT"
 		},
 		{
-			"id": "11041",
-			"name": "Xã Lê Lợi"
+			"id": 5418,
+			"name": "XÃ HẠ LONG"
 		},
 		{
-			"id": "11068",
-			"name": "Xã Nhật Tân"
+			"id": 5419,
+			"name": "XÃ MINH CHÂU"
 		},
 		{
-			"id": "11053",
-			"name": "Xã Phạm Trấn"
-		},
-		{
-			"id": "11062",
-			"name": "Xã Quang Minh"
-		},
-		{
-			"id": "11032",
-			"name": "Xã Tân Tiến"
-		},
-		{
-			"id": "11059",
-			"name": "Xã Thống Kênh"
-		},
-		{
-			"id": "11008",
-			"name": "Xã Thống Nhất"
-		},
-		{
-			"id": "11044",
-			"name": "Xã Toàn Thắng"
-		},
-		{
-			"id": "11020",
-			"name": "Xã Yết Kiêu"
+			"id": 5420,
+			"name": "XÃ NGỌC VỪNG"
 		}
 	]
 }

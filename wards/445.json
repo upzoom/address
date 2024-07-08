@@ -1,94 +1,98 @@
 {
-	"id": "445",
-	"name": "Huyện Thạch Hà",
+	"id": 445,
+	"name": "THÀNH PHỐ QUẢNG NGÃI",
 	"data": [
 		{
-			"id": "18595",
-			"name": "Xã Đỉnh Bàn"
+			"id": 8283,
+			"name": "PHƯỜNG NGUYỄN NGHIÊM"
 		},
 		{
-			"id": "18634",
-			"name": "Xã Lưu Vĩnh Sơn"
+			"id": 8284,
+			"name": "PHƯỜNG LÊ HỒNG PHONG"
 		},
 		{
-			"id": "18667",
-			"name": "Xã Nam Điền"
+			"id": 8285,
+			"name": "PHƯỜNG TRẦN PHÚ"
 		},
 		{
-			"id": "18565",
-			"name": "Xã Ngọc Sơn"
+			"id": 8286,
+			"name": "PHƯỜNG QUẢNG PHÚ"
 		},
 		{
-			"id": "18652",
-			"name": "Xã Tân Lâm Hương"
+			"id": 8287,
+			"name": "PHƯỜNG TRẦN HƯNG ĐẠO"
 		},
 		{
-			"id": "18643",
-			"name": "Xã Thạch Đài"
+			"id": 8288,
+			"name": "PHƯỜNG CHÁNH LỘ"
 		},
 		{
-			"id": "18562",
-			"name": "Thị trấn Thạch Hà"
+			"id": 8289,
+			"name": "PHƯỜNG NGHĨA LỘ"
 		},
 		{
-			"id": "18571",
-			"name": "Xã Thạch Hải"
+			"id": 8290,
+			"name": "PHƯỜNG NGHĨA CHÁNH"
 		},
 		{
-			"id": "18649",
-			"name": "Xã Thạch Hội"
+			"id": 8291,
+			"name": "XÃ NGHĨA DÕNG"
 		},
 		{
-			"id": "18586",
-			"name": "Xã Thạch Kênh"
+			"id": 8292,
+			"name": "XÃ NGHĨA DŨNG"
 		},
 		{
-			"id": "18604",
-			"name": "Xã Thạch Khê"
+			"id": 13330,
+			"name": "PHƯỜNG TRƯƠNG QUANG TRỌNG"
 		},
 		{
-			"id": "18622",
-			"name": "Xã Thạch Lạc"
+			"id": 23567,
+			"name": "XÃ TỊNH ẤN TÂY"
 		},
 		{
-			"id": "18592",
-			"name": "Xã Thạch Liên"
+			"id": 23570,
+			"name": "XÃ TỊNH KHÊ"
 		},
 		{
-			"id": "18607",
-			"name": "Xã Thạch Long"
+			"id": 23573,
+			"name": "XÃ TỊNH THIỆN"
 		},
 		{
-			"id": "18625",
-			"name": "Xã Thạch Ngọc"
+			"id": 23563,
+			"name": "XÃ NGHĨA HÀ"
 		},
 		{
-			"id": "18589",
-			"name": "Xã Thạch Sơn"
+			"id": 23565,
+			"name": "XÃ TỊNH AN"
 		},
 		{
-			"id": "18637",
-			"name": "Xã Thạch Thắng"
+			"id": 23566,
+			"name": "XÃ TỊNH ẤN ĐÔNG"
 		},
 		{
-			"id": "18619",
-			"name": "Xã Thạch Trị"
+			"id": 23569,
+			"name": "XÃ TỊNH HÒA"
 		},
 		{
-			"id": "18631",
-			"name": "Xã Thạch Văn"
+			"id": 23572,
+			"name": "XÃ TỊNH LONG"
 		},
 		{
-			"id": "18658",
-			"name": "Xã Thạch Xuân"
+			"id": 22027,
+			"name": "XÃ NGHĨA AN"
 		},
 		{
-			"id": "18628",
-			"name": "Xã Tượng Sơn"
+			"id": 23564,
+			"name": "XÃ NGHĨA PHÚ"
 		},
 		{
-			"id": "18601",
-			"name": "Xã Việt Tiến"
+			"id": 23568,
+			"name": "XÃ TỊNH CHÂU"
+		},
+		{
+			"id": 23571,
+			"name": "XÃ TỊNH KỲ"
 		}
 	]
 }

@@ -1,66 +1,42 @@
 {
-	"id": "534",
-	"name": "Thị xã Đức Phổ",
+	"id": 534,
+	"name": "HUYỆN ĐAM RÔNG",
 	"data": [
 		{
-			"id": "21439",
-			"name": "Phường Nguyễn Nghiêm"
+			"id": 9452,
+			"name": "THỊ TRẤN BẰNG LĂNG"
 		},
 		{
-			"id": "21442",
-			"name": "Xã Phổ An"
+			"id": 9453,
+			"name": "XÃ ĐAMRÔNG"
 		},
 		{
-			"id": "21481",
-			"name": "Xã Phổ Châu"
+			"id": 9454,
+			"name": "XÃ ĐẠ TÔNG"
 		},
 		{
-			"id": "21472",
-			"name": "Xã Phổ Cường"
+			"id": 9455,
+			"name": "XÃ ĐẠ LONG"
 		},
 		{
-			"id": "21469",
-			"name": "Phường Phổ Hòa"
+			"id": 9456,
+			"name": "XÃ LIÊNG S'RÔNH"
 		},
 		{
-			"id": "21475",
-			"name": "Xã Phổ Khánh"
+			"id": 9457,
+			"name": "XÃ ĐẠ RSAL"
 		},
 		{
-			"id": "21463",
-			"name": "Phường Phổ Minh"
+			"id": 9458,
+			"name": "XÃ PHI LIÊNG"
 		},
 		{
-			"id": "21457",
-			"name": "Xã Phổ Nhơn"
+			"id": 9459,
+			"name": "XÃ ĐẠ K'NĂNG"
 		},
 		{
-			"id": "21460",
-			"name": "Phường Phổ Ninh"
-		},
-		{
-			"id": "21445",
-			"name": "Xã Phổ Phong"
-		},
-		{
-			"id": "21454",
-			"name": "Phường Phổ Quang"
-		},
-		{
-			"id": "21478",
-			"name": "Phường Phổ Thạnh"
-		},
-		{
-			"id": "21448",
-			"name": "Xã Phổ Thuận"
-		},
-		{
-			"id": "21451",
-			"name": "Phường Phổ Văn"
-		},
-		{
-			"id": "21466",
-			"name": "Phường Phổ Vinh"
+			"id": 9460,
+			"name": "XÃ RÔ MEN"
 		}
 	]
 }

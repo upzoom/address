@@ -1,74 +1,90 @@
 {
-	"id": "234",
-	"name": "Huyện Yên Lập",
+	"id": 234,
+	"name": "HUYỆN BẮC SƠN",
 	"data": [
 		{
-			"id": "08320",
-			"name": "Xã Đồng Lạc"
+			"id": 4057,
+			"name": "XÃ BẮC SƠN"
 		},
 		{
-			"id": "08326",
-			"name": "Xã Đồng Thịnh"
+			"id": 4058,
+			"name": "XÃ CHIẾN THẮNG"
 		},
 		{
-			"id": "08314",
-			"name": "Xã Hưng Long"
+			"id": 4059,
+			"name": "XÃ NHẤT HÒA"
 		},
 		{
-			"id": "08299",
-			"name": "Xã Lương Sơn"
+			"id": 4060,
+			"name": "XÃ NHẤT TIẾN"
 		},
 		{
-			"id": "08332",
-			"name": "Xã Minh Hòa"
+			"id": 4061,
+			"name": "XÃ QUỲNH SƠN"
 		},
 		{
-			"id": "08293",
-			"name": "Xã Mỹ Lung"
+			"id": 4062,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "08296",
-			"name": "Xã Mỹ Lương"
+			"id": 4063,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "08317",
-			"name": "Xã Nga Hoàng"
+			"id": 4064,
+			"name": "XÃ TÂN TRI"
 		},
 		{
-			"id": "08338",
-			"name": "Xã Ngọc Đồng"
+			"id": 4065,
+			"name": "XÃ TRẤN YÊN"
 		},
 		{
-			"id": "08335",
-			"name": "Xã Ngọc Lập"
+			"id": 4066,
+			"name": "XÃ VẠN THỦY"
 		},
 		{
-			"id": "08329",
-			"name": "Xã Phúc Khánh"
+			"id": 4067,
+			"name": "XÃ VŨ LĂNG"
 		},
 		{
-			"id": "08323",
-			"name": "Xã Thượng Long"
+			"id": 4068,
+			"name": "XÃ VŨ LỄ"
 		},
 		{
-			"id": "08311",
-			"name": "Xã Trung Sơn"
+			"id": 4069,
+			"name": "XÃ VŨ SƠN"
 		},
 		{
-			"id": "08302",
-			"name": "Xã Xuân An"
+			"id": 4070,
+			"name": "XÃ CHIÊU VŨ"
 		},
 		{
-			"id": "08308",
-			"name": "Xã Xuân Thủy"
+			"id": 4071,
+			"name": "XÃ ĐỒNG Ý"
 		},
 		{
-			"id": "08305",
-			"name": "Xã Xuân Viên"
+			"id": 4072,
+			"name": "XÃ HƯNG VŨ"
 		},
 		{
-			"id": "08290",
-			"name": "Thị trấn Yên Lập"
+			"id": 4073,
+			"name": "XÃ HỮU VĨNH"
+		},
+		{
+			"id": 4074,
+			"name": "XÃ LONG ĐỒNG"
+		},
+		{
+			"id": 4075,
+			"name": "THỊ TRẤN BẮC SƠN"
+		},
+		{
+			"id": 4076,
+			"name": "XÃ TÂN HƯƠNG"
+		},
+		{
+			"id": 26300,
+			"name": "XÃ BẮC QUỲNH"
 		}
 	]
 }

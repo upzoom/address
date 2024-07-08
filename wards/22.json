@@ -1,0 +1,70 @@
+{
+	"id": 22,
+	"name": "QUẬN BA ĐÌNH",
+	"data": [
+		{
+			"id": 455,
+			"name": "PHƯỜNG VĨNH PHÚC"
+		},
+		{
+			"id": 456,
+			"name": "vạn phúc"
+		},
+		{
+			"id": 441,
+			"name": "PHƯỜNG NGỌC KHÁNH"
+		},
+		{
+			"id": 442,
+			"name": "PHƯỜNG KIM MÃ"
+		},
+		{
+			"id": 443,
+			"name": "PHƯỜNG ĐỘI CẤN"
+		},
+		{
+			"id": 444,
+			"name": "PHƯỜNG GIẢNG VÕ"
+		},
+		{
+			"id": 445,
+			"name": "PHƯỜNG NGỌC HÀ"
+		},
+		{
+			"id": 446,
+			"name": "PHƯỜNG ĐIỆN BIÊN"
+		},
+		{
+			"id": 447,
+			"name": "PHƯỜNG CỐNG VỊ"
+		},
+		{
+			"id": 448,
+			"name": "PHƯỜNG NGUYỄN TRUNG TRỰC"
+		},
+		{
+			"id": 449,
+			"name": "PHƯỜNG PHÚC XÁ"
+		},
+		{
+			"id": 450,
+			"name": "PHƯỜNG QUÁN THÁNH"
+		},
+		{
+			"id": 451,
+			"name": "PHƯỜNG TRÚC BẠCH"
+		},
+		{
+			"id": 452,
+			"name": "PHƯỜNG LÁNG HẠ"
+		},
+		{
+			"id": 453,
+			"name": "PHƯỜNG THÀNH CÔNG"
+		},
+		{
+			"id": 454,
+			"name": "PHƯỜNG LIỄU GIAI"
+		}
+	]
+}

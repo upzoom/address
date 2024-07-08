@@ -1,0 +1,42 @@
+{
+	"id": 539,
+	"name": "HUYỆN NINH PHƯỚC",
+	"data": [
+		{
+			"id": 9506,
+			"name": "THỊ TRẤN PHƯỚC DÂN"
+		},
+		{
+			"id": 9507,
+			"name": "XÃ PHƯỚC THÁI"
+		},
+		{
+			"id": 9508,
+			"name": "XÃ PHƯỚC HẬU"
+		},
+		{
+			"id": 9509,
+			"name": "XÃ AN HẢI"
+		},
+		{
+			"id": 9510,
+			"name": "XÃ PHƯỚC SƠN"
+		},
+		{
+			"id": 9511,
+			"name": "XÃ PHƯỚC THUẬN"
+		},
+		{
+			"id": 9512,
+			"name": "XÃ PHƯỚC HẢI"
+		},
+		{
+			"id": 9513,
+			"name": "XÃ PHƯỚC HỮU"
+		},
+		{
+			"id": 9514,
+			"name": "XÃ PHƯỚC VINH"
+		}
+	]
+}

@@ -1,42 +1,18 @@
 {
-	"id": "586",
-	"name": "Huyện Ninh Hải",
+	"id": 586,
+	"name": "HUYỆN PHÚ QUÍ",
 	"data": [
 		{
-			"id": "22861",
-			"name": "Xã Hộ Hải"
+			"id": 10089,
+			"name": "XÃ NGŨ PHỤNG"
 		},
 		{
-			"id": "22834",
-			"name": "Thị trấn Khánh Hải"
+			"id": 10090,
+			"name": "XÃ LONG HẢI"
 		},
 		{
-			"id": "22867",
-			"name": "Xã Nhơn Hải"
-		},
-		{
-			"id": "22852",
-			"name": "Xã Phương Hải"
-		},
-		{
-			"id": "22855",
-			"name": "Xã Tân Hải"
-		},
-		{
-			"id": "22868",
-			"name": "Xã Thanh Hải"
-		},
-		{
-			"id": "22864",
-			"name": "Xã Tri Hải"
-		},
-		{
-			"id": "22846",
-			"name": "Xã Vĩnh Hải"
-		},
-		{
-			"id": "22858",
-			"name": "Xã Xuân Hải"
+			"id": 10091,
+			"name": "XÃ TAM THANH"
 		}
 	]
 }

@@ -1,0 +1,46 @@
+{
+	"id": 65,
+	"name": "QUẬN KIẾN AN",
+	"data": [
+		{
+			"id": 1073,
+			"name": "PHƯỜNG BẮC SƠN"
+		},
+		{
+			"id": 1074,
+			"name": "PHƯỜNG ĐÔNG HÒA"
+		},
+		{
+			"id": 1075,
+			"name": "PHƯỜNG LÃM HÀ"
+		},
+		{
+			"id": 1076,
+			"name": "PHƯỜNG NAM SƠN"
+		},
+		{
+			"id": 1077,
+			"name": "PHƯỜNG NGỌC SƠN"
+		},
+		{
+			"id": 1078,
+			"name": "PHƯỜNG PHÙ LIỄN"
+		},
+		{
+			"id": 1079,
+			"name": "PHƯỜNG QUÁN TRỮ"
+		},
+		{
+			"id": 1080,
+			"name": "PHƯỜNG TRÀNG MINH"
+		},
+		{
+			"id": 1081,
+			"name": "PHƯỜNG TRẦN THÀNH NGỌ"
+		},
+		{
+			"id": 1082,
+			"name": "PHƯỜNG VĂN ĐẨU"
+		}
+	]
+}

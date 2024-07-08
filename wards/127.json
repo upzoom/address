@@ -1,38 +1,62 @@
 {
-	"id": "127",
-	"name": "Huyện Sốp Cộp",
+	"id": 127,
+	"name": "HUYỆN LƯƠNG TÀI",
 	"data": [
 		{
-			"id": "04234",
-			"name": "Xã Dồm Cang"
+			"id": 1813,
+			"name": "XÃ QUẢNG PHÚ"
 		},
 		{
-			"id": "04246",
-			"name": "Xã Mường Lạn"
+			"id": 1814,
+			"name": "XÃ BÌNH ĐỊNH"
 		},
 		{
-			"id": "04240",
-			"name": "Xã Mường Lèo"
+			"id": 1815,
+			"name": "XÃ LÂM THAO"
 		},
 		{
-			"id": "04243",
-			"name": "Xã Mường Và"
+			"id": 1816,
+			"name": "XÃ PHÚ LƯƠNG"
 		},
 		{
-			"id": "04237",
-			"name": "Xã Nậm Lạnh"
+			"id": 1817,
+			"name": "THỊ TRẤN THỨA"
 		},
 		{
-			"id": "04228",
-			"name": "Xã Púng Bánh"
+			"id": 1818,
+			"name": "XÃ AN THỊNH"
 		},
 		{
-			"id": "04225",
-			"name": "Xã Sam Kha"
+			"id": 1819,
+			"name": "XÃ TRUNG KÊNH"
 		},
 		{
-			"id": "04231",
-			"name": "Xã Sốp Cộp"
+			"id": 1820,
+			"name": "XÃ MỸ HƯƠNG"
+		},
+		{
+			"id": 1821,
+			"name": "XÃ PHÚ HÒA"
+		},
+		{
+			"id": 1822,
+			"name": "XÃ TRUNG CHÍNH"
+		},
+		{
+			"id": 1823,
+			"name": "XÃ MINH TÂN"
+		},
+		{
+			"id": 1824,
+			"name": "XÃ TRỪNG XÁ"
+		},
+		{
+			"id": 1825,
+			"name": "XÃ LAI HẠ"
+		},
+		{
+			"id": 1826,
+			"name": "XÃ TÂN LÃNG"
 		}
 	]
 }

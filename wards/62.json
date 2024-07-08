@@ -1,0 +1,30 @@
+{
+	"id": 62,
+	"name": "QUẬN DƯƠNG KINH",
+	"data": [
+		{
+			"id": 1020,
+			"name": "PHƯỜNG ĐA PHÚC"
+		},
+		{
+			"id": 1021,
+			"name": "PHƯỜNG HƯNG ĐẠO"
+		},
+		{
+			"id": 1022,
+			"name": "PHƯỜNG ANH DŨNG"
+		},
+		{
+			"id": 1023,
+			"name": "PHƯỜNG HẢI THÀNH"
+		},
+		{
+			"id": 1024,
+			"name": "PHƯỜNG HÒA NGHĨA"
+		},
+		{
+			"id": 1025,
+			"name": "PHƯỜNG TÂN THÀNH"
+		}
+	]
+}

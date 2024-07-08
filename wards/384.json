@@ -1,38 +1,158 @@
 {
-	"id": "384",
-	"name": "Huyện Mường Lát",
+	"id": 384,
+	"name": "HUYỆN ĐỨC THỌ",
 	"data": [
 		{
-			"id": "14866",
-			"name": "Xã Mường Chanh"
+			"id": 7251,
+			"name": "XÃ TRUNG LỄ"
 		},
 		{
-			"id": "14845",
-			"name": "Thị trấn Mường Lát"
+			"id": 7252,
+			"name": "XÃ ĐỨC LÂM"
 		},
 		{
-			"id": "14854",
-			"name": "Xã Mường Lý"
+			"id": 7253,
+			"name": "XÃ ĐỨC DŨNG"
 		},
 		{
-			"id": "14864",
-			"name": "Xã Nhi Sơn"
+			"id": 7254,
+			"name": "XÃ ĐỨC AN"
 		},
 		{
-			"id": "14863",
-			"name": "Xã Pù Nhi"
+			"id": 7255,
+			"name": "XÃ ĐỨC LẬP"
 		},
 		{
-			"id": "14860",
-			"name": "Xã Quang Chiểu"
+			"id": 7256,
+			"name": "XÃ ĐỨC LẠNG"
 		},
 		{
-			"id": "14848",
-			"name": "Xã Tam Chung"
+			"id": 7257,
+			"name": "XÃ ĐỨC LẠC"
 		},
 		{
-			"id": "14857",
-			"name": "Xã Trung Lý"
+			"id": 7258,
+			"name": "XÃ ĐỨC LONG"
+		},
+		{
+			"id": 7259,
+			"name": "XÃ ĐỨC HÒA"
+		},
+		{
+			"id": 7260,
+			"name": "XÃ BÙI XÁ"
+		},
+		{
+			"id": 7261,
+			"name": "XÃ ĐỨC YÊN"
+		},
+		{
+			"id": 7262,
+			"name": "XÃ TRƯỜNG SƠN"
+		},
+		{
+			"id": 7263,
+			"name": "XÃ LIÊN MINH"
+		},
+		{
+			"id": 7264,
+			"name": "XÃ ĐỨC THỊNH"
+		},
+		{
+			"id": 7265,
+			"name": "XÃ ĐỨC LA"
+		},
+		{
+			"id": 7266,
+			"name": "XÃ ĐỨC LĨNH"
+		},
+		{
+			"id": 7237,
+			"name": "THỊ TRẤN ĐỨC THỌ"
+		},
+		{
+			"id": 7238,
+			"name": "XÃ ĐỨC VĨNH"
+		},
+		{
+			"id": 7239,
+			"name": "XÃ ĐỨC QUANG"
+		},
+		{
+			"id": 7240,
+			"name": "XÃ ĐỨC CHÂU"
+		},
+		{
+			"id": 7241,
+			"name": "XÃ ĐỨC TÙNG"
+		},
+		{
+			"id": 7242,
+			"name": "XÃ YÊN HỒ"
+		},
+		{
+			"id": 7243,
+			"name": "XÃ YÊN ĐỒNG"
+		},
+		{
+			"id": 7244,
+			"name": "XÃ TÙNG ẢNH"
+		},
+		{
+			"id": 7245,
+			"name": "XÃ ĐỨC ĐỒNG"
+		},
+		{
+			"id": 7246,
+			"name": "XÃ TÂN HƯƠNG"
+		},
+		{
+			"id": 7247,
+			"name": "XÃ ĐỨC NHÂN,"
+		},
+		{
+			"id": 7248,
+			"name": "XÃ ĐỨC THỦY"
+		},
+		{
+			"id": 7249,
+			"name": "XÃ THÁI YÊN"
+		},
+		{
+			"id": 7250,
+			"name": "XÃ ĐỨC THANH"
+		},
+		{
+			"id": 26193,
+			"name": "XÃ AN DŨNG"
+		},
+		{
+			"id": 26199,
+			"name": "XÃ TÙNG CHÂU"
+		},
+		{
+			"id": 26198,
+			"name": "XÃ BÙI LA NHÂN"
+		},
+		{
+			"id": 26200,
+			"name": "XÃ QUANG VĨNH"
+		},
+		{
+			"id": 26197,
+			"name": "XÃ THANH BÌNH THỊNH"
+		},
+		{
+			"id": 26194,
+			"name": "XÃ TÂN DÂN"
+		},
+		{
+			"id": 26195,
+			"name": "XÃ HÒA LẠC"
+		},
+		{
+			"id": 26196,
+			"name": "XÃ LÂM TRUNG THỦY"
 		}
 	]
 }

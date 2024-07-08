@@ -1,46 +1,82 @@
 {
-	"id": "646",
-	"name": "Huyện Ea Súp",
+	"id": 646,
+	"name": "HUYỆN TAM BÌNH",
 	"data": [
 		{
-			"id": "24226",
-			"name": "Xã Cư KBang"
+			"id": 10858,
+			"name": "HÒA THẠNH"
 		},
 		{
-			"id": "24232",
-			"name": "Xã Cư M'Lan"
+			"id": 10859,
+			"name": "HÒA HIỆP"
 		},
 		{
-			"id": "24229",
-			"name": "Xã Ea Bung"
+			"id": 10860,
+			"name": "HÒA LỘC"
 		},
 		{
-			"id": "24223",
-			"name": "Xã Ea Lê"
+			"id": 10861,
+			"name": "MỸ LỘC"
 		},
 		{
-			"id": "24217",
-			"name": "Xã Ea Rốk"
+			"id": 10862,
+			"name": "PHÚ LỘC"
 		},
 		{
-			"id": "24211",
-			"name": "Thị trấn Ea Súp"
+			"id": 10863,
+			"name": "TT TAM BÌNH"
 		},
 		{
-			"id": "24215",
-			"name": "Xã Ia JLơi"
+			"id": 10864,
+			"name": "XÃ BÌNH NINH"
 		},
 		{
-			"id": "24214",
-			"name": "Xã Ia Lốp"
+			"id": 10865,
+			"name": "SONG PHÚ"
 		},
 		{
-			"id": "24221",
-			"name": "Xã Ia RVê"
+			"id": 10866,
+			"name": "PHÚ THỊNH"
 		},
 		{
-			"id": "24220",
-			"name": "Xã Ya Tờ Mốt"
+			"id": 10867,
+			"name": "MỸ THẠNH TRUNG"
+		},
+		{
+			"id": 10868,
+			"name": "LOAN MỸ"
+		},
+		{
+			"id": 10869,
+			"name": "NGÃI TỨ"
+		},
+		{
+			"id": 10870,
+			"name": "TÂN LỘC"
+		},
+		{
+			"id": 10871,
+			"name": "LONG PHÚ"
+		},
+		{
+			"id": 10872,
+			"name": "TƯỜNG LỘC"
+		},
+		{
+			"id": 10873,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 10874,
+			"name": "XÃ HẬU LỘC"
+		},
+		{
+			"id": 10875,
+			"name": "XÃ XUÂN HIỆP"
+		},
+		{
+			"id": 10876,
+			"name": "XÃ VĨNH XUÂN"
 		}
 	]
 }

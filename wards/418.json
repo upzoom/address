@@ -1,74 +1,70 @@
 {
-	"id": "418",
-	"name": "Huyện Tương Dương",
+	"id": 418,
+	"name": "HUYỆN PHONG ĐIỀN",
 	"data": [
 		{
-			"id": "16885",
-			"name": "Xã Hữu Khuông"
+			"id": 7896,
+			"name": "XÃ ĐIỀN HẢI"
 		},
 		{
-			"id": "16906",
-			"name": "Xã Lưỡng Minh"
+			"id": 7897,
+			"name": "THỊ TRẤN PHONG ĐIỀN"
 		},
 		{
-			"id": "16915",
-			"name": "Xã Lưu Kiền"
+			"id": 7898,
+			"name": "XÃ PHONG BÌNH"
 		},
 		{
-			"id": "16879",
-			"name": "Xã Mai Sơn"
+			"id": 7899,
+			"name": "XÃ PHONG MỸ"
 		},
 		{
-			"id": "16903",
-			"name": "Xã Nga My"
+			"id": 7900,
+			"name": "XÃ ĐIỀN LỘC"
 		},
 		{
-			"id": "16882",
-			"name": "Xã Nhôn Mai"
+			"id": 7901,
+			"name": "XÃ PHONG HOÀ"
 		},
 		{
-			"id": "16927",
-			"name": "Xã Tam Đình"
+			"id": 7902,
+			"name": "XÃ PHONG SƠN"
 		},
 		{
-			"id": "16936",
-			"name": "Xã Tam Hợp"
+			"id": 7903,
+			"name": "XÃ ĐIỀN MÔN"
 		},
 		{
-			"id": "16933",
-			"name": "Xã Tam Quang"
+			"id": 7904,
+			"name": "XÃ PHONG HẢI"
 		},
 		{
-			"id": "16924",
-			"name": "Xã Tam Thái"
+			"id": 7905,
+			"name": "XÃ ĐIỀN HOÀ"
 		},
 		{
-			"id": "16876",
-			"name": "Thị trấn Thạch Giám"
+			"id": 7906,
+			"name": "XÃ PHONG XUÂN"
 		},
 		{
-			"id": "16921",
-			"name": "Xã Xá Lượng"
+			"id": 7907,
+			"name": "XÃ PHONG HIỀN"
 		},
 		{
-			"id": "16904",
-			"name": "Xã Xiêng My"
+			"id": 7908,
+			"name": "XÃ ĐIỀN HƯƠNG"
 		},
 		{
-			"id": "16909",
-			"name": "Xã Yên Hòa"
+			"id": 7909,
+			"name": "XÃ PHONG CHƯƠNG"
 		},
 		{
-			"id": "16912",
-			"name": "Xã Yên Na"
+			"id": 7910,
+			"name": "XÃ PHONG AN"
 		},
 		{
-			"id": "16930",
-			"name": "Xã Yên Thắng"
-		},
-		{
-			"id": "16900",
-			"name": "Xã Yên Tĩnh"
+			"id": 7911,
+			"name": "XÃ PHONG THU"
 		}
 	]
 }

@@ -1,86 +1,90 @@
 {
-	"id": "187",
-	"name": "Huyện Chi Lăng",
+	"id": 187,
+	"name": "HUYỆN YÊN KHÁNH",
 	"data": [
 		{
-			"id": "06478",
-			"name": "Xã Bắc Thủy"
+			"id": 3213,
+			"name": "XÃ KHÁNH AN"
 		},
 		{
-			"id": "06487",
-			"name": "Xã Bằng Hữu"
+			"id": 3214,
+			"name": "XÃ KHÁNH CƯ"
 		},
 		{
-			"id": "06493",
-			"name": "Xã Bằng Mạc"
+			"id": 3215,
+			"name": "XÃ KHÁNH HẢI"
 		},
 		{
-			"id": "06466",
-			"name": "Thị trấn Chi Lăng"
+			"id": 3216,
+			"name": "XÃ KHÁNH HOÀ"
 		},
 		{
-			"id": "06523",
-			"name": "Xã Chi Lăng"
+			"id": 3217,
+			"name": "XÃ KHÁNH NHẠC"
 		},
 		{
-			"id": "06481",
-			"name": "Xã Chiến Thắng"
+			"id": 3218,
+			"name": "XÃ KHÁNH PHÚ"
 		},
 		{
-			"id": "06463",
-			"name": "Thị trấn Đồng Mỏ"
+			"id": 3219,
+			"name": "XÃ KHÁNH VÂN"
 		},
 		{
-			"id": "06475",
-			"name": "Xã Gia Lộc"
+			"id": 3220,
+			"name": "THỊ TRẤN YÊN NINH"
 		},
 		{
-			"id": "06508",
-			"name": "Xã Hòa Bình"
+			"id": 3221,
+			"name": "XÃ KHÁNH CÔNG"
 		},
 		{
-			"id": "06514",
-			"name": "Xã Hữu Kiên"
+			"id": 3222,
+			"name": "XÃ KHÁNH CƯỜNG"
 		},
 		{
-			"id": "06499",
-			"name": "Xã Lâm Sơn"
+			"id": 3223,
+			"name": "XÃ KHÁNH HỘI"
 		},
 		{
-			"id": "06502",
-			"name": "Xã Liên Sơn"
+			"id": 3224,
+			"name": "XÃ KHÁNH HỒNG"
 		},
 		{
-			"id": "06484",
-			"name": "Xã Mai Sao"
+			"id": 3225,
+			"name": "XÃ KHÁNH LỢI"
 		},
 		{
-			"id": "06496",
-			"name": "Xã Nhân Lý"
+			"id": 3226,
+			"name": "XÃ KHÁNH MẬU"
 		},
 		{
-			"id": "06517",
-			"name": "Xã Quan Sơn"
+			"id": 3227,
+			"name": "XÃ KHÁNH  NINH"
 		},
 		{
-			"id": "06490",
-			"name": "Xã Thượng Cường"
+			"id": 3228,
+			"name": "XÃ KHÁNH THÀNH"
 		},
 		{
-			"id": "06469",
-			"name": "Xã Vân An"
+			"id": 3229,
+			"name": "XÃ KHÁNH THIỆN"
 		},
 		{
-			"id": "06505",
-			"name": "Xã Vạn Linh"
+			"id": 3230,
+			"name": "XÃ KHÁNH THUỶ"
 		},
 		{
-			"id": "06472",
-			"name": "Xã Vân Thủy"
+			"id": 3231,
+			"name": "XÃ KHÁNH TIÊN"
 		},
 		{
-			"id": "06520",
-			"name": "Xã Y Tịch"
+			"id": 3232,
+			"name": "XÃ KHÁNH TRUNG"
+		},
+		{
+			"id": 3233,
+			"name": "KCN NINH PHÚC"
 		}
 	]
 }

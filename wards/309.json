@@ -1,30 +1,54 @@
 {
-	"id": "309",
-	"name": "Quận Dương Kinh",
+	"id": 309,
+	"name": "HUYỆN TÂN UYÊN",
 	"data": [
 		{
-			"id": "11689",
-			"name": "Phường Anh Dũng"
+			"id": 5594,
+			"name": "XÃ NẬM CẦN"
 		},
 		{
-			"id": "11683",
-			"name": "Phường Đa Phúc"
+			"id": 5595,
+			"name": "XÃ PẮC TA"
 		},
 		{
-			"id": "11692",
-			"name": "Phường Hải Thành"
+			"id": 5596,
+			"name": "XÃ THÂN THUỘC"
 		},
 		{
-			"id": "11707",
-			"name": "Phường Hoà Nghĩa"
+			"id": 5597,
+			"name": "THỊ TRẤN TRẤN NÔNG TRƯỜNG"
 		},
 		{
-			"id": "11686",
-			"name": "Phường Hưng Đạo"
+			"id": 5598,
+			"name": "XÃ MƯỜNG KHOA"
 		},
 		{
-			"id": "11740",
-			"name": "Phường Tân Thành"
+			"id": 5599,
+			"name": "XÃ NẬM SỎ"
+		},
+		{
+			"id": 5600,
+			"name": "XÃ TÀ MÍT"
+		},
+		{
+			"id": 5601,
+			"name": "XÃ TRUNG ĐỒNG"
+		},
+		{
+			"id": 5602,
+			"name": "THỊ TRẤN TÂN UYÊN"
+		},
+		{
+			"id": 5603,
+			"name": "XÃ PHÚC KHOA"
+		},
+		{
+			"id": 5604,
+			"name": "XÃ HỐ MÍT"
+		},
+		{
+			"id": 5605,
+			"name": "XÃ BẢN BO"
 		}
 	]
 }

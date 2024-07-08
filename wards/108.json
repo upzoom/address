@@ -1,94 +1,66 @@
 {
-	"id": "108",
-	"name": "Huyện Sìn Hồ",
+	"id": 108,
+	"name": "HUYỆN PHỤNG HIỆP",
 	"data": [
 		{
-			"id": "03538",
-			"name": "Xã Căn Co"
+			"id": 1579,
+			"name": "THỊ TRẤN KINH CÙNG"
 		},
 		{
-			"id": "03487",
-			"name": "Xã Chăn Nưa"
+			"id": 1580,
+			"name": "XÃ HIỆP HƯNG"
 		},
 		{
-			"id": "03499",
-			"name": "Xã Hồng Thu"
+			"id": 1581,
+			"name": "XÃ THẠNH HÒA"
 		},
 		{
-			"id": "03529",
-			"name": "Xã Làng Mô"
+			"id": 1582,
+			"name": "XÃ BÌNH THÀNH"
 		},
 		{
-			"id": "03509",
-			"name": "Xã Lùng Thàng"
+			"id": 1583,
+			"name": "XÃ TÂN LONG"
 		},
 		{
-			"id": "03508",
-			"name": "Xã Ma Quai"
+			"id": 1584,
+			"name": "THỊ TRẤN CÂY DƯƠNG"
 		},
 		{
-			"id": "03526",
-			"name": "Xã Nậm Cha"
+			"id": 1585,
+			"name": "XÃ TÂN PHƯỚC HƯNG"
 		},
 		{
-			"id": "03544",
-			"name": "Xã Nậm Cuổi"
+			"id": 1586,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "03547",
-			"name": "Xã Nậm Hăn"
+			"id": 1587,
+			"name": "XÃ HÒA AN"
 		},
 		{
-			"id": "03535",
-			"name": "Xã Nậm Mạ"
+			"id": 1588,
+			"name": "XÃ PHƯƠNG BÌNH"
 		},
 		{
-			"id": "03517",
-			"name": "Xã Nậm Tăm"
+			"id": 1589,
+			"name": "XÃ PHƯƠNG PHÚ"
 		},
 		{
-			"id": "03532",
-			"name": "Xã Noong Hẻo"
+			"id": 1590,
+			"name": "XÃ HÒA MỸ"
 		},
 		{
-			"id": "03527",
-			"name": "Xã Pa Khoá"
+			"id": 1591,
+			"name": "XÃ PHỤNG HIỆP"
 		},
 		{
-			"id": "03493",
-			"name": "Xã Pa Tần"
+			"id": 1592,
+			"name": "XÃ LONG THẠNH"
 		},
 		{
-			"id": "03505",
-			"name": "Xã Phăng Sô Lin"
-		},
-		{
-			"id": "03496",
-			"name": "Xã Phìn Hồ"
-		},
-		{
-			"id": "03523",
-			"name": "Xã Pu Sam Cáp"
-		},
-		{
-			"id": "03514",
-			"name": "Xã Sà Dề Phìn"
-		},
-		{
-			"id": "03478",
-			"name": "Thị trấn Sìn Hồ"
-		},
-		{
-			"id": "03520",
-			"name": "Xã Tả Ngảo"
-		},
-		{
-			"id": "03511",
-			"name": "Xã Tả Phìn"
-		},
-		{
-			"id": "03541",
-			"name": "Xã Tủa Sín Chải"
+			"id": 1593,
+			"name": "THỊ TRẤN BÚNG TÀU"
 		}
 	]
 }

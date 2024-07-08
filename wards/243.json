@@ -1,42 +1,158 @@
 {
-	"id": "243",
-	"name": "Thành phố Vĩnh Yên",
+	"id": 243,
+	"name": "HUYỆN YÊN SƠN",
 	"data": [
 		{
-			"id": "08725",
-			"name": "Phường Định Trung"
+			"id": 4225,
+			"name": "XÃ AN KHANG"
 		},
 		{
-			"id": "08716",
-			"name": "Phường Đống Đa"
+			"id": 4226,
+			"name": "XÃ CHÂN SƠN"
 		},
 		{
-			"id": "08722",
-			"name": "Phường Đồng Tâm"
+			"id": 4227,
+			"name": "XÃ CHIÊU YÊN"
 		},
 		{
-			"id": "08713",
-			"name": "Phường Hội Hợp"
+			"id": 4228,
+			"name": "XÃ CÔNG ĐA"
 		},
 		{
-			"id": "08728",
-			"name": "Phường Khai Quang"
+			"id": 4229,
+			"name": "XÃ ĐẠO VIỆN"
 		},
 		{
-			"id": "08710",
-			"name": "Phường Liên Bảo"
+			"id": 4230,
+			"name": "XÃ ĐỘI BÌNH"
 		},
 		{
-			"id": "08719",
-			"name": "Phường Ngô Quyền"
+			"id": 4231,
+			"name": "XÃ ĐỘI CẤN"
 		},
 		{
-			"id": "08731",
-			"name": "Xã Thanh Trù"
+			"id": 4232,
+			"name": "XÃ HOÀNG KHAI"
 		},
 		{
-			"id": "08707",
-			"name": "Phường Tích Sơn"
+			"id": 4233,
+			"name": "XÃ HÙNG LỢI"
+		},
+		{
+			"id": 4234,
+			"name": "XÃ KIẾN THIẾT"
+		},
+		{
+			"id": 4235,
+			"name": "XÃ KIM PHÚ"
+		},
+		{
+			"id": 4236,
+			"name": "XÃ TÂN TIẾN"
+		},
+		{
+			"id": 4237,
+			"name": "XÃ KIM QUAN"
+		},
+		{
+			"id": 4238,
+			"name": "XÃ LĂNG QUÁN"
+		},
+		{
+			"id": 4239,
+			"name": "XÃ LỰC HÀNH"
+		},
+		{
+			"id": 4240,
+			"name": "XÃ MỸ BẰNG"
+		},
+		{
+			"id": 4241,
+			"name": "XÃ NHỮ HÁN"
+		},
+		{
+			"id": 4242,
+			"name": "XÃ NHỮ KHÊ"
+		},
+		{
+			"id": 4243,
+			"name": "XÃ PHÚ LÂM"
+		},
+		{
+			"id": 4244,
+			"name": "XÃ PHÚ THỊNH"
+		},
+		{
+			"id": 4245,
+			"name": "XÃ PHÚC NINH"
+		},
+		{
+			"id": 4246,
+			"name": "XÃ QUÝ QUÂN"
+		},
+		{
+			"id": 4247,
+			"name": "THỊ TRẤN TÂN BÌNH"
+		},
+		{
+			"id": 4248,
+			"name": "XÃ TÂN LONG"
+		},
+		{
+			"id": 4249,
+			"name": "XÃ THÁI BÌNH"
+		},
+		{
+			"id": 4250,
+			"name": "XÃ THÁI LONG"
+		},
+		{
+			"id": 4251,
+			"name": "XÃ THẮNG QUÂN"
+		},
+		{
+			"id": 4252,
+			"name": "XÃ THIÊN YÊN"
+		},
+		{
+			"id": 4253,
+			"name": "XÃ TIẾN BỘ"
+		},
+		{
+			"id": 4254,
+			"name": "XÃ TRUNG MINH"
+		},
+		{
+			"id": 4255,
+			"name": "XÃ TRUNG MÔN"
+		},
+		{
+			"id": 4256,
+			"name": "XÃ TRUNG NIÊN"
+		},
+		{
+			"id": 4257,
+			"name": "XÃ TRUNG SƠN"
+		},
+		{
+			"id": 4258,
+			"name": "XÃ TRUNG TRỰC"
+		},
+		{
+			"id": 4259,
+			"name": "THỊ TRẤN SÔNG LÔ"
+		},
+		{
+			"id": 4260,
+			"name": "XÃ TỨ QUẬN"
+		},
+		{
+			"id": 4261,
+			"name": "XÃ XUÂN TÂN"
+		},
+		{
+			"id": 4262,
+			"name": "XÃ XUÂN VÂN"
 		}
 	]
 }

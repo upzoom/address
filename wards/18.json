@@ -1,0 +1,78 @@
+{
+	"id": 18,
+	"name": "THỊ XÃ SƠN TÂY",
+	"data": [
+		{
+			"id": 371,
+			"name": "PHƯỜNG NGÔ QUYỀN"
+		},
+		{
+			"id": 372,
+			"name": "XÃ ĐƯỜNG LÂM"
+		},
+		{
+			"id": 373,
+			"name": "PHƯỜNG XUÂN KHANH"
+		},
+		{
+			"id": 374,
+			"name": "XÃ CỔ ĐÔNG"
+		},
+		{
+			"id": 375,
+			"name": "XÃ XUÂN SƠN"
+		},
+		{
+			"id": 376,
+			"name": "PHƯỜNG LÊ LỢI"
+		},
+		{
+			"id": 377,
+			"name": "PHƯỜNG SƠN LỘC"
+		},
+		{
+			"id": 378,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 379,
+			"name": "PHƯỜNG PHÚ THỊNH"
+		},
+		{
+			"id": 380,
+			"name": "PHƯỜNG TRUNG HƯNG"
+		},
+		{
+			"id": 381,
+			"name": "PHƯỜNG VIÊN SƠN"
+		},
+		{
+			"id": 382,
+			"name": "PHƯỜNG TRUNG SƠN TRẦM"
+		},
+		{
+			"id": 383,
+			"name": "XÃ KIM SƠN"
+		},
+		{
+			"id": 384,
+			"name": "XÃ SƠN ĐỒNG"
+		},
+		{
+			"id": 385,
+			"name": "XÃ THANH MỸ"
+		},
+		{
+			"id": 386,
+			"name": "XÃ SƠN ĐÔNG"
+		},
+		{
+			"id": 387,
+			"name": "XÃ VÕNG XUYÊN"
+		},
+		{
+			"id": 388,
+			"name": "XÃ THỌ LỘC"
+		}
+	]
+}

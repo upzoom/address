@@ -1,0 +1,34 @@
+{
+	"id": 553,
+	"name": "THỊ XÃ PHƯỚC LONG",
+	"data": [
+		{
+			"id": 9651,
+			"name": "PHƯỜNG PHƯỚC BÌNH"
+		},
+		{
+			"id": 9652,
+			"name": "PHƯỜNG LONG PHƯỚC"
+		},
+		{
+			"id": 9653,
+			"name": "PHƯỜNG THÁC MƠ"
+		},
+		{
+			"id": 9654,
+			"name": "PHƯỜNG LONG THUỶ"
+		},
+		{
+			"id": 9655,
+			"name": "XÃ LONG GIANG"
+		},
+		{
+			"id": 9656,
+			"name": "XÃ PHƯỚC TÍN"
+		},
+		{
+			"id": 9657,
+			"name": "PHƯỜNG SƠN GIANG"
+		}
+	]
+}

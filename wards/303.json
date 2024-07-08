@@ -1,42 +1,58 @@
 {
-	"id": "303",
-	"name": "Quận Hồng Bàng",
+	"id": 303,
+	"name": "HUYỆN HOÀNH BỒ",
 	"data": [
 		{
-			"id": "11308",
-			"name": "Phường Hạ Lý"
+			"id": 5494,
+			"name": "THỊ TRẤN TRỚI"
 		},
 		{
-			"id": "11320",
-			"name": "Phường Hoàng Văn Thụ"
+			"id": 5495,
+			"name": "XÃ LÊ LỢI"
 		},
 		{
-			"id": "11299",
-			"name": "Phường Hùng Vương"
+			"id": 5496,
+			"name": "XÃ THỐNG NHẤT"
 		},
 		{
-			"id": "11311",
-			"name": "Phường Minh Khai"
+			"id": 5497,
+			"name": "XÃ BẰNG CÁ"
 		},
 		{
-			"id": "11323",
-			"name": "Phường Phan Bội Châu"
+			"id": 5498,
+			"name": "XÃ DÂN CHỦ"
 		},
 		{
-			"id": "11296",
-			"name": "Phường Quán Toan"
+			"id": 5499,
+			"name": "XÃ ĐỒNG LÂM"
 		},
 		{
-			"id": "11302",
-			"name": "Phường Sở Dầu"
+			"id": 5500,
+			"name": "XÃ ĐỒNG SƠN"
 		},
 		{
-			"id": "11305",
-			"name": "Phường Thượng Lý"
+			"id": 5501,
+			"name": "XÃ HÒA BÌNH"
 		},
 		{
-			"id": "11314",
-			"name": "Phường Trại Chuối"
+			"id": 5502,
+			"name": "XÃ KỲ THƯỢNG"
+		},
+		{
+			"id": 5503,
+			"name": "XÃ QUẢNG LA"
+		},
+		{
+			"id": 5504,
+			"name": "XÃ SƠN DƯƠNG"
+		},
+		{
+			"id": 5505,
+			"name": "XÃ TÂN DÂN"
+		},
+		{
+			"id": 5506,
+			"name": "XÃ VŨ OAI"
 		}
 	]
 }

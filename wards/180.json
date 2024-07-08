@@ -1,94 +1,150 @@
 {
-	"id": "180",
-	"name": "Huyện Tràng Định",
+	"id": 180,
+	"name": "HUYỆN TIỀN HẢI",
 	"data": [
 		{
-			"id": "06010",
-			"name": "Xã Cao Minh"
+			"id": 3053,
+			"name": "XÃ TÂY TIẾN"
 		},
 		{
-			"id": "06034",
-			"name": "Xã Chi Lăng"
+			"id": 3054,
+			"name": "THỊ TRẤN TIỀN HẢI"
 		},
 		{
-			"id": "06013",
-			"name": "Xã Chí Minh"
+			"id": 3055,
+			"name": "XÃ VÂN TRƯỜNG"
 		},
 		{
-			"id": "06040",
-			"name": "Xã Đại Đồng"
+			"id": 3056,
+			"name": "XÃ VŨ LĂNG"
 		},
 		{
-			"id": "06043",
-			"name": "Xã Đào Viên"
+			"id": 3057,
+			"name": "KCN TIỀN HẢI"
 		},
 		{
-			"id": "06046",
-			"name": "Xã Đề Thám"
+			"id": 3022,
+			"name": "XÃ AN NINH"
 		},
 		{
-			"id": "06001",
-			"name": "Xã Đoàn Kết"
+			"id": 3023,
+			"name": "XÃ BẮC HẢI"
 		},
 		{
-			"id": "06025",
-			"name": "Xã Đội Cấn"
+			"id": 3024,
+			"name": "XÃ ĐÔNG CƠ"
 		},
 		{
-			"id": "06055",
-			"name": "Xã Hùng Sơn"
+			"id": 3025,
+			"name": "XÃ ĐÔNG HẢI"
 		},
 		{
-			"id": "06061",
-			"name": "Xã Hùng Việt"
+			"id": 3026,
+			"name": "XÃ ĐÔNG HOÀNG"
 		},
 		{
-			"id": "06049",
-			"name": "Xã Kháng Chiến"
+			"id": 3027,
+			"name": "XÃ ĐÔNG LÂM"
 		},
 		{
-			"id": "05998",
-			"name": "Xã Khánh Long"
+			"id": 3028,
+			"name": "XÃ ĐÔNG LONG"
 		},
 		{
-			"id": "06031",
-			"name": "Xã Kim Đồng"
+			"id": 3029,
+			"name": "XÃ ĐÔNG MINH"
 		},
 		{
-			"id": "06004",
-			"name": "Xã Quốc Khánh"
+			"id": 3030,
+			"name": "XÃ ĐÔNG PHONG"
 		},
 		{
-			"id": "06058",
-			"name": "Xã Quốc Việt"
+			"id": 3031,
+			"name": "XÃ ĐÔNG QUÝ"
 		},
 		{
-			"id": "06028",
-			"name": "Xã Tân Minh"
+			"id": 3032,
+			"name": "XÃ ĐÔNG TRÀ"
 		},
 		{
-			"id": "06019",
-			"name": "Xã Tân Tiến"
+			"id": 3033,
+			"name": "XÃ TÂY GIANG"
 		},
 		{
-			"id": "06022",
-			"name": "Xã Tân Yên"
+			"id": 3034,
+			"name": "XÃ TÂY LƯƠNG"
 		},
 		{
-			"id": "05995",
-			"name": "Thị trấn Thất Khê"
+			"id": 3035,
+			"name": "XÃ TÂY NINH"
 		},
 		{
-			"id": "06016",
-			"name": "Xã Tri Phương"
+			"id": 3036,
+			"name": "XÃ TÂY PHONG"
 		},
 		{
-			"id": "06037",
-			"name": "Xã Trung Thành"
+			"id": 3037,
+			"name": "XÃ NAM CHÍNH"
 		},
 		{
-			"id": "06007",
-			"name": "Xã Vĩnh Tiến"
+			"id": 3038,
+			"name": "XÃ NAM CƯỜNG"
+		},
+		{
+			"id": 3039,
+			"name": "XÃ NAM HƯNG"
+		},
+		{
+			"id": 3040,
+			"name": "XÃ NAM PHÚ"
+		},
+		{
+			"id": 3041,
+			"name": "XÃ NAM THẮNG"
+		},
+		{
+			"id": 3042,
+			"name": "XÃ NAM THANH"
+		},
+		{
+			"id": 3043,
+			"name": "XÃ NAM THỊNH"
+		},
+		{
+			"id": 3044,
+			"name": "XÃ NAM TRUNG"
+		},
+		{
+			"id": 3045,
+			"name": "XÃ PHƯƠNG CÔNG"
+		},
+		{
+			"id": 3046,
+			"name": "XÃ NAM HÀ"
+		},
+		{
+			"id": 3047,
+			"name": "XÃ NAM HẢI"
+		},
+		{
+			"id": 3048,
+			"name": "XÃ NAM HỒNG"
+		},
+		{
+			"id": 3049,
+			"name": "XÃ ĐÔNG TRUNG"
+		},
+		{
+			"id": 3050,
+			"name": "XÃ ĐÔNG XUYÊN"
+		},
+		{
+			"id": 3051,
+			"name": "XÃ TÂY AN"
+		},
+		{
+			"id": 3052,
+			"name": "XÃ TÂY SƠN"
 		}
 	]
 }

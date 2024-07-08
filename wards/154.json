@@ -1,46 +1,82 @@
 {
-	"id": "154",
-	"name": "Huyện Cao Phong",
+	"id": 154,
+	"name": "HUYỆN TIÊN LỮ ",
 	"data": [
 		{
-			"id": "05098",
-			"name": "Xã Bắc Phong"
+			"id": 2359,
+			"name": "THỊ TRẤN VƯƠNG"
 		},
 		{
-			"id": "05092",
-			"name": "Xã Bình Thanh"
+			"id": 2360,
+			"name": "XÃ LỆ XÁ"
 		},
 		{
-			"id": "05089",
-			"name": "Thị trấn Cao Phong"
+			"id": 2361,
+			"name": "XÃ HƯNG ĐẠO"
 		},
 		{
-			"id": "05116",
-			"name": "Xã Dũng Phong"
+			"id": 2362,
+			"name": "XÃ NGÔ QUYỀN"
 		},
 		{
-			"id": "05104",
-			"name": "Xã Hợp Phong"
+			"id": 2363,
+			"name": "XÃ NHẬT TÂN"
 		},
 		{
-			"id": "05119",
-			"name": "Xã Nam Phong"
+			"id": 2364,
+			"name": "XÃ DỊ CHẾ"
 		},
 		{
-			"id": "05110",
-			"name": "Xã Tây Phong"
+			"id": 2365,
+			"name": "XÃ TRUNG DŨNG"
 		},
 		{
-			"id": "05125",
-			"name": "Xã Thạch Yên"
+			"id": 2366,
+			"name": "XÃ ĐỨC THẮNG"
 		},
 		{
-			"id": "05101",
-			"name": "Xã Thu Phong"
+			"id": 2367,
+			"name": "XÃ AN VIÊN"
 		},
 		{
-			"id": "05095",
-			"name": "Xã Thung Nai"
+			"id": 2368,
+			"name": "XÃ THỦ SỸ"
+		},
+		{
+			"id": 2369,
+			"name": "XÃ THIỆN PHIẾN"
+		},
+		{
+			"id": 2370,
+			"name": "XÃ PHƯƠNG CHIỂU"
+		},
+		{
+			"id": 2371,
+			"name": "XÃ TÂN HƯNG"
+		},
+		{
+			"id": 2372,
+			"name": "XÃ HỒNG NAM"
+		},
+		{
+			"id": 2373,
+			"name": "XÃ HOÀNG HANH"
+		},
+		{
+			"id": 2374,
+			"name": "XÃ HẢI TRIỀU"
+		},
+		{
+			"id": 2375,
+			"name": "XÃ THỤY LÔI"
+		},
+		{
+			"id": 2376,
+			"name": "XÃ CƯƠNG CHÍNH"
+		},
+		{
+			"id": 2377,
+			"name": "XÃ MINH PHƯỢNG"
 		}
 	]
 }

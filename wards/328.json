@@ -1,58 +1,98 @@
 {
-	"id": "328",
-	"name": "Thị xã Mỹ Hào",
+	"id": 328,
+	"name": "HUYỆN LƯƠNG SƠN",
 	"data": [
 		{
-			"id": "12124",
-			"name": "Phường Bạch Sam"
+			"id": 5921,
+			"name": "THỊ TRẤN LƯƠNG SƠN"
 		},
 		{
-			"id": "12103",
-			"name": "Phường Bần Yên Nhân"
+			"id": 5922,
+			"name": "XÃ LÂM SƠN"
 		},
 		{
-			"id": "12109",
-			"name": "Xã Cẩm Xá"
+			"id": 5923,
+			"name": "XÃ HÒA SƠN"
 		},
 		{
-			"id": "12121",
-			"name": "Phường Dị Sử"
+			"id": 5924,
+			"name": "XÃ TÂN VINH"
 		},
 		{
-			"id": "12112",
-			"name": "Xã Dương Quang"
+			"id": 5925,
+			"name": "XÃ TRƯỜNG SƠN"
 		},
 		{
-			"id": "12115",
-			"name": "Xã Hòa Phong"
+			"id": 5926,
+			"name": "XÃ CƯ YÊN"
 		},
 		{
-			"id": "12139",
-			"name": "Xã Hưng Long"
+			"id": 5927,
+			"name": "XÃ NHUẬN TRẠCH"
 		},
 		{
-			"id": "12127",
-			"name": "Phường Minh Đức"
+			"id": 5928,
+			"name": "XÃ LIÊN SƠN"
 		},
 		{
-			"id": "12136",
-			"name": "Xã Ngọc Lâm"
+			"id": 5929,
+			"name": "XÃ TIẾN SƠN"
 		},
 		{
-			"id": "12118",
-			"name": "Phường Nhân Hòa"
+			"id": 5930,
+			"name": "XÃ TRUNG SƠN"
 		},
 		{
-			"id": "12106",
-			"name": "Phường Phan Đình Phùng"
+			"id": 5931,
+			"name": "XÃ THÀNH LẬP"
 		},
 		{
-			"id": "12130",
-			"name": "Phường Phùng Chí Kiên"
+			"id": 5932,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "12133",
-			"name": "Xã Xuân Dục"
+			"id": 5933,
+			"name": "XÃ CAO DƯƠNG"
+		},
+		{
+			"id": 5934,
+			"name": "XÃ HỢP CHÂU"
+		},
+		{
+			"id": 5935,
+			"name": "XÃ CAO THẮNG"
+		},
+		{
+			"id": 5936,
+			"name": "XÃ LONG SƠN"
+		},
+		{
+			"id": 5937,
+			"name": "XÃ THANH LƯƠNG"
+		},
+		{
+			"id": 5938,
+			"name": "XÃ HỢP THANH"
+		},
+		{
+			"id": 5939,
+			"name": "XÃ CAO RĂM"
+		},
+		{
+			"id": 5940,
+			"name": "XÃ HỢP HÒA"
+		},
+		{
+			"id": 26328,
+			"name": "XÃ THANH SƠN"
+		},
+		{
+			"id": 26327,
+			"name": "XÃ THANH CAO"
+		},
+		{
+			"id": 26329,
+			"name": "XÃ CAO SƠN"
 		}
 	]
 }

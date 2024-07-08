@@ -1,0 +1,46 @@
+{
+	"id": 10,
+	"name": "QUẬN TÂY HỒ",
+	"data": [
+		{
+			"id": 218,
+			"name": "PHƯỜNG QUẢNG AN"
+		},
+		{
+			"id": 219,
+			"name": "PHƯỜNG TỨ LIÊN"
+		},
+		{
+			"id": 220,
+			"name": "PHƯỜNG YÊN PHỤ"
+		},
+		{
+			"id": 221,
+			"name": "PHƯỜNG NHẬT TÂN"
+		},
+		{
+			"id": 222,
+			"name": "PHƯỜNG THỤY KHUÊ"
+		},
+		{
+			"id": 223,
+			"name": "PHƯỜNG XUÂN LA"
+		},
+		{
+			"id": 224,
+			"name": "PHƯỜNG PHÚ THƯỢNG"
+		},
+		{
+			"id": 225,
+			"name": "PHƯỜNG BƯỞI"
+		},
+		{
+			"id": 226,
+			"name": "PHƯỜNG XUÂN ĐỈNH"
+		},
+		{
+			"id": 227,
+			"name": "PHƯỜNG XUÂN TẢO"
+		}
+	]
+}

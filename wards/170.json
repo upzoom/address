@@ -1,66 +1,78 @@
 {
-	"id": "170",
-	"name": "Huyện Võ Nhai",
+	"id": 170,
+	"name": "HUYỆN VỤ BẢN",
 	"data": [
 		{
-			"id": "05758",
-			"name": "Xã Bình Long"
+			"id": 2700,
+			"name": "XÃ LIÊN MINH"
 		},
 		{
-			"id": "05737",
-			"name": "Xã Cúc Đường"
+			"id": 2701,
+			"name": "XÃ MINH TÂN"
 		},
 		{
-			"id": "05755",
-			"name": "Xã Dân Tiến"
+			"id": 2702,
+			"name": "XÃ MINH THUẬN"
 		},
 		{
-			"id": "05716",
-			"name": "Thị trấn Đình Cả"
+			"id": 2703,
+			"name": "XÃ QUANG TRUNG"
 		},
 		{
-			"id": "05740",
-			"name": "Xã La Hiên"
+			"id": 2704,
+			"name": "XÃ TAM THANH"
 		},
 		{
-			"id": "05743",
-			"name": "Xã Lâu Thượng"
+			"id": 2705,
+			"name": "XÃ TÂN KHÁNH"
 		},
 		{
-			"id": "05752",
-			"name": "Xã Liên Minh"
+			"id": 2706,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "05722",
-			"name": "Xã Nghinh Tường"
+			"id": 2707,
+			"name": "XÃ THÀNH LỢI"
 		},
 		{
-			"id": "05734",
-			"name": "Xã Phú Thượng"
+			"id": 2708,
+			"name": "XÃ TRUNG THÀNH"
 		},
 		{
-			"id": "05749",
-			"name": "Xã Phương Giao"
+			"id": 2709,
+			"name": "THỊ TRẤN GÔI"
 		},
 		{
-			"id": "05719",
-			"name": "Xã Sảng Mộc"
+			"id": 2711,
+			"name": "XÃ CỘNG HÒA"
 		},
 		{
-			"id": "05725",
-			"name": "Xã Thần Xa"
+			"id": 2712,
+			"name": "XÃ ĐẠI AN"
 		},
 		{
-			"id": "05731",
-			"name": "Xã Thượng Nung"
+			"id": 2713,
+			"name": "XÃ ĐẠI THẮNG"
 		},
 		{
-			"id": "05746",
-			"name": "Xã Tràng Xá"
+			"id": 2714,
+			"name": "XÃ HIỀN KHÁNH"
 		},
 		{
-			"id": "05728",
-			"name": "Xã Vũ Chấn"
+			"id": 2715,
+			"name": "XÃ HỢP HƯNG"
+		},
+		{
+			"id": 2716,
+			"name": "XÃ KIM THÁI"
+		},
+		{
+			"id": 2717,
+			"name": "XÃ LIÊN BẢO"
+		},
+		{
+			"id": 2718,
+			"name": "XÃ VĨNH HÀO"
 		}
 	]
 }

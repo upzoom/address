@@ -1,122 +1,94 @@
 {
-	"id": "171",
-	"name": "Huyện Đại Từ",
+	"id": 171,
+	"name": "HUYỆN XUÂN TRƯỜNG",
 	"data": [
 		{
-			"id": "05824",
-			"name": "Xã An Khánh"
+			"id": 2719,
+			"name": "THỊ TRẤN XUÂN TRƯỜNG"
 		},
 		{
-			"id": "05800",
-			"name": "Xã Bản Ngoại"
+			"id": 2720,
+			"name": "XÃ THỌ NGHIỆP"
 		},
 		{
-			"id": "05830",
-			"name": "Xã Bình Thuận"
+			"id": 2721,
+			"name": "XÃ XUÂN BẮC"
 		},
 		{
-			"id": "05848",
-			"name": "Xã Cát Nê"
+			"id": 2722,
+			"name": "XÃ XUÂN CHÂU"
 		},
 		{
-			"id": "05809",
-			"name": "Xã Cù Vân"
+			"id": 2723,
+			"name": "XUÂN ĐÀI"
 		},
 		{
-			"id": "05776",
-			"name": "Xã Đức Lương"
+			"id": 2724,
+			"name": "XÃ XUÂN HÒA"
 		},
 		{
-			"id": "05812",
-			"name": "Xã Hà Thượng"
+			"id": 2725,
+			"name": "XÃ XUÂN HỒNG"
 		},
 		{
-			"id": "05818",
-			"name": "Xã Hoàng Nông"
+			"id": 2726,
+			"name": "XÃ XUÂN HÙNG"
 		},
 		{
-			"id": "05761",
-			"name": "Thị trấn Hùng Sơn"
+			"id": 2727,
+			"name": "XÃ XUÂN KIÊN"
 		},
 		{
-			"id": "05821",
-			"name": "Xã Khôi Kỳ"
+			"id": 2728,
+			"name": "XÃ XUÂN NGỌC"
 		},
 		{
-			"id": "05845",
-			"name": "Xã Ký Phú"
+			"id": 2729,
+			"name": "XÃ XUÂN NINH"
 		},
 		{
-			"id": "05815",
-			"name": "Xã La Bằng"
+			"id": 2730,
+			"name": "XÃ XUÂN PHONG"
 		},
 		{
-			"id": "05833",
-			"name": "Xã Lục Ba"
+			"id": 2731,
+			"name": "XÃ XUÂN PHÚ"
 		},
 		{
-			"id": "05770",
-			"name": "Xã Minh Tiến"
+			"id": 2732,
+			"name": "XÃ XUÂN PHƯƠNG"
 		},
 		{
-			"id": "05836",
-			"name": "Xã Mỹ Yên"
+			"id": 2733,
+			"name": "XUÂN TÂN"
 		},
 		{
-			"id": "05782",
-			"name": "Xã Na Mao"
+			"id": 2734,
+			"name": "XÃ XUÂN THÀNH"
 		},
 		{
-			"id": "05779",
-			"name": "Xã Phú Cường"
+			"id": 2735,
+			"name": "XUÂN THỦY"
 		},
 		{
-			"id": "05785",
-			"name": "Xã Phú Lạc"
+			"id": 2736,
+			"name": "XUÂN TIẾN"
 		},
 		{
-			"id": "05791",
-			"name": "Xã Phú Thịnh"
+			"id": 2737,
+			"name": "XUÂN TRUNG"
 		},
 		{
-			"id": "05797",
-			"name": "Xã Phú Xuyên"
+			"id": 2738,
+			"name": "XUÂN VINH"
 		},
 		{
-			"id": "05794",
-			"name": "Xã Phục Linh"
+			"id": 2739,
+			"name": "XÃ XUÂN THƯỢNG"
 		},
 		{
-			"id": "05767",
-			"name": "Xã Phúc Lương"
-		},
-		{
-			"id": "05851",
-			"name": "Thị trấn Quân Chu"
-		},
-		{
-			"id": "05788",
-			"name": "Xã Tân Linh"
-		},
-		{
-			"id": "05827",
-			"name": "Xã Tân Thái"
-		},
-		{
-			"id": "05803",
-			"name": "Xã Tiên Hội"
-		},
-		{
-			"id": "05839",
-			"name": "Xã Vạn Thọ"
-		},
-		{
-			"id": "05842",
-			"name": "Xã Văn Yên"
-		},
-		{
-			"id": "05773",
-			"name": "Xã Yên Lãng"
+			"id": 2740,
+			"name": "XÃ XUÂN THỦY"
 		}
 	]
 }

@@ -1,90 +1,102 @@
 {
-	"id": "217",
-	"name": "Huyện Lạng Giang",
+	"id": 217,
+	"name": "HUYỆN BÁT XÁT",
 	"data": [
 		{
-			"id": "07396",
-			"name": "Xã An Hà"
+			"id": 3726,
+			"name": "THỊ TRẤN BÁT SÁT"
 		},
 		{
-			"id": "07435",
-			"name": "Xã Đại Lâm"
+			"id": 3727,
+			"name": "XÃ CỐC MỲ"
 		},
 		{
-			"id": "07390",
-			"name": "Xã Đào Mỹ"
+			"id": 3728,
+			"name": "XÃ MƯỜNG VI"
 		},
 		{
-			"id": "07408",
-			"name": "Xã Dương Đức"
+			"id": 3729,
+			"name": "XÃ BẢN XÈO"
 		},
 		{
-			"id": "07405",
-			"name": "Xã Hương Lạc"
+			"id": 3730,
+			"name": "XÃ SÀNG MA SÁO"
 		},
 		{
-			"id": "07387",
-			"name": "Xã Hương Sơn"
+			"id": 3731,
+			"name": "XÃ MƯỜNG HUM"
 		},
 		{
-			"id": "07399",
-			"name": "Thị trấn Kép"
+			"id": 3732,
+			"name": "XÃ DỀN SÁNG"
 		},
 		{
-			"id": "07402",
-			"name": "Xã Mỹ Hà"
+			"id": 3733,
+			"name": "XÃ Y TÝ"
 		},
 		{
-			"id": "07420",
-			"name": "Xã Mỹ Thái"
+			"id": 3734,
+			"name": "XÃ A LÙ"
 		},
 		{
-			"id": "07378",
-			"name": "Xã Nghĩa Hòa"
+			"id": 3735,
+			"name": "XÃ A MÚ SUNG"
 		},
 		{
-			"id": "07381",
-			"name": "Xã Nghĩa Hưng"
+			"id": 3736,
+			"name": "XÃ NẬM CHẠC"
 		},
 		{
-			"id": "07384",
-			"name": "Xã Quang Thịnh"
+			"id": 3737,
+			"name": "XÃ NGẢI THẦU"
 		},
 		{
-			"id": "07432",
-			"name": "Xã Tân Dĩnh"
+			"id": 3738,
+			"name": "XÃ QUANG KIM"
 		},
 		{
-			"id": "07417",
-			"name": "Xã Tân Hưng"
+			"id": 3739,
+			"name": "XÃ CỐC SAN"
 		},
 		{
-			"id": "07411",
-			"name": "Xã Tân Thanh"
+			"id": 3740,
+			"name": "XÃ PHÌN NGAN"
 		},
 		{
-			"id": "07438",
-			"name": "Xã Thái Đào"
+			"id": 3741,
+			"name": "XÃ BẢN QUA"
 		},
 		{
-			"id": "07393",
-			"name": "Xã Tiên Lục"
+			"id": 3742,
+			"name": "XÃ BẢN VƯỢC"
 		},
 		{
-			"id": "07375",
-			"name": "Thị trấn Vôi"
+			"id": 3743,
+			"name": "XÃ TRỊNH TƯỜNG"
 		},
 		{
-			"id": "07429",
-			"name": "Xã Xuân Hương"
+			"id": 3744,
+			"name": "XÃ NẬM PUNG"
 		},
 		{
-			"id": "07426",
-			"name": "Xã Xương Lâm"
+			"id": 3745,
+			"name": "XÃ LA PÁN THẨN"
 		},
 		{
-			"id": "07414",
-			"name": "Xã Yên Mỹ"
+			"id": 3746,
+			"name": "XÃ DỀN THÀNG"
+		},
+		{
+			"id": 3747,
+			"name": "XÃ PA CHEO"
+		},
+		{
+			"id": 3748,
+			"name": "XÃ TÒNG SÀNH"
+		},
+		{
+			"id": 3749,
+			"name": "XÃ TRUNG LÈNG HỒ"
 		}
 	]
 }

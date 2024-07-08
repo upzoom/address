@@ -1,134 +1,74 @@
 {
-	"id": "277",
-	"name": "Huyện Chương Mỹ",
+	"id": 277,
+	"name": "HUYỆN LÂM THAO",
 	"data": [
 		{
-			"id": "10015",
-			"name": "Thị trấn Chúc Sơn"
+			"id": 5004,
+			"name": "XÃ THANH ĐÌNH"
 		},
 		{
-			"id": "10054",
-			"name": "Xã Đại Yên"
+			"id": 5005,
+			"name": "XÃ KINH KỆ"
 		},
 		{
-			"id": "10105",
-			"name": "Xã Đồng Lạc"
+			"id": 5006,
+			"name": "XÃ CAO XÁ"
 		},
 		{
-			"id": "10096",
-			"name": "Xã Đồng Phú"
+			"id": 5007,
+			"name": "XÃ TIÊN KIÊN"
 		},
 		{
-			"id": "10030",
-			"name": "Xã Đông Phương Yên"
+			"id": 5008,
+			"name": "XÃ XUÂN HUY"
 		},
 		{
-			"id": "10027",
-			"name": "Xã Đông Sơn"
+			"id": 5009,
+			"name": "XÃ XUÂN LŨNG"
 		},
 		{
-			"id": "10108",
-			"name": "Xã Hòa Chính"
+			"id": 5010,
+			"name": "THỊ TRẤN LÂM THAO"
 		},
 		{
-			"id": "10078",
-			"name": "Xã Hoàng Diệu"
+			"id": 5011,
+			"name": "XÃ SƠN VI"
 		},
 		{
-			"id": "10075",
-			"name": "Xã Hoàng Văn Thụ"
+			"id": 5012,
+			"name": "XÃ HÙNG SƠN"
 		},
 		{
-			"id": "10093",
-			"name": "Xã Hồng Phong"
+			"id": 5013,
+			"name": "XÃ TỨ XÃ"
 		},
 		{
-			"id": "10072",
-			"name": "Xã Hợp Đồng"
+			"id": 5014,
+			"name": "XÃ BẢN NGUYÊN"
 		},
 		{
-			"id": "10081",
-			"name": "Xã Hữu Văn"
+			"id": 5015,
+			"name": "XÃ SƠN DƯƠNG"
 		},
 		{
-			"id": "10063",
-			"name": "Xã Lam Điền"
+			"id": 5016,
+			"name": "XÃ HỢP HẢI"
 		},
 		{
-			"id": "10087",
-			"name": "Xã Mỹ Lương"
+			"id": 5017,
+			"name": "XÃ VĨNH LẠI"
 		},
 		{
-			"id": "10069",
-			"name": "Xã Nam Phương Tiến"
+			"id": 5018,
+			"name": "XÃ THẠCH SƠN"
 		},
 		{
-			"id": "10042",
-			"name": "Xã Ngọc Hòa"
+			"id": 5019,
+			"name": "THỊ TRẤN HÙNG SƠN"
 		},
 		{
-			"id": "10111",
-			"name": "Xã Phú Nam An"
-		},
-		{
-			"id": "10033",
-			"name": "Xã Phú Nghĩa"
-		},
-		{
-			"id": "10021",
-			"name": "Xã Phụng Châu"
-		},
-		{
-			"id": "10084",
-			"name": "Xã Quảng Bị"
-		},
-		{
-			"id": "10066",
-			"name": "Xã Tân Tiến"
-		},
-		{
-			"id": "10048",
-			"name": "Xã Thanh Bình"
-		},
-		{
-			"id": "10090",
-			"name": "Xã Thượng Vực"
-		},
-		{
-			"id": "10057",
-			"name": "Xã Thụy Hương"
-		},
-		{
-			"id": "10045",
-			"name": "Xã Thủy Xuân Tiên"
-		},
-		{
-			"id": "10024",
-			"name": "Xã Tiên Phương"
-		},
-		{
-			"id": "10060",
-			"name": "Xã Tốt Động"
-		},
-		{
-			"id": "10099",
-			"name": "Xã Trần Phú"
-		},
-		{
-			"id": "10051",
-			"name": "Xã Trung Hòa"
-		},
-		{
-			"id": "10039",
-			"name": "Xã Trường Yên"
-		},
-		{
-			"id": "10102",
-			"name": "Xã Văn Võ"
-		},
-		{
-			"id": "10018",
-			"name": "Thị trấn Xuân Mai"
+			"id": 26276,
+			"name": "XÃ PHÙNG NGUYÊN"
 		}
 	]
 }

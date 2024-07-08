@@ -1,0 +1,54 @@
+{
+	"id": 266,
+	"name": "THÀNH PHỐ SÔNG CÔNG",
+	"data": [
+		{
+			"id": 4774,
+			"name": "PHƯỜNG LƯƠNG CHÂU"
+		},
+		{
+			"id": 4775,
+			"name": "PHƯỜNG MỎ CHÈ"
+		},
+		{
+			"id": 4776,
+			"name": "PHƯỜNG CẢI ĐAN"
+		},
+		{
+			"id": 4777,
+			"name": "PHƯỜNG THẮNG LỢI"
+		},
+		{
+			"id": 4778,
+			"name": "PHƯỜNG PHỐ CÒ"
+		},
+		{
+			"id": 4779,
+			"name": "XÃ VINH SƠN"
+		},
+		{
+			"id": 4780,
+			"name": "XÃ TÂN QUANG"
+		},
+		{
+			"id": 4781,
+			"name": "XÃ BÌNH SƠN"
+		},
+		{
+			"id": 4782,
+			"name": "XÃ BÁ XUYÊN"
+		},
+		{
+			"id": 4783,
+			"name": "PHƯỜNG BÁCH QUANG"
+		},
+		{
+			"id": 4784,
+			"name": "XÃ LƯƠNG SƠN"
+		},
+		{
+			"id": 26306,
+			"name": "PHƯỜNG CHÂU SƠN"
+		}
+	]
+}

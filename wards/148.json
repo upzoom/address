@@ -1,82 +1,58 @@
 {
-	"id": "148",
-	"name": "Thành phố Hòa Bình",
+	"id": 148,
+	"name": "HUYỆN VĂN LÂM",
 	"data": [
 		{
-			"id": "04819",
-			"name": "Phường Dân Chủ"
+			"id": 21515,
+			"name": "KHU CN PHỐ NỐI A"
 		},
 		{
-			"id": "04921",
-			"name": "Xã Độc Lập"
+			"id": 2257,
+			"name": "THỊ TRẤN NHƯ QUỲNH"
 		},
 		{
-			"id": "04804",
-			"name": "Phường Đồng Tiến"
+			"id": 2258,
+			"name": "XÃ LẠC ĐẠO"
 		},
 		{
-			"id": "04825",
-			"name": "Xã Hòa Bình"
+			"id": 2259,
+			"name": "XÃ CHỈ ĐẠO"
 		},
 		{
-			"id": "04903",
-			"name": "Xã Hợp Thành"
+			"id": 2260,
+			"name": "XÃ ĐẠI ĐỒNG"
 		},
 		{
-			"id": "04798",
-			"name": "Phường Hữu Nghị"
+			"id": 2261,
+			"name": "XÃ VIỆT HƯNG"
 		},
 		{
-			"id": "04894",
-			"name": "Phường Kỳ Sơn"
+			"id": 2262,
+			"name": "XÃ TÂN QUANG"
 		},
 		{
-			"id": "04912",
-			"name": "Xã Mông Hóa"
+			"id": 2263,
+			"name": "XÃ ĐÌNH DÙ"
 		},
 		{
-			"id": "04807",
-			"name": "Phường Phương Lâm"
+			"id": 2264,
+			"name": "XÃ MINH HẢI"
 		},
 		{
-			"id": "04906",
-			"name": "Xã Quang Tiến"
+			"id": 2265,
+			"name": "XÃ LƯƠNG TÀI"
 		},
 		{
-			"id": "04816",
-			"name": "Phường Quỳnh Lâm"
+			"id": 2266,
+			"name": "XÃ TRƯNG TRẮC"
 		},
 		{
-			"id": "04792",
-			"name": "Phường Tân Hòa"
+			"id": 2267,
+			"name": "XÃ LẠC HỒNG"
 		},
 		{
-			"id": "04801",
-			"name": "Phường Tân Thịnh"
-		},
-		{
-			"id": "04789",
-			"name": "Phường Thái Bình"
-		},
-		{
-			"id": "04795",
-			"name": "Phường Thịnh Lang"
-		},
-		{
-			"id": "04897",
-			"name": "Xã Thịnh Minh"
-		},
-		{
-			"id": "04828",
-			"name": "Phường Thống Nhất"
-		},
-		{
-			"id": "04918",
-			"name": "Phường Trung Minh"
-		},
-		{
-			"id": "04813",
-			"name": "Xã Yên Mông"
+			"id": 2268,
+			"name": "KCN NHƯ QUỲNH"
 		}
 	]
 }

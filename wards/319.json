@@ -1,0 +1,82 @@
+{
+	"id": 319,
+	"name": "HUYỆN MỘC CHÂU",
+	"data": [
+		{
+			"id": 25661,
+			"name": "THỊ TRẤN NÔNG TRƯỜNG MỘC CHÂU"
+		},
+		{
+			"id": 5769,
+			"name": "THỊ TRẤN NÔNG TRƯỜNG"
+		},
+		{
+			"id": 5770,
+			"name": "TK CỜ ĐỎ"
+		},
+		{
+			"id": 5771,
+			"name": "TK CHÈ ĐEN"
+		},
+		{
+			"id": 5772,
+			"name": "THỊ TRẤN MỘC CHÂU"
+		},
+		{
+			"id": 5773,
+			"name": "XÃ CHIỀNG HẶC"
+		},
+		{
+			"id": 5774,
+			"name": "XÃ ĐÔNG SANG"
+		},
+		{
+			"id": 5775,
+			"name": "XÃ HUA PĂNG"
+		},
+		{
+			"id": 5776,
+			"name": "XÃ CHIỀNG SƠN"
+		},
+		{
+			"id": 5777,
+			"name": "XÃ TÂN HỢP"
+		},
+		{
+			"id": 5778,
+			"name": "XÃ QUI HƯỚNG"
+		},
+		{
+			"id": 5779,
+			"name": "XÃ NÀ MƯỜNG"
+		},
+		{
+			"id": 5780,
+			"name": "XÃ TÀ LAI"
+		},
+		{
+			"id": 5781,
+			"name": "XÃ CHIỀNG KHỪA"
+		},
+		{
+			"id": 5782,
+			"name": "XÃ MƯỜNG SANG"
+		},
+		{
+			"id": 5783,
+			"name": "XÃ PHIÊNG LUÔNG"
+		},
+		{
+			"id": 5784,
+			"name": "XÃ LÓNG SẬP"
+		},
+		{
+			"id": 5785,
+			"name": "XÃ CHÀ LỒNG"
+		},
+		{
+			"id": 5786,
+			"name": "XÃ TÂN LẬP"
+		}
+	]
+}

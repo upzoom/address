@@ -1,0 +1,30 @@
+{
+	"id": 92,
+	"name": "HUYỆN TÂN PHÚ ĐÔNG",
+	"data": [
+		{
+			"id": 1342,
+			"name": "XÃ PHÚ ĐÔNG"
+		},
+		{
+			"id": 1343,
+			"name": "XÃ PHÚ TÂN"
+		},
+		{
+			"id": 1344,
+			"name": "XÃ TÂN THỚI"
+		},
+		{
+			"id": 1345,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 1346,
+			"name": "XÃ TÂN THẠNH"
+		},
+		{
+			"id": 1347,
+			"name": "XÃ PHÚ THẠNH"
+		}
+	]
+}

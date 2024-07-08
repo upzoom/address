@@ -1,0 +1,74 @@
+{
+	"id": 63,
+	"name": "HUYỆN AN LÃO",
+	"data": [
+		{
+			"id": 1026,
+			"name": "THỊ TRẤN TRƯỜNG SƠN"
+		},
+		{
+			"id": 1027,
+			"name": "THỊ TRẤN AN LÃO"
+		},
+		{
+			"id": 1028,
+			"name": "XÃ MỸ ĐỨC"
+		},
+		{
+			"id": 1029,
+			"name": "XÃ TRƯỜNG THÀNH"
+		},
+		{
+			"id": 1030,
+			"name": "XÃ TRƯỜNG THỌ"
+		},
+		{
+			"id": 1031,
+			"name": "XÃ QUANG TRUNG"
+		},
+		{
+			"id": 1032,
+			"name": "XÃ AN THẮNG"
+		},
+		{
+			"id": 1033,
+			"name": "XÃ CHIẾN THẮNG"
+		},
+		{
+			"id": 1034,
+			"name": "XÃ TÂN DÂN"
+		},
+		{
+			"id": 1035,
+			"name": "XÃ QUANG HƯNG"
+		},
+		{
+			"id": 1036,
+			"name": "XÃ QUỐC TUẤN"
+		},
+		{
+			"id": 1037,
+			"name": "XÃ AN THÁI"
+		},
+		{
+			"id": 1038,
+			"name": "XÃ TÂN VIÊN"
+		},
+		{
+			"id": 1039,
+			"name": "XÃ AN THỌ"
+		},
+		{
+			"id": 1040,
+			"name": "XÃ BÁT TRANG"
+		},
+		{
+			"id": 1041,
+			"name": "XÃ AN TIẾN"
+		},
+		{
+			"id": 1042,
+			"name": "XÃ THÁI SƠN"
+		}
+	]
+}

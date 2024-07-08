@@ -1,0 +1,46 @@
+{
+	"id": 13,
+	"name": "Hưng Yên",
+	"data": [
+		{
+			"id": 147,
+			"name": "HUYỆN PHÙ CỪ"
+		},
+		{
+			"id": 148,
+			"name": "HUYỆN VĂN LÂM"
+		},
+		{
+			"id": 149,
+			"name": "HUYỆN KHOÁI CHÂU"
+		},
+		{
+			"id": 150,
+			"name": "HUYỆN ÂN THI"
+		},
+		{
+			"id": 151,
+			"name": "HUYỆN VĂN GIANG"
+		},
+		{
+			"id": 152,
+			"name": "THỊ XÃ MỸ HÀO"
+		},
+		{
+			"id": 153,
+			"name": "HUYỆN KIM ĐỘNG"
+		},
+		{
+			"id": 154,
+			"name": "HUYỆN TIÊN LỮ "
+		},
+		{
+			"id": 155,
+			"name": "HUYỆN YÊN MỸ"
+		},
+		{
+			"id": 156,
+			"name": "THÀNH PHỐ HƯNG YÊN"
+		}
+	]
+}

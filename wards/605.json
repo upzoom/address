@@ -1,0 +1,50 @@
+{
+	"id": 605,
+	"name": "HUYỆN ĐỨC HUỆ",
+	"data": [
+		{
+			"id": 10306,
+			"name": "THỊ TRẤN ĐỒNG THÀNH"
+		},
+		{
+			"id": 10307,
+			"name": "XÃ MỸ QUÝ ĐÔNG"
+		},
+		{
+			"id": 10308,
+			"name": "XÃ MỸ QUÝ TÂY"
+		},
+		{
+			"id": 10309,
+			"name": "XÃ MỸ THẠNH BẮC"
+		},
+		{
+			"id": 10310,
+			"name": "XÃ BÌNH THÀNH"
+		},
+		{
+			"id": 10311,
+			"name": "XÃ BÌNH HÒA HƯNG"
+		},
+		{
+			"id": 10312,
+			"name": "XÃ BÌNH HÒA NAM"
+		},
+		{
+			"id": 10313,
+			"name": "XÃ BÌNH HÒA BẮC"
+		},
+		{
+			"id": 10314,
+			"name": "XÃ MỸ THẠNH ĐÔNG"
+		},
+		{
+			"id": 10315,
+			"name": "XÃ MỸ THẠNH TÂY"
+		},
+		{
+			"id": 10316,
+			"name": "XÃ MỸ BÌNH"
+		}
+	]
+}

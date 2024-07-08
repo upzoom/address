@@ -1,66 +1,58 @@
 {
-	"id": "452",
-	"name": "Huyện Minh Hóa",
+	"id": 452,
+	"name": "HUYỆN SƠN TỊNH",
 	"data": [
 		{
-			"id": "18904",
-			"name": "Xã Dân Hóa"
+			"id": 8360,
+			"name": "THỊ TRẤN SƠN TỊNH"
 		},
 		{
-			"id": "18922",
-			"name": "Xã Hóa Hợp"
+			"id": 8361,
+			"name": "XÃ TỊNH HÒA"
 		},
 		{
-			"id": "18910",
-			"name": "Xã Hóa Phúc"
+			"id": 8365,
+			"name": "XÃ TỊNH MINH"
 		},
 		{
-			"id": "18937",
-			"name": "Xã Hóa Sơn"
+			"id": 8366,
+			"name": "XÃ TỊNH PHONG"
 		},
 		{
-			"id": "18916",
-			"name": "Xã Hóa Thanh"
+			"id": 8367,
+			"name": "XÃ TỊNH SƠN"
 		},
 		{
-			"id": "18919",
-			"name": "Xã Hóa Tiến"
+			"id": 8369,
+			"name": "XÃ TỊNH THỌ"
 		},
 		{
-			"id": "18913",
-			"name": "Xã Hồng Hóa"
+			"id": 8370,
+			"name": "XÃ TỊNH TRÀ"
 		},
 		{
-			"id": "18931",
-			"name": "Xã Minh Hóa"
+			"id": 8371,
+			"name": "XÃ TỊNH BẮC"
 		},
 		{
-			"id": "18901",
-			"name": "Thị trấn Quy Đạt"
+			"id": 8375,
+			"name": "XÃ TỊNH BÌNH"
 		},
 		{
-			"id": "18934",
-			"name": "Xã Tân Hóa"
+			"id": 8377,
+			"name": "XÃ TỊNH ĐÔNG"
 		},
 		{
-			"id": "18946",
-			"name": "Xã Thượng Hóa"
+			"id": 8378,
+			"name": "XÃ TỊNH GIANG"
 		},
 		{
-			"id": "18907",
-			"name": "Xã Trọng Hóa"
+			"id": 8379,
+			"name": "XÃ TỊNH HÀ"
 		},
 		{
-			"id": "18943",
-			"name": "Xã Trung Hóa"
-		},
-		{
-			"id": "18925",
-			"name": "Xã Xuân Hóa"
-		},
-		{
-			"id": "18928",
-			"name": "Xã Yên Hóa"
+			"id": 8380,
+			"name": "XÃ TỊNH HIỆP"
 		}
 	]
 }

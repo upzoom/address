@@ -1,74 +1,66 @@
 {
-	"id": "442",
-	"name": "Huyện Nghi Xuân",
+	"id": 442,
+	"name": "HUYỆN TƯ NGHĨA",
 	"data": [
 		{
-			"id": "18391",
-			"name": "Xã Cỗ Đạm"
+			"id": 8234,
+			"name": "THỊ TRẤN  SÔNG VỆ"
 		},
 		{
-			"id": "18403",
-			"name": "Xã Cương Gián"
+			"id": 8235,
+			"name": "THỊ TRẤN LA HÀ"
 		},
 		{
-			"id": "18358",
-			"name": "Xã Đan Trường"
+			"id": 8237,
+			"name": "XÃ NGHĨA ĐIỀN"
 		},
 		{
-			"id": "18373",
-			"name": "Thị trấn Tiên Điền"
+			"id": 8239,
+			"name": "XÃ NGHĨA HIỆP"
 		},
 		{
-			"id": "18352",
-			"name": "Thị trấn Xuân An"
+			"id": 8240,
+			"name": "XÃ NGHĨA HÒA"
 		},
 		{
-			"id": "18370",
-			"name": "Xã Xuân Giang"
+			"id": 8241,
+			"name": "XÃ NGHĨA KỲ"
 		},
 		{
-			"id": "18367",
-			"name": "Xã Xuân Hải"
+			"id": 8242,
+			"name": "XÃ NGHĨA LÂM"
 		},
 		{
-			"id": "18355",
-			"name": "Xã Xuân Hội"
+			"id": 8243,
+			"name": "XÃ NGHĨA MỸ"
 		},
 		{
-			"id": "18388",
-			"name": "Xã Xuân Hồng"
+			"id": 8245,
+			"name": "XÃ NGHĨA PHƯƠNG"
 		},
 		{
-			"id": "18400",
-			"name": "Xã Xuân Lam"
+			"id": 8246,
+			"name": "XÃ NGHĨA SƠN"
 		},
 		{
-			"id": "18394",
-			"name": "Xã Xuân Liên"
+			"id": 8247,
+			"name": "XÃ NGHĨA THẮNG"
 		},
 		{
-			"id": "18397",
-			"name": "Xã Xuân Lĩnh"
+			"id": 8248,
+			"name": "XÃ NGHĨA THỌ"
 		},
 		{
-			"id": "18379",
-			"name": "Xã Xuân Mỹ"
+			"id": 8249,
+			"name": "XÃ NGHĨA THUẬN"
 		},
 		{
-			"id": "18364",
-			"name": "Xã Xuân Phổ"
+			"id": 8250,
+			"name": "XÃ NGHĨA THƯƠNG"
 		},
 		{
-			"id": "18382",
-			"name": "Xã Xuân Thành"
-		},
-		{
-			"id": "18385",
-			"name": "Xã Xuân Viên"
-		},
-		{
-			"id": "18376",
-			"name": "Xã Xuân Yên"
+			"id": 8251,
+			"name": "XÃ NGHĨA TRUNG"
 		}
 	]
 }

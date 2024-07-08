@@ -1,54 +1,42 @@
 {
-	"id": "511",
-	"name": "Huyện Phước Sơn",
+	"id": 511,
+	"name": "HUYỆN KRÔNG BÚK",
 	"data": [
 		{
-			"id": "20722",
-			"name": "Thị trấn Khâm Đức"
+			"id": 9156,
+			"name": "XÃ CHƯ KBÔ"
 		},
 		{
-			"id": "20740",
-			"name": "Xã Phước Chánh"
+			"id": 9157,
+			"name": "XÃ CƯ NÉ"
 		},
 		{
-			"id": "20743",
-			"name": "Xã Phước Công"
+			"id": 9158,
+			"name": "TRUNG TÂM HUYỆN KRÔNG BU'K"
 		},
 		{
-			"id": "20731",
-			"name": "Xã Phước Đức"
+			"id": 9159,
+			"name": "XÃ CƯ PƠNG"
 		},
 		{
-			"id": "20728",
-			"name": "Xã Phước Hiệp"
+			"id": 9160,
+			"name": "XÃ DRÔNG"
 		},
 		{
-			"id": "20729",
-			"name": "Xã Phước Hoà"
+			"id": 9161,
+			"name": "XÃ EA NGAI"
 		},
 		{
-			"id": "20746",
-			"name": "Xã Phước Kim"
+			"id": 9162,
+			"name": "XÃ PƠNGDRANG"
 		},
 		{
-			"id": "20749",
-			"name": "Xã Phước Lộc"
+			"id": 9163,
+			"name": "XÃ EA SIN"
 		},
 		{
-			"id": "20737",
-			"name": "Xã Phước Mỹ"
-		},
-		{
-			"id": "20734",
-			"name": "Xã Phước Năng"
-		},
-		{
-			"id": "20752",
-			"name": "Xã Phước Thành"
-		},
-		{
-			"id": "20725",
-			"name": "Xã Phước Xuân"
+			"id": 9164,
+			"name": "XÃ TÂN LẬP"
 		}
 	]
 }

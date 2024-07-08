@@ -1,54 +1,42 @@
 {
-	"id": "600",
-	"name": "Huyện Đức Linh",
+	"id": 600,
+	"name": "HUYỆN ĐẤT ĐỎ",
 	"data": [
 		{
-			"id": "23197",
-			"name": "Xã Đa Kai"
+			"id": 10273,
+			"name": "XÃ LONG TÂN"
 		},
 		{
-			"id": "23224",
-			"name": "Xã Đông Hà"
+			"id": 10274,
+			"name": "XÃ PHƯỚC LONG THỌ"
 		},
 		{
-			"id": "23212",
-			"name": "Xã Đức Hạnh"
+			"id": 10275,
+			"name": "XÃ PHƯỚC THẠNH"
 		},
 		{
-			"id": "23194",
-			"name": "Thị trấn Đức Tài"
+			"id": 10276,
+			"name": "XÃ LÁNG DÀI"
 		},
 		{
-			"id": "23215",
-			"name": "Xã Đức Tín"
+			"id": 10277,
+			"name": "XÃ PHƯỚC HỘI"
 		},
 		{
-			"id": "23203",
-			"name": "Xã Mê Pu"
+			"id": 10278,
+			"name": "XÃ LONG MỸ"
 		},
 		{
-			"id": "23206",
-			"name": "Xã Nam Chính"
+			"id": 10279,
+			"name": "XÃ LỘC AN"
 		},
 		{
-			"id": "23200",
-			"name": "Xã Sùng Nhơn"
+			"id": 10280,
+			"name": "THỊ TRẤN PHƯỚC HẢI"
 		},
 		{
-			"id": "23221",
-			"name": "Xã Tân Hà"
-		},
-		{
-			"id": "23227",
-			"name": "Xã Trà Tân"
-		},
-		{
-			"id": "23191",
-			"name": "Thị trấn Võ Xu"
-		},
-		{
-			"id": "23218",
-			"name": "Xã Vũ Hoà"
+			"id": 10281,
+			"name": "THỊ TRẤN ĐẤT ĐỎ"
 		}
 	]
 }

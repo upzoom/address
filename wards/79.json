@@ -1,0 +1,54 @@
+{
+	"id": 79,
+	"name": "HUYỆN HÒA VANG",
+	"data": [
+		{
+			"id": 1244,
+			"name": "XÃ HÒA LIÊN"
+		},
+		{
+			"id": 1245,
+			"name": "XÃ HÒA SƠN"
+		},
+		{
+			"id": 1246,
+			"name": "XÃ HÒA NINH"
+		},
+		{
+			"id": 1247,
+			"name": "XÃ HÒA BẮC"
+		},
+		{
+			"id": 1248,
+			"name": "XÃ HÒA PHONG"
+		},
+		{
+			"id": 1249,
+			"name": "XÃ HÒA PHÚ"
+		},
+		{
+			"id": 1250,
+			"name": "XÃ HÒA CHÂU"
+		},
+		{
+			"id": 1251,
+			"name": "XÃ HÒA KHƯƠNG"
+		},
+		{
+			"id": 1252,
+			"name": "XÃ HÒA PHƯỚC"
+		},
+		{
+			"id": 1253,
+			"name": "XÃ HÒA TIẾN"
+		},
+		{
+			"id": 1254,
+			"name": "XÃ HÒA NHƠN"
+		},
+		{
+			"id": 1255,
+			"name": "XÃ HÒA THỌ"
+		}
+	]
+}

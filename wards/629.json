@@ -1,54 +1,66 @@
 {
-	"id": "629",
-	"name": "Huyện Mang Yang",
+	"id": 629,
+	"name": "HUYỆN THANH BÌNH",
 	"data": [
 		{
-			"id": "23797",
-			"name": "Xã Ayun"
+			"id": 10620,
+			"name": "TT THANH BÌNH"
 		},
 		{
-			"id": "23806",
-			"name": "Xã Đăk Djrăng"
+			"id": 10621,
+			"name": "XÃ TÂN QUỚI"
 		},
 		{
-			"id": "23798",
-			"name": "Xã Đak Jơ Ta"
+			"id": 10622,
+			"name": "XÃ TÂN HÒA"
 		},
 		{
-			"id": "23799",
-			"name": "Xã Đak Ta Ley"
+			"id": 10623,
+			"name": "XÃ AN PHONG"
 		},
 		{
-			"id": "23821",
-			"name": "Xã Đăk Trôi"
+			"id": 10624,
+			"name": "XÃ PHÚ LỢI"
 		},
 		{
-			"id": "23803",
-			"name": "Xã Đăk Yă"
+			"id": 10625,
+			"name": "XÃ TÂN MỸ"
 		},
 		{
-			"id": "23815",
-			"name": "Xã Đê Ar"
+			"id": 10626,
+			"name": "XÃ BÌNH TẤN"
 		},
 		{
-			"id": "23800",
-			"name": "Xã Hra"
+			"id": 10627,
+			"name": "XÃ TÂN HUỀ"
 		},
 		{
-			"id": "23818",
-			"name": "Xã Kon Chiêng"
+			"id": 10628,
+			"name": "XÃ TÂN BÌNH"
 		},
 		{
-			"id": "23794",
-			"name": "Thị trấn Kon Dơng"
+			"id": 10629,
+			"name": "XÃ TÂN THẠNH"
 		},
 		{
-			"id": "23812",
-			"name": "Xã Kon Thụp"
+			"id": 10630,
+			"name": "XÃ TÂN PHÚ ĐÔNG"
 		},
 		{
-			"id": "23809",
-			"name": "Xã Lơ Pang"
+			"id": 10631,
+			"name": "XÃ TÂN LONG"
+		},
+		{
+			"id": 10632,
+			"name": "XÃ BÌNH THÀNH"
+		},
+		{
+			"id": 16987,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 16997,
+			"name": "THỊ TRẤN TRÀM CHIM"
 		}
 	]
 }

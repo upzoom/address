@@ -1,42 +1,62 @@
 {
-	"id": "19",
-	"name": "Tỉnh Thái Nguyên",
+	"id": 19,
+	"name": "Cao Bằng",
 	"data": [
 		{
-			"id": "171",
-			"name": "Huyện Đại Từ"
+			"id": 201,
+			"name": "HUYỆN THẠCH AN"
 		},
 		{
-			"id": "167",
-			"name": "Huyện Định Hóa"
+			"id": 202,
+			"name": "HUYỆN HẠ LANG"
 		},
 		{
-			"id": "169",
-			"name": "Huyện Đồng Hỷ"
+			"id": 203,
+			"name": "HUYỆN NGUYÊN BÌNH"
 		},
 		{
-			"id": "172",
-			"name": "Thành phố Phổ Yên"
+			"id": 204,
+			"name": "HUYỆN BẢO LẠC"
 		},
 		{
-			"id": "173",
-			"name": "Huyện Phú Bình"
+			"id": 205,
+			"name": "HUYỆN PHỤC HÒA"
 		},
 		{
-			"id": "168",
-			"name": "Huyện Phú Lương"
+			"id": 206,
+			"name": "HUYỆN TRÙNG KHÁNH"
 		},
 		{
-			"id": "165",
-			"name": "Thành phố Sông Công"
+			"id": 207,
+			"name": "HUYỆN THÔNG NÔNG"
 		},
 		{
-			"id": "164",
-			"name": "Thành phố Thái Nguyên"
+			"id": 208,
+			"name": "HUYỆN BẢO LÂM"
 		},
 		{
-			"id": "170",
-			"name": "Huyện Võ Nhai"
+			"id": 209,
+			"name": "THỊ XÃ CAO BẰNG"
+		},
+		{
+			"id": 210,
+			"name": "HUYỆN HÀ QUẢNG"
+		},
+		{
+			"id": 211,
+			"name": "HUYỆN TRÀ LĨNH"
+		},
+		{
+			"id": 212,
+			"name": "HUYỆN HÒA AN"
+		},
+		{
+			"id": 213,
+			"name": "HUYỆN QUẢNG UYÊN"
+		},
+		{
+			"id": 725,
+			"name": "HUYỆN QUẢNG HÒA"
 		}
 	]
 }

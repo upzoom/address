@@ -1,0 +1,54 @@
+{
+	"id": 267,
+	"name": "THI XÃ PHÚ THỌ",
+	"data": [
+		{
+			"id": 4785,
+			"name": "XÃ HÀ LỘC"
+		},
+		{
+			"id": 4786,
+			"name": "XÃ VĂN LUNG"
+		},
+		{
+			"id": 4787,
+			"name": "PHƯỜNG ÂU CƠ"
+		},
+		{
+			"id": 4788,
+			"name": "XÃ HÀ THẠCH"
+		},
+		{
+			"id": 4789,
+			"name": "XÃ THANH VINH"
+		},
+		{
+			"id": 4790,
+			"name": "XÃ NĂNG YÊN"
+		},
+		{
+			"id": 4791,
+			"name": "XÃ VẪN LĨNH"
+		},
+		{
+			"id": 4792,
+			"name": "PHƯỜNG HÙNG VƯƠNG"
+		},
+		{
+			"id": 4793,
+			"name": "PHƯỜNG PHONG CHÂU"
+		},
+		{
+			"id": 4794,
+			"name": "PHƯỜNG TRƯỜNG THỊNH"
+		},
+		{
+			"id": 4795,
+			"name": "XÃ PHÚ HỘ"
+		},
+		{
+			"id": 4796,
+			"name": "XÃ THANH MINH"
+		}
+	]
+}

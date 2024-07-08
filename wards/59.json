@@ -1,0 +1,70 @@
+{
+	"id": 59,
+	"name": "HUYỆN AN DƯƠNG",
+	"data": [
+		{
+			"id": 985,
+			"name": "XÃ ĐẠI BẢN"
+		},
+		{
+			"id": 986,
+			"name": "XÃ TÂN TIẾN"
+		},
+		{
+			"id": 987,
+			"name": "XÃ AN HƯNG"
+		},
+		{
+			"id": 988,
+			"name": "XÃ AN HỒNG"
+		},
+		{
+			"id": 989,
+			"name": "XÃ NAM SƠN"
+		},
+		{
+			"id": 990,
+			"name": "XÃ LÊ LỢI"
+		},
+		{
+			"id": 991,
+			"name": "XÃ ĐĂNG CƯƠNG"
+		},
+		{
+			"id": 992,
+			"name": "XÃ ĐỒNG THÁI"
+		},
+		{
+			"id": 993,
+			"name": "XÃ QUỐC TUẤN"
+		},
+		{
+			"id": 994,
+			"name": "XÃ HỒNG THÁI"
+		},
+		{
+			"id": 995,
+			"name": "THỊ TRẤN AN DƯƠNG"
+		},
+		{
+			"id": 996,
+			"name": "XẪ LÊ THIỆN"
+		},
+		{
+			"id": 997,
+			"name": "XÃ AN HÒA"
+		},
+		{
+			"id": 998,
+			"name": "XÃ HỒNG PHONG"
+		},
+		{
+			"id": 999,
+			"name": "XÃ BẮC SƠN"
+		},
+		{
+			"id": 1000,
+			"name": "XÃ AN ĐỒNG"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"id": 75,
+	"name": "QUẬN SƠN TRÀ",
+	"data": [
+		{
+			"id": 1212,
+			"name": "PHƯỜNG NẠI HIÊN ĐÔNG"
+		},
+		{
+			"id": 1213,
+			"name": "PHƯỜNG AN HẢI BẮC"
+		},
+		{
+			"id": 1214,
+			"name": "PHƯỜNG AN HẢI TÂY"
+		},
+		{
+			"id": 1215,
+			"name": "PHƯỜNG MÂN THÁI"
+		},
+		{
+			"id": 1216,
+			"name": "PHƯỜNG PHƯỚC MỸ"
+		},
+		{
+			"id": 1217,
+			"name": "PHƯỜNG AN HẢI ĐÔNG"
+		},
+		{
+			"id": 1218,
+			"name": "PHƯỜNG THỌ QUANG"
+		}
+	]
+}

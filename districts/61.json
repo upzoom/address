@@ -1,0 +1,50 @@
+{
+	"id": 61,
+	"name": "Sóc Trăng",
+	"data": [
+		{
+			"id": 682,
+			"name": "HUYỆN LONG PHÚ"
+		},
+		{
+			"id": 683,
+			"name": "HUYỆN THẠNH TRỊ"
+		},
+		{
+			"id": 684,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 685,
+			"name": "THỊ XÃ NGÃ NĂM"
+		},
+		{
+			"id": 686,
+			"name": "HUYỆN KẾ SÁCH"
+		},
+		{
+			"id": 687,
+			"name": "HUYỆN CÙ LAO DUNG"
+		},
+		{
+			"id": 688,
+			"name": "HUYỆN TRẦN ĐỀ"
+		},
+		{
+			"id": 689,
+			"name": "THÀNH PHỐ SÓC TRĂNG"
+		},
+		{
+			"id": 690,
+			"name": "HUYỆN MỸ XUYÊN"
+		},
+		{
+			"id": 691,
+			"name": "HUYỆN MỸ TÚ"
+		},
+		{
+			"id": 692,
+			"name": "THỊ XÃ VĨNH CHÂU"
+		}
+	]
+}

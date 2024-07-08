@@ -1,0 +1,66 @@
+{
+	"id": 104,
+	"name": "HUYỆN LONG MỸ",
+	"data": [
+		{
+			"id": 1538,
+			"name": "XÃ TÂN PHÚ"
+		},
+		{
+			"id": 1539,
+			"name": "XÃ VĨNH THUẬN ĐÔNG"
+		},
+		{
+			"id": 1540,
+			"name": "XÃ THUẬN HÒA"
+		},
+		{
+			"id": 1541,
+			"name": "XÃ THUẬN HƯNG"
+		},
+		{
+			"id": 1542,
+			"name": "XÃ LƯƠNG NGHĨA"
+		},
+		{
+			"id": 1543,
+			"name": "XÃ VĨNH VIỄN A"
+		},
+		{
+			"id": 1544,
+			"name": "TT LONG MỸ"
+		},
+		{
+			"id": 1545,
+			"name": "PHƯỜNG TRÀ LỒNG"
+		},
+		{
+			"id": 1546,
+			"name": "XÃ LONG BÌNH"
+		},
+		{
+			"id": 1547,
+			"name": "XÃ LONG TRỊ"
+		},
+		{
+			"id": 1548,
+			"name": "XÃ LONG TRỊ A"
+		},
+		{
+			"id": 1549,
+			"name": "XÃ VĨNH VIỄN"
+		},
+		{
+			"id": 1550,
+			"name": "XÃ XÀ PHIÊN"
+		},
+		{
+			"id": 1551,
+			"name": "XÃ LƯƠNG TÂM"
+		},
+		{
+			"id": 1552,
+			"name": "XÃ LONG PHÚ"
+		}
+	]
+}

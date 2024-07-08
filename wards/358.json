@@ -1,50 +1,194 @@
 {
-	"id": "358",
-	"name": "Huyện Mỹ Lộc",
+	"id": 358,
+	"name": "HUYỆN THỌ XUÂN",
 	"data": [
 		{
-			"id": "13711",
-			"name": "Xã Mỹ Hà"
+			"id": 6622,
+			"name": "THỊ TRẤN SAO VÀNG"
 		},
 		{
-			"id": "13729",
-			"name": "Xã Mỹ Hưng"
+			"id": 6623,
+			"name": "THỊ TRẤN THỌ XUÂN"
 		},
 		{
-			"id": "13708",
-			"name": "Thị trấn Mỹ Lộc"
+			"id": 6624,
+			"name": "XÃ XUÂN TÂN"
 		},
 		{
-			"id": "13726",
-			"name": "Xã Mỹ Phúc"
+			"id": 6625,
+			"name": "THỊ TRẤN LAM SƠN"
 		},
 		{
-			"id": "13723",
-			"name": "Xã Mỹ Tân"
+			"id": 6626,
+			"name": "XÃ XUÂN CHÂU"
 		},
 		{
-			"id": "13717",
-			"name": "Xã Mỹ Thắng"
+			"id": 6627,
+			"name": "XÃ XUÂN TÍN"
 		},
 		{
-			"id": "13738",
-			"name": "Xã Mỹ Thành"
+			"id": 6628,
+			"name": "XÃ THỌ THẮNG"
 		},
 		{
-			"id": "13735",
-			"name": "Xã Mỹ Thịnh"
+			"id": 6629,
+			"name": "XÃ XUÂN LẬP"
 		},
 		{
-			"id": "13732",
-			"name": "Xã Mỹ Thuận"
+			"id": 6630,
+			"name": "XÃ XUÂN HÒA"
 		},
 		{
-			"id": "13714",
-			"name": "Xã Mỹ Tiến"
+			"id": 6631,
+			"name": "XÃ XUÂN PHONG"
 		},
 		{
-			"id": "13720",
-			"name": "Xã Mỹ Trung"
+			"id": 6632,
+			"name": "XÃ NAM GIANG"
+		},
+		{
+			"id": 6633,
+			"name": "XÃ XUÂN QUANG"
+		},
+		{
+			"id": 6634,
+			"name": "XÃ XUÂN THIÊN"
+		},
+		{
+			"id": 6635,
+			"name": "XÃ XUÂN LÂM"
+		},
+		{
+			"id": 6636,
+			"name": "XÃ THỌ XƯƠNG"
+		},
+		{
+			"id": 6637,
+			"name": "XÃ XUÂN KHÁNH"
+		},
+		{
+			"id": 6638,
+			"name": "XÃ THỌ TRƯỜNG"
+		},
+		{
+			"id": 6639,
+			"name": "XÃ THỌ NGUYÊN"
+		},
+		{
+			"id": 6640,
+			"name": "XÃ XUÂN THÀNH"
+		},
+		{
+			"id": 6641,
+			"name": "XÃ HẠNH PHÚC"
+		},
+		{
+			"id": 6642,
+			"name": "XÃ BẮC LƯƠNG"
+		},
+		{
+			"id": 6643,
+			"name": "XÃ THỌ LẬP"
+		},
+		{
+			"id": 6644,
+			"name": "XÃ THỌ HẢI"
+		},
+		{
+			"id": 6645,
+			"name": "XÃ XUÂN GIANG"
+		},
+		{
+			"id": 6646,
+			"name": "XÃ THỌ DIÊN"
+		},
+		{
+			"id": 6647,
+			"name": "XÃ XUÂN PHÚ"
+		},
+		{
+			"id": 6648,
+			"name": "XÃ XUÂN THẮNG"
+		},
+		{
+			"id": 6649,
+			"name": "XÃ XUÂN LAM"
+		},
+		{
+			"id": 6650,
+			"name": "XÃ THỌ MINH"
+		},
+		{
+			"id": 6651,
+			"name": "XÃ QUẢNG PHÚ"
+		},
+		{
+			"id": 6652,
+			"name": "XÃ PHÚ YÊN"
+		},
+		{
+			"id": 6653,
+			"name": "XÃ XUÂN LAI"
+		},
+		{
+			"id": 6654,
+			"name": "XÃ XUÂN MINH"
+		},
+		{
+			"id": 6655,
+			"name": "XÃ THỌ LỘC"
+		},
+		{
+			"id": 6656,
+			"name": "XÃ XUÂN HƯNG"
+		},
+		{
+			"id": 6657,
+			"name": "XÃ XUÂN SƠN"
+		},
+		{
+			"id": 6658,
+			"name": "XÃ XUÂN BÁI"
+		},
+		{
+			"id": 6659,
+			"name": "XÃ XUÂN VINH"
+		},
+		{
+			"id": 6660,
+			"name": "XÃ XUÂN TRƯỜNG"
+		},
+		{
+			"id": 6661,
+			"name": "XÃ XUÂN YÊN"
+		},
+		{
+			"id": 18455,
+			"name": "XÃ TÂY HỒ"
+		},
+		{
+			"id": 18454,
+			"name": "XÃ THỌ LÂM"
+		},
+		{
+			"id": 26222,
+			"name": "XÃ TRƯỜNG XUÂN"
+		},
+		{
+			"id": 26224,
+			"name": "XÃ THUẬN MINH"
+		},
+		{
+			"id": 26223,
+			"name": "XÃ PHÚ XUÂN"
+		},
+		{
+			"id": 26225,
+			"name": "XÃ XUÂN SINH"
+		},
+		{
+			"id": 26226,
+			"name": "XÃ XUÂN HỒNG"
 		}
 	]
 }

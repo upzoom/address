@@ -1,90 +1,54 @@
 {
-	"id": "420",
-	"name": "Huyện Quỳ Hợp",
+	"id": 420,
+	"name": "HUYỆN NAM ĐÔNG",
 	"data": [
 		{
-			"id": "17095",
-			"name": "Xã Bắc Sơn"
+			"id": 7923,
+			"name": "XÃ HƯƠNG HOÀ"
 		},
 		{
-			"id": "17062",
-			"name": "Xã Châu Cường"
+			"id": 7924,
+			"name": "XÃ HƯƠNG PHÚ"
 		},
 		{
-			"id": "17080",
-			"name": "Xã Châu Đình"
+			"id": 7925,
+			"name": "XÃ HƯƠNG LỘC"
 		},
 		{
-			"id": "17044",
-			"name": "Xã Châu Hồng"
+			"id": 7926,
+			"name": "THỊ TRẤN KHE TRE"
 		},
 		{
-			"id": "17056",
-			"name": "Xã Châu Lộc"
+			"id": 7927,
+			"name": "XÃ HƯƠNG SƠN"
 		},
 		{
-			"id": "17089",
-			"name": "Xã Châu Lý"
+			"id": 7928,
+			"name": "XÃ THƯỢNG LONG"
 		},
 		{
-			"id": "17065",
-			"name": "Xã Châu Quang"
+			"id": 7929,
+			"name": "XÃ THƯỢNG QUẢNG"
 		},
 		{
-			"id": "17077",
-			"name": "Xã Châu Thái"
+			"id": 7930,
+			"name": "XÃ THƯỢNG NHẬT"
 		},
 		{
-			"id": "17050",
-			"name": "Xã Châu Thành"
+			"id": 7931,
+			"name": "XÃ HƯƠNG HỮU"
 		},
 		{
-			"id": "17041",
-			"name": "Xã Châu Tiến"
+			"id": 7932,
+			"name": "XÃ THƯỢNG LỘ"
 		},
 		{
-			"id": "17047",
-			"name": "Xã Đồng Hợp"
+			"id": 7933,
+			"name": "XÃ HƯƠNG GIANG"
 		},
 		{
-			"id": "17092",
-			"name": "Xã Hạ Sơn"
-		},
-		{
-			"id": "17053",
-			"name": "Xã Liên Hợp"
-		},
-		{
-			"id": "17071",
-			"name": "Xã Minh Hợp"
-		},
-		{
-			"id": "17086",
-			"name": "Xã Nam Sơn"
-		},
-		{
-			"id": "17074",
-			"name": "Xã Nghĩa Xuân"
-		},
-		{
-			"id": "17035",
-			"name": "Thị trấn Quỳ Hợp"
-		},
-		{
-			"id": "17059",
-			"name": "Xã Tam Hợp"
-		},
-		{
-			"id": "17068",
-			"name": "Xã Thọ Hợp"
-		},
-		{
-			"id": "17083",
-			"name": "Xã Văn Lợi"
-		},
-		{
-			"id": "17038",
-			"name": "Xã Yên Hợp"
+			"id": 26157,
+			"name": "XÃ HƯƠNG XUÂN"
 		}
 	]
 }

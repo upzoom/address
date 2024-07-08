@@ -1,0 +1,62 @@
+{
+	"id": 473,
+	"name": "HUYỆN SƠN HÒA",
+	"data": [
+		{
+			"id": 8660,
+			"name": "THỊ TRẤN CỦNG SƠN"
+		},
+		{
+			"id": 8661,
+			"name": "XÃ SUỐI BẠC"
+		},
+		{
+			"id": 8662,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 8663,
+			"name": "XÃ SƠN NGUYÊN"
+		},
+		{
+			"id": 8664,
+			"name": "XÃ SƠN ĐỊNH"
+		},
+		{
+			"id": 8665,
+			"name": "XÃ EACHARANG"
+		},
+		{
+			"id": 8666,
+			"name": "XÃ KRONG PA"
+		},
+		{
+			"id": 8667,
+			"name": "XÃ SƠN LONG"
+		},
+		{
+			"id": 8668,
+			"name": "XÃ SƠN HỘI"
+		},
+		{
+			"id": 8669,
+			"name": "XÃ SUỐI TRAI"
+		},
+		{
+			"id": 8670,
+			"name": "XÃ SƠN PHƯỚC"
+		},
+		{
+			"id": 8671,
+			"name": "XÃ SƠN XUÂN"
+		},
+		{
+			"id": 8672,
+			"name": "XÃ PHƯỚC TÂN"
+		},
+		{
+			"id": 8673,
+			"name": "XÃ CÀ LÚI"
+		}
+	]
+}

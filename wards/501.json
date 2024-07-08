@@ -1,0 +1,46 @@
+{
+	"id": 501,
+	"name": "HUYỆN ĐỨC CƠ",
+	"data": [
+		{
+			"id": 9038,
+			"name": "THỊ TRẤN CHƯ TY"
+		},
+		{
+			"id": 9039,
+			"name": "XÃ IA DƠK"
+		},
+		{
+			"id": 9040,
+			"name": "XÃ IA KLA"
+		},
+		{
+			"id": 9041,
+			"name": "XÃ IA NAN"
+		},
+		{
+			"id": 9042,
+			"name": "XÃ IA KRÊL"
+		},
+		{
+			"id": 9043,
+			"name": "XÃ IADIN"
+		},
+		{
+			"id": 9044,
+			"name": "XÃ IA DOM"
+		},
+		{
+			"id": 9045,
+			"name": "XÃ IA KRIÊNG"
+		},
+		{
+			"id": 9046,
+			"name": "XÃ IA PNÔN"
+		},
+		{
+			"id": 9047,
+			"name": "XÃ IA LANG"
+		}
+	]
+}

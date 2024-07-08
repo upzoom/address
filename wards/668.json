@@ -1,0 +1,54 @@
+{
+	"id": 668,
+	"name": "HUYỆN TÂN HIỆP",
+	"data": [
+		{
+			"id": 11189,
+			"name": "TT TÂN HIỆP"
+		},
+		{
+			"id": 11190,
+			"name": "CHỢ KINH B"
+		},
+		{
+			"id": 11191,
+			"name": "XÃ TÂN HIỆP A"
+		},
+		{
+			"id": 11192,
+			"name": "XÃ TÂN HIỆP B"
+		},
+		{
+			"id": 11193,
+			"name": "XÃ TÂN AN"
+		},
+		{
+			"id": 11194,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 11195,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 11196,
+			"name": "XÃ THẠNH TRỊ"
+		},
+		{
+			"id": 11197,
+			"name": "XÃ THẠNH ĐÔNG"
+		},
+		{
+			"id": 11198,
+			"name": "XÃ THẠNH ĐÔNG A"
+		},
+		{
+			"id": 11199,
+			"name": "XÃ THẠNH ĐÔNG B"
+		},
+		{
+			"id": 11200,
+			"name": "XÃ TÂN HÒA"
+		}
+	]
+}

@@ -1,58 +1,42 @@
 {
-	"id": "42",
-	"name": "Tỉnh Hà Tĩnh",
+	"id": 42,
+	"name": "Khánh Hòa",
 	"data": [
 		{
-			"id": "446",
-			"name": "Huyện Cẩm Xuyên"
+			"id": 475,
+			"name": "THÀNH PHỐ NHA TRANG"
 		},
 		{
-			"id": "443",
-			"name": "Huyện Can Lộc"
+			"id": 476,
+			"name": "THỊ XÃ NINH HÒA"
 		},
 		{
-			"id": "440",
-			"name": "Huyện Đức Thọ"
+			"id": 477,
+			"name": "HUYỆN KHÁNH SƠN"
 		},
 		{
-			"id": "436",
-			"name": "Thành phố Hà Tĩnh"
+			"id": 478,
+			"name": "THÀNH PHỐ CAM RANH"
 		},
 		{
-			"id": "437",
-			"name": "Thị xã Hồng Lĩnh"
+			"id": 479,
+			"name": "HUYỆN DIÊN KHÁNH"
 		},
 		{
-			"id": "444",
-			"name": "Huyện Hương Khê"
+			"id": 480,
+			"name": "HUYỆN KHÁNH VĨNH"
 		},
 		{
-			"id": "439",
-			"name": "Huyện Hương Sơn"
+			"id": 481,
+			"name": "HUYỆN TRƯỜNG SA"
 		},
 		{
-			"id": "447",
-			"name": "Huyện Kỳ Anh"
+			"id": 482,
+			"name": "HUYỆN CAM LÂM"
 		},
 		{
-			"id": "449",
-			"name": "Thị xã Kỳ Anh"
-		},
-		{
-			"id": "448",
-			"name": "Huyện Lộc Hà"
-		},
-		{
-			"id": "442",
-			"name": "Huyện Nghi Xuân"
-		},
-		{
-			"id": "445",
-			"name": "Huyện Thạch Hà"
-		},
-		{
-			"id": "441",
-			"name": "Huyện Vũ Quang"
+			"id": 483,
+			"name": "HUYỆN VẠN NINH"
 		}
 	]
 }

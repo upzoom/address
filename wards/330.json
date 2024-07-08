@@ -1,106 +1,66 @@
 {
-	"id": "330",
-	"name": "Huyện Khoái Châu",
+	"id": 330,
+	"name": "HUYỆN CAO PHONG",
 	"data": [
 		{
-			"id": "12229",
-			"name": "Xã An Vĩ"
+			"id": 5954,
+			"name": "THỊ TRẤN CAO PHONG"
 		},
 		{
-			"id": "12235",
-			"name": "Xã Bình Kiều"
+			"id": 5955,
+			"name": "XÃ NAM PHONG"
 		},
 		{
-			"id": "12211",
-			"name": "Xã Bình Minh"
+			"id": 5956,
+			"name": "XÃ BẮC PHONG"
 		},
 		{
-			"id": "12265",
-			"name": "Xã Chí Tân"
+			"id": 5957,
+			"name": "XÃ TÂY PHONG"
 		},
 		{
-			"id": "12214",
-			"name": "Xã Dạ Trạch"
+			"id": 5958,
+			"name": "XÃ BÌNH THANH"
 		},
 		{
-			"id": "12268",
-			"name": "Xã Đại Hưng"
+			"id": 5959,
+			"name": "XÃ THUNG NAI"
 		},
 		{
-			"id": "12262",
-			"name": "Xã Đại Tập"
+			"id": 5960,
+			"name": "XÃ THU PHONG"
 		},
 		{
-			"id": "12238",
-			"name": "Xã Dân Tiến"
+			"id": 5961,
+			"name": "XÃ XUÂN PHONG"
 		},
 		{
-			"id": "12232",
-			"name": "Xã Đông Kết"
+			"id": 5962,
+			"name": "XÃ DŨNG PHONG"
 		},
 		{
-			"id": "12259",
-			"name": "Xã Đông Ninh"
+			"id": 5963,
+			"name": "XÃ YÊN THƯỢNG"
 		},
 		{
-			"id": "12208",
-			"name": "Xã Đông Tảo"
+			"id": 5964,
+			"name": "XÃ ĐÔNG PHONG"
 		},
 		{
-			"id": "12241",
-			"name": "Xã Đồng Tiến"
+			"id": 5965,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "12217",
-			"name": "Xã Hàm Tử"
+			"id": 5966,
+			"name": "XÃ YÊN LẬP"
 		},
 		{
-			"id": "12244",
-			"name": "Xã Hồng Tiến"
+			"id": 26322,
+			"name": "XÃ HỢP PHONG"
 		},
 		{
-			"id": "12205",
-			"name": "Thị trấn Khoái Châu"
-		},
-		{
-			"id": "12250",
-			"name": "Xã Liên Khê"
-		},
-		{
-			"id": "12277",
-			"name": "Xã Nhuế Dương"
-		},
-		{
-			"id": "12220",
-			"name": "Xã Ông Đình"
-		},
-		{
-			"id": "12253",
-			"name": "Xã Phùng Hưng"
-		},
-		{
-			"id": "12247",
-			"name": "Xã Tân Châu"
-		},
-		{
-			"id": "12223",
-			"name": "Xã Tân Dân"
-		},
-		{
-			"id": "12274",
-			"name": "Xã Thành Công"
-		},
-		{
-			"id": "12271",
-			"name": "Xã Thuần Hưng"
-		},
-		{
-			"id": "12226",
-			"name": "Xã Tứ Dân"
-		},
-		{
-			"id": "12256",
-			"name": "Xã Việt Hòa"
+			"id": 26321,
+			"name": "XÃ THẠCH YÊN"
 		}
 	]
 }

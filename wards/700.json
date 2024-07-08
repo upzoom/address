@@ -1,0 +1,50 @@
+{
+	"id": 700,
+	"name": "HUYỆN CÁI NƯỚC",
+	"data": [
+		{
+			"id": 11540,
+			"name": "XÃ LƯƠNG THẾ CHÂN"
+		},
+		{
+			"id": 11541,
+			"name": "XÃ TÂN HƯNG"
+		},
+		{
+			"id": 11542,
+			"name": "XÃ HƯNG MỸ"
+		},
+		{
+			"id": 11543,
+			"name": "XÃ ĐÔNG THỚI"
+		},
+		{
+			"id": 11544,
+			"name": "XÃ TÂN HƯNG ĐÔNG"
+		},
+		{
+			"id": 11545,
+			"name": "XÃ HÒA MỸ"
+		},
+		{
+			"id": 11546,
+			"name": "XÃ PHÚ HƯNG"
+		},
+		{
+			"id": 11547,
+			"name": "XÃ TRẦN THỚI"
+		},
+		{
+			"id": 11548,
+			"name": "XÃ THẠNH PHÚ"
+		},
+		{
+			"id": 11549,
+			"name": "TT CÁI NƯỚC"
+		},
+		{
+			"id": 11550,
+			"name": "XÃ ĐÔNG HƯNG"
+		}
+	]
+}

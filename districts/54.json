@@ -1,42 +1,66 @@
 {
-	"id": "54",
-	"name": "Tỉnh Phú Yên",
+	"id": 54,
+	"name": "Long An",
 	"data": [
 		{
-			"id": "564",
-			"name": "Thị xã Đông Hòa"
+			"id": 604,
+			"name": "HUYỆN TÂN TRỤ"
 		},
 		{
-			"id": "558",
-			"name": "Huyện Đồng Xuân"
+			"id": 605,
+			"name": "HUYỆN ĐỨC HUỆ"
 		},
 		{
-			"id": "563",
-			"name": "Huyện Phú Hoà"
+			"id": 606,
+			"name": "HUYỆN CẦN GIUỘC"
 		},
 		{
-			"id": "560",
-			"name": "Huyện Sơn Hòa"
+			"id": 607,
+			"name": "HUYỆN CẦN ĐƯỚC"
 		},
 		{
-			"id": "557",
-			"name": "Thị xã Sông Cầu"
+			"id": 608,
+			"name": "HUYỆN TÂN HƯNG"
 		},
 		{
-			"id": "561",
-			"name": "Huyện Sông Hinh"
+			"id": 609,
+			"name": "HUYỆN CHÂU THÀNH"
 		},
 		{
-			"id": "562",
-			"name": "Huyện Tây Hoà"
+			"id": 610,
+			"name": "HUYỆN BẾN LỨC"
 		},
 		{
-			"id": "559",
-			"name": "Huyện Tuy An"
+			"id": 611,
+			"name": "HUYỆN TÂN THẠNH"
 		},
 		{
-			"id": "555",
-			"name": "Thành phố Tuy Hoà"
+			"id": 612,
+			"name": "HUYỆN THẠNH HÓA"
+		},
+		{
+			"id": 613,
+			"name": "HUYỆN MỘC HÓA"
+		},
+		{
+			"id": 614,
+			"name": "HUYỆN ĐỨC HÒA"
+		},
+		{
+			"id": 615,
+			"name": "HUYỆN VĨNH HƯNG"
+		},
+		{
+			"id": 616,
+			"name": "THÀNH PHỐ TÂN AN"
+		},
+		{
+			"id": 617,
+			"name": "HUYỆN THỦ THỪA"
+		},
+		{
+			"id": 618,
+			"name": "THỊ XÃ KIẾN TƯỜNG"
 		}
 	]
 }

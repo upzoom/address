@@ -1,0 +1,82 @@
+{
+	"id": 348,
+	"name": "HUYỆN THƯỜNG XUÂN",
+	"data": [
+		{
+			"id": 6435,
+			"name": "XÃ XUÂN DƯƠNG"
+		},
+		{
+			"id": 6417,
+			"name": "XÃ THỌ THANH"
+		},
+		{
+			"id": 6418,
+			"name": "XÃ NGỌC PHỤNG"
+		},
+		{
+			"id": 6419,
+			"name": "THỊ TRẤN THƯỜNG XUÂN"
+		},
+		{
+			"id": 6420,
+			"name": "XÃ LƯƠNG SƠN"
+		},
+		{
+			"id": 6421,
+			"name": "XÃ BÁT MỌT"
+		},
+		{
+			"id": 6422,
+			"name": "YÊN NHÂN"
+		},
+		{
+			"id": 6423,
+			"name": "XÃ XUÂN CHINH"
+		},
+		{
+			"id": 6424,
+			"name": "XÃ LUẬN THÀNH"
+		},
+		{
+			"id": 6425,
+			"name": "XÃ LUẬN KHÊ"
+		},
+		{
+			"id": 6426,
+			"name": "XÃ XUÂN CẨM"
+		},
+		{
+			"id": 6427,
+			"name": "THỊ TRẤN KHE HẠ"
+		},
+		{
+			"id": 6428,
+			"name": "XÃ XUÂN CAO"
+		},
+		{
+			"id": 6429,
+			"name": "XÃ XUÂN LIÊN"
+		},
+		{
+			"id": 6430,
+			"name": "XÃ VẠN XUÂN"
+		},
+		{
+			"id": 6431,
+			"name": "XÃ XUÂN LẸ"
+		},
+		{
+			"id": 6432,
+			"name": "XÃ XUÂN THẮNG"
+		},
+		{
+			"id": 6433,
+			"name": "XÃ XUÂN LỘC"
+		},
+		{
+			"id": 6434,
+			"name": "XÃ TÂN THÀNH"
+		}
+	]
+}

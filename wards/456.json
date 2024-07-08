@@ -1,66 +1,66 @@
 {
-	"id": "456",
-	"name": "Huyện Quảng Ninh",
+	"id": 456,
+	"name": "HUYỆN HOÀI ÂN",
 	"data": [
 		{
-			"id": "19240",
-			"name": "Xã An Ninh"
+			"id": 8425,
+			"name": "XÃ ÂN ĐỨC"
 		},
 		{
-			"id": "19222",
-			"name": "Xã Duy Ninh"
+			"id": 8426,
+			"name": "XÃ ÂN PHONG"
 		},
 		{
-			"id": "19225",
-			"name": "Xã Gia Ninh"
+			"id": 8427,
+			"name": "XÃ ÂN THẠNH"
 		},
 		{
-			"id": "19216",
-			"name": "Xã Hải Ninh"
+			"id": 8428,
+			"name": "XÃ ÂN TÍN"
 		},
 		{
-			"id": "19219",
-			"name": "Xã Hàm Ninh"
+			"id": 8429,
+			"name": "XÃ ÂN HẢO ĐÔNG"
 		},
 		{
-			"id": "19231",
-			"name": "Xã Hiền Ninh"
+			"id": 8430,
+			"name": "XÃ ÂN HẢO TÂY"
 		},
 		{
-			"id": "19207",
-			"name": "Xã Lương Ninh"
+			"id": 8431,
+			"name": "XÃ ÂN MỸ"
 		},
 		{
-			"id": "19201",
-			"name": "Thị trấn Quán Hàu"
+			"id": 8432,
+			"name": "XÃ BOKTỚI"
 		},
 		{
-			"id": "19234",
-			"name": "Xã Tân Ninh"
+			"id": 8433,
+			"name": "XÃ ÂN SƠN"
 		},
 		{
-			"id": "19204",
-			"name": "Xã Trường Sơn"
+			"id": 8434,
+			"name": "XÃ ÂN HỮU"
 		},
 		{
-			"id": "19228",
-			"name": "Xã Trường Xuân"
+			"id": 8435,
+			"name": "XÃ ÂN NGHĨA"
 		},
 		{
-			"id": "19243",
-			"name": "Xã Vạn Ninh"
+			"id": 8436,
+			"name": "THỊ TRẤN TĂNG BẠT HỔ"
 		},
 		{
-			"id": "19210",
-			"name": "Xã Vĩnh Ninh"
+			"id": 8437,
+			"name": "XÃ ÂN TƯỜNG ĐÔNG"
 		},
 		{
-			"id": "19213",
-			"name": "Xã Võ Ninh"
+			"id": 8438,
+			"name": "XÃ ÂN TƯỜNG TÂY"
 		},
 		{
-			"id": "19237",
-			"name": "Xã Xuân Ninh"
+			"id": 8439,
+			"name": "XÃ ĐAKMANG"
 		}
 	]
 }

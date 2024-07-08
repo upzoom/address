@@ -1,0 +1,58 @@
+{
+	"id": 26,
+	"name": "QUẬN BẮC TỪ LIÊM",
+	"data": [
+		{
+			"id": 500,
+			"name": "PHƯỜNG XUÂN ĐỈNH"
+		},
+		{
+			"id": 501,
+			"name": "PHƯỜNG CỔ NHUẾ 1"
+		},
+		{
+			"id": 502,
+			"name": "PHƯỜNG THƯỢNG CÁT"
+		},
+		{
+			"id": 503,
+			"name": "PHƯỜNG TÂY TỰU"
+		},
+		{
+			"id": 504,
+			"name": "PHƯỜNG PHÚC DIỄN"
+		},
+		{
+			"id": 505,
+			"name": "PHƯỜNG PHÚ DIỄN"
+		},
+		{
+			"id": 506,
+			"name": "PHƯỜNG LIÊN MẠC"
+		},
+		{
+			"id": 507,
+			"name": "PHƯỜNG MINH KHAI"
+		},
+		{
+			"id": 508,
+			"name": "PHƯỜNG THỤY PHƯƠNG"
+		},
+		{
+			"id": 509,
+			"name": "PHƯỜNG ĐỨC THẮNG"
+		},
+		{
+			"id": 510,
+			"name": "PHƯỜNG ĐÔNG NGẠC"
+		},
+		{
+			"id": 511,
+			"name": "PHƯỜNG CỔ NHUẾ 2"
+		},
+		{
+			"id": 512,
+			"name": "PHƯỜNG XUÂN TẢO"
+		}
+	]
+}

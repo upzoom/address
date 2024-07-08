@@ -1,70 +1,118 @@
 {
-	"id": "476",
-	"name": "Huyện Phong Điền",
+	"id": 476,
+	"name": "THỊ XÃ NINH HÒA",
 	"data": [
 		{
-			"id": "19843",
-			"name": "Xã Điền Hải"
+			"id": 8714,
+			"name": "XÃ NINH AN"
 		},
 		{
-			"id": "19834",
-			"name": "Xã Điền Hòa"
+			"id": 8715,
+			"name": "XÃ NINH BÌNH"
 		},
 		{
-			"id": "19822",
-			"name": "Xã Điền Hương"
+			"id": 8716,
+			"name": "XÃ NINH ĐA"
 		},
 		{
-			"id": "19828",
-			"name": "Xã Điền Lộc"
+			"id": 8717,
+			"name": "XÃ NINH DIÊM"
 		},
 		{
-			"id": "19825",
-			"name": "Xã Điền Môn"
+			"id": 8718,
+			"name": "XÃ NINH ĐỒNG"
 		},
 		{
-			"id": "19858",
-			"name": "Xã Phong An"
+			"id": 8719,
+			"name": "XÃ NINH GIANG"
 		},
 		{
-			"id": "19831",
-			"name": "Xã Phong Bình"
+			"id": 8720,
+			"name": "XÃ NINH HÀ"
 		},
 		{
-			"id": "19837",
-			"name": "Xã Phong Chương"
+			"id": 8721,
+			"name": "XÃ NINH HẢI"
 		},
 		{
-			"id": "19819",
-			"name": "Thị trấn Phong Điền"
+			"id": 8722,
+			"name": "XÃ NINH HƯNG"
 		},
 		{
-			"id": "19840",
-			"name": "Xã Phong Hải"
+			"id": 8723,
+			"name": "XÃ NINH ÍCH"
 		},
 		{
-			"id": "19852",
-			"name": "Xã Phong Hiền"
+			"id": 8724,
+			"name": "XÃ NINH LỘC"
 		},
 		{
-			"id": "19846",
-			"name": "Xã Phong Hòa"
+			"id": 8725,
+			"name": "XÃ NINH PHÚ"
 		},
 		{
-			"id": "19855",
-			"name": "Xã Phong Mỹ"
+			"id": 8726,
+			"name": "XÃ NINH PHỤNG"
 		},
 		{
-			"id": "19864",
-			"name": "Xã Phong Sơn"
+			"id": 8727,
+			"name": "XÃ NINH PHƯỚC"
 		},
 		{
-			"id": "19849",
-			"name": "Xã Phong Thu"
+			"id": 8728,
+			"name": "XÃ NINH QUANG"
 		},
 		{
-			"id": "19861",
-			"name": "Xã Phong Xuân"
+			"id": 8729,
+			"name": "XÃ NINH SIM"
+		},
+		{
+			"id": 8730,
+			"name": "XÃ NINH SƠN"
+		},
+		{
+			"id": 8731,
+			"name": "XÃ NINH TÂN"
+		},
+		{
+			"id": 8732,
+			"name": "XÃ NINH TÂY"
+		},
+		{
+			"id": 8733,
+			"name": "XÃ NINH THÂN"
+		},
+		{
+			"id": 8734,
+			"name": "XÃ NINH THỌ"
+		},
+		{
+			"id": 8735,
+			"name": "XÃ NINH THƯỢNG"
+		},
+		{
+			"id": 8736,
+			"name": "XÃ NINH THỦY"
+		},
+		{
+			"id": 8737,
+			"name": "XÃ NINH TRUNG"
+		},
+		{
+			"id": 8738,
+			"name": "XÃ NINH VÂN"
+		},
+		{
+			"id": 8739,
+			"name": "XÃ NINH XUÂN"
+		},
+		{
+			"id": 8740,
+			"name": "THỊ TRẤN NINH HÒA"
+		},
+		{
+			"id": 16994,
+			"name": "XÃ NINH HIỆP"
 		}
 	]
 }

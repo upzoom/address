@@ -1,0 +1,86 @@
+{
+	"id": 11,
+	"name": "HUYỆN MÊ LINH",
+	"data": [
+		{
+			"id": 228,
+			"name": "XÃ TIỀN PHONG"
+		},
+		{
+			"id": 229,
+			"name": "XÃ ĐẠI THỊNH"
+		},
+		{
+			"id": 230,
+			"name": "XÃ MAI LÂM"
+		},
+		{
+			"id": 231,
+			"name": "XÃ TIẾN THỊNH"
+		},
+		{
+			"id": 232,
+			"name": "XÃ TIẾN THẮNG"
+		},
+		{
+			"id": 233,
+			"name": "XÃ TRÁNG VIỆT"
+		},
+		{
+			"id": 234,
+			"name": "XÃ VĂN KHÊ"
+		},
+		{
+			"id": 235,
+			"name": "XÃ HOÀNG KIM"
+		},
+		{
+			"id": 236,
+			"name": "XÃ CHU PHAN"
+		},
+		{
+			"id": 237,
+			"name": "XÃ TAM ĐÔNG"
+		},
+		{
+			"id": 238,
+			"name": "XÃ THẠCH ĐÀ"
+		},
+		{
+			"id": 239,
+			"name": "XÃ LIÊN MẠC"
+		},
+		{
+			"id": 240,
+			"name": "XÃ THỤY LÂM"
+		},
+		{
+			"id": 241,
+			"name": "XÃ TỰ LẬP"
+		},
+		{
+			"id": 242,
+			"name": "XÃ KIM HOA"
+		},
+		{
+			"id": 243,
+			"name": "XÃ VẠN YÊN"
+		},
+		{
+			"id": 244,
+			"name": "THỊ TRẤN QUANG MINH"
+		},
+		{
+			"id": 245,
+			"name": "THỊ TRẤN CHI ĐÔNG"
+		},
+		{
+			"id": 246,
+			"name": "XÃ THANH LÂM"
+		},
+		{
+			"id": 247,
+			"name": "XÃ MÊ LINH"
+		}
+	]
+}

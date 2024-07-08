@@ -1,0 +1,62 @@
+{
+	"id": 620,
+	"name": "HUYỆN LẤP VÒ",
+	"data": [
+		{
+			"id": 10505,
+			"name": "TT LẤP VÒ"
+		},
+		{
+			"id": 10506,
+			"name": "XÃ MỸ AN HƯNG A"
+		},
+		{
+			"id": 10507,
+			"name": "XÃ MỸ AN HƯNG B"
+		},
+		{
+			"id": 10508,
+			"name": "XÃ TÂN MỸ"
+		},
+		{
+			"id": 10509,
+			"name": "XÃ TÂN KHÁNH TRUNG"
+		},
+		{
+			"id": 10510,
+			"name": "XÃ LONG HƯNG A"
+		},
+		{
+			"id": 10511,
+			"name": "XÃ LONG HƯNG B"
+		},
+		{
+			"id": 10512,
+			"name": "XÃ VĨNH THẠNH"
+		},
+		{
+			"id": 10513,
+			"name": "XÃ BÌNH THÀNH"
+		},
+		{
+			"id": 10514,
+			"name": "XÃ ĐỊNH AN"
+		},
+		{
+			"id": 10515,
+			"name": "XÃ ĐỊNH YÊN"
+		},
+		{
+			"id": 10516,
+			"name": "XÃ AN ĐÔNG"
+		},
+		{
+			"id": 10517,
+			"name": "XÃ BÌNH THẠNH TRUNG"
+		},
+		{
+			"id": 25649,
+			"name": "XÃ HỘI AN ĐÔNG"
+		}
+	]
+}

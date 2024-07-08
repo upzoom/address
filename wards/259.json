@@ -1,90 +1,70 @@
 {
-	"id": "259",
-	"name": "Thị xã Quế Võ",
+	"id": 259,
+	"name": "HUYỆN PHÚ LƯƠNG ",
 	"data": [
 		{
-			"id": "09262",
-			"name": "Phường Bằng An"
+			"id": 4619,
+			"name": "XÃ YÊN TRẠCH"
 		},
 		{
-			"id": "09295",
-			"name": "Phường Bồng Lai"
+			"id": 4620,
+			"name": "XÃ YÊN ĐỔ"
 		},
 		{
-			"id": "09298",
-			"name": "Phường Cách Bi"
+			"id": 4621,
+			"name": "XÃ YÊN LẠC"
 		},
 		{
-			"id": "09292",
-			"name": "Xã Châu Phong"
+			"id": 4622,
+			"name": "XÃ ÔN LƯƠNG"
 		},
 		{
-			"id": "09313",
-			"name": "Xã Chi Lăng"
+			"id": 4623,
+			"name": "XÃ ĐỘNG ĐẠT"
 		},
 		{
-			"id": "09253",
-			"name": "Phường Đại Xuân"
+			"id": 4624,
+			"name": "XÃ PHỦ LÝ"
 		},
 		{
-			"id": "09301",
-			"name": "Xã Đào Viên"
+			"id": 4625,
+			"name": "XÃ PHÚ ĐÔ"
 		},
 		{
-			"id": "09310",
-			"name": "Xã Đức Long"
+			"id": 4626,
+			"name": "XÃ HỢP THÀNH"
 		},
 		{
-			"id": "09316",
-			"name": "Xã Hán Quảng"
+			"id": 4627,
+			"name": "XÃ TÚC TRANH"
 		},
 		{
-			"id": "09307",
-			"name": "Xã Mộ Đạo"
+			"id": 4628,
+			"name": "XÃ PHẤN MỄ"
 		},
 		{
-			"id": "09289",
-			"name": "Xã Ngọc Xá"
+			"id": 4629,
+			"name": "XÃ VÔ TRANH"
 		},
 		{
-			"id": "09259",
-			"name": "Phường Nhân Hòa"
+			"id": 4630,
+			"name": "XÃ CỔ LŨNG"
 		},
 		{
-			"id": "09247",
-			"name": "Phường Phố Mới"
+			"id": 4631,
+			"name": "XÃ SƠN CẨM"
 		},
 		{
-			"id": "09277",
-			"name": "Xã Phù Lãng"
+			"id": 4632,
+			"name": "THỊ TRẤN GIANG TIÊN"
 		},
 		{
-			"id": "09274",
-			"name": "Phường Phù Lương"
+			"id": 4633,
+			"name": "THỊ TRẤN ĐU"
 		},
 		{
-			"id": "09265",
-			"name": "Phường Phương Liễu"
-		},
-		{
-			"id": "09280",
-			"name": "Phường Phượng Mao"
-		},
-		{
-			"id": "09268",
-			"name": "Phường Quế Tân"
-		},
-		{
-			"id": "09283",
-			"name": "Phường Việt Hùng"
-		},
-		{
-			"id": "09250",
-			"name": "Xã Việt Thống"
-		},
-		{
-			"id": "09304",
-			"name": "Xã Yên Giả"
+			"id": 4634,
+			"name": "XÃ YÊN NINH"
 		}
 	]
 }

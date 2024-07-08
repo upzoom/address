@@ -1,5 +1,54 @@
 {
-	"id": "471",
-	"name": "Huyện Cồn Cỏ",
-	"data": []
+	"id": 471,
+	"name": "HUYỆN ĐỒNG XUÂN",
+	"data": [
+		{
+			"id": 8639,
+			"name": "THỊ TRẤN LA HAI"
+		},
+		{
+			"id": 8640,
+			"name": "XÃ XUÂN LÃNH"
+		},
+		{
+			"id": 8641,
+			"name": "XÃ XUÂN QUANG 2"
+		},
+		{
+			"id": 8642,
+			"name": "XÃ XUÂN QUANG 3"
+		},
+		{
+			"id": 8643,
+			"name": "XÃ XUÂN SƠN BẮC"
+		},
+		{
+			"id": 8644,
+			"name": "XÃ XUÂN SƠN NAM"
+		},
+		{
+			"id": 8645,
+			"name": "XÃ XUÂN QUANG 1"
+		},
+		{
+			"id": 8646,
+			"name": "XÃ XUÂN PHƯỚC"
+		},
+		{
+			"id": 8647,
+			"name": "XÃ ĐA LỘC"
+		},
+		{
+			"id": 8648,
+			"name": "XÃ PHÚ MỠ"
+		},
+		{
+			"id": 8649,
+			"name": "XÃ XUÂN LONG 1"
+		},
+		{
+			"id": 8650,
+			"name": "XÃ XUÂN LONG 2"
+		}
+	]
 }

@@ -1,0 +1,42 @@
+{
+	"id": 83,
+	"name": "QUẬN THỐT NỐT",
+	"data": [
+		{
+			"id": 1289,
+			"name": "PHƯỜNG THẠNH HÒA"
+		},
+		{
+			"id": 1290,
+			"name": "PHƯỜNG TRUNG NHỨT"
+		},
+		{
+			"id": 1291,
+			"name": "PHƯỜNG TRUNG KIÊN"
+		},
+		{
+			"id": 1292,
+			"name": "PHƯỜNG TÂN LỘC"
+		},
+		{
+			"id": 1293,
+			"name": "PHƯỜNG THUẬN AN"
+		},
+		{
+			"id": 1294,
+			"name": "PHƯỜNG THỚI THUẬN"
+		},
+		{
+			"id": 1295,
+			"name": "PHƯỜNG THỐT NỐT"
+		},
+		{
+			"id": 1296,
+			"name": "PHƯỜNG THUẬN HƯNG"
+		},
+		{
+			"id": 1297,
+			"name": "PHƯỜNG TÂN HƯNG"
+		}
+	]
+}

@@ -1,54 +1,42 @@
 {
-	"id": "706",
-	"name": "Huyện Tân Châu",
+	"id": 706,
+	"name": "HUYỆN PHÚ TÂN",
 	"data": [
 		{
-			"id": "25534",
-			"name": "Xã Suối Dây"
+			"id": 11602,
+			"name": "XÃ NGUYỄN VIỆT KHÁI"
 		},
 		{
-			"id": "25531",
-			"name": "Xã Suối Ngô"
+			"id": 11603,
+			"name": "XÃ RẠCH CHÈO"
 		},
 		{
-			"id": "25516",
-			"name": "Thị trấn Tân Châu"
+			"id": 11604,
+			"name": "XÃ VIỆT THẮNG"
 		},
 		{
-			"id": "25522",
-			"name": "Xã Tân Đông"
+			"id": 11605,
+			"name": "XÃ TÂN HƯNG TÂY"
 		},
 		{
-			"id": "25519",
-			"name": "Xã Tân Hà"
+			"id": 11606,
+			"name": "XÃ TÂN HẢI"
 		},
 		{
-			"id": "25537",
-			"name": "Xã Tân Hiệp"
+			"id": 11607,
+			"name": "XÃ PHÚ TÂN"
 		},
 		{
-			"id": "25528",
-			"name": "Xã Tân Hòa"
+			"id": 11608,
+			"name": "XÃ PHÚ MỸ"
 		},
 		{
-			"id": "25525",
-			"name": "Xã Tân Hội"
+			"id": 11609,
+			"name": "XÃ PHÚ THUẬN"
 		},
 		{
-			"id": "25549",
-			"name": "Xã Tân Hưng"
-		},
-		{
-			"id": "25546",
-			"name": "Xã Tân Phú"
-		},
-		{
-			"id": "25543",
-			"name": "Xã Tân Thành"
-		},
-		{
-			"id": "25540",
-			"name": "Xã Thạnh Đông"
+			"id": 11610,
+			"name": "TT CÁI ĐÔI VÀM"
 		}
 	]
 }

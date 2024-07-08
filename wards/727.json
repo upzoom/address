@@ -1,0 +1,38 @@
+{
+	"id": 727,
+	"name": "THỊ XÃ DUYÊN HẢI",
+	"data": [
+		{
+			"id": 20588,
+			"name": "LONG TOÀN"
+		},
+		{
+			"id": 20591,
+			"name": "HIỆP THẠNH"
+		},
+		{
+			"id": 20593,
+			"name": "PHƯỜNG 2"
+		},
+		{
+			"id": 24597,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 24598,
+			"name": "PHƯỜNG 2"
+		},
+		{
+			"id": 20589,
+			"name": "DÂN THÀNH"
+		},
+		{
+			"id": 20590,
+			"name": "TRƯỜNG LONG HOÀ"
+		},
+		{
+			"id": 20592,
+			"name": "LONG HỮU"
+		}
+	]
+}

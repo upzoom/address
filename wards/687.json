@@ -1,0 +1,38 @@
+{
+	"id": 687,
+	"name": "HUYỆN CÙ LAO DUNG",
+	"data": [
+		{
+			"id": 11408,
+			"name": "XÃ AN THẠNH I"
+		},
+		{
+			"id": 11409,
+			"name": "XÃ AN THẠNH TÂY"
+		},
+		{
+			"id": 11410,
+			"name": "THỊ TRẤN CÙ LAO DUNG"
+		},
+		{
+			"id": 11411,
+			"name": "XÃ AN THẠNH ĐÔNG"
+		},
+		{
+			"id": 11412,
+			"name": "XÃ AN THẠNH II"
+		},
+		{
+			"id": 11413,
+			"name": "XÃ AN THẠNH III"
+		},
+		{
+			"id": 11414,
+			"name": "XÃ ĐẠI AN I"
+		},
+		{
+			"id": 11415,
+			"name": "XÃ AN THẠNH NAM"
+		}
+	]
+}

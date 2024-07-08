@@ -1,0 +1,58 @@
+{
+	"id": 191,
+	"name": "HUYỆN QUẢN BẠ",
+	"data": [
+		{
+			"id": 3285,
+			"name": "THỊ TRẤN QUẢNG BẠ"
+		},
+		{
+			"id": 3286,
+			"name": "THỊ TRẤN TAM SƠN"
+		},
+		{
+			"id": 3287,
+			"name": "XÃ THANH VÂN"
+		},
+		{
+			"id": 3288,
+			"name": "XÃ QUYẾT TIẾN"
+		},
+		{
+			"id": 3289,
+			"name": "XÃ ĐÔNG HÀ"
+		},
+		{
+			"id": 3290,
+			"name": "XÃ LÙNG TAM"
+		},
+		{
+			"id": 3291,
+			"name": "XÃ CÁN TỶ"
+		},
+		{
+			"id": 3292,
+			"name": "XÃ TÙNG VÀI"
+		},
+		{
+			"id": 3293,
+			"name": "XÃ NGHĨA THUẬN"
+		},
+		{
+			"id": 3294,
+			"name": "XÃ CAO MÃ PỜ"
+		},
+		{
+			"id": 3295,
+			"name": "XÃ TẢ VÁN"
+		},
+		{
+			"id": 3296,
+			"name": "XÃ THÁI AN"
+		},
+		{
+			"id": 3297,
+			"name": "XÃ BÁT ĐẠI SƠN"
+		}
+	]
+}

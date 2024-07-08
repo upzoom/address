@@ -1,94 +1,86 @@
 {
-	"id": "216",
-	"name": "Huyện Tân Yên",
+	"id": 216,
+	"name": "HUYỆN MƯỜNG KHƯƠNG",
 	"data": [
 		{
-			"id": "07321",
-			"name": "Xã An Dương"
+			"id": 3706,
+			"name": "THỊ TRẤN MƯỜNG KHƯƠNG"
 		},
 		{
-			"id": "07339",
-			"name": "Thị trấn Cao Thượng"
+			"id": 3707,
+			"name": "XÃ TUNG CHUNG PHỐ"
 		},
 		{
-			"id": "07336",
-			"name": "Xã Cao Xá"
+			"id": 3708,
+			"name": "XÃ MƯỜNG KHƯƠNG"
 		},
 		{
-			"id": "07312",
-			"name": "Xã Đại Hóa"
+			"id": 3709,
+			"name": "XÃ NA LỐC"
 		},
 		{
-			"id": "07330",
-			"name": "Xã Hợp Đức"
+			"id": 3710,
+			"name": "XÃ BẢN LẦU"
 		},
 		{
-			"id": "07333",
-			"name": "Xã Lam Cốt"
+			"id": 3711,
+			"name": "XÃ BẢN SEN"
 		},
 		{
-			"id": "07303",
-			"name": "Xã Lan Giới"
+			"id": 3712,
+			"name": "XÃ LÙNG VAI"
 		},
 		{
-			"id": "07357",
-			"name": "Xã Liên Chung"
+			"id": 3713,
+			"name": "XÃ THANH BÌNH"
 		},
 		{
-			"id": "07327",
-			"name": "Xã Liên Sơn"
+			"id": 3714,
+			"name": "XÃ NẬM CHẨY"
 		},
 		{
-			"id": "07348",
-			"name": "Xã Ngọc Châu"
+			"id": 3715,
+			"name": "XÃ TUNG CHUNG PHỐ"
 		},
 		{
-			"id": "07363",
-			"name": "Xã Ngọc Lý"
+			"id": 3716,
+			"name": "XÃ TẢ NGẢI CHỒ"
 		},
 		{
-			"id": "07360",
-			"name": "Xã Ngọc Thiện"
+			"id": 3717,
+			"name": "XÃ PHA LONG"
 		},
 		{
-			"id": "07351",
-			"name": "Xã Ngọc Vân"
+			"id": 3718,
+			"name": "XÃ LA VĂN TẨN"
 		},
 		{
-			"id": "07306",
-			"name": "Thị trấn Nhã Nam"
+			"id": 3719,
+			"name": "XÃ DÌN CHIN"
 		},
 		{
-			"id": "07324",
-			"name": "Xã Phúc Hòa"
+			"id": 3720,
+			"name": "XÃ TẢ THÀNG"
 		},
 		{
-			"id": "07318",
-			"name": "Xã Phúc Sơn"
+			"id": 3721,
+			"name": "XÃ TẢ GIA KHÂU"
 		},
 		{
-			"id": "07315",
-			"name": "Xã Quang Tiến"
+			"id": 3722,
+			"name": "XÃ LÙNG KHẤU NHIN"
 		},
 		{
-			"id": "07366",
-			"name": "Xã Quế Nham"
+			"id": 3723,
+			"name": "XÃ LA PAN TẨN"
 		},
 		{
-			"id": "07345",
-			"name": "Xã Song Vân"
+			"id": 3724,
+			"name": "XÃ NẤM LƯ"
 		},
 		{
-			"id": "07309",
-			"name": "Xã Tân Trung"
-		},
-		{
-			"id": "07354",
-			"name": "Xã Việt Lập"
-		},
-		{
-			"id": "07342",
-			"name": "Xã Việt Ngọc"
+			"id": 3725,
+			"name": "XÃ CAO SƠN"
 		}
 	]
 }

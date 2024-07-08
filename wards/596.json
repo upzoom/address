@@ -1,78 +1,50 @@
 {
-	"id": "596",
-	"name": "Huyện Bắc Bình",
+	"id": 596,
+	"name": "THỊ XÃ PHÚ MỸ",
 	"data": [
 		{
-			"id": "23014",
-			"name": "Xã Bình An"
+			"id": 10215,
+			"name": "XÃ HẮC DỊCH"
 		},
 		{
-			"id": "23047",
-			"name": "Xã Bình Tân"
+			"id": 10216,
+			"name": "XÃ PHƯỚC HOÀ"
 		},
 		{
-			"id": "23005",
-			"name": "Thị trấn Chợ Lầu"
+			"id": 10217,
+			"name": "XÃ CHÂU PHA"
 		},
 		{
-			"id": "23020",
-			"name": "Xã Hải Ninh"
+			"id": 10218,
+			"name": "XÃ HỘI BÀI"
 		},
 		{
-			"id": "23053",
-			"name": "Xã Hòa Thắng"
+			"id": 10219,
+			"name": "THỊ TRẤN PHÚ MỸ"
 		},
 		{
-			"id": "23056",
-			"name": "Xã Hồng Phong"
+			"id": 10220,
+			"name": "XÃ MỸ XUÂN"
 		},
 		{
-			"id": "23041",
-			"name": "Xã Hồng Thái"
+			"id": 10221,
+			"name": "XÃ TÂN HẢI"
 		},
 		{
-			"id": "23032",
-			"name": "Thị trấn Lương Sơn"
+			"id": 10222,
+			"name": "XÃ TÂN HOÀ"
 		},
 		{
-			"id": "23017",
-			"name": "Xã Phan Điền"
+			"id": 10223,
+			"name": "XÃ TÂN PHƯỚC"
 		},
 		{
-			"id": "23044",
-			"name": "Xã Phan Hiệp"
+			"id": 10224,
+			"name": "XÃ SÔNG XOÀI"
 		},
 		{
-			"id": "23035",
-			"name": "Xã Phan Hòa"
-		},
-		{
-			"id": "23011",
-			"name": "Xã Phan Lâm"
-		},
-		{
-			"id": "23050",
-			"name": "Xã Phan Rí Thành"
-		},
-		{
-			"id": "23008",
-			"name": "Xã Phan Sơn"
-		},
-		{
-			"id": "23038",
-			"name": "Xã Phan Thanh"
-		},
-		{
-			"id": "23026",
-			"name": "Xã Phan Tiến"
-		},
-		{
-			"id": "23029",
-			"name": "Xã Sông Bình"
-		},
-		{
-			"id": "23023",
-			"name": "Xã Sông Lũy"
+			"id": 10225,
+			"name": "XÃ TÓC TIÊN"
 		}
 	]
 }

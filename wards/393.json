@@ -1,58 +1,62 @@
 {
-	"id": "393",
-	"name": "Huyện Vĩnh Lộc",
+	"id": 393,
+	"name": "THỊ XÃ KỲ ANH",
 	"data": [
 		{
-			"id": "15382",
-			"name": "Xã Minh Tân"
+			"id": 7452,
+			"name": "THỊ XÃ KỲ ANH"
 		},
 		{
-			"id": "15385",
-			"name": "Xã Ninh Khang"
+			"id": 7453,
+			"name": "XÃ KỲ LONG"
 		},
 		{
-			"id": "15391",
-			"name": "Xã Vĩnh An"
+			"id": 7454,
+			"name": "XÃ KỲ PHƯƠNG"
 		},
 		{
-			"id": "15376",
-			"name": "Xã Vĩnh Hòa"
+			"id": 7455,
+			"name": "XÃ KỲ NAM"
 		},
 		{
-			"id": "15367",
-			"name": "Xã Vĩnh Hưng"
+			"id": 7456,
+			"name": "XÃ KỲ NINH"
 		},
 		{
-			"id": "15379",
-			"name": "Xã Vĩnh Hùng"
+			"id": 7457,
+			"name": "XÃ KỲ LIÊN"
 		},
 		{
-			"id": "15349",
-			"name": "Thị trấn Vĩnh Lộc"
+			"id": 7458,
+			"name": "XÃ KỲ HÀ"
 		},
 		{
-			"id": "15361",
-			"name": "Xã Vĩnh Long"
+			"id": 7459,
+			"name": "XÃ KỲ HƯNG"
 		},
 		{
-			"id": "15364",
-			"name": "Xã Vĩnh Phúc"
+			"id": 7460,
+			"name": "XÃ KỲ HOA"
 		},
 		{
-			"id": "15352",
-			"name": "Xã Vĩnh Quang"
+			"id": 7461,
+			"name": "XÃ KỲ LỢI"
 		},
 		{
-			"id": "15388",
-			"name": "Xã Vĩnh Thịnh"
+			"id": 7462,
+			"name": "XÃ KỲ TRINH"
 		},
 		{
-			"id": "15358",
-			"name": "Xã Vĩnh Tiến"
+			"id": 7463,
+			"name": "XÃ KỲ THỊNH"
 		},
 		{
-			"id": "15355",
-			"name": "Xã Vĩnh Yên"
+			"id": 13328,
+			"name": "PHƯỜNG SÔNG TRÍ"
+		},
+		{
+			"id": 22539,
+			"name": "PHƯỜNG HƯNG TRÍ"
 		}
 	]
 }

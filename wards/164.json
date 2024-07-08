@@ -1,134 +1,94 @@
 {
-	"id": "164",
-	"name": "Thành phố Thái Nguyên",
+	"id": 164,
+	"name": "HUYỆN TRỰC NINH",
 	"data": [
 		{
-			"id": "05467",
-			"name": "Phường Cam Giá"
+			"id": 18480,
+			"name": "XÃ TRỰC THẮNG"
 		},
 		{
-			"id": "05695",
-			"name": "Xã Cao Ngạn"
+			"id": 19990,
+			"name": "TT NINH CƯỜNG"
 		},
 		{
-			"id": "05659",
-			"name": "Phường Chùa Hang"
+			"id": 18481,
+			"name": "XÃ TRỰC THÁI"
 		},
 		{
-			"id": "05710",
-			"name": "Phường Đồng Bẩm"
+			"id": 18482,
+			"name": "XÃ TRỰC PHÚ"
 		},
 		{
-			"id": "05914",
-			"name": "Xã Đồng Liên"
+			"id": 21004,
+			"name": "XÃ TRỰC ĐẠI"
 		},
 		{
-			"id": "05458",
-			"name": "Phường Đồng Quang"
+			"id": 18484,
+			"name": "XÃ TRỰC HÙNG"
 		},
 		{
-			"id": "05461",
-			"name": "Phường Gia Sàng"
+			"id": 21003,
+			"name": "XÃ TRỰC CƯỜNG"
 		},
 		{
-			"id": "05440",
-			"name": "Phường Hoàng Văn Thụ"
+			"id": 2550,
+			"name": "THỊ TRẤN CỔ LỄ"
 		},
 		{
-			"id": "05473",
-			"name": "Phường Hương Sơn"
+			"id": 2551,
+			"name": "XÃ LIÊM HẢI"
 		},
 		{
-			"id": "05713",
-			"name": "Xã Huống Thượng"
+			"id": 2552,
+			"name": "XÃ PHƯƠNG ĐỊNH"
 		},
 		{
-			"id": "05701",
-			"name": "Xã Linh Sơn"
+			"id": 2553,
+			"name": "XÃ TRỰC CHÍNH"
 		},
 		{
-			"id": "05449",
-			"name": "Phường Phan Đình Phùng"
+			"id": 2556,
+			"name": "XÃ TRỰC ĐẠO"
 		},
 		{
-			"id": "05470",
-			"name": "Phường Phú Xá"
+			"id": 2558,
+			"name": "XÃ TRỰC HƯNG"
 		},
 		{
-			"id": "05485",
-			"name": "Xã Phúc Hà"
+			"id": 2559,
+			"name": "XÃ TRỰC KHANG"
 		},
 		{
-			"id": "05494",
-			"name": "Xã Phúc Trìu"
+			"id": 2560,
+			"name": "XÃ TRỰC MỸ"
 		},
 		{
-			"id": "05488",
-			"name": "Xã Phúc Xuân"
+			"id": 2561,
+			"name": "XÃ TRỰC NỘI"
 		},
 		{
-			"id": "05431",
-			"name": "Phường Quán Triều"
+			"id": 2565,
+			"name": "XÃ TRỰC THANH"
 		},
 		{
-			"id": "05446",
-			"name": "Phường Quang Trung"
+			"id": 2566,
+			"name": "XÃ TRỰC THUẬN"
 		},
 		{
-			"id": "05434",
-			"name": "Phường Quang Vinh"
+			"id": 2567,
+			"name": "XÃ TRỰC TUẤN"
 		},
 		{
-			"id": "05491",
-			"name": "Xã Quyết Thắng"
+			"id": 2568,
+			"name": "XÃ TRUNG ĐÔNG"
 		},
 		{
-			"id": "05653",
-			"name": "Xã Sơn Cẩm"
+			"id": 2569,
+			"name": "XÃ VIỆT HÙNG"
 		},
 		{
-			"id": "05503",
-			"name": "Xã Tân Cương"
-		},
-		{
-			"id": "05464",
-			"name": "Phường Tân Lập"
-		},
-		{
-			"id": "05482",
-			"name": "Phường Tân Long"
-		},
-		{
-			"id": "05479",
-			"name": "Phường Tân Thành"
-		},
-		{
-			"id": "05452",
-			"name": "Phường Tân Thịnh"
-		},
-		{
-			"id": "05455",
-			"name": "Phường Thịnh Đán"
-		},
-		{
-			"id": "05497",
-			"name": "Xã Thịnh Đức"
-		},
-		{
-			"id": "05500",
-			"name": "Phường Tích Lương"
-		},
-		{
-			"id": "05476",
-			"name": "Phường Trung Thành"
-		},
-		{
-			"id": "05443",
-			"name": "Phường Trưng Vương"
-		},
-		{
-			"id": "05437",
-			"name": "Phường Túc Duyên"
+			"id": 2570,
+			"name": "THỊ TRẤN CÁT THÀNH"
 		}
 	]
 }

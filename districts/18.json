@@ -1,0 +1,50 @@
+{
+	"id": 18,
+	"name": "Hà Giang",
+	"data": [
+		{
+			"id": 190,
+			"name": "HUYỆN HOÀNG SU PHÌ"
+		},
+		{
+			"id": 191,
+			"name": "HUYỆN QUẢN BẠ"
+		},
+		{
+			"id": 192,
+			"name": "HUYỆN VỊ XUYÊN"
+		},
+		{
+			"id": 193,
+			"name": "HUYỆN BẮC MÊ"
+		},
+		{
+			"id": 194,
+			"name": "HUYỆN XÍN MẦN"
+		},
+		{
+			"id": 195,
+			"name": "HUYỆN BẮC QUANG"
+		},
+		{
+			"id": 196,
+			"name": "THÀNH PHỐ HÀ GIANG"
+		},
+		{
+			"id": 197,
+			"name": "HUYỆN ĐỒNG VĂN"
+		},
+		{
+			"id": 198,
+			"name": "HUYỆN YÊN MINH"
+		},
+		{
+			"id": 199,
+			"name": "HUYỆN MÈO VẠC"
+		},
+		{
+			"id": 200,
+			"name": "HUYỆN QUANG BÌNH"
+		}
+	]
+}

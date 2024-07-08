@@ -1,118 +1,54 @@
 {
-	"id": "252",
-	"name": "Huyện Vĩnh Tường",
+	"id": 252,
+	"name": "HUYỆN TRẠM TẤU",
 	"data": [
 		{
-			"id": "09151",
-			"name": "Xã An Tường"
+			"id": 4473,
+			"name": "XÃ PÁ HU"
 		},
 		{
-			"id": "09118",
-			"name": "Xã Bình Dương"
+			"id": 4474,
+			"name": "XÃ BẢN MÙ"
 		},
 		{
-			"id": "09097",
-			"name": "Xã Bồ Sao"
+			"id": 4475,
+			"name": "XÃ PÁ LAU"
 		},
 		{
-			"id": "09109",
-			"name": "Xã Cao Đại"
+			"id": 4476,
+			"name": "XÃ TRẠM TẤU"
 		},
 		{
-			"id": "09085",
-			"name": "Xã Chấn Hưng"
+			"id": 4477,
+			"name": "XÃ HÁT LÌU"
 		},
 		{
-			"id": "09100",
-			"name": "Xã Đại Đồng"
+			"id": 4478,
+			"name": "XÃ PHÌNH HỒ"
 		},
 		{
-			"id": "09079",
-			"name": "Xã Kim Xá"
+			"id": 4479,
+			"name": "XÃ TÚC ĐÁN"
 		},
 		{
-			"id": "09106",
-			"name": "Xã Lũng Hoà"
+			"id": 4480,
+			"name": "XÃ XÀ HỒ"
 		},
 		{
-			"id": "09133",
-			"name": "Xã Lý Nhân"
+			"id": 4481,
+			"name": "XÃ BẢN CÔNG"
 		},
 		{
-			"id": "09088",
-			"name": "Xã Nghĩa Hưng"
+			"id": 4482,
+			"name": "XÃ TÀ SI LÁNG"
 		},
 		{
-			"id": "09148",
-			"name": "Xã Ngũ Kiên"
+			"id": 4483,
+			"name": "THỊ TRẤN TRẠM TẤU"
 		},
 		{
-			"id": "09157",
-			"name": "Xã Phú Đa"
-		},
-		{
-			"id": "09142",
-			"name": "Xã Tam Phúc"
-		},
-		{
-			"id": "09124",
-			"name": "Xã Tân Phú"
-		},
-		{
-			"id": "09103",
-			"name": "Xã Tân Tiến"
-		},
-		{
-			"id": "09112",
-			"name": "Thị Trấn Thổ Tang"
-		},
-		{
-			"id": "09127",
-			"name": "Xã Thượng Trưng"
-		},
-		{
-			"id": "09145",
-			"name": "Thị trấn Tứ Trưng"
-		},
-		{
-			"id": "09136",
-			"name": "Xã Tuân Chính"
-		},
-		{
-			"id": "09139",
-			"name": "Xã Vân Xuân"
-		},
-		{
-			"id": "09094",
-			"name": "Xã Việt Xuân"
-		},
-		{
-			"id": "09160",
-			"name": "Xã Vĩnh Ninh"
-		},
-		{
-			"id": "09115",
-			"name": "Xã Vĩnh Sơn"
-		},
-		{
-			"id": "09154",
-			"name": "Xã Vĩnh Thịnh"
-		},
-		{
-			"id": "09076",
-			"name": "Thị trấn Vĩnh Tường"
-		},
-		{
-			"id": "09130",
-			"name": "Xã Vũ Di"
-		},
-		{
-			"id": "09082",
-			"name": "Xã Yên Bình"
-		},
-		{
-			"id": "09091",
-			"name": "Xã Yên Lập"
+			"id": 4484,
+			"name": "XÃ LÀNG NHÌ"
 		}
 	]
 }

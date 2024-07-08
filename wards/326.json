@@ -1,50 +1,138 @@
 {
-	"id": "326",
-	"name": "Huyện Văn Giang",
+	"id": 326,
+	"name": "HUYỆN KIM BÔI",
 	"data": [
 		{
-			"id": "12025",
-			"name": "Xã Cửu Cao"
+			"id": 5868,
+			"name": "THỊ TRẤN BO"
 		},
 		{
-			"id": "12040",
-			"name": "Xã Liên Nghĩa"
+			"id": 5869,
+			"name": "XÃ THANH NÔNG"
 		},
 		{
-			"id": "12034",
-			"name": "Xã Long Hưng"
+			"id": 5870,
+			"name": "XÃ NẬT SƠN"
 		},
 		{
-			"id": "12049",
-			"name": "Xã Mễ Sở"
+			"id": 5871,
+			"name": "XÃ KIM BÌNH"
 		},
 		{
-			"id": "12031",
-			"name": "Xã Nghĩa Trụ"
+			"id": 5872,
+			"name": "XÃ KIM BÔI"
 		},
 		{
-			"id": "12028",
-			"name": "Xã Phụng Công"
+			"id": 5873,
+			"name": "XÃ HỢP KIM"
 		},
 		{
-			"id": "12043",
-			"name": "Xã Tân Tiến"
+			"id": 5874,
+			"name": "XÃ CUỐI HẠ"
 		},
 		{
-			"id": "12046",
-			"name": "Xã Thắng Lợi"
+			"id": 5875,
+			"name": "XÃ NUÔNG DĂM"
 		},
 		{
-			"id": "12019",
-			"name": "Thị trấn Văn Giang"
+			"id": 5876,
+			"name": "XÃ TÚ SƠN"
 		},
 		{
-			"id": "12037",
-			"name": "Xã Vĩnh Khúc"
+			"id": 5877,
+			"name": "XÃ VĨNH ĐỒNG"
 		},
 		{
-			"id": "12022",
-			"name": "Xã Xuân Quan"
+			"id": 5878,
+			"name": "XÃ THƯỢNG BÌ"
+		},
+		{
+			"id": 5879,
+			"name": "XÃ TRUNG BÌ"
+		},
+		{
+			"id": 5880,
+			"name": "XÃ LẬP CHIỆNG"
+		},
+		{
+			"id": 5881,
+			"name": "XÃ ĐÚ SÁNG"
+		},
+		{
+			"id": 5882,
+			"name": "XÃ BẮC SƠN"
+		},
+		{
+			"id": 5883,
+			"name": "XÃ SƠN THỦY"
+		},
+		{
+			"id": 5884,
+			"name": "XÃ VĨNH TIẾN"
+		},
+		{
+			"id": 5885,
+			"name": "XÃ ĐÔNG BẮC"
+		},
+		{
+			"id": 5886,
+			"name": "XÃ THƯỢNG TIẾN"
+		},
+		{
+			"id": 5887,
+			"name": "XÃ HỢP ĐỒNG"
+		},
+		{
+			"id": 5888,
+			"name": "XÃ HÙNG TIẾN"
+		},
+		{
+			"id": 5889,
+			"name": "XÃ BÌNH SƠN"
+		},
+		{
+			"id": 5890,
+			"name": "XÃ HẠ BÌ"
+		},
+		{
+			"id": 5891,
+			"name": "XÃ KIM SƠN"
+		},
+		{
+			"id": 5892,
+			"name": "XÃ KIM TIẾN"
+		},
+		{
+			"id": 5893,
+			"name": "XÃ KIM TRUY"
+		},
+		{
+			"id": 5894,
+			"name": "XÃ NAM THƯỢNG"
+		},
+		{
+			"id": 5895,
+			"name": "XÃ SÀO BÁY"
+		},
+		{
+			"id": 5896,
+			"name": "XÃ MI HÒA"
+		},
+		{
+			"id": 26326,
+			"name": "XÃ HÙNG SƠN"
+		},
+		{
+			"id": 26323,
+			"name": "XÃ HỢP TIẾN"
+		},
+		{
+			"id": 26324,
+			"name": "XÃ KIM LẬP"
+		},
+		{
+			"id": 26325,
+			"name": "XÃ XUÂN THỦY"
 		}
 	]
 }

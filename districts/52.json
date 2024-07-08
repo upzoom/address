@@ -1,50 +1,46 @@
 {
-	"id": "52",
-	"name": "Tỉnh Bình Định",
+	"id": 52,
+	"name": "Bình Thuận",
 	"data": [
 		{
-			"id": "542",
-			"name": "Huyện An Lão"
+			"id": 585,
+			"name": "HUYỆN HÀM THUẬN BẮC"
 		},
 		{
-			"id": "549",
-			"name": "Thị xã An Nhơn"
+			"id": 586,
+			"name": "HUYỆN PHÚ QUÍ"
 		},
 		{
-			"id": "544",
-			"name": "Huyện Hoài Ân"
+			"id": 587,
+			"name": "HUYỆN TUY PHONG"
 		},
 		{
-			"id": "543",
-			"name": "Thị xã Hoài Nhơn"
+			"id": 588,
+			"name": "HUYỆN TÁNH LINH"
 		},
 		{
-			"id": "548",
-			"name": "Huyện Phù Cát"
+			"id": 589,
+			"name": "HUYỆN ĐỨC LINH"
 		},
 		{
-			"id": "545",
-			"name": "Huyện Phù Mỹ"
+			"id": 590,
+			"name": "THỊ XÃ LA GI"
 		},
 		{
-			"id": "540",
-			"name": "Thành phố Quy Nhơn"
+			"id": 591,
+			"name": "HUYỆN HÀM TÂN"
 		},
 		{
-			"id": "547",
-			"name": "Huyện Tây Sơn"
+			"id": 592,
+			"name": "HUYỆN HÀM THUẬN NAM"
 		},
 		{
-			"id": "550",
-			"name": "Huyện Tuy Phước"
+			"id": 593,
+			"name": "HUYỆN BẮC BÌNH"
 		},
 		{
-			"id": "551",
-			"name": "Huyện Vân Canh"
-		},
-		{
-			"id": "546",
-			"name": "Huyện Vĩnh Thạnh"
+			"id": 594,
+			"name": "THÀNH PHỐ PHAN THIẾT"
 		}
 	]
 }

@@ -1,0 +1,46 @@
+{
+	"id": 43,
+	"name": "Kon Tum",
+	"data": [
+		{
+			"id": 484,
+			"name": "HUYỆN ĐẮK HÀ"
+		},
+		{
+			"id": 485,
+			"name": "HUYỆN SA THẦY"
+		},
+		{
+			"id": 486,
+			"name": "HUYỆN TU MƠ RÔNG"
+		},
+		{
+			"id": 487,
+			"name": "HUYỆN KON PLÔNG"
+		},
+		{
+			"id": 488,
+			"name": "THÀNH PHỐ KON TUM"
+		},
+		{
+			"id": 489,
+			"name": "HUYỆN ĐẮK TÔ"
+		},
+		{
+			"id": 490,
+			"name": "HUYỆN NGỌC HỒI"
+		},
+		{
+			"id": 491,
+			"name": "HUYỆN KON RẪY"
+		},
+		{
+			"id": 492,
+			"name": "HUYỆN ĐẮK GLEI"
+		},
+		{
+			"id": 493,
+			"name": "HUYỆN IA H'DRAI"
+		}
+	]
+}

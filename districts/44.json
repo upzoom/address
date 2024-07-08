@@ -1,38 +1,74 @@
 {
-	"id": "44",
-	"name": "Tỉnh Quảng Bình",
+	"id": 44,
+	"name": "Gia Lai",
 	"data": [
 		{
-			"id": "458",
-			"name": "Thị xã Ba Đồn"
+			"id": 494,
+			"name": "HUYỆN CHƯ PRÔNG"
 		},
 		{
-			"id": "455",
-			"name": "Huyện Bố Trạch"
+			"id": 495,
+			"name": "HUYỆN KRÔNG PA"
 		},
 		{
-			"id": "450",
-			"name": "Thành Phố Đồng Hới"
+			"id": 496,
+			"name": "HUYỆN PHÚ THIỆN"
 		},
 		{
-			"id": "457",
-			"name": "Huyện Lệ Thủy"
+			"id": 497,
+			"name": "THÀNH PHỐ PLEIKU"
 		},
 		{
-			"id": "452",
-			"name": "Huyện Minh Hóa"
+			"id": 498,
+			"name": "HUYỆN ĐĂK ĐOA"
 		},
 		{
-			"id": "456",
-			"name": "Huyện Quảng Ninh"
+			"id": 499,
+			"name": "HUYỆN ĐĂK PƠ"
 		},
 		{
-			"id": "454",
-			"name": "Huyện Quảng Trạch"
+			"id": 500,
+			"name": "HUYỆN IA GRAI"
 		},
 		{
-			"id": "453",
-			"name": "Huyện Tuyên Hóa"
+			"id": 501,
+			"name": "HUYỆN ĐỨC CƠ"
+		},
+		{
+			"id": 502,
+			"name": "HUYỆN CHƯ SÊ"
+		},
+		{
+			"id": 503,
+			"name": "HUYỆN KBANG"
+		},
+		{
+			"id": 504,
+			"name": "HUYỆN KÔNG CHRO"
+		},
+		{
+			"id": 505,
+			"name": "HUYỆN MANG YANG"
+		},
+		{
+			"id": 506,
+			"name": "HUYỆN CHƯ PĂH"
+		},
+		{
+			"id": 507,
+			"name": "HUYỆN IA PA"
+		},
+		{
+			"id": 508,
+			"name": "HUYỆN CHƯ PƯH"
+		},
+		{
+			"id": 509,
+			"name": "THỊ XÃ AN KHÊ"
+		},
+		{
+			"id": 510,
+			"name": "THỊ XÃ AYUN PA"
 		}
 	]
 }

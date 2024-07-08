@@ -1,0 +1,34 @@
+{
+	"id": 367,
+	"name": "THỊ XÃ CỬA LÒ",
+	"data": [
+		{
+			"id": 6792,
+			"name": "PHƯỜNG NGHI THỦY"
+		},
+		{
+			"id": 6793,
+			"name": "PHƯỜNG THU THỦY"
+		},
+		{
+			"id": 6794,
+			"name": "PHƯỜNG NGHI HƯƠNG"
+		},
+		{
+			"id": 6795,
+			"name": "PHƯỜNG NGHI TÂN"
+		},
+		{
+			"id": 6796,
+			"name": "PHƯỜNG NGHI THU"
+		},
+		{
+			"id": 6797,
+			"name": "PHƯỜNG NGHI HẢI"
+		},
+		{
+			"id": 6798,
+			"name": "PHƯỜNG NGHI HÒA"
+		}
+	]
+}

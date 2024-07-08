@@ -1,54 +1,110 @@
 {
-	"id": "650",
-	"name": "Huyện Krông Năng",
+	"id": 650,
+	"name": "HUYỆN BA TRI",
 	"data": [
 		{
-			"id": "24367",
-			"name": "Xã Cư Klông"
+			"id": 10918,
+			"name": "THỊ TRẤN BA TRI"
 		},
 		{
-			"id": "24346",
-			"name": "Xã ĐLiê Ya"
+			"id": 10919,
+			"name": "XÃ TÂN XUÂN"
 		},
 		{
-			"id": "24360",
-			"name": "Xã Ea Dăh"
+			"id": 10920,
+			"name": "XÃ MỸ HÒA"
 		},
 		{
-			"id": "24361",
-			"name": "Xã Ea Hồ"
+			"id": 10921,
+			"name": "XÃ MỸ CHÁNH"
 		},
 		{
-			"id": "24359",
-			"name": "Xã Ea Puk"
+			"id": 10922,
+			"name": "XÃ MỸ NHƠN"
 		},
 		{
-			"id": "24352",
-			"name": "Xã Ea Tam"
+			"id": 10923,
+			"name": "XÃ MỸ THẠNH"
 		},
 		{
-			"id": "24370",
-			"name": "Xã Ea Tân"
+			"id": 10924,
+			"name": "XÃ AN PHÚ TRUNG"
 		},
 		{
-			"id": "24349",
-			"name": "Xã Ea Tóh"
+			"id": 10925,
+			"name": "XÃ AN NGHÃI TRUNG"
 		},
 		{
-			"id": "24343",
-			"name": "Thị trấn Krông Năng"
+			"id": 10926,
+			"name": "XÃ TÂN HƯNG"
 		},
 		{
-			"id": "24355",
-			"name": "Xã Phú Lộc"
+			"id": 10927,
+			"name": "XÃ AN NGÃI TÂY"
 		},
 		{
-			"id": "24364",
-			"name": "Xã Phú Xuân"
+			"id": 10928,
+			"name": "XÃ AN HIỆP"
 		},
 		{
-			"id": "24358",
-			"name": "Xã Tam Giang"
+			"id": 10929,
+			"name": "XÃ AN BÌNH TÂY"
+		},
+		{
+			"id": 10930,
+			"name": "XÃ PHÚ LỄ"
+		},
+		{
+			"id": 10931,
+			"name": "XÃ PHÚ NGÃI"
+		},
+		{
+			"id": 10932,
+			"name": "XÃ PHƯỚC TUY"
+		},
+		{
+			"id": 10933,
+			"name": "XÃ BẢO THẠNH"
+		},
+		{
+			"id": 10934,
+			"name": "XÃ BẢO THUẬN"
+		},
+		{
+			"id": 10935,
+			"name": "XÃ TÂN THỦY"
+		},
+		{
+			"id": 10936,
+			"name": "XÃ VĨNH HÒA"
+		},
+		{
+			"id": 10937,
+			"name": "XÃ VĨNH AN"
+		},
+		{
+			"id": 10938,
+			"name": "XÃ AN ĐỨC"
+		},
+		{
+			"id": 10939,
+			"name": "XÃ AN HÒA TÂY"
+		},
+		{
+			"id": 10940,
+			"name": "XÃ AN THỦY"
+		},
+		{
+			"id": 10941,
+			"name": "XÃ TÂN MỸ"
+		},
+		{
+			"id": 13323,
+			"name": "XÃ MỸ THÀNH"
+		},
+		{
+			"id": 26139,
+			"name": "XÃ PHƯỚC NGÃI"
 		}
 	]
 }

@@ -1,0 +1,38 @@
+{
+	"id": 57,
+	"name": "Vĩnh Long",
+	"data": [
+		{
+			"id": 642,
+			"name": "THỊ XÃ BÌNH MINH"
+		},
+		{
+			"id": 643,
+			"name": "HUYỆN LONG HỒ"
+		},
+		{
+			"id": 644,
+			"name": "HUYỆN BÌNH TÂN"
+		},
+		{
+			"id": 645,
+			"name": "HUYỆN VŨNG LIÊM"
+		},
+		{
+			"id": 646,
+			"name": "HUYỆN TAM BÌNH"
+		},
+		{
+			"id": 647,
+			"name": "THÀNH PHỐ VĨNH LONG"
+		},
+		{
+			"id": 648,
+			"name": "HUYỆN TRÀ ÔN"
+		},
+		{
+			"id": 649,
+			"name": "HUYỆN MANG THÍT"
+		}
+	]
+}

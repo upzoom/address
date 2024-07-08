@@ -1,42 +1,42 @@
 {
-	"id": "563",
-	"name": "Huyện Phú Hoà",
+	"id": 563,
+	"name": "HUYỆN BẾN CẦU",
 	"data": [
 		{
-			"id": "22315",
-			"name": "Xã Hòa An"
+			"id": 9754,
+			"name": "THỊ TRẤN BẾN CẦU"
 		},
 		{
-			"id": "22318",
-			"name": "Xã Hòa Định Đông"
+			"id": 9755,
+			"name": "XÃ LỢI THUẬN"
 		},
 		{
-			"id": "22321",
-			"name": "Xã Hòa Định Tây"
+			"id": 9756,
+			"name": "XÃ LONG CHỮ"
 		},
 		{
-			"id": "22309",
-			"name": "Xã Hòa Hội"
+			"id": 9757,
+			"name": "XÃ LONG GIANG"
 		},
 		{
-			"id": "22303",
-			"name": "Xã Hòa Quang Bắc"
+			"id": 9758,
+			"name": "XÃ LONG PHƯỚC"
 		},
 		{
-			"id": "22306",
-			"name": "Xã Hòa Quang Nam"
+			"id": 9759,
+			"name": "XÃ LONG THUẬN"
 		},
 		{
-			"id": "22324",
-			"name": "Xã Hòa Thắng"
+			"id": 9760,
+			"name": "XÃ LONG KHÁNH"
 		},
 		{
-			"id": "22312",
-			"name": "Xã Hòa Trị"
+			"id": 9761,
+			"name": "XÃ TIÊN THUẬN"
 		},
 		{
-			"id": "22319",
-			"name": "Thị Trấn Phú Hoà"
+			"id": 9762,
+			"name": "XÃ AN THẠNH"
 		}
 	]
 }

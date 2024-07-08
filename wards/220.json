@@ -1,74 +1,74 @@
 {
-	"id": "220",
-	"name": "Huyện Sơn Động",
+	"id": 220,
+	"name": "HUYỆN SI MA CAI",
 	"data": [
 		{
-			"id": "07660",
-			"name": "Xã An Bá"
+			"id": 25100,
+			"name": "XÃ LÙNG THẨN"
 		},
 		{
-			"id": "07615",
-			"name": "Thị trấn An Châu"
+			"id": 25099,
+			"name": "XÃ QUAN HỒ THẨN"
 		},
 		{
-			"id": "07645",
-			"name": "Xã An Lạc"
+			"id": 3802,
+			"name": "THỊ TRẤN SIMACAI"
 		},
 		{
-			"id": "07642",
-			"name": "Xã Cẩm Đàn"
+			"id": 3803,
+			"name": "XÃ SIMACAI"
 		},
 		{
-			"id": "07627",
-			"name": "Xã Đại Sơn"
+			"id": 3804,
+			"name": "XÃ LÙNG SUI"
 		},
 		{
-			"id": "07666",
-			"name": "Xã Dương Hưu"
+			"id": 3805,
+			"name": "XÃ SÍN CHÉNG"
 		},
 		{
-			"id": "07636",
-			"name": "Xã Giáo Liêm"
+			"id": 3806,
+			"name": "XÃ BẢN MẾ"
 		},
 		{
-			"id": "07624",
-			"name": "Xã Hữu Sản"
+			"id": 3807,
+			"name": "XÃ CÁN CẤU"
 		},
 		{
-			"id": "07654",
-			"name": "Xã Lệ Viễn"
+			"id": 3808,
+			"name": "XÃ SÁN CHẢI"
 		},
 		{
-			"id": "07672",
-			"name": "Xã Long Sơn"
+			"id": 3809,
+			"name": "XÃ CÁN HỒ"
 		},
 		{
-			"id": "07630",
-			"name": "Xã Phúc Sơn"
+			"id": 3810,
+			"name": "XÃ NÀ SÁN"
 		},
 		{
-			"id": "07616",
-			"name": "Thị trấn Tây Yên Tử"
+			"id": 3811,
+			"name": "XÃ NÀN SÍN"
 		},
 		{
-			"id": "07678",
-			"name": "Xã Thanh Luận"
+			"id": 3812,
+			"name": "XÃ LỬ THẨN"
 		},
 		{
-			"id": "07663",
-			"name": "Xã Tuấn Đạo"
+			"id": 3813,
+			"name": "XÃ MẢN THẨN"
 		},
 		{
-			"id": "07621",
-			"name": "Xã Vân Sơn"
+			"id": 3814,
+			"name": "XÃ NÀN SÁN"
 		},
 		{
-			"id": "07648",
-			"name": "Xã Vĩnh An"
+			"id": 3815,
+			"name": "XÃ QUAN THẦN SÁN"
 		},
 		{
-			"id": "07651",
-			"name": "Xã Yên Định"
+			"id": 3816,
+			"name": "XÃ THÀO CHƯ PHÌN"
 		}
 	]
 }

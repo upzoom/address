@@ -1,58 +1,66 @@
 {
-	"id": "502",
-	"name": "Thành phố Tam Kỳ",
+	"id": 502,
+	"name": "HUYỆN CHƯ SÊ",
 	"data": [
 		{
-			"id": "20341",
-			"name": "Phường An Mỹ"
+			"id": 9048,
+			"name": "THỊ TRẤN CHƯ SÊ"
 		},
 		{
-			"id": "20356",
-			"name": "Phường An Phú"
+			"id": 9049,
+			"name": "XÃ IA TIÊM"
 		},
 		{
-			"id": "20350",
-			"name": "Phường An Sơn"
+			"id": 9050,
+			"name": "XÃ ALBÁ"
 		},
 		{
-			"id": "20347",
-			"name": "Phường An Xuân"
+			"id": 9051,
+			"name": "XÃ IAPAL"
 		},
 		{
-			"id": "20344",
-			"name": "Phường Hòa Hương"
+			"id": 9052,
+			"name": "XÃ KÔNGHTOK"
 		},
 		{
-			"id": "20375",
-			"name": "Phường Hoà Thuận"
+			"id": 9053,
+			"name": "XÃ IA BLANG"
 		},
 		{
-			"id": "20338",
-			"name": "Phường Phước Hòa"
+			"id": 9054,
+			"name": "XÃ DUN"
 		},
 		{
-			"id": "20389",
-			"name": "Xã Tam Ngọc"
+			"id": 9055,
+			"name": "XÃ HBÔNG"
 		},
 		{
-			"id": "20371",
-			"name": "Xã Tam Phú"
+			"id": 9056,
+			"name": "XÃ BỜ NGOONG"
 		},
 		{
-			"id": "20362",
-			"name": "Xã Tam Thăng"
+			"id": 9057,
+			"name": "XÃ IA GLAI"
 		},
 		{
-			"id": "20359",
-			"name": "Xã Tam Thanh"
+			"id": 9058,
+			"name": "XÃ IA HLỐP"
 		},
 		{
-			"id": "20335",
-			"name": "Phường Tân Thạnh"
+			"id": 9059,
+			"name": "XÃ AYUN"
 		},
 		{
-			"id": "20353",
-			"name": "Phường Trường Xuân"
+			"id": 9060,
+			"name": "XÃ IAKO"
+		},
+		{
+			"id": 9061,
+			"name": "XÃ CHƯPƠNG"
+		},
+		{
+			"id": 9062,
+			"name": "XÃ BAR MAIH"
 		}
 	]
 }

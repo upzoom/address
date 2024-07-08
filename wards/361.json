@@ -1,102 +1,50 @@
 {
-	"id": "361",
-	"name": "Huyện Nghĩa Hưng",
+	"id": 361,
+	"name": "THÀNH PHỐ SẦM SƠN",
 	"data": [
 		{
-			"id": "13909",
-			"name": "Xã Hoàng Nam"
+			"id": 6703,
+			"name": "PHƯỜNG BẮC SƠN"
 		},
 		{
-			"id": "13891",
-			"name": "Thị trấn Liễu Đề"
+			"id": 6704,
+			"name": "PHƯỜNG TRUNG SƠN"
 		},
 		{
-			"id": "13963",
-			"name": "Xã Nam Điền"
+			"id": 6705,
+			"name": "PHƯỜNG TRƯỜNG SƠN"
 		},
 		{
-			"id": "13933",
-			"name": "Xã Nghĩa Bình"
+			"id": 6706,
+			"name": "XÃ QUẢNG CƯ"
 		},
 		{
-			"id": "13912",
-			"name": "Xã Nghĩa Châu"
+			"id": 6707,
+			"name": "XÃ QUẢNG TIẾN"
 		},
 		{
-			"id": "13897",
-			"name": "Xã Nghĩa Đồng"
+			"id": 12305,
+			"name": "PHƯỜNG QUẢNG CHÂU"
 		},
 		{
-			"id": "13957",
-			"name": "Xã Nghĩa Hải"
+			"id": 16394,
+			"name": "PHƯỜNG QUẢNG THỌ"
 		},
 		{
-			"id": "13924",
-			"name": "Xã Nghĩa Hồng"
+			"id": 21516,
+			"name": "XÃ QUẢNG HÙNG"
 		},
 		{
-			"id": "13942",
-			"name": "Xã Nghĩa Hùng"
+			"id": 21518,
+			"name": "XÃ QUẢNG VINH"
 		},
 		{
-			"id": "13921",
-			"name": "Xã Nghĩa Lạc"
+			"id": 21517,
+			"name": "XÃ QUẢNG ĐẠI"
 		},
 		{
-			"id": "13945",
-			"name": "Xã Nghĩa Lâm"
-		},
-		{
-			"id": "13954",
-			"name": "Xã Nghĩa Lợi"
-		},
-		{
-			"id": "13903",
-			"name": "Xã Nghĩa Minh"
-		},
-		{
-			"id": "13927",
-			"name": "Xã Nghĩa Phong"
-		},
-		{
-			"id": "13930",
-			"name": "Xã Nghĩa Phú"
-		},
-		{
-			"id": "13918",
-			"name": "Xã Nghĩa Sơn"
-		},
-		{
-			"id": "13939",
-			"name": "Xã Nghĩa Tân"
-		},
-		{
-			"id": "13906",
-			"name": "Xã Nghĩa Thái"
-		},
-		{
-			"id": "13948",
-			"name": "Xã Nghĩa Thành"
-		},
-		{
-			"id": "13900",
-			"name": "Xã Nghĩa Thịnh"
-		},
-		{
-			"id": "13915",
-			"name": "Xã Nghĩa Trung"
-		},
-		{
-			"id": "13951",
-			"name": "Xã Phúc Thắng"
-		},
-		{
-			"id": "13936",
-			"name": "Thị trấn Quỹ Nhất"
-		},
-		{
-			"id": "13894",
-			"name": "Thị trấn Rạng Đông"
+			"id": 25664,
+			"name": "XÃ QUẢNG MINH"
 		}
 	]
 }

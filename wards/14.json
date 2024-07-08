@@ -1,0 +1,38 @@
+{
+	"id": 14,
+	"name": "QUẬN CẦU GIẤY",
+	"data": [
+		{
+			"id": 295,
+			"name": "PHƯỜNG NGHĨA ĐÔ"
+		},
+		{
+			"id": 296,
+			"name": "PHƯỜNG NGHĨA TÂN"
+		},
+		{
+			"id": 297,
+			"name": "PHƯỜNG DỊCH VỌNG HẬU"
+		},
+		{
+			"id": 298,
+			"name": "PHƯỜNG DỊCH VỌNG"
+		},
+		{
+			"id": 299,
+			"name": "PHƯỜNG QUAN HOA"
+		},
+		{
+			"id": 300,
+			"name": "PHƯỜNG YÊN HÒA"
+		},
+		{
+			"id": 301,
+			"name": "PHƯỜNG TRUNG HÒA"
+		},
+		{
+			"id": 302,
+			"name": "PHƯỜNG MAI DỊCH"
+		}
+	]
+}

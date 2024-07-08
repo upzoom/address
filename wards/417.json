@@ -1,90 +1,110 @@
 {
-	"id": "417",
-	"name": "Huyện Kỳ Sơn",
+	"id": 417,
+	"name": "HUYỆN A LƯỚI",
 	"data": [
 		{
-			"id": "16819",
-			"name": "Xã Bắc Lý"
+			"id": 7873,
+			"name": "XÃ HỒNG BẮC"
 		},
 		{
-			"id": "16840",
-			"name": "Xã Bảo Nam"
+			"id": 7874,
+			"name": "XÃ HỒNG HẠ"
 		},
 		{
-			"id": "16846",
-			"name": "Xã Bảo Thắng"
+			"id": 7875,
+			"name": "XÃ HỒNG THƯỢNG"
 		},
 		{
-			"id": "16855",
-			"name": "Xã Chiêu Lưu"
+			"id": 7876,
+			"name": "XÃ A ĐỚT"
 		},
 		{
-			"id": "16825",
-			"name": "Xã Đoọc Mạy"
+			"id": 7877,
+			"name": "XÃ A NGO"
 		},
 		{
-			"id": "16828",
-			"name": "Xã Huồi Tụ"
+			"id": 7878,
+			"name": "XÃ HỒNG TRUNG"
 		},
 		{
-			"id": "16861",
-			"name": "Xã Hữu Kiệm"
+			"id": 7879,
+			"name": "XÃ HƯƠNG PHONG"
 		},
 		{
-			"id": "16849",
-			"name": "Xã Hữu Lập"
+			"id": 7880,
+			"name": "XÃ HỒNG VÂN"
 		},
 		{
-			"id": "16822",
-			"name": "Xã Keng Đu"
+			"id": 7881,
+			"name": "XÃ NHÂM"
 		},
 		{
-			"id": "16867",
-			"name": "Xã Mường Ải"
+			"id": 7882,
+			"name": "XÃ HƯƠNG NGUYÊN"
 		},
 		{
-			"id": "16831",
-			"name": "Xã Mường Lống"
+			"id": 7883,
+			"name": "XÃ HỒNG KIM"
 		},
 		{
-			"id": "16858",
-			"name": "Xã Mường Típ"
+			"id": 7884,
+			"name": "XÃ PHÚ VINH"
 		},
 		{
-			"id": "16813",
-			"name": "Thị trấn Mường Xén"
+			"id": 7885,
+			"name": "XÃ ĐÔNG SƠN"
 		},
 		{
-			"id": "16816",
-			"name": "Xã Mỹ Lý"
+			"id": 7886,
+			"name": "XÃ BẮC SƠN"
 		},
 		{
-			"id": "16834",
-			"name": "Xã Na Loi"
+			"id": 7887,
+			"name": "XÃ SƠN THUỶ"
 		},
 		{
-			"id": "16870",
-			"name": "Xã Na Ngoi"
+			"id": 7888,
+			"name": "XÃ HƯƠNG LÂM"
 		},
 		{
-			"id": "16837",
-			"name": "Xã Nậm Cắn"
+			"id": 7889,
+			"name": "XÃ HỒNG THUỶ"
 		},
 		{
-			"id": "16873",
-			"name": "Xã Nậm Càn"
+			"id": 7890,
+			"name": "XÃ HỒNG QUẢNG"
 		},
 		{
-			"id": "16843",
-			"name": "Xã Phà Đánh"
+			"id": 7891,
+			"name": "XÃ HỒNG THÁI"
 		},
 		{
-			"id": "16852",
-			"name": "Xã Tà Cạ"
+			"id": 7892,
+			"name": "XÃ A ROẰNG"
 		},
 		{
-			"id": "16864",
-			"name": "Xã Tây Sơn"
+			"id": 7893,
+			"name": "XÃ HỒNG NAM"
+		},
+		{
+			"id": 7894,
+			"name": "XÃ HỒNG SƠN"
+		},
+		{
+			"id": 7895,
+			"name": "THỊ TRẤN A LƯỚI"
+		},
+		{
+			"id": 26159,
+			"name": "XÃ LÂM ĐỚT"
+		},
+		{
+			"id": 26160,
+			"name": "XÃ QUẢNG NHÂM"
+		},
+		{
+			"id": 26161,
+			"name": "XÃ TRUNG SƠN"
 		}
 	]
 }

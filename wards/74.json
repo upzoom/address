@@ -1,0 +1,58 @@
+{
+	"id": 74,
+	"name": "QUẬN HẢI CHÂU",
+	"data": [
+		{
+			"id": 1199,
+			"name": "PHƯỜNG HÒA CƯỜNG NAM"
+		},
+		{
+			"id": 1200,
+			"name": "PHƯỜNG HẢI CHÂU 1"
+		},
+		{
+			"id": 1201,
+			"name": "PHƯỜNG HẢI CHÂU 2"
+		},
+		{
+			"id": 1202,
+			"name": "PHƯỜNG THẠCH THANG"
+		},
+		{
+			"id": 1203,
+			"name": "PHƯỜNG THANH BÌNH"
+		},
+		{
+			"id": 1204,
+			"name": "PHƯỜNG THUẬN PHƯỚC"
+		},
+		{
+			"id": 1205,
+			"name": "PHƯỜNG HÒA THUẬN ĐÔNG"
+		},
+		{
+			"id": 1206,
+			"name": "PHƯỜNG HÒA THUẬN TÂY"
+		},
+		{
+			"id": 1207,
+			"name": "PHƯỜNG NAM DƯƠNG"
+		},
+		{
+			"id": 1208,
+			"name": "PHƯỜNG PHƯỚC NINH"
+		},
+		{
+			"id": 1209,
+			"name": "PHƯỜNG BÌNH THUẬN"
+		},
+		{
+			"id": 1210,
+			"name": "PHƯỜNG BÌNH HIÊN"
+		},
+		{
+			"id": 1211,
+			"name": "PHƯỜNG HÒA CƯỜNG BẮC"
+		}
+	]
+}

@@ -1,46 +1,62 @@
 {
-	"id": "638",
-	"name": "Huyện Phú Thiện",
+	"id": 638,
+	"name": "HUYỆN TỊNH BIÊN",
 	"data": [
 		{
-			"id": "24048",
-			"name": "Xã Ayun Hạ"
+			"id": 10742,
+			"name": "THỊ TRẤN NHÀ BÀN"
 		},
 		{
-			"id": "24060",
-			"name": "Xã Chrôh Pơnan"
+			"id": 10743,
+			"name": "THỊ TRẤN CHI LĂNG"
 		},
 		{
-			"id": "24046",
-			"name": "Xã Chư A Thai"
+			"id": 10744,
+			"name": "THỊ TRẤN TỊNH BIÊN"
 		},
 		{
-			"id": "24049",
-			"name": "Xã Ia Ake"
+			"id": 10745,
+			"name": "XÃ NÚI VOI"
 		},
 		{
-			"id": "24061",
-			"name": "Xã Ia Hiao"
+			"id": 10746,
+			"name": "XÃ NHƠN HƯNG"
 		},
 		{
-			"id": "24058",
-			"name": "Xã Ia Peng"
+			"id": 10747,
+			"name": "XÃ AN PHÚ"
 		},
 		{
-			"id": "24055",
-			"name": "Xã Ia Piar"
+			"id": 10748,
+			"name": "XÃ THỚI SƠN"
 		},
 		{
-			"id": "24052",
-			"name": "Xã Ia Sol"
+			"id": 10749,
+			"name": "XÃ VĂN GIÁO"
 		},
 		{
-			"id": "24067",
-			"name": "Xã Ia Yeng"
+			"id": 10750,
+			"name": "XÃ AN CƯ"
 		},
 		{
-			"id": "24043",
-			"name": "Thị trấn Phú Thiện"
+			"id": 10751,
+			"name": "XÃ VĨNH TRUNG"
+		},
+		{
+			"id": 10752,
+			"name": "XÃ TÂN LỢI"
+		},
+		{
+			"id": 10753,
+			"name": "XÃ AN HẢO"
+		},
+		{
+			"id": 10754,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 10755,
+			"name": "XÃ AN NÔNG"
 		}
 	]
 }

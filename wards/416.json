@@ -1,54 +1,46 @@
 {
-	"id": "416",
-	"name": "Huyện Quỳ Châu",
+	"id": 416,
+	"name": "THỊ XÃ HƯƠNG THỦY",
 	"data": [
 		{
-			"id": "16780",
-			"name": "Xã Châu Bính"
+			"id": 7862,
+			"name": "PHƯỜNG THUỶ CHÂU"
 		},
 		{
-			"id": "16804",
-			"name": "Xã Châu Bình"
+			"id": 7863,
+			"name": "PHƯỜNG THUỶ LƯƠNG"
 		},
 		{
-			"id": "16795",
-			"name": "Xã Châu Hạnh"
+			"id": 7864,
+			"name": "XÃ THUỶ THANH"
 		},
 		{
-			"id": "16807",
-			"name": "Xã Châu Hoàn"
+			"id": 7865,
+			"name": "XÃ THUỶ TÂN"
 		},
 		{
-			"id": "16786",
-			"name": "Xã Châu Hội"
+			"id": 7866,
+			"name": "XÃ THUỶ PHÙ"
 		},
 		{
-			"id": "16789",
-			"name": "Xã Châu Nga"
+			"id": 7868,
+			"name": "XÃ DƯƠNG HOÀ"
 		},
 		{
-			"id": "16801",
-			"name": "Xã Châu Phong"
+			"id": 7869,
+			"name": "PHƯỜNG THUỶ PHƯƠNG"
 		},
 		{
-			"id": "16798",
-			"name": "Xã Châu Thắng"
+			"id": 7870,
+			"name": "XÃ PHÚ SƠN"
 		},
 		{
-			"id": "16783",
-			"name": "Xã Châu Thuận"
+			"id": 7871,
+			"name": "PHƯỜNG PHÚ BÀI"
 		},
 		{
-			"id": "16792",
-			"name": "Xã Châu Tiến"
-		},
-		{
-			"id": "16810",
-			"name": "Xã Diên Lãm"
-		},
-		{
-			"id": "16777",
-			"name": "Thị trấn Tân Lạc"
+			"id": 7872,
+			"name": "PHƯỜNG THUỶ DƯƠNG"
 		}
 	]
 }

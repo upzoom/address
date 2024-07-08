@@ -1,90 +1,58 @@
 {
-	"id": "329",
-	"name": "Huyện Ân Thi",
+	"id": 329,
+	"name": "HUYỆN YÊN THỦY",
 	"data": [
 		{
-			"id": "12142",
-			"name": "Thị trấn Ân Thi"
+			"id": 5941,
+			"name": "XÃ ĐOÀN KẾT"
 		},
 		{
-			"id": "12148",
-			"name": "Xã Bắc Sơn"
+			"id": 5942,
+			"name": "XÃ YÊN LẠC"
 		},
 		{
-			"id": "12151",
-			"name": "Xã Bãi Sậy"
+			"id": 5943,
+			"name": "XÃ ĐA PHÚC"
 		},
 		{
-			"id": "12181",
-			"name": "Xã Cẩm Ninh"
+			"id": 5944,
+			"name": "XÃ BẢO HIỆU"
 		},
 		{
-			"id": "12187",
-			"name": "Xã Đa Lộc"
+			"id": 5945,
+			"name": "XÃ HỮU LỢI"
 		},
 		{
-			"id": "12178",
-			"name": "Xã Đặng Lễ"
+			"id": 5946,
+			"name": "XÃ LẠC SỸ"
 		},
 		{
-			"id": "12154",
-			"name": "Xã Đào Dương"
+			"id": 5947,
+			"name": "XÃ LẠC HƯNG"
 		},
 		{
-			"id": "12202",
-			"name": "Xã Hạ Lễ"
+			"id": 5948,
+			"name": "XÃ LẠC LƯƠNG"
 		},
 		{
-			"id": "12190",
-			"name": "Xã Hồ Tùng Mậu"
+			"id": 5949,
+			"name": "XÃ LẠC THỊNH"
 		},
 		{
-			"id": "12169",
-			"name": "Xã Hoàng Hoa Thám"
+			"id": 5950,
+			"name": "XÃ PHÚ LAI"
 		},
 		{
-			"id": "12199",
-			"name": "Xã Hồng Quang"
+			"id": 5951,
+			"name": "THỊ TRẤN HÀNG TRẠM"
 		},
 		{
-			"id": "12196",
-			"name": "Xã Hồng Vân"
+			"id": 5952,
+			"name": "XÃ NGỌC LƯƠNG"
 		},
 		{
-			"id": "12184",
-			"name": "Xã Nguyễn Trãi"
-		},
-		{
-			"id": "12145",
-			"name": "Xã Phù Ủng"
-		},
-		{
-			"id": "12172",
-			"name": "Xã Quảng Lãng"
-		},
-		{
-			"id": "12163",
-			"name": "Xã Quang Vinh"
-		},
-		{
-			"id": "12157",
-			"name": "Xã Tân Phúc"
-		},
-		{
-			"id": "12193",
-			"name": "Xã Tiền Phong"
-		},
-		{
-			"id": "12160",
-			"name": "Xã Vân Du"
-		},
-		{
-			"id": "12175",
-			"name": "Xã Văn Nhuệ"
-		},
-		{
-			"id": "12166",
-			"name": "Xã Xuân Trúc"
+			"id": 5953,
+			"name": "XÃ YÊN TRỊ"
 		}
 	]
 }

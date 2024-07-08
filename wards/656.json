@@ -1,50 +1,98 @@
 {
-	"id": "656",
-	"name": "Huyện Lắk",
+	"id": 656,
+	"name": "HUYỆN GIỒNG TRÔM",
 	"data": [
 		{
-			"id": "24586",
-			"name": "Xã Bông Krang"
+			"id": 11022,
+			"name": "THỊ TRẤN GIỒNG TRÔM"
 		},
 		{
-			"id": "24595",
-			"name": "Xã Buôn Tría"
+			"id": 11023,
+			"name": "XÃ PHONG NẪM"
 		},
 		{
-			"id": "24592",
-			"name": "Xã Buôn Triết"
+			"id": 11024,
+			"name": "XÃ PHONG MỸ"
 		},
 		{
-			"id": "24589",
-			"name": "Xã Đắk Liêng"
+			"id": 11025,
+			"name": "XÃ MỸ THẠNH"
 		},
 		{
-			"id": "24601",
-			"name": "Xã Đắk Nuê"
+			"id": 11026,
+			"name": "XÃ LƯƠNG PHÚ"
 		},
 		{
-			"id": "24598",
-			"name": "Xã Đắk Phơi"
+			"id": 11027,
+			"name": "XÃ THUẬN ĐIỀN"
 		},
 		{
-			"id": "24610",
-			"name": "Xã Ea R'Bin"
+			"id": 11028,
+			"name": "XÃ SƠN PHÚ"
 		},
 		{
-			"id": "24604",
-			"name": "Xã Krông Nô"
+			"id": 11029,
+			"name": "XÃ PHƯỚC LONG"
 		},
 		{
-			"id": "24580",
-			"name": "Thị trấn Liên Sơn"
+			"id": 11030,
+			"name": "XÃ LONG MỸ"
 		},
 		{
-			"id": "24607",
-			"name": "Xã Nam Ka"
+			"id": 11031,
+			"name": "XÃ HƯNG PHONG"
 		},
 		{
-			"id": "24583",
-			"name": "Xã Yang Tao"
+			"id": 11032,
+			"name": "XÃ LƯƠNG HÒA"
+		},
+		{
+			"id": 11033,
+			"name": "XÃ LƯƠNG QƯỚI"
+		},
+		{
+			"id": 11034,
+			"name": "XÃ CHÂU HÒA"
+		},
+		{
+			"id": 11035,
+			"name": "XÃ CHÂU BÌNH"
+		},
+		{
+			"id": 11036,
+			"name": "XÃ BÌNH HÒA"
+		},
+		{
+			"id": 11037,
+			"name": "XÃ BÌNH THÀNH"
+		},
+		{
+			"id": 11038,
+			"name": "XÃ TÂN THANH"
+		},
+		{
+			"id": 11039,
+			"name": "XÃ TÂN HÀO"
+		},
+		{
+			"id": 11040,
+			"name": "XÃ TÂN LỢI THUẬN"
+		},
+		{
+			"id": 11041,
+			"name": "XÃ THẠNH PHÚ ĐÔNG"
+		},
+		{
+			"id": 11042,
+			"name": "XÃ HƯNG LỄ"
+		},
+		{
+			"id": 11043,
+			"name": "XÃ HƯNG NHƯỢNG"
+		},
+		{
+			"id": 17001,
+			"name": "XÃ TÂN LỢI THẠNH"
 		}
 	]
 }

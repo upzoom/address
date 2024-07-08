@@ -1,0 +1,66 @@
+{
+	"id": 434,
+	"name": "HUYỆN QUẾ SƠN",
+	"data": [
+		{
+			"id": 8135,
+			"name": "XÃ QUẾ XUÂN 1"
+		},
+		{
+			"id": 8136,
+			"name": "XÃ QUẾ XUÂN 2"
+		},
+		{
+			"id": 8137,
+			"name": "XÃ QUẾ PHÚ"
+		},
+		{
+			"id": 8138,
+			"name": "XÃ QUẾ CƯỜNG"
+		},
+		{
+			"id": 8139,
+			"name": "XÃ PHÚ THỌ"
+		},
+		{
+			"id": 8140,
+			"name": "XÃ QUẾ THUẬN"
+		},
+		{
+			"id": 8141,
+			"name": "XÃ QUẾ HIỆP"
+		},
+		{
+			"id": 8142,
+			"name": "XÃ QUẾ CHÂU"
+		},
+		{
+			"id": 8143,
+			"name": "XÃ QUẾ MINH"
+		},
+		{
+			"id": 8144,
+			"name": "XÃ QUẾ AN"
+		},
+		{
+			"id": 8145,
+			"name": "XÃ QUẾ PHONG"
+		},
+		{
+			"id": 8146,
+			"name": "XÃ QUẾ LONG"
+		},
+		{
+			"id": 8147,
+			"name": "XÃ HƯƠNG AN"
+		},
+		{
+			"id": 8148,
+			"name": "THỊ TRẤN ĐÔNG PHÚ"
+		},
+		{
+			"id": 26156,
+			"name": "XÃ QUẾ MỸ"
+		}
+	]
+}

@@ -1,42 +1,78 @@
 {
-	"id": "635",
-	"name": "Huyện Ia Pa",
+	"id": 635,
+	"name": "HUYỆN CHỢ MỚI",
 	"data": [
 		{
-			"id": "24025",
-			"name": "Xã Chư Mố"
+			"id": 10697,
+			"name": "XÃ BÌNH PHƯỚC XUÂN"
 		},
 		{
-			"id": "24016",
-			"name": "Xã Chư Răng"
+			"id": 10698,
+			"name": "XÃ AN THẠNH TRUNG"
 		},
 		{
-			"id": "24034",
-			"name": "Xã Ia Broăi"
+			"id": 10699,
+			"name": "XÃ HỘI AN"
 		},
 		{
-			"id": "24019",
-			"name": "Xã Ia KDăm"
+			"id": 10700,
+			"name": "XÃ HOÀ BÌNH"
 		},
 		{
-			"id": "24031",
-			"name": "Xã Ia Ma Rơn"
+			"id": 10701,
+			"name": "XÃ HOÀ AN"
 		},
 		{
-			"id": "24037",
-			"name": "Xã Ia Trok"
+			"id": 10702,
+			"name": "THỊ TRẤN CHỢ MỚI"
 		},
 		{
-			"id": "24028",
-			"name": "Xã Ia Tul"
+			"id": 10703,
+			"name": "THỊ TRẤN MỸ LUÔNG"
 		},
 		{
-			"id": "24022",
-			"name": "Xã Kim Tân"
+			"id": 10704,
+			"name": "XÃ KIẾN AN"
 		},
 		{
-			"id": "24013",
-			"name": "Xã Pờ Tó"
+			"id": 10705,
+			"name": "XÃ MỸ HỘI ĐÔNG"
+		},
+		{
+			"id": 10706,
+			"name": "XÃ LONG ĐIỀN A"
+		},
+		{
+			"id": 10707,
+			"name": "XÃ TẤN MỸ"
+		},
+		{
+			"id": 10708,
+			"name": "XÃ LONG ĐIỀN B"
+		},
+		{
+			"id": 10709,
+			"name": "XÃ KIẾN THÀNH"
+		},
+		{
+			"id": 10710,
+			"name": "XÃ MỸ HIỆP"
+		},
+		{
+			"id": 10711,
+			"name": "XÃ MỸ AN"
+		},
+		{
+			"id": 10712,
+			"name": "XÃ NHƠN MỸ"
+		},
+		{
+			"id": 10713,
+			"name": "XÃ LONG GIANG"
+		},
+		{
+			"id": 10714,
+			"name": "XÃ LONG KIẾN"
 		}
 	]
 }

@@ -1,46 +1,46 @@
 {
-	"id": "36",
-	"name": "Tỉnh Nam Định",
+	"id": 36,
+	"name": "Quảng Trị",
 	"data": [
 		{
-			"id": "365",
-			"name": "Huyện Giao Thủy"
+			"id": 404,
+			"name": "HUYỆN TRIỆU PHONG"
 		},
 		{
-			"id": "366",
-			"name": "Huyện Hải Hậu"
+			"id": 405,
+			"name": "THÀNH PHỐ ĐÔNG HÀ"
 		},
 		{
-			"id": "358",
-			"name": "Huyện Mỹ Lộc"
+			"id": 406,
+			"name": "HUYỆN HƯỚNG HÓA"
 		},
 		{
-			"id": "356",
-			"name": "Thành phố Nam Định"
+			"id": 407,
+			"name": "THỊ XÃ QUẢNG TRỊ"
 		},
 		{
-			"id": "362",
-			"name": "Huyện Nam Trực"
+			"id": 408,
+			"name": "HUYỆN CAM LỘ"
 		},
 		{
-			"id": "361",
-			"name": "Huyện Nghĩa Hưng"
+			"id": 409,
+			"name": "HUYỆN CỒN CỎ"
 		},
 		{
-			"id": "363",
-			"name": "Huyện Trực Ninh"
+			"id": 410,
+			"name": "HUYỆN ĐA KRÔNG"
 		},
 		{
-			"id": "359",
-			"name": "Huyện Vụ Bản"
+			"id": 411,
+			"name": "HUYỆN HẢI LĂNG"
 		},
 		{
-			"id": "364",
-			"name": "Huyện Xuân Trường"
+			"id": 412,
+			"name": "HUYỆN VĨNH LINH"
 		},
 		{
-			"id": "360",
-			"name": "Huyện Ý Yên"
+			"id": 413,
+			"name": "HUYỆN GIO LINH"
 		}
 	]
 }

@@ -1,106 +1,122 @@
 {
-	"id": "136",
-	"name": "Huyện Văn Yên",
+	"id": 136,
+	"name": "HUYỆN NINH GIANG",
 	"data": [
 		{
-			"id": "04390",
-			"name": "Xã An Bình"
+			"id": 1966,
+			"name": "XÃ ĐỒNG TÂM"
 		},
 		{
-			"id": "04417",
-			"name": "Xã An Thịnh"
+			"id": 1967,
+			"name": "XÃ ĐÔNG XUYÊN"
 		},
 		{
-			"id": "04387",
-			"name": "Xã Châu Quế Hạ"
+			"id": 1968,
+			"name": "XÃ HIỆP LỰC"
 		},
 		{
-			"id": "04384",
-			"name": "Xã Châu Quế Thượng"
+			"id": 1969,
+			"name": "XÃ HOÀNG HANH"
 		},
 		{
-			"id": "04435",
-			"name": "Xã Đại Phác"
+			"id": 1970,
+			"name": "XÃ HỒNG DỤ"
 		},
 		{
-			"id": "04429",
-			"name": "Xã Đại Sơn"
+			"id": 1971,
+			"name": "XÃ HỒNG ĐỨC"
 		},
 		{
-			"id": "04396",
-			"name": "Xã Đông An"
+			"id": 1972,
+			"name": "XÃ HỒNG PHONG"
 		},
 		{
-			"id": "04399",
-			"name": "Xã Đông Cuông"
+			"id": 1973,
+			"name": "XÃ HỒNG PHÚC"
 		},
 		{
-			"id": "04381",
-			"name": "Xã Lâm Giang"
+			"id": 1974,
+			"name": "XÃ HỒNG THÁI"
 		},
 		{
-			"id": "04378",
-			"name": "Xã Lang Thíp"
+			"id": 1975,
+			"name": "XÃ HƯNG LONG"
 		},
 		{
-			"id": "04375",
-			"name": "Thị trấn Mậu A"
+			"id": 1976,
+			"name": "XÃ HƯNG THÁI"
 		},
 		{
-			"id": "04405",
-			"name": "Xã Mậu Đông"
+			"id": 1977,
+			"name": "XÃ KIẾN QUỐC"
 		},
 		{
-			"id": "04450",
-			"name": "Xã Mỏ Vàng"
+			"id": 1978,
+			"name": "XÃ NGHĨA AN"
 		},
 		{
-			"id": "04453",
-			"name": "Xã Nà Hẩu"
+			"id": 1979,
+			"name": "XÃ NINH HẢI"
 		},
 		{
-			"id": "04408",
-			"name": "Xã Ngòi A"
+			"id": 1980,
+			"name": "XÃ NINH HÒA"
 		},
 		{
-			"id": "04402",
-			"name": "Xã Phong Dụ Hạ"
+			"id": 1981,
+			"name": "XÃ NINH THÀNH"
 		},
 		{
-			"id": "04423",
-			"name": "Xã Phong Dụ Thượng"
+			"id": 1982,
+			"name": "XÃ NINH THỌ"
 		},
 		{
-			"id": "04393",
-			"name": "Xã Quang Minh"
+			"id": 1983,
+			"name": "XÃ QUANG HƯNG"
 		},
 		{
-			"id": "04414",
-			"name": "Xã Tân Hợp"
+			"id": 1984,
+			"name": "XÃ QUYẾT THẮNG"
 		},
 		{
-			"id": "04447",
-			"name": "Xã Viễn Sơn"
+			"id": 1985,
+			"name": "XÃ TÂN HƯƠNG"
 		},
 		{
-			"id": "04441",
-			"name": "Xã Xuân Ái"
+			"id": 1986,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "04411",
-			"name": "Xã Xuân Tầm"
+			"id": 1987,
+			"name": "XÃ ỨNG HÒE"
 		},
 		{
-			"id": "04426",
-			"name": "Xã Yên Hợp"
+			"id": 1988,
+			"name": "XÃ VĂN GIANG"
 		},
 		{
-			"id": "04438",
-			"name": "Xã Yên Phú"
+			"id": 1989,
+			"name": "XÃ VĂN HỘI"
 		},
 		{
-			"id": "04420",
-			"name": "Xã Yên Thái"
+			"id": 1990,
+			"name": "XÃ VẠN PHÚC"
+		},
+		{
+			"id": 1991,
+			"name": "XÃ VĨNH HÒA"
+		},
+		{
+			"id": 1992,
+			"name": "XÃ AN ĐỨC"
+		},
+		{
+			"id": 1993,
+			"name": "XÃ TÂN QUANG"
+		},
+		{
+			"id": 1994,
+			"name": "THỊ TRẤN NINH GIANG"
 		}
 	]
 }

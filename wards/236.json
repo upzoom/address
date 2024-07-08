@@ -1,54 +1,134 @@
 {
-	"id": "236",
-	"name": "Huyện Tam Nông",
+	"id": 236,
+	"name": "HUYỆN LỘC BÌNH",
 	"data": [
 		{
-			"id": "08443",
-			"name": "Xã Bắc Sơn"
+			"id": 26298,
+			"name": "XÃ KHÁNH XUÂN"
 		},
 		{
-			"id": "08491",
-			"name": "Xã Dân Quyền"
+			"id": 26297,
+			"name": "XÃ THỐNG NHẤT"
 		},
 		{
-			"id": "08482",
-			"name": "Xã Dị Nậu"
+			"id": 4097,
+			"name": "XÃ ÁI QUỐC"
 		},
 		{
-			"id": "08440",
-			"name": "Xã Hiền Quan"
+			"id": 4098,
+			"name": "XÃ BẰNG KHÁNH"
 		},
 		{
-			"id": "08434",
-			"name": "Thị trấn Hưng Hoá"
+			"id": 4099,
+			"name": "XÃ ĐỒNG ĐỤC"
 		},
 		{
-			"id": "08473",
-			"name": "Xã Hương Nộn"
+			"id": 4100,
+			"name": "XÃ ĐÔNG QUAN"
 		},
 		{
-			"id": "08461",
-			"name": "Xã Lam Sơn"
+			"id": 4101,
+			"name": "XÃ HIỆP BẠ"
 		},
 		{
-			"id": "08470",
-			"name": "Xã Quang Húc"
+			"id": 4102,
+			"name": "XÃ HỮU KHÁNH"
 		},
 		{
-			"id": "08476",
-			"name": "Xã Tề Lễ"
+			"id": 4103,
+			"name": "XÃ HỮU LÂN"
 		},
 		{
-			"id": "08446",
-			"name": "Xã Thanh Uyên"
+			"id": 4104,
+			"name": "XÃ KHUẤT XÁ"
 		},
 		{
-			"id": "08479",
-			"name": "Xã Thọ Văn"
+			"id": 4105,
+			"name": "XÃ LỢI BÁC"
 		},
 		{
-			"id": "08467",
-			"name": "Xã Vạn Xuân"
+			"id": 4106,
+			"name": "XÃ LỤC THÔN"
+		},
+		{
+			"id": 4107,
+			"name": "XÃ MẪU SƠN"
+		},
+		{
+			"id": 4108,
+			"name": "XÃ MINH PHÁT"
+		},
+		{
+			"id": 4109,
+			"name": "XÃ NAM QUAN"
+		},
+		{
+			"id": 4110,
+			"name": "XÃ NHƯ KHÊ"
+		},
+		{
+			"id": 4111,
+			"name": "XÃ NHƯỢNG BẠN"
+		},
+		{
+			"id": 4112,
+			"name": "XÃ QUAN BẢN"
+		},
+		{
+			"id": 4113,
+			"name": "XÃ SÀN VIÊN"
+		},
+		{
+			"id": 4114,
+			"name": "XÃ TAM GIA"
+		},
+		{
+			"id": 4115,
+			"name": "XÃ TĨNH BẮC"
+		},
+		{
+			"id": 4116,
+			"name": "XÃ TÚ ĐOẠN"
+		},
+		{
+			"id": 4117,
+			"name": "XÃ TÚ MỊCH"
+		},
+		{
+			"id": 4118,
+			"name": "XÃ VÂN MỘNG"
+		},
+		{
+			"id": 4119,
+			"name": "XÃ XUÂN DƯƠNG"
+		},
+		{
+			"id": 4120,
+			"name": "XÃ XUÂN LỄ"
+		},
+		{
+			"id": 4121,
+			"name": "XÃ XUÂN MÃN"
+		},
+		{
+			"id": 4122,
+			"name": "XÃ XUÂN TÌNH"
+		},
+		{
+			"id": 4123,
+			"name": "XÃ YÊN KHOÁI"
+		},
+		{
+			"id": 4124,
+			"name": "THỊ TRẤN LỘC BÌNH"
+		},
+		{
+			"id": 4125,
+			"name": "THỊ TRẤN NA DƯƠNG"
+		},
+		{
+			"id": 26296,
+			"name": "XÃ MINH HIỆP"
 		}
 	]
 }

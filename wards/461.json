@@ -1,42 +1,42 @@
 {
-	"id": "461",
-	"name": "Thành phố Đông Hà",
+	"id": 461,
+	"name": "HUYỆN VĨNH THẠNH",
 	"data": [
 		{
-			"id": "19333",
-			"name": "Phường 1"
+			"id": 8489,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "19342",
-			"name": "Phường 2"
+			"id": 8490,
+			"name": "XÃ VĨNH HIỆP"
 		},
 		{
-			"id": "19354",
-			"name": "Phường 3"
+			"id": 8491,
+			"name": "XÃ VĨNH HẢO"
 		},
 		{
-			"id": "19345",
-			"name": "Phường 4"
+			"id": 8492,
+			"name": "XÃ VĨNH THỊNH"
 		},
 		{
-			"id": "19348",
-			"name": "Phường 5"
+			"id": 8493,
+			"name": "XÃ VĨNH QUANG"
 		},
 		{
-			"id": "19330",
-			"name": "Phường Đông Giang"
+			"id": 8494,
+			"name": "XÃ VĨNH THUẬN"
 		},
 		{
-			"id": "19336",
-			"name": "Phường Đông Lễ"
+			"id": 8495,
+			"name": "THỊ TRẤN VĨNH THẠNH"
 		},
 		{
-			"id": "19351",
-			"name": "Phường Đông Lương"
+			"id": 8496,
+			"name": "XÃ VĨNH SƠN"
 		},
 		{
-			"id": "19339",
-			"name": "Phường Đông Thanh"
+			"id": 8497,
+			"name": "XÃ VĨNH KIM"
 		}
 	]
 }

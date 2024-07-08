@@ -1,58 +1,42 @@
 {
-	"id": "25",
-	"name": "Tỉnh Phú Thọ",
+	"id": 25,
+	"name": "Thái Nguyên",
 	"data": [
 		{
-			"id": "235",
-			"name": "Huyện Cẩm Khê"
+			"id": 258,
+			"name": "THỊ XÃ PHỔ YÊN"
 		},
 		{
-			"id": "230",
-			"name": "Huyện Đoan Hùng"
+			"id": 259,
+			"name": "HUYỆN PHÚ LƯƠNG "
 		},
 		{
-			"id": "231",
-			"name": "Huyện Hạ Hoà"
+			"id": 260,
+			"name": "HUYỆN VÕ NHAI"
 		},
 		{
-			"id": "237",
-			"name": "Huyện Lâm Thao"
+			"id": 261,
+			"name": "THÀNH PHỐ THÁI NGUYÊN"
 		},
 		{
-			"id": "233",
-			"name": "Huyện Phù Ninh"
+			"id": 262,
+			"name": "HUYỆN PHÚ BÌNH"
 		},
 		{
-			"id": "228",
-			"name": "Thị xã Phú Thọ"
+			"id": 263,
+			"name": "HUYỆN ĐỒNG HỶ"
 		},
 		{
-			"id": "236",
-			"name": "Huyện Tam Nông"
+			"id": 264,
+			"name": " HUYỆN ĐẠI TỪ"
 		},
 		{
-			"id": "240",
-			"name": "Huyện Tân Sơn"
+			"id": 265,
+			"name": "HUYỆN ĐỊNH HÓA"
 		},
 		{
-			"id": "232",
-			"name": "Huyện Thanh Ba"
-		},
-		{
-			"id": "238",
-			"name": "Huyện Thanh Sơn"
-		},
-		{
-			"id": "239",
-			"name": "Huyện Thanh Thuỷ"
-		},
-		{
-			"id": "227",
-			"name": "Thành phố Việt Trì"
-		},
-		{
-			"id": "234",
-			"name": "Huyện Yên Lập"
+			"id": 266,
+			"name": "THÀNH PHỐ SÔNG CÔNG"
 		}
 	]
 }

@@ -1,18 +1,10 @@
 {
-	"id": "602",
-	"name": "Huyện Phú Quí",
+	"id": 602,
+	"name": "HUYỆN CÔN ĐẢO",
 	"data": [
 		{
-			"id": "23275",
-			"name": "Xã Long Hải"
-		},
-		{
-			"id": "23272",
-			"name": "Xã Ngũ Phụng"
-		},
-		{
-			"id": "23278",
-			"name": "Xã Tam Thanh"
+			"id": 10287,
+			"name": "XÃ CÔN ĐẢO"
 		}
 	]
 }

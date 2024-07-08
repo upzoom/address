@@ -1,90 +1,54 @@
 {
-	"id": "315",
-	"name": "Huyện Tiên Lãng",
+	"id": 315,
+	"name": "THÀNH PHỐ SƠN LA",
 	"data": [
 		{
-			"id": "11803",
-			"name": "Xã Bắc Hưng"
+			"id": 5674,
+			"name": "PHƯỜNG CHIỀNG AN"
 		},
 		{
-			"id": "11788",
-			"name": "Xã Bạch Đằng"
+			"id": 5675,
+			"name": "PHƯỜNG CHIỀNG LỀ"
 		},
 		{
-			"id": "11779",
-			"name": "Xã Cấp Tiến"
+			"id": 5676,
+			"name": "PHƯỜNG TÔ HIỆU"
 		},
 		{
-			"id": "11758",
-			"name": "Xã Đại Thắng"
+			"id": 5677,
+			"name": "PHƯỜNG QUYẾT THẮNG"
 		},
 		{
-			"id": "11785",
-			"name": "Xã Đoàn Lập"
+			"id": 5678,
+			"name": "PHƯỜNG QUYẾT TÂM"
 		},
 		{
-			"id": "11815",
-			"name": "Xã Đông Hưng"
+			"id": 5679,
+			"name": "PHƯỜNG CHIỀNG SINH"
 		},
 		{
-			"id": "11809",
-			"name": "Xã Hùng Thắng"
+			"id": 5680,
+			"name": "XÃ CHIỀNG CỌ"
 		},
 		{
-			"id": "11773",
-			"name": "Xã Khởi Nghĩa"
+			"id": 5681,
+			"name": "XÃ CHIỀNG ĐEN"
 		},
 		{
-			"id": "11782",
-			"name": "Xã Kiến Thiết"
+			"id": 5682,
+			"name": "XÃ CHIỀNG XÔM"
 		},
 		{
-			"id": "11806",
-			"name": "Xã Nam Hưng"
+			"id": 5683,
+			"name": "PHƯỜNG CHIỀNG CƠI"
 		},
 		{
-			"id": "11791",
-			"name": "Xã Quang Phục"
+			"id": 5684,
+			"name": "XÃ HUA LA"
 		},
 		{
-			"id": "11770",
-			"name": "Xã Quyết Tiến"
-		},
-		{
-			"id": "11812",
-			"name": "Xã Tây Hưng"
-		},
-		{
-			"id": "11761",
-			"name": "Xã Tiên Cường"
-		},
-		{
-			"id": "11755",
-			"name": "Thị trấn Tiên Lãng"
-		},
-		{
-			"id": "11800",
-			"name": "Xã Tiên Minh"
-		},
-		{
-			"id": "11797",
-			"name": "Xã Tiên Thắng"
-		},
-		{
-			"id": "11776",
-			"name": "Xã Tiên Thanh"
-		},
-		{
-			"id": "11794",
-			"name": "Xã Toàn Thắng"
-		},
-		{
-			"id": "11764",
-			"name": "Xã Tự Cường"
-		},
-		{
-			"id": "11821",
-			"name": "Xã Vinh Quang"
+			"id": 5685,
+			"name": "XÃ CHIỀNG NGẦN"
 		}
 	]
 }

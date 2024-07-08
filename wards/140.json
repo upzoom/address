@@ -1,102 +1,98 @@
 {
-	"id": "140",
-	"name": "Huyện Văn Chấn",
+	"id": 140,
+	"name": "HUYỆN THANH MIỆN",
 	"data": [
 		{
-			"id": "04645",
-			"name": "Xã An Lương"
+			"id": 2073,
+			"name": "XÃ CAO THẮNG"
 		},
 		{
-			"id": "04702",
-			"name": "Xã Bình Thuận"
+			"id": 2074,
+			"name": "XÃ CHI LĂNG BẮC"
 		},
 		{
-			"id": "04693",
-			"name": "Xã Cát Thịnh"
+			"id": 2075,
+			"name": "XÃ CHI LĂNG NAM"
 		},
 		{
-			"id": "04699",
-			"name": "Xã Chấn Thịnh"
+			"id": 2076,
+			"name": "XÃ DIÊN HỒNG"
 		},
 		{
-			"id": "04687",
-			"name": "Xã Đại Lịch"
+			"id": 2077,
+			"name": "XÃ ĐOÀN KẾT"
 		},
 		{
-			"id": "04690",
-			"name": "Xã Đồng Khê"
+			"id": 2078,
+			"name": "XÃ ĐOÀN TÙNG"
 		},
 		{
-			"id": "04636",
-			"name": "Xã Gia Hội"
+			"id": 2079,
+			"name": "XÃ DUYÊN HỒNG"
 		},
 		{
-			"id": "04708",
-			"name": "Xã Minh An"
+			"id": 2080,
+			"name": "XÃ HỒNG QUANG"
 		},
 		{
-			"id": "04621",
-			"name": "Thị trấn NT Liên Sơn"
+			"id": 2081,
+			"name": "XÃ HÙNG SƠN"
 		},
 		{
-			"id": "04627",
-			"name": "Thị trấn NT Trần Phú"
+			"id": 2082,
+			"name": "XÃ LAM SƠN"
 		},
 		{
-			"id": "04633",
-			"name": "Xã Nậm Búng"
+			"id": 2083,
+			"name": "XÃ LÊ BÌNH"
 		},
 		{
-			"id": "04648",
-			"name": "Xã Nậm Lành"
+			"id": 2084,
+			"name": "XÃ LÊ HỒNG"
 		},
 		{
-			"id": "04642",
-			"name": "Xã Nậm Mười"
+			"id": 2085,
+			"name": "XÃ NGÔ QUYỀN"
 		},
 		{
-			"id": "04666",
-			"name": "Xã Nghĩa Sơn"
+			"id": 2086,
+			"name": "XÃ NGŨ HÙNG"
 		},
 		{
-			"id": "04711",
-			"name": "Xã Nghĩa Tâm"
+			"id": 2087,
+			"name": "XÃ PHẠM KHA"
 		},
 		{
-			"id": "04651",
-			"name": "Xã Sơn Lương"
+			"id": 2088,
+			"name": "XÃ TÂN TRÀO"
 		},
 		{
-			"id": "04672",
-			"name": "Thị trấn Sơn Thịnh"
+			"id": 2089,
+			"name": "XÃ THANH GIANG"
 		},
 		{
-			"id": "04639",
-			"name": "Xã Sùng Đô"
+			"id": 2090,
+			"name": "XÃ TỨ CƯỜNG"
 		},
 		{
-			"id": "04669",
-			"name": "Xã Suối Bu"
+			"id": 2091,
+			"name": "XÃ THANH TÙNG"
 		},
 		{
-			"id": "04657",
-			"name": "Xã Suối Giàng"
+			"id": 2092,
+			"name": "XÃ TIỀN PHONG"
 		},
 		{
-			"id": "04654",
-			"name": "Xã Suối Quyền"
+			"id": 2093,
+			"name": "THỊ TRẤN THANH MIỆN"
 		},
 		{
-			"id": "04696",
-			"name": "Xã Tân Thịnh"
+			"id": 2094,
+			"name": "THỊ TRẤN TỨ BÓNG"
 		},
 		{
-			"id": "04705",
-			"name": "Xã Thượng Bằng La"
-		},
-		{
-			"id": "04630",
-			"name": "Xã Tú Lệ"
+			"id": 26264,
+			"name": "XÃ HỒNG PHONG"
 		}
 	]
 }

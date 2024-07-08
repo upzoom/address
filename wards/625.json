@@ -1,62 +1,78 @@
 {
-	"id": "625",
-	"name": "Huyện KBang",
+	"id": 625,
+	"name": "HUYỆN CAO LÃNH",
 	"data": [
 		{
-			"id": "23674",
-			"name": "Xã Đăk HLơ"
+			"id": 10573,
+			"name": "XÃ PHƯƠNG THỊNH"
 		},
 		{
-			"id": "23644",
-			"name": "Xã Đăk Roong"
+			"id": 10574,
+			"name": "XÃ BA SAO"
 		},
 		{
-			"id": "23660",
-			"name": "Xã Đak SMar"
+			"id": 10575,
+			"name": "XÃ PHONG MỸ"
 		},
 		{
-			"id": "23659",
-			"name": "Xã Đông"
+			"id": 10576,
+			"name": "XÃ TÂN NGHĨA"
 		},
 		{
-			"id": "23638",
-			"name": "Thị trấn KBang"
+			"id": 10577,
+			"name": "XÃ PHƯƠNG TRÀ"
 		},
 		{
-			"id": "23650",
-			"name": "Xã KRong"
+			"id": 10578,
+			"name": "XÃ NHỊ MỸ"
 		},
 		{
-			"id": "23641",
-			"name": "Xã Kon Pne"
+			"id": 10579,
+			"name": "XÃ MỸ THỌ"
 		},
 		{
-			"id": "23668",
-			"name": "Xã Kông Lơng Khơng"
+			"id": 10580,
+			"name": "XÃ TÂN HỘI TRUNG"
 		},
 		{
-			"id": "23671",
-			"name": "Xã Kông Pla"
+			"id": 10581,
+			"name": "XÃ AN BÌNH"
 		},
 		{
-			"id": "23656",
-			"name": "Xã Lơ Ku"
+			"id": 10582,
+			"name": "XÃ MỸ HỘI"
 		},
 		{
-			"id": "23662",
-			"name": "Xã Nghĩa An"
+			"id": 10583,
+			"name": "XÃ MỸ HIỆP"
 		},
 		{
-			"id": "23653",
-			"name": "Xã Sơ Pai"
+			"id": 10584,
+			"name": "XÃ MỸ LONG"
 		},
 		{
-			"id": "23647",
-			"name": "Xã Sơn Lang"
+			"id": 10585,
+			"name": "XÃ BÌNH HÀNG TRUNG"
 		},
 		{
-			"id": "23665",
-			"name": "Xã Tơ Tung"
+			"id": 10586,
+			"name": "XÃ MỸ XƯƠNG"
+		},
+		{
+			"id": 10587,
+			"name": "XÃ BÌNH HÀNG TÂY"
+		},
+		{
+			"id": 10588,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 10589,
+			"name": "TT MỸ THỌ"
+		},
+		{
+			"id": 10590,
+			"name": "XÃ GÁO GIỒNG"
 		}
 	]
 }

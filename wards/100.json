@@ -1,90 +1,138 @@
 {
-	"id": "100",
-	"name": "Huyện Điện Biên",
+	"id": 100,
+	"name": "HUYỆN CAI LẬY",
 	"data": [
 		{
-			"id": "03359",
-			"name": "Xã Hẹ Muông"
+			"id": 1471,
+			"name": "THỊ XÃ CÁI LẬY"
 		},
 		{
-			"id": "03323",
-			"name": "Xã Hua Thanh"
+			"id": 1472,
+			"name": "XÃ BÌNH PHÚ"
 		},
 		{
-			"id": "03367",
-			"name": "Xã Mường Lói"
+			"id": 1473,
+			"name": "XÃ NGŨ HIỆP"
 		},
 		{
-			"id": "03364",
-			"name": "Xã Mường Nhà"
+			"id": 1474,
+			"name": "XÃ MỸ PHƯỚC TÂY"
 		},
 		{
-			"id": "03319",
-			"name": "Xã Mường Pồn"
+			"id": 1475,
+			"name": "XÃ NHỊ QUÝ"
 		},
 		{
-			"id": "03365",
-			"name": "Xã Na Tông"
+			"id": 1476,
+			"name": "XÃ TAM BÌNH"
 		},
 		{
-			"id": "03361",
-			"name": "Xã Na Ư"
+			"id": 1477,
+			"name": "XÃ TÂN PHONG"
 		},
 		{
-			"id": "03352",
-			"name": "Xã Noọng Hẹt"
+			"id": 1478,
+			"name": "XÃ THẠNH LỘC"
 		},
 		{
-			"id": "03349",
-			"name": "Xã Noong Luống"
+			"id": 1479,
+			"name": "XÃ CẨM SƠN"
 		},
 		{
-			"id": "03358",
-			"name": "Xã Núa Ngam"
+			"id": 1480,
+			"name": "XÃ HỘI XUÂN"
 		},
 		{
-			"id": "03340",
-			"name": "Xã Pa Thơm"
+			"id": 1481,
+			"name": "XÃ LONG KHÁNH"
 		},
 		{
-			"id": "03368",
-			"name": "Xã Phu Luông"
+			"id": 1482,
+			"name": "XÃ LONG TIÊN"
 		},
 		{
-			"id": "03356",
-			"name": "Xã Pom Lót"
+			"id": 1483,
+			"name": "XÃ MỸ HẠNH ĐÔNG"
 		},
 		{
-			"id": "03355",
-			"name": "Xã Sam Mứn"
+			"id": 1484,
+			"name": "XÃ MỸ HẠNH TRUNG"
 		},
 		{
-			"id": "03343",
-			"name": "Xã Thanh An"
+			"id": 1485,
+			"name": "XÃ MỸ LONG"
 		},
 		{
-			"id": "03337",
-			"name": "Xã Thanh Chăn"
+			"id": 1486,
+			"name": "XÃ PHÚ NHUẬN"
 		},
 		{
-			"id": "03331",
-			"name": "Xã Thanh Hưng"
+			"id": 1487,
+			"name": "XÃ MỸ THÀNH NAM"
 		},
 		{
-			"id": "03328",
-			"name": "Xã Thanh Luông"
+			"id": 1488,
+			"name": "XÃ PHÚ CƯỜNG"
 		},
 		{
-			"id": "03322",
-			"name": "Xã Thanh Nưa"
+			"id": 1489,
+			"name": "XÃ MỸ THÀNH BẮC"
 		},
 		{
-			"id": "03334",
-			"name": "Xã Thanh Xương"
+			"id": 1490,
+			"name": "XÃ TÂN PHÚ"
 		},
 		{
-			"id": "03346",
-			"name": "Xã Thanh Yên"
+			"id": 1491,
+			"name": "XÃ NHỊ MỸ"
+		},
+		{
+			"id": 1492,
+			"name": "XÃ TÂN HỘI"
+		},
+		{
+			"id": 1493,
+			"name": "XÃ PHÚ AN"
+		},
+		{
+			"id": 1494,
+			"name": "XÃ LONG TRUNG"
+		},
+		{
+			"id": 1495,
+			"name": "XÃ TÂN BÌNH"
+		},
+		{
+			"id": 1496,
+			"name": "XÃ THANH HÒA"
+		},
+		{
+			"id": 1497,
+			"name": "XÃ HIỆP ĐỨC"
+		},
+		{
+			"id": 1498,
+			"name": "XÃ PHÚ QUÝ"
+		},
+		{
+			"id": 1499,
+			"name": "PHƯỜNG 2"
+		},
+		{
+			"id": 1500,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 1501,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 1502,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 1503,
+			"name": "PHƯỜNG 5"
 		}
 	]
 }

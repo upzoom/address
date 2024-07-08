@@ -1,46 +1,42 @@
 {
-	"id": "542",
-	"name": "Huyện An Lão",
+	"id": 542,
+	"name": "HUYỆN NINH HẢI",
 	"data": [
 		{
-			"id": "21616",
-			"name": "Xã An Dũng"
+			"id": 9530,
+			"name": "THỊ TRẤN KHÁNH HẢI"
 		},
 		{
-			"id": "21628",
-			"name": "Xã An Hòa"
+			"id": 9531,
+			"name": "XÃ HỘ HẢI"
 		},
 		{
-			"id": "21610",
-			"name": "Xã An Hưng"
+			"id": 9532,
+			"name": "XÃ NHƠN HẢI"
 		},
 		{
-			"id": "21609",
-			"name": "Thị trấn An Lão"
+			"id": 9533,
+			"name": "XÃ PHƯƠNG HẢI"
 		},
 		{
-			"id": "21634",
-			"name": "Xã An Nghĩa"
+			"id": 9534,
+			"name": "XÃ THANH HẢI"
 		},
 		{
-			"id": "21631",
-			"name": "Xã An Quang"
+			"id": 9535,
+			"name": "XÃ TRI HẢI"
 		},
 		{
-			"id": "21625",
-			"name": "Xã An Tân"
+			"id": 9536,
+			"name": "XÃ TÂN HẢI"
 		},
 		{
-			"id": "21622",
-			"name": "Xã An Toàn"
+			"id": 9537,
+			"name": "XÃ VĨNH HẢI"
 		},
 		{
-			"id": "21613",
-			"name": "Xã An Trung"
-		},
-		{
-			"id": "21619",
-			"name": "Xã An Vinh"
+			"id": 9538,
+			"name": "XÃ XUÂN HẢI"
 		}
 	]
 }

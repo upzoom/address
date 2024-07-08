@@ -1,38 +1,42 @@
 {
-	"id": "37",
-	"name": "Tỉnh Ninh Bình",
+	"id": 37,
+	"name": "Thừa Thiên - Huế",
 	"data": [
 		{
-			"id": "373",
-			"name": "Huyện Gia Viễn"
+			"id": 414,
+			"name": "HUYỆN PHÚ VANG"
 		},
 		{
-			"id": "374",
-			"name": "Huyện Hoa Lư"
+			"id": 415,
+			"name": "HUYỆN PHÚ LỘC"
 		},
 		{
-			"id": "376",
-			"name": "Huyện Kim Sơn"
+			"id": 416,
+			"name": "THỊ XÃ HƯƠNG THỦY"
 		},
 		{
-			"id": "372",
-			"name": "Huyện Nho Quan"
+			"id": 417,
+			"name": "HUYỆN A LƯỚI"
 		},
 		{
-			"id": "369",
-			"name": "Thành phố Ninh Bình"
+			"id": 418,
+			"name": "HUYỆN PHONG ĐIỀN"
 		},
 		{
-			"id": "370",
-			"name": "Thành phố Tam Điệp"
+			"id": 419,
+			"name": "HUYỆN QUẢNG ĐIỀN"
 		},
 		{
-			"id": "375",
-			"name": "Huyện Yên Khánh"
+			"id": 420,
+			"name": "HUYỆN NAM ĐÔNG"
 		},
 		{
-			"id": "377",
-			"name": "Huyện Yên Mô"
+			"id": 421,
+			"name": "THỊ XÃ HƯƠNG TRÀ"
+		},
+		{
+			"id": 422,
+			"name": "THÀNH PHỐ HUẾ"
 		}
 	]
 }

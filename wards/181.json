@@ -1,82 +1,186 @@
 {
-	"id": "181",
-	"name": "Huyện Bình Gia",
+	"id": 181,
+	"name": "HUYỆN KIẾN XƯƠNG",
 	"data": [
 		{
-			"id": "06112",
-			"name": "Thị trấn Bình Gia"
+			"id": 3058,
+			"name": "XÃ AN BỒI"
 		},
 		{
-			"id": "06118",
-			"name": "Xã Bình La"
+			"id": 3059,
+			"name": "XÃ BÌNH ĐỊNH"
 		},
 		{
-			"id": "06103",
-			"name": "Xã Hòa Bình"
+			"id": 3060,
+			"name": "XÃ BÌNH MINH"
 		},
 		{
-			"id": "06073",
-			"name": "Xã Hoa Thám"
+			"id": 3061,
+			"name": "XÃ BÌNH NGUYÊN"
 		},
 		{
-			"id": "06100",
-			"name": "Xã Hoàng Văn Thụ"
+			"id": 3062,
+			"name": "XÃ BÌNH THANH"
 		},
 		{
-			"id": "06079",
-			"name": "Xã Hồng Phong"
+			"id": 3063,
+			"name": "XÃ ĐÌNH PHÙNG"
 		},
 		{
-			"id": "06115",
-			"name": "Xã Hồng Thái"
+			"id": 3064,
+			"name": "XÃ HÒA BÌNH"
 		},
 		{
-			"id": "06067",
-			"name": "Xã Hưng Đạo"
+			"id": 3065,
+			"name": "XÃ HỒNG THÁI"
 		},
 		{
-			"id": "06094",
-			"name": "Xã Minh Khai"
+			"id": 3066,
+			"name": "XÃ HỒNG TIẾN"
 		},
 		{
-			"id": "06106",
-			"name": "Xã Mông Ân"
+			"id": 3067,
+			"name": "XÃ LÊ LỢI"
 		},
 		{
-			"id": "06088",
-			"name": "Xã Quang Trung"
+			"id": 3068,
+			"name": "XÃ MINH HƯNG"
 		},
 		{
-			"id": "06076",
-			"name": "Xã Quý Hòa"
+			"id": 3069,
+			"name": "XÃ MINH TÂN"
 		},
 		{
-			"id": "06109",
-			"name": "Xã Tân Hòa"
+			"id": 3070,
+			"name": "XÃ NAM BÌNH"
 		},
 		{
-			"id": "06121",
-			"name": "Xã Tân Văn"
+			"id": 3071,
+			"name": "XÃ NAM CAO"
 		},
 		{
-			"id": "06085",
-			"name": "Xã Thiện Hòa"
+			"id": 3072,
+			"name": "XÃ NỮ TRUNG"
 		},
 		{
-			"id": "06097",
-			"name": "Xã Thiện Long"
+			"id": 3073,
+			"name": "XÃ QUANG BÌNH"
 		},
 		{
-			"id": "06091",
-			"name": "Xã Thiện Thuật"
+			"id": 3074,
+			"name": "XÃ QUANG HƯNG"
 		},
 		{
-			"id": "06070",
-			"name": "Xã Vĩnh Yên"
+			"id": 3075,
+			"name": "XÃ QUANG LỊCH"
 		},
 		{
-			"id": "06082",
-			"name": "Xã Yên Lỗ"
+			"id": 3076,
+			"name": "XÃ QUANG MINH"
+		},
+		{
+			"id": 3077,
+			"name": "XÃ QUANG TRUNG"
+		},
+		{
+			"id": 3078,
+			"name": "XÃ QUỐC TUẤN"
+		},
+		{
+			"id": 3079,
+			"name": "XÃ QUYẾT TIẾN"
+		},
+		{
+			"id": 3080,
+			"name": "XÃ TÁN THUẬT"
+		},
+		{
+			"id": 3081,
+			"name": "XÃ THANH TÂN"
+		},
+		{
+			"id": 3082,
+			"name": "THỊ TRẤN KIẾN XƯƠNG"
+		},
+		{
+			"id": 3083,
+			"name": "XÃ THƯỢNG HIỀN"
+		},
+		{
+			"id": 3084,
+			"name": "XÃ TRÀ GIANG"
+		},
+		{
+			"id": 3085,
+			"name": "THỊ TRẤN THANH NÊ"
+		},
+		{
+			"id": 3086,
+			"name": "XÃ VŨ AN"
+		},
+		{
+			"id": 3087,
+			"name": "XÃ VŨ BÌNH"
+		},
+		{
+			"id": 3088,
+			"name": "XÃ VŨ CÔNG"
+		},
+		{
+			"id": 3089,
+			"name": "XÃ VŨ ĐÔNG"
+		},
+		{
+			"id": 3090,
+			"name": "XÃ VŨ HÒA"
+		},
+		{
+			"id": 3091,
+			"name": "XÃ VŨ LẠC"
+		},
+		{
+			"id": 3092,
+			"name": "XÃ VŨ LỄ"
+		},
+		{
+			"id": 3093,
+			"name": "XÃ VŨ NINH"
+		},
+		{
+			"id": 3094,
+			"name": "XÃ VŨ QUÝ"
+		},
+		{
+			"id": 3095,
+			"name": "XÃ VŨ SƠN"
+		},
+		{
+			"id": 3096,
+			"name": "XÃ VŨ TÂY"
+		},
+		{
+			"id": 3097,
+			"name": "XÃ VŨ THẮNG"
+		},
+		{
+			"id": 3098,
+			"name": "XÃ VŨ THÚY"
+		},
+		{
+			"id": 3099,
+			"name": "XÃ VŨ TRUNG"
+		},
+		{
+			"id": 3100,
+			"name": "XÃ AN BÌNH"
+		},
+		{
+			"id": 26243,
+			"name": "XÃ MINH QUANG"
+		},
+		{
+			"id": 26244,
+			"name": "XÃ TÂY SƠN"
 		}
 	]
 }

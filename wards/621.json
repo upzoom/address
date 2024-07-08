@@ -1,0 +1,66 @@
+{
+	"id": 621,
+	"name": "THÀNH PHỐ CAO LÃNH",
+	"data": [
+		{
+			"id": 10518,
+			"name": "PHƯỜNG 11"
+		},
+		{
+			"id": 10519,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 10520,
+			"name": "PHƯỜNG 2"
+		},
+		{
+			"id": 10521,
+			"name": "XÃ TỊNH THỚI"
+		},
+		{
+			"id": 10522,
+			"name": "PHƯỜNG 3"
+		},
+		{
+			"id": 10523,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 10524,
+			"name": "PHƯỜNG 6"
+		},
+		{
+			"id": 10525,
+			"name": "PHƯỜNG MỸ PHÚ"
+		},
+		{
+			"id": 10526,
+			"name": "PHƯỜNG HÒA THUẬN"
+		},
+		{
+			"id": 10527,
+			"name": "XÃ MỸ NGÃI"
+		},
+		{
+			"id": 10528,
+			"name": "XÃ MỸ TÂN"
+		},
+		{
+			"id": 10529,
+			"name": "XÃ MỸ TRÀ"
+		},
+		{
+			"id": 10530,
+			"name": "XÃ TÂN THUẬN TÂY"
+		},
+		{
+			"id": 10531,
+			"name": "XÃ TÂN THUẬN ĐÔNG"
+		},
+		{
+			"id": 10532,
+			"name": "XÃ HÒA AN"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 701,
+	"name": "HUYỆN NĂM CĂN",
+	"data": [
+		{
+			"id": 11551,
+			"name": "XÃ LÂM HẢI"
+		},
+		{
+			"id": 11552,
+			"name": "XÃ ĐẤT MỚI"
+		},
+		{
+			"id": 11553,
+			"name": "XÃ HÀM RỒNG"
+		},
+		{
+			"id": 11554,
+			"name": "XÃ HÀNG VỊNH"
+		},
+		{
+			"id": 11555,
+			"name": "XÃ HIỆP TÙNG"
+		},
+		{
+			"id": 11556,
+			"name": "XÃ TAM GIANG"
+		},
+		{
+			"id": 11557,
+			"name": "XÃ TAM GIANG ĐÔNG"
+		},
+		{
+			"id": 11558,
+			"name": "TT NĂM CĂN"
+		}
+	]
+}

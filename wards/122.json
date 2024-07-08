@@ -1,114 +1,46 @@
 {
-	"id": "122",
-	"name": "Huyện Phù Yên",
+	"id": 122,
+	"name": "THÀNH PHỐ PHÚC YÊN",
 	"data": [
 		{
-			"id": "03976",
-			"name": "Xã Bắc Phong"
+			"id": 1735,
+			"name": "PHƯỜNG HÙNG VƯƠNG"
 		},
 		{
-			"id": "03967",
-			"name": "Xã Đá Đỏ"
+			"id": 1736,
+			"name": "PHƯỜNG TRƯNG TRẮC"
 		},
 		{
-			"id": "03922",
-			"name": "Xã Gia Phù"
+			"id": 1737,
+			"name": "PHƯỜNG TRƯNG NHỊ"
 		},
 		{
-			"id": "03913",
-			"name": "Xã Huy Bắc"
+			"id": 1738,
+			"name": "PHƯỜNG PHÚC THẮNG"
 		},
 		{
-			"id": "03928",
-			"name": "Xã Huy Hạ"
+			"id": 1739,
+			"name": "PHƯỜNG XUÂN HOÀ"
 		},
 		{
-			"id": "03931",
-			"name": "Xã Huy Tân"
+			"id": 1740,
+			"name": "PHƯỜNG ĐỒNG XUÂN"
 		},
 		{
-			"id": "03916",
-			"name": "Xã Huy Thượng"
+			"id": 1741,
+			"name": "XÃ CAO MINH"
 		},
 		{
-			"id": "03940",
-			"name": "Xã Huy Tường"
+			"id": 1742,
+			"name": "PHƯỜNG NAM VIÊM"
 		},
 		{
-			"id": "03961",
-			"name": "Xã Kim Bon"
+			"id": 1743,
+			"name": "XÃ TIỀN CHÂU"
 		},
 		{
-			"id": "03964",
-			"name": "Xã Mường Bang"
-		},
-		{
-			"id": "03907",
-			"name": "Xã Mường Cơi"
-		},
-		{
-			"id": "03943",
-			"name": "Xã Mường Do"
-		},
-		{
-			"id": "03934",
-			"name": "Xã Mường Lang"
-		},
-		{
-			"id": "03904",
-			"name": "Xã Mường Thải"
-		},
-		{
-			"id": "03973",
-			"name": "Xã Nam Phong"
-		},
-		{
-			"id": "03898",
-			"name": "Thị trấn Phù Yên"
-		},
-		{
-			"id": "03910",
-			"name": "Xã Quang Huy"
-		},
-		{
-			"id": "03946",
-			"name": "Xã Sập Xa"
-		},
-		{
-			"id": "03937",
-			"name": "Xã Suối Bau"
-		},
-		{
-			"id": "03901",
-			"name": "Xã Suối Tọ"
-		},
-		{
-			"id": "03919",
-			"name": "Xã Tân Lang"
-		},
-		{
-			"id": "03970",
-			"name": "Xã Tân Phong"
-		},
-		{
-			"id": "03958",
-			"name": "Xã Tường Hạ"
-		},
-		{
-			"id": "03955",
-			"name": "Xã Tường Phong"
-		},
-		{
-			"id": "03925",
-			"name": "Xã Tường Phù"
-		},
-		{
-			"id": "03949",
-			"name": "Xã Tường Thượng"
-		},
-		{
-			"id": "03952",
-			"name": "Xã Tường Tiến"
+			"id": 1744,
+			"name": "XÃ NGỌC THANH"
 		}
 	]
 }

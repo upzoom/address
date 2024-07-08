@@ -1,54 +1,70 @@
 {
-	"id": "532",
-	"name": "Huyện Nghĩa Hành",
+	"id": 532,
+	"name": "THÀNH PHỐ ĐÀ LẠT",
 	"data": [
 		{
-			"id": "21364",
-			"name": "Thị trấn Chợ Chùa"
+			"id": 9425,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "21379",
-			"name": "Xã Hành Đức"
+			"id": 9426,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "21370",
-			"name": "Xã Hành Dũng"
+			"id": 9427,
+			"name": "PHƯỜNG 4"
 		},
 		{
-			"id": "21382",
-			"name": "Xã Hành Minh"
+			"id": 9428,
+			"name": "PHƯỜNG 5"
 		},
 		{
-			"id": "21376",
-			"name": "Xã Hành Nhân"
+			"id": 9429,
+			"name": "PHƯỜNG 6"
 		},
 		{
-			"id": "21385",
-			"name": "Xã Hành Phước"
+			"id": 9430,
+			"name": "PHƯỜNG 7"
 		},
 		{
-			"id": "21388",
-			"name": "Xã Hành Thiện"
+			"id": 9431,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "21391",
-			"name": "Xã Hành Thịnh"
+			"id": 9432,
+			"name": "PHƯỜNG 9"
 		},
 		{
-			"id": "21367",
-			"name": "Xã Hành Thuận"
+			"id": 9433,
+			"name": "PHƯỜNG 10"
 		},
 		{
-			"id": "21397",
-			"name": "Xã Hành Tín  Đông"
+			"id": 9434,
+			"name": "PHƯỜNG 11"
 		},
 		{
-			"id": "21394",
-			"name": "Xã Hành Tín Tây"
+			"id": 9435,
+			"name": "PHƯỜNG 12"
 		},
 		{
-			"id": "21373",
-			"name": "Xã Hành Trung"
+			"id": 9436,
+			"name": "PHƯỜNG 1"
+		},
+		{
+			"id": 9437,
+			"name": "XÃ TÀ NUNG"
+		},
+		{
+			"id": 9438,
+			"name": "XÃ XUÂN TRƯỜNG"
+		},
+		{
+			"id": 9439,
+			"name": "XÃ XUÂN THỌ"
+		},
+		{
+			"id": 9440,
+			"name": "XÃ TRẠM HÀNH"
 		}
 	]
 }

@@ -1,106 +1,122 @@
 {
-	"id": "218",
-	"name": "Huyện Lục Nam",
+	"id": 218,
+	"name": "HUYỆN VĂN BÀN",
 	"data": [
 		{
-			"id": "07513",
-			"name": "Xã Bắc Lũng"
+			"id": 3750,
+			"name": "XÃ CỐC LY- BẮC HÀ"
 		},
 		{
-			"id": "07462",
-			"name": "Xã Bảo Đài"
+			"id": 3751,
+			"name": "XÃ TẢ PHỜI"
 		},
 		{
-			"id": "07459",
-			"name": "Xã Bảo Sơn"
+			"id": 3752,
+			"name": "XÃ BẮC NGẦM"
 		},
 		{
-			"id": "07492",
-			"name": "Xã Bình Sơn"
+			"id": 3753,
+			"name": "XÃ BẢN VƯỢC"
 		},
 		{
-			"id": "07519",
-			"name": "Xã Cẩm Lý"
+			"id": 3754,
+			"name": "XÃ BẢN PHIỆT"
 		},
 		{
-			"id": "07480",
-			"name": "Xã Chu Điện"
+			"id": 3755,
+			"name": "XÃ SAN XẢ HỒ"
 		},
 		{
-			"id": "07483",
-			"name": "Xã Cương Sơn"
+			"id": 3756,
+			"name": "XÃ LIÊM PHÚ"
 		},
 		{
-			"id": "07522",
-			"name": "Xã Đan Hội"
+			"id": 3757,
+			"name": "THỊ TRẤN KHÁNH YÊN"
 		},
 		{
-			"id": "07444",
-			"name": "Thị trấn Đồi Ngô"
+			"id": 3758,
+			"name": "XÃ KHÁNH YÊN THƯỢNG"
 		},
 		{
-			"id": "07450",
-			"name": "Xã Đông Hưng"
+			"id": 3759,
+			"name": "XÃ MINH LƯƠNG"
 		},
 		{
-			"id": "07453",
-			"name": "Xã Đông Phú"
+			"id": 3760,
+			"name": "XÃ VÕ LAO"
 		},
 		{
-			"id": "07504",
-			"name": "Xã Huyền Sơn"
+			"id": 3761,
+			"name": "XÃ SƠN THỦY"
 		},
 		{
-			"id": "07501",
-			"name": "Xã Khám Lạng"
+			"id": 3762,
+			"name": "XÃ DƯƠNG QUỲ"
 		},
 		{
-			"id": "07495",
-			"name": "Xã Lan Mẫu"
+			"id": 3763,
+			"name": "XÃ LÀNG GIÀNG"
 		},
 		{
-			"id": "07510",
-			"name": "Xã Lục Sơn"
+			"id": 3764,
+			"name": "XÃ KHÁNH YÊN HẠ"
 		},
 		{
-			"id": "07486",
-			"name": "Xã Nghĩa Phương"
+			"id": 3765,
+			"name": "XÃ KHÁNH YÊN TRUNG"
 		},
 		{
-			"id": "07477",
-			"name": "Thị trấn Phương Sơn"
+			"id": 3766,
+			"name": "XÃ TÂN THƯỢNG"
 		},
 		{
-			"id": "07456",
-			"name": "Xã Tam Dị"
+			"id": 3767,
+			"name": "XÃ TÂN AN"
 		},
 		{
-			"id": "07465",
-			"name": "Xã Thanh Lâm"
+			"id": 3768,
+			"name": "XÃ VĂN SƠN"
 		},
 		{
-			"id": "07468",
-			"name": "Xã Tiên Nha"
+			"id": 3769,
+			"name": "XÃ THẨM DƯƠNG"
 		},
 		{
-			"id": "07471",
-			"name": "Xã Trường Giang"
+			"id": 3770,
+			"name": "XÃ NẬM XÉ"
 		},
 		{
-			"id": "07507",
-			"name": "Xã Trường Sơn"
+			"id": 3771,
+			"name": "XÃ NẬM XÂY"
 		},
 		{
-			"id": "07489",
-			"name": "Xã Vô Tranh"
+			"id": 3772,
+			"name": "XÃ NẬM THA"
 		},
 		{
-			"id": "07516",
-			"name": "Xã Vũ Xá"
+			"id": 3773,
+			"name": "XÃ NẬM RẠNG"
 		},
 		{
-			"id": "07498",
-			"name": "Xã Yên Sơn"
+			"id": 3774,
+			"name": "XÃ NẬM MẢ"
+		},
+		{
+			"id": 3775,
+			"name": "XÃ NẬM CHÁY"
+		},
+		{
+			"id": 3776,
+			"name": "XÃ HOÀ MẠC"
+		},
+		{
+			"id": 3777,
+			"name": "XÃ DẦN THÀNG"
+		},
+		{
+			"id": 3778,
+			"name": "XÃ CHIỀNG KEN"
 		}
 	]
 }

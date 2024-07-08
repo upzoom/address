@@ -1,130 +1,86 @@
 {
-	"id": "271",
-	"name": "Huyện Ba Vì",
+	"id": 271,
+	"name": "HUYỆN THANH THỦY",
 	"data": [
 		{
-			"id": "09697",
-			"name": "Xã Ba Trại"
+			"id": 4874,
+			"name": "THỊ TRẤN THANH THỦY"
 		},
 		{
-			"id": "09703",
-			"name": "Xã Ba Vì"
+			"id": 4875,
+			"name": "XÃ HOÀNG XÁ"
 		},
 		{
-			"id": "09673",
-			"name": "Xã Cẩm Lĩnh"
+			"id": 4876,
+			"name": "XÃ  LA PHÙ"
 		},
 		{
-			"id": "09688",
-			"name": "Xã Cam Thượng"
+			"id": 4877,
+			"name": "XÃ TÂN PHƯƠNG"
 		},
 		{
-			"id": "09637",
-			"name": "Xã Châu Sơn"
+			"id": 4878,
+			"name": "XÃ ĐOAN HẠ"
 		},
 		{
-			"id": "09667",
-			"name": "Xã Chu Minh"
+			"id": 4879,
+			"name": "XÃ THẠCH ĐỒNG"
 		},
 		{
-			"id": "09628",
-			"name": "Xã Cổ Đô"
+			"id": 4880,
+			"name": "XÃ BẢO YÊN"
 		},
 		{
-			"id": "09679",
-			"name": "Xã Đông Quang"
+			"id": 4881,
+			"name": "XÃ SƠN THỦY"
 		},
 		{
-			"id": "09655",
-			"name": "Xã Đồng Thái"
+			"id": 4882,
+			"name": "XÃ XUÂN LỘC"
 		},
 		{
-			"id": "09712",
-			"name": "Xã Khánh Thượng"
+			"id": 4883,
+			"name": "XÃ ĐÀO XÁ"
 		},
 		{
-			"id": "09661",
-			"name": "Xã Minh Châu"
+			"id": 4884,
+			"name": "XÃ YẾN MAO"
 		},
 		{
-			"id": "09700",
-			"name": "Xã Minh Quang"
+			"id": 4885,
+			"name": "XÃ PHƯỢNG MAO"
 		},
 		{
-			"id": "09640",
-			"name": "Xã Phong Vân"
+			"id": 4886,
+			"name": "XÃ LƯƠNG NHA"
 		},
 		{
-			"id": "09649",
-			"name": "Xã Phú Châu"
+			"id": 4887,
+			"name": "XÃ TỈNH NHUỆ"
 		},
 		{
-			"id": "09625",
-			"name": "Xã Phú Cường"
+			"id": 4888,
+			"name": "XÃ TRUNG NGHĨA"
 		},
 		{
-			"id": "09643",
-			"name": "Xã Phú Đông"
+			"id": 4889,
+			"name": "XÃ TU VŨ"
 		},
 		{
-			"id": "09646",
-			"name": "Xã Phú Phương"
+			"id": 4890,
+			"name": "XÃ ĐỒNG LUẬN"
 		},
 		{
-			"id": "09658",
-			"name": "Xã Phú Sơn"
+			"id": 4891,
+			"name": "XÃ TINH NHUỆ"
 		},
 		{
-			"id": "09676",
-			"name": "Xã Sơn Đà"
+			"id": 4892,
+			"name": "XÃ TRUNG THỊNH"
 		},
 		{
-			"id": "09631",
-			"name": "Xã Tản Hồng"
-		},
-		{
-			"id": "09694",
-			"name": "Xã Tản Lĩnh"
-		},
-		{
-			"id": "09619",
-			"name": "Thị trấn Tây Đằng"
-		},
-		{
-			"id": "09652",
-			"name": "Xã Thái Hòa"
-		},
-		{
-			"id": "09691",
-			"name": "Xã Thuần Mỹ"
-		},
-		{
-			"id": "09685",
-			"name": "Xã Thụy An"
-		},
-		{
-			"id": "09682",
-			"name": "Xã Tiên Phong"
-		},
-		{
-			"id": "09670",
-			"name": "Xã Tòng Bạt"
-		},
-		{
-			"id": "09706",
-			"name": "Xã Vân Hòa"
-		},
-		{
-			"id": "09634",
-			"name": "Xã Vạn Thắng"
-		},
-		{
-			"id": "09664",
-			"name": "Xã Vật Lại"
-		},
-		{
-			"id": "09709",
-			"name": "Xã Yên Bài"
+			"id": 26275,
+			"name": "XÃ ĐỒNG TRUNG"
 		}
 	]
 }

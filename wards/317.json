@@ -1,54 +1,114 @@
 {
-	"id": "317",
-	"name": "Huyện Cát Hải",
+	"id": 317,
+	"name": "HUYỆN PHÙ YÊN",
 	"data": [
 		{
-			"id": "11914",
-			"name": "Thị trấn Cát Bà"
+			"id": 5711,
+			"name": "THỊ TRẤN PHÙ YÊN"
 		},
 		{
-			"id": "11917",
-			"name": "Thị trấn Cát Hải"
+			"id": 5712,
+			"name": "XÃ TÂN LANG"
 		},
 		{
-			"id": "11923",
-			"name": "Xã Đồng Bài"
+			"id": 5713,
+			"name": "XÃ GIA PHÙ"
 		},
 		{
-			"id": "11935",
-			"name": "Xã Gia Luận"
+			"id": 5714,
+			"name": "XÃ TƯỜNG PHÙ"
 		},
 		{
-			"id": "11938",
-			"name": "Xã Hiền Hào"
+			"id": 5715,
+			"name": "XÃ HUY HẠ"
 		},
 		{
-			"id": "11926",
-			"name": "Xã Hoàng Châu"
+			"id": 5716,
+			"name": "XÃ HUY TÂN"
 		},
 		{
-			"id": "11920",
-			"name": "Xã Nghĩa Lộ"
+			"id": 5717,
+			"name": "XÃ MƯỜNG LANG"
 		},
 		{
-			"id": "11932",
-			"name": "Xã Phù Long"
+			"id": 5718,
+			"name": "XÃ SUỐI BAU"
 		},
 		{
-			"id": "11941",
-			"name": "Xã Trân Châu"
+			"id": 5719,
+			"name": "XÃ HUY TƯỜNG"
 		},
 		{
-			"id": "11929",
-			"name": "Xã Văn Phong"
+			"id": 5720,
+			"name": "XÃ MƯỜNG DO"
 		},
 		{
-			"id": "11944",
-			"name": "Xã Việt Hải"
+			"id": 5721,
+			"name": "XÃ SẬP XA"
 		},
 		{
-			"id": "11947",
-			"name": "Xã Xuân Đám"
+			"id": 5722,
+			"name": "XÃ TƯỜNG THƯỢNG"
+		},
+		{
+			"id": 5723,
+			"name": "XÃ TƯỜNG TIẾN"
+		},
+		{
+			"id": 5724,
+			"name": "XÃ TƯỜNG PHONG"
+		},
+		{
+			"id": 5725,
+			"name": "XÃ TƯỜNG HẠ"
+		},
+		{
+			"id": 5726,
+			"name": "XÃ KIM BON"
+		},
+		{
+			"id": 5727,
+			"name": "XÃ MƯỜNG BANG"
+		},
+		{
+			"id": 5728,
+			"name": "XÃ ĐÁ ĐỎ"
+		},
+		{
+			"id": 5729,
+			"name": "XÃ TÂN PHONG"
+		},
+		{
+			"id": 5730,
+			"name": "XÃ NAM PHONG"
+		},
+		{
+			"id": 5731,
+			"name": "XÃ BẮC PHONG"
+		},
+		{
+			"id": 5732,
+			"name": "XÃ MƯỜNG THẢI"
+		},
+		{
+			"id": 5733,
+			"name": "XÃ MƯỜNG CƠI"
+		},
+		{
+			"id": 5734,
+			"name": "XÃ QUANG HUY"
+		},
+		{
+			"id": 5735,
+			"name": "XÃ HUY BẮC"
+		},
+		{
+			"id": 5736,
+			"name": "XÃ HUY THƯỢNG"
+		},
+		{
+			"id": 5737,
+			"name": "XÃ SUỐI TỌ"
 		}
 	]
 }

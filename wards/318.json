@@ -1,5 +1,130 @@
 {
-	"id": "318",
-	"name": "Huyện Bạch Long Vĩ",
-	"data": []
+	"id": 318,
+	"name": "HUYỆN THUẬN CHÂU",
+	"data": [
+		{
+			"id": 5738,
+			"name": "THỊ TRẤN THUẬN CHÂU"
+		},
+		{
+			"id": 5739,
+			"name": "XÃ TÔNG LỆNH"
+		},
+		{
+			"id": 5740,
+			"name": "XÃ CHIỀNG LA"
+		},
+		{
+			"id": 5741,
+			"name": "XÃ PHỎNG LẬP"
+		},
+		{
+			"id": 5742,
+			"name": "XÃ CHIỀNG SƠ"
+		},
+		{
+			"id": 5743,
+			"name": "XÃ CHIỀNG LY"
+		},
+		{
+			"id": 5744,
+			"name": "XÃ CHIỀNG NGÀM"
+		},
+		{
+			"id": 5745,
+			"name": "XÃ LIỆP TÈ"
+		},
+		{
+			"id": 5746,
+			"name": "XÃ E TÒNG"
+		},
+		{
+			"id": 5747,
+			"name": "XÃ PHOGNR LẬP"
+		},
+		{
+			"id": 5748,
+			"name": "XÃ NOONG LAY"
+		},
+		{
+			"id": 5749,
+			"name": "XÃ MƯỜNG KHIÊNG"
+		},
+		{
+			"id": 5750,
+			"name": "XÃ MƯỜNG BÁM"
+		},
+		{
+			"id": 5751,
+			"name": "XÃ LONG HẸ"
+		},
+		{
+			"id": 5752,
+			"name": "XÃ CHIỀNG BÔM"
+		},
+		{
+			"id": 5753,
+			"name": "XÃ THÔM MÒN"
+		},
+		{
+			"id": 5754,
+			"name": "XÃ TÒNG CỌ"
+		},
+		{
+			"id": 5755,
+			"name": "XÃ BÓ MƯỜI"
+		},
+		{
+			"id": 5756,
+			"name": "XÃ CO MẠ"
+		},
+		{
+			"id": 5757,
+			"name": "XÃ PÚNG CHA"
+		},
+		{
+			"id": 5758,
+			"name": "XÃ CHIỀNG PẤC"
+		},
+		{
+			"id": 5759,
+			"name": "XÃ NẬM LẦU"
+		},
+		{
+			"id": 5760,
+			"name": "XÃ BON PHẶNG"
+		},
+		{
+			"id": 5761,
+			"name": "XÃ CO TÒNG"
+		},
+		{
+			"id": 5762,
+			"name": "XÃ MUỔI NỌI"
+		},
+		{
+			"id": 5763,
+			"name": "XẪ PÁ LÔNG"
+		},
+		{
+			"id": 5764,
+			"name": "XÃ BẢN LẦM"
+		},
+		{
+			"id": 5765,
+			"name": "XÃ MƯỜNG É"
+		},
+		{
+			"id": 5766,
+			"name": "XÃ PHỎNG LÁI"
+		},
+		{
+			"id": 5767,
+			"name": "XÃ CHIỀNG PHA"
+		},
+		{
+			"id": 5768,
+			"name": "XÃ PHỔNG LĂNG"
+		}
+	]
 }

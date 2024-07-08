@@ -1,82 +1,34 @@
 {
-	"id": "545",
-	"name": "Huyện Phù Mỹ",
+	"id": 545,
+	"name": "HUYỆN BÙ ĐỐP",
 	"data": [
 		{
-			"id": "21733",
-			"name": "Thị trấn Bình Dương"
+			"id": 9562,
+			"name": "THỊ TRẤN THANH BÌNH"
 		},
 		{
-			"id": "21751",
-			"name": "Xã Mỹ An"
+			"id": 9563,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "21781",
-			"name": "Xã Mỹ Cát"
+			"id": 9564,
+			"name": "XÃ HƯNG PHƯỚC"
 		},
 		{
-			"id": "21769",
-			"name": "Xã Mỹ Chánh"
+			"id": 9565,
+			"name": "XÃ TÂN TIẾN"
 		},
 		{
-			"id": "21784",
-			"name": "Xã Mỹ Chánh Tây"
+			"id": 9566,
+			"name": "XÃ THIỆN HƯNG"
 		},
 		{
-			"id": "21739",
-			"name": "Xã Mỹ Châu"
+			"id": 9567,
+			"name": "XÃ PHƯỚC THIỆN"
 		},
 		{
-			"id": "21736",
-			"name": "Xã Mỹ Đức"
-		},
-		{
-			"id": "21775",
-			"name": "Xã Mỹ Hiệp"
-		},
-		{
-			"id": "21763",
-			"name": "Xã Mỹ Hòa"
-		},
-		{
-			"id": "21745",
-			"name": "Xã Mỹ Lộc"
-		},
-		{
-			"id": "21748",
-			"name": "Xã Mỹ Lợi"
-		},
-		{
-			"id": "21754",
-			"name": "Xã Mỹ Phong"
-		},
-		{
-			"id": "21772",
-			"name": "Xã Mỹ Quang"
-		},
-		{
-			"id": "21778",
-			"name": "Xã Mỹ Tài"
-		},
-		{
-			"id": "21742",
-			"name": "Xã Mỹ Thắng"
-		},
-		{
-			"id": "21766",
-			"name": "Xã Mỹ Thành"
-		},
-		{
-			"id": "21760",
-			"name": "Xã Mỹ Thọ"
-		},
-		{
-			"id": "21757",
-			"name": "Xã Mỹ Trinh"
-		},
-		{
-			"id": "21730",
-			"name": "Thị trấn Phù Mỹ"
+			"id": 9568,
+			"name": "XÃ THANH HÒA"
 		}
 	]
 }

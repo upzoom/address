@@ -1,0 +1,66 @@
+{
+	"id": 20,
+	"name": "QUẬN LONG BIÊN",
+	"data": [
+		{
+			"id": 405,
+			"name": "PHƯỜNG THẠCH BÀN"
+		},
+		{
+			"id": 406,
+			"name": "PHƯỜNG PHÚC ĐỒNG"
+		},
+		{
+			"id": 407,
+			"name": "PHƯỜNG PHÚC LỢI"
+		},
+		{
+			"id": 408,
+			"name": "PHƯỜNG NGỌC THỤY"
+		},
+		{
+			"id": 409,
+			"name": "PHƯỜNG BỒ ĐỀ"
+		},
+		{
+			"id": 410,
+			"name": "PHƯỜNG LONG BIÊN"
+		},
+		{
+			"id": 411,
+			"name": "PHƯỜNG NGỌC LÂM"
+		},
+		{
+			"id": 412,
+			"name": "PHƯỜNG ĐỨC GIANG"
+		},
+		{
+			"id": 413,
+			"name": "PHƯỜNG PHÚ VIÊN"
+		},
+		{
+			"id": 414,
+			"name": "PHƯỜNG SÀI ĐỒNG"
+		},
+		{
+			"id": 415,
+			"name": "PHƯỜNG GIA THỤY"
+		},
+		{
+			"id": 416,
+			"name": "PHƯỜNG THƯỢNG THANH"
+		},
+		{
+			"id": 417,
+			"name": "PHƯỜNG VIỆT HƯNG"
+		},
+		{
+			"id": 418,
+			"name": "PHƯỜNG GIANG BIÊN"
+		},
+		{
+			"id": 419,
+			"name": "PHƯỜNG CỰ KHỐI"
+		}
+	]
+}

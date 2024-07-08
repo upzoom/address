@@ -1,38 +1,82 @@
 {
-	"id": "662",
-	"name": "Huyện Cư Jút",
+	"id": 662,
+	"name": "HUYỆN KIÊN LƯƠNG",
 	"data": [
 		{
-			"id": "24658",
-			"name": "Xã Cư Knia"
+			"id": 11119,
+			"name": "ẤP BÃI GIẾNG"
 		},
 		{
-			"id": "24652",
-			"name": "Xã Đắk DRông"
+			"id": 11120,
+			"name": "ẤP BA TRẠI"
 		},
 		{
-			"id": "24643",
-			"name": "Xã Đắk Wil"
+			"id": 11121,
+			"name": "KHU CÔNG NGHIỆP SẢN XUẤT XI MĂNG"
 		},
 		{
-			"id": "24646",
-			"name": "Xã Ea Pô"
+			"id": 11122,
+			"name": "XÃ BÌNH TRỊ"
 		},
 		{
-			"id": "24640",
-			"name": "Thị trấn Ea T'Ling"
+			"id": 11123,
+			"name": "XÃ DƯƠNG HÒA"
 		},
 		{
-			"id": "24649",
-			"name": "Xã Nam Dong"
+			"id": 11124,
+			"name": "XÃ HÒA ĐIỀN"
 		},
 		{
-			"id": "24655",
-			"name": "Xã Tâm Thắng"
+			"id": 11125,
+			"name": "XÃ KIÊN BÌNH"
 		},
 		{
-			"id": "24661",
-			"name": "Xã Trúc Sơn"
+			"id": 11126,
+			"name": "TT KIÊN LƯƠNG"
+		},
+		{
+			"id": 11127,
+			"name": "NGÃ BA BA HÒN"
+		},
+		{
+			"id": 11128,
+			"name": "ẤP CƯ XÁ MẠC THIÊN TỨ"
+		},
+		{
+			"id": 11129,
+			"name": "KÊNH TÁM THƯỚC"
+		},
+		{
+			"id": 11130,
+			"name": "ẤP NGÃ BA"
+		},
+		{
+			"id": 11131,
+			"name": "ẤP BA NÚI"
+		},
+		{
+			"id": 11132,
+			"name": "ẤP HÒN CHONG"
+		},
+		{
+			"id": 11133,
+			"name": "ẤP LÒ BOM"
+		},
+		{
+			"id": 11134,
+			"name": "ẤP BA HÒN"
+		},
+		{
+			"id": 11135,
+			"name": "XÃ HÒN NGHỆ"
+		},
+		{
+			"id": 11136,
+			"name": "XÃ SƠN HẢI"
+		},
+		{
+			"id": 11137,
+			"name": "XÃ BÌNH AN"
 		}
 	]
 }

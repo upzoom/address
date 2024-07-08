@@ -1,38 +1,46 @@
 {
-	"id": "27",
-	"name": "Tỉnh Bắc Ninh",
+	"id": 27,
+	"name": "Bắc Giang",
 	"data": [
 		{
-			"id": "256",
-			"name": "Thành phố Bắc Ninh"
+			"id": 280,
+			"name": "THÀNH PHỐ BẮC GIANG"
 		},
 		{
-			"id": "263",
-			"name": "Huyện Gia Bình"
+			"id": 281,
+			"name": "HUYỆN HIỆP HÒA"
 		},
 		{
-			"id": "264",
-			"name": "Huyện Lương Tài"
+			"id": 282,
+			"name": "HUYỆN VIỆT YÊN"
 		},
 		{
-			"id": "259",
-			"name": "Thị xã Quế Võ"
+			"id": 283,
+			"name": "HUYỆN YÊN THẾ"
 		},
 		{
-			"id": "262",
-			"name": "Thị xã Thuận Thành"
+			"id": 284,
+			"name": "HUYỆN LỤC NGẠN"
 		},
 		{
-			"id": "260",
-			"name": "Huyện Tiên Du"
+			"id": 285,
+			"name": "HUYỆN LẠNG GIANG"
 		},
 		{
-			"id": "261",
-			"name": "Thành phố Từ Sơn"
+			"id": 286,
+			"name": "HUYỆN TÂN YÊN"
 		},
 		{
-			"id": "258",
-			"name": "Huyện Yên Phong"
+			"id": 287,
+			"name": "HUYỆN LỤC NAM"
+		},
+		{
+			"id": 288,
+			"name": "HUYỆN SƠN ĐỘNG"
+		},
+		{
+			"id": 289,
+			"name": "HUYỆN YÊN DŨNG"
 		}
 	]
 }

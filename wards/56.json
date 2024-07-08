@@ -1,0 +1,50 @@
+{
+	"id": 56,
+	"name": "QUẬN HỒNG BÀNG",
+	"data": [
+		{
+			"id": 952,
+			"name": "PHƯỜNG HOÀNG VĂN THỤ"
+		},
+		{
+			"id": 953,
+			"name": "PHƯỜNG MINH KHAI"
+		},
+		{
+			"id": 954,
+			"name": "PHƯỜNG PHAN BỘI CHÂU"
+		},
+		{
+			"id": 955,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 956,
+			"name": "PHƯỜNG PHẠM HỒNG THÁI"
+		},
+		{
+			"id": 957,
+			"name": "PHƯỜNG TRẠI CHUỐI"
+		},
+		{
+			"id": 958,
+			"name": "PHƯỜNG THƯỢNG LÝ"
+		},
+		{
+			"id": 959,
+			"name": "PHƯỜNG HẠ LÝ"
+		},
+		{
+			"id": 960,
+			"name": "PHƯỜNG SỞ DẦU"
+		},
+		{
+			"id": 961,
+			"name": "PHƯỜNG HÙNG VƯƠNG"
+		},
+		{
+			"id": 962,
+			"name": "PHƯỜNG QUÁN TOAN"
+		}
+	]
+}

@@ -1,50 +1,54 @@
 {
-	"id": "505",
-	"name": "Huyện Đông Giang",
+	"id": 505,
+	"name": "HUYỆN MANG YANG",
 	"data": [
 		{
-			"id": "20482",
-			"name": "Xã  Tư"
+			"id": 9091,
+			"name": "THỊ TRẤN KONG DỠNG"
 		},
 		{
-			"id": "20488",
-			"name": "Xã A Rooi"
+			"id": 9092,
+			"name": "XÃ ĐĂK ÝA"
 		},
 		{
-			"id": "20479",
-			"name": "Xã A Ting"
+			"id": 9093,
+			"name": "XÃ ĐĂK JRĂNG"
 		},
 		{
-			"id": "20485",
-			"name": "Xã Ba"
+			"id": 9094,
+			"name": "XÃ KON THỤP"
 		},
 		{
-			"id": "20476",
-			"name": "Xã Jơ Ngây"
+			"id": 9095,
+			"name": "XÃ AYUN"
 		},
 		{
-			"id": "20497",
-			"name": "Xã Ka Dăng"
+			"id": 9096,
+			"name": "XÃ ĐĂK JO TA"
 		},
 		{
-			"id": "20494",
-			"name": "Xã Mà Cooi"
+			"id": 9097,
+			"name": "XÃ ĐÊ AR"
 		},
 		{
-			"id": "20467",
-			"name": "Thị trấn P Rao"
+			"id": 9098,
+			"name": "XÃ ĐĂK TRÔI"
 		},
 		{
-			"id": "20473",
-			"name": "Xã Sông Kôn"
+			"id": 9099,
+			"name": "XÃ LƠ PANG"
 		},
 		{
-			"id": "20470",
-			"name": "Xã Tà Lu"
+			"id": 9100,
+			"name": "XÃ KON CHIÊNG"
 		},
 		{
-			"id": "20491",
-			"name": "Xã Za Hung"
+			"id": 9101,
+			"name": "XÃ HÀ RA"
+		},
+		{
+			"id": 9102,
+			"name": "XÃ ĐĂK TALEY"
 		}
 	]
 }

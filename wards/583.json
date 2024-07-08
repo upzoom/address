@@ -1,0 +1,94 @@
+{
+	"id": 583,
+	"name": "HUYỆN LONG THÀNH",
+	"data": [
+		{
+			"id": 10035,
+			"name": "XÃ LONG AN"
+		},
+		{
+			"id": 10036,
+			"name": "THỊ TRẤN LONG THÀNH"
+		},
+		{
+			"id": 10037,
+			"name": "XÃ AN PHƯỚC"
+		},
+		{
+			"id": 10038,
+			"name": "XÃ BÌNH AN"
+		},
+		{
+			"id": 10039,
+			"name": "XÃ BÌNH SƠN"
+		},
+		{
+			"id": 10040,
+			"name": "XÃ CẨM ĐƯỜNG"
+		},
+		{
+			"id": 10041,
+			"name": "XÃ LỘC AN"
+		},
+		{
+			"id": 10042,
+			"name": "XÃ LONG ĐỨC"
+		},
+		{
+			"id": 10043,
+			"name": "XÃ SUỐI TRẦU"
+		},
+		{
+			"id": 10044,
+			"name": "XÃ TAM AN"
+		},
+		{
+			"id": 10045,
+			"name": "XÃ SUỐI QUÝT"
+		},
+		{
+			"id": 10046,
+			"name": "XÃ BÀU TRE"
+		},
+		{
+			"id": 10047,
+			"name": "XÃ PHƯỚC THÁI"
+		},
+		{
+			"id": 10048,
+			"name": "KCN LONG THÀNH"
+		},
+		{
+			"id": 10049,
+			"name": "KCN AN PHƯỚC"
+		},
+		{
+			"id": 10050,
+			"name": "KCN LỘC AN - BÌNH SƠN"
+		},
+		{
+			"id": 10051,
+			"name": "KCN LONG ĐỨC"
+		},
+		{
+			"id": 12306,
+			"name": "XÃ BÀU CẠN"
+		},
+		{
+			"id": 14346,
+			"name": "XÃ TÂN HIỆP"
+		},
+		{
+			"id": 17005,
+			"name": "XÃ LONG PHƯỚC"
+		},
+		{
+			"id": 13331,
+			"name": "XÃ PHƯỚC BÌNH"
+		},
+		{
+			"id": 14347,
+			"name": "KCN GÒ DẦU"
+		}
+	]
+}

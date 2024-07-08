@@ -1,90 +1,106 @@
 {
-	"id": "373",
-	"name": "Huyện Gia Viễn",
+	"id": 373,
+	"name": "THÀNH PHỐ VINH",
 	"data": [
 		{
-			"id": "14467",
-			"name": "Xã Gia Hòa"
+			"id": 6918,
+			"name": "PHƯỜNG CỬA NAM"
 		},
 		{
-			"id": "14470",
-			"name": "Xã Gia Hưng"
+			"id": 6919,
+			"name": "PHƯỜNG ĐỘI CUNG"
 		},
 		{
-			"id": "14515",
-			"name": "Xã Gia Lạc"
+			"id": 6920,
+			"name": "PHƯỜNG ĐÔNG VĨNH"
 		},
 		{
-			"id": "14488",
-			"name": "Xã Gia Lập"
+			"id": 6921,
+			"name": "PHƯỜNG HÀ HUY TẬP"
 		},
 		{
-			"id": "14512",
-			"name": "Xã Gia Minh"
+			"id": 6922,
+			"name": "PHƯỜNG HỒNG SƠN"
 		},
 		{
-			"id": "14524",
-			"name": "Xã Gia Phong"
+			"id": 6923,
+			"name": "PHƯỜNG HƯNG BÌNH"
 		},
 		{
-			"id": "14482",
-			"name": "Xã Gia Phú"
+			"id": 6924,
+			"name": "XÃ HƯNG ĐÔNG"
 		},
 		{
-			"id": "14500",
-			"name": "Xã Gia Phương"
+			"id": 6925,
+			"name": "PHƯỜNG HƯNG DŨNG"
 		},
 		{
-			"id": "14521",
-			"name": "Xã Gia Sinh"
+			"id": 6926,
+			"name": "XÃ HƯNG HOÀ"
 		},
 		{
-			"id": "14503",
-			"name": "Xã Gia Tân"
+			"id": 6927,
+			"name": "XÃ HƯNG LỘC"
 		},
 		{
-			"id": "14506",
-			"name": "Xã Gia Thắng"
+			"id": 6928,
+			"name": "PHƯỜNG HƯNG PHÚC"
 		},
 		{
-			"id": "14476",
-			"name": "Xã Gia Thanh"
+			"id": 6929,
+			"name": "PHƯỜNG LÊ LỢI"
 		},
 		{
-			"id": "14497",
-			"name": "Xã Gia Thịnh"
+			"id": 6930,
+			"name": "PHƯỜNG TRƯỜNG THI"
 		},
 		{
-			"id": "14518",
-			"name": "Xã Gia Tiến"
+			"id": 6931,
+			"name": "PHƯỜNG VINH TÂN"
 		},
 		{
-			"id": "14494",
-			"name": "Xã Gia Trấn"
+			"id": 6932,
+			"name": "XÃ NGHI ÂN"
 		},
 		{
-			"id": "14509",
-			"name": "Xã Gia Trung"
+			"id": 6933,
+			"name": "XÃ NGHI PHÚ"
 		},
 		{
-			"id": "14479",
-			"name": "Xã Gia Vân"
+			"id": 6934,
+			"name": "XÃ NGHI ĐỨC"
 		},
 		{
-			"id": "14491",
-			"name": "Xã Gia Vượng"
+			"id": 6935,
+			"name": "XÃ NGHI LIÊN"
 		},
 		{
-			"id": "14485",
-			"name": "Xã Gia Xuân"
+			"id": 6936,
+			"name": "PHƯỜNG BẾN THỦY"
 		},
 		{
-			"id": "14473",
-			"name": "Xã Liên Sơn"
+			"id": 6937,
+			"name": "PHƯỜNG LÊ MAO"
 		},
 		{
-			"id": "14464",
-			"name": "Thị trấn Me"
+			"id": 6938,
+			"name": "XÃ NGHI KIM"
+		},
+		{
+			"id": 6939,
+			"name": "PHƯỜNG QUÁN BÀU"
+		},
+		{
+			"id": 6940,
+			"name": "PHƯỜNG QUANG TRUNG"
+		},
+		{
+			"id": 6941,
+			"name": "PHƯỜNG TRUNG ĐÔ"
+		},
+		{
+			"id": 6942,
+			"name": "XÃ HƯNG CHÍNH"
 		}
 	]
 }

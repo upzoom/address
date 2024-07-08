@@ -1,0 +1,62 @@
+{
+	"id": 321,
+	"name": "HUYỆN VÂN HỒ",
+	"data": [
+		{
+			"id": 5802,
+			"name": "XÃ TÔ MÚA"
+		},
+		{
+			"id": 5803,
+			"name": "XÃ LÓNG LUÔNG"
+		},
+		{
+			"id": 5804,
+			"name": "XÃ SUỐI BÀNG"
+		},
+		{
+			"id": 5805,
+			"name": "XÃ CHIỀNG KHOA"
+		},
+		{
+			"id": 5806,
+			"name": "XÃ LIÊN HÒA"
+		},
+		{
+			"id": 5807,
+			"name": "XÃ MƯỜNG MEN"
+		},
+		{
+			"id": 5808,
+			"name": "XÃ MƯỜNG TÈ"
+		},
+		{
+			"id": 5809,
+			"name": "XÃ XUÂN NHA"
+		},
+		{
+			"id": 5810,
+			"name": "XÃ CHIỀNG XUÂN"
+		},
+		{
+			"id": 5811,
+			"name": "XÃ VÂN HỒ"
+		},
+		{
+			"id": 5812,
+			"name": "XÃ TÂN XUÂN"
+		},
+		{
+			"id": 5813,
+			"name": "XÃ CHIỀNG YÊN"
+		},
+		{
+			"id": 5814,
+			"name": "XÃ QUANG MINH"
+		},
+		{
+			"id": 5815,
+			"name": "XÃ SONG KHỦA"
+		}
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"id": 9,
+	"name": "QUẬN HAI BÀ TRƯNG",
+	"data": [
+		{
+			"id": 195,
+			"name": "PHƯỜNG  QUỲNH LÔI"
+		},
+		{
+			"id": 196,
+			"name": "PHƯỜNG TRƯƠNG ĐỊNH"
+		},
+		{
+			"id": 197,
+			"name": "PHƯỜNG THANH TRÌ"
+		},
+		{
+			"id": 198,
+			"name": "PHƯỜNG KIM NGƯU"
+		},
+		{
+			"id": 199,
+			"name": "PHƯỜNG MINH KHAI"
+		},
+		{
+			"id": 200,
+			"name": "PHƯỜNG THANH LƯƠNG"
+		},
+		{
+			"id": 201,
+			"name": "PHƯỜNG BÁCH KHOA"
+		},
+		{
+			"id": 202,
+			"name": "PHƯỜNG BẠCH MAI"
+		},
+		{
+			"id": 203,
+			"name": "PHƯỜNG CẦU DỀN"
+		},
+		{
+			"id": 204,
+			"name": "PHƯỜNG THANH NHÀN"
+		},
+		{
+			"id": 205,
+			"name": "PHƯỜNG ĐỒNG TÂM"
+		},
+		{
+			"id": 206,
+			"name": "PHƯỜNG QUỲNH MAI"
+		},
+		{
+			"id": 207,
+			"name": "PHƯỜNG BẠCH ĐẰNG"
+		},
+		{
+			"id": 208,
+			"name": "PHƯỜNG VĨNH TUY"
+		},
+		{
+			"id": 209,
+			"name": "PHƯỜNG ĐÔNG MÁC"
+		},
+		{
+			"id": 210,
+			"name": "PHƯỜNG PHẠM ĐÌNH HỔ"
+		},
+		{
+			"id": 211,
+			"name": "PHƯỜNG NGUYỄN DU"
+		},
+		{
+			"id": 212,
+			"name": "PHƯỜNG BÙI THỊ XUÂN"
+		},
+		{
+			"id": 213,
+			"name": "PHƯỜNG LÊ ĐẠI HÀNH"
+		},
+		{
+			"id": 214,
+			"name": "PHƯỜNG NGÔ THÌ NHẬM"
+		},
+		{
+			"id": 215,
+			"name": "PHƯỜNG PHỐ HUẾ"
+		},
+		{
+			"id": 216,
+			"name": "PHƯỜNG ĐỒNG NHÂN"
+		},
+		{
+			"id": 217,
+			"name": "PHƯỜNG MINH KHAI"
+		}
+	]
+}

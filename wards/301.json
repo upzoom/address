@@ -1,0 +1,74 @@
+{
+	"id": 301,
+	"name": "HUYỆN HẢI HÀ",
+	"data": [
+		{
+			"id": 5457,
+			"name": "XÃ ĐƯỜNG HOA"
+		},
+		{
+			"id": 5458,
+			"name": "XÃ CÁI CHIÊN"
+		},
+		{
+			"id": 5459,
+			"name": "XÃ PHÚ HẢI"
+		},
+		{
+			"id": 5460,
+			"name": "XÃ QUẢNG CHÍNH"
+		},
+		{
+			"id": 5461,
+			"name": "XÃ QUẢNG TRUNG"
+		},
+		{
+			"id": 5462,
+			"name": "XÃ QUẢNG ĐIỀN"
+		},
+		{
+			"id": 5463,
+			"name": "XÃ QUẢNG ĐỨC"
+		},
+		{
+			"id": 5464,
+			"name": "XÃ QUẢNG HÀ"
+		},
+		{
+			"id": 5465,
+			"name": "XÃ QUẢNG LONG"
+		},
+		{
+			"id": 5466,
+			"name": "XÃ QUẢNG MINH"
+		},
+		{
+			"id": 5467,
+			"name": "XÃ QUẢNG PHONG"
+		},
+		{
+			"id": 5468,
+			"name": "XÃ QUẢNG SƠN"
+		},
+		{
+			"id": 5469,
+			"name": "XÃ QUẢNG THẮNG"
+		},
+		{
+			"id": 5470,
+			"name": "XÃ QUẢNG THÀNH"
+		},
+		{
+			"id": 5471,
+			"name": "XÃ QUẢNG THỊNH"
+		},
+		{
+			"id": 5472,
+			"name": "THỊ TRẤN QUẢNG HÀ"
+		},
+		{
+			"id": 5473,
+			"name": "XÃ TIẾN TỚI"
+		}
+	]
+}

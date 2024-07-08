@@ -1,0 +1,54 @@
+{
+	"id": 55,
+	"name": "HUYỆN HÓC MÔN",
+	"data": [
+		{
+			"id": 940,
+			"name": "XÃ TÂN THỚI NHÌ"
+		},
+		{
+			"id": 941,
+			"name": "XÃ NHỊ BÌNH"
+		},
+		{
+			"id": 942,
+			"name": "XÃ XUÂN THỚI SƠN"
+		},
+		{
+			"id": 943,
+			"name": "XÃ BÀ ĐIỂM"
+		},
+		{
+			"id": 944,
+			"name": "XÃ TÂN HIỆP"
+		},
+		{
+			"id": 945,
+			"name": "XÃ ĐÔNG THẠNH"
+		},
+		{
+			"id": 946,
+			"name": "XÃ XUÂN THỚI ĐÔNG"
+		},
+		{
+			"id": 947,
+			"name": "XÃ XUÂN THỚI THƯỢNG"
+		},
+		{
+			"id": 948,
+			"name": "XÃ THỚI TAM THÔN"
+		},
+		{
+			"id": 949,
+			"name": "XÃ TRUNG CHÁNH"
+		},
+		{
+			"id": 950,
+			"name": "XÃ TÂN XUÂN"
+		},
+		{
+			"id": 951,
+			"name": "THỊ TRẤN HÓC MÔN"
+		}
+	]
+}

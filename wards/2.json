@@ -1,0 +1,130 @@
+{
+	"id": 2,
+	"name": "HUYỆN BA VÌ",
+	"data": [
+		{
+			"id": 19,
+			"name": "XÃ TIÊN PHONG"
+		},
+		{
+			"id": 20,
+			"name": "XÃ BA TRẠI"
+		},
+		{
+			"id": 21,
+			"name": "XÃ YÊN BÀI"
+		},
+		{
+			"id": 22,
+			"name": "XÃ KHÁNH THƯỢNG"
+		},
+		{
+			"id": 23,
+			"name": "XÃ BA VÌ"
+		},
+		{
+			"id": 24,
+			"name": "THỊ TRẤN TÂY ĐẰNG"
+		},
+		{
+			"id": 25,
+			"name": "XÃ PHÚ CƯỜNG"
+		},
+		{
+			"id": 26,
+			"name": "XÃ CỔ ĐÔ"
+		},
+		{
+			"id": 27,
+			"name": "XÃ TẢN HỒNG"
+		},
+		{
+			"id": 28,
+			"name": "XÃ VẠN THẮNG"
+		},
+		{
+			"id": 29,
+			"name": "XÃ PHONG VÂN"
+		},
+		{
+			"id": 30,
+			"name": "XÃ PHÚ ĐÔNG"
+		},
+		{
+			"id": 31,
+			"name": "XÃ PHÚ PHƯƠNG"
+		},
+		{
+			"id": 32,
+			"name": "XÃ PHÚ CHÂU"
+		},
+		{
+			"id": 33,
+			"name": "XÃ THÁI HÒA"
+		},
+		{
+			"id": 34,
+			"name": "XÃ ĐỒNG THÁI"
+		},
+		{
+			"id": 35,
+			"name": "XÃ PHÚ SƠN"
+		},
+		{
+			"id": 36,
+			"name": "XÃ MINH CHÂU"
+		},
+		{
+			"id": 37,
+			"name": "XÃ VẬT LẠI"
+		},
+		{
+			"id": 38,
+			"name": "XÃ CHU MINH"
+		},
+		{
+			"id": 39,
+			"name": "XÃ TÒNG BẠT"
+		},
+		{
+			"id": 40,
+			"name": "XÃ CẨM LĨNH"
+		},
+		{
+			"id": 41,
+			"name": "XÃ SƠN ĐÀ"
+		},
+		{
+			"id": 42,
+			"name": "XÃ ĐÔNG QUANG"
+		},
+		{
+			"id": 43,
+			"name": "XÃ THỤY AN"
+		},
+		{
+			"id": 44,
+			"name": "XÃ CAM THƯỢNG"
+		},
+		{
+			"id": 45,
+			"name": "XÃ THUẦN MỸ"
+		},
+		{
+			"id": 46,
+			"name": "XÃ TẢN LĨNH"
+		},
+		{
+			"id": 47,
+			"name": "XÃ VÂN HÒA"
+		},
+		{
+			"id": 48,
+			"name": "XÃ CHÂU SƠN"
+		},
+		{
+			"id": 49,
+			"name": "XÃ MINH QUANG"
+		}
+	]
+}

@@ -1,38 +1,74 @@
 {
-	"id": "585",
-	"name": "Huyện Ninh Sơn",
+	"id": 585,
+	"name": "HUYỆN HÀM THUẬN BẮC",
 	"data": [
 		{
-			"id": "22825",
-			"name": "Xã Hòa Sơn"
+			"id": 10072,
+			"name": "XÃ HÀM THẮNG"
 		},
 		{
-			"id": "22813",
-			"name": "Xã Lâm Sơn"
+			"id": 10073,
+			"name": "XÃ HÀM CHÍNH"
 		},
 		{
-			"id": "22816",
-			"name": "Xã Lương Sơn"
+			"id": 10074,
+			"name": "XÃ HÀM LIÊM"
 		},
 		{
-			"id": "22828",
-			"name": "Xã Ma Nới"
+			"id": 10075,
+			"name": "THỊ TRẤN PHÚ LONG"
 		},
 		{
-			"id": "22822",
-			"name": "Xã Mỹ Sơn"
+			"id": 10076,
+			"name": "THỊ TRẤN MA LÂM"
 		},
 		{
-			"id": "22831",
-			"name": "Xã Nhơn Sơn"
+			"id": 10077,
+			"name": "XÃ ĐA MI"
 		},
 		{
-			"id": "22819",
-			"name": "Xã Quảng Sơn"
+			"id": 10078,
+			"name": "XÃ THUẬN MINH"
 		},
 		{
-			"id": "22810",
-			"name": "Thị trấn Tân Sơn"
+			"id": 10079,
+			"name": "XÃ HÀM HIỆP"
+		},
+		{
+			"id": 10080,
+			"name": "XÃ HÀM TRÍ"
+		},
+		{
+			"id": 10081,
+			"name": "XÃ HỒNG LIÊM"
+		},
+		{
+			"id": 10082,
+			"name": "XÃ ĐÔNG TIẾN"
+		},
+		{
+			"id": 10083,
+			"name": "XÃ LA DẠ"
+		},
+		{
+			"id": 10084,
+			"name": "XÃ ĐÔNG GIANG"
+		},
+		{
+			"id": 10085,
+			"name": "XÃ THUẬN HÒA"
+		},
+		{
+			"id": 10086,
+			"name": "XÃ HÀM PHÚ"
+		},
+		{
+			"id": 10087,
+			"name": "XÃ HÀM ĐỨC"
+		},
+		{
+			"id": 10088,
+			"name": "XÃ HỒNG SƠN"
 		}
 	]
 }

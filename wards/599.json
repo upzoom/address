@@ -1,58 +1,78 @@
 {
-	"id": "599",
-	"name": "Huyện Tánh Linh",
+	"id": 599,
+	"name": "THÀNH PHỐ VŨNG TÀU",
 	"data": [
 		{
-			"id": "23152",
-			"name": "Xã Bắc Ruộng"
+			"id": 10255,
+			"name": "PHƯỜNG 11"
 		},
 		{
-			"id": "23173",
-			"name": "Xã Đồng Kho"
+			"id": 10256,
+			"name": "PHƯỜNG 12"
 		},
 		{
-			"id": "23179",
-			"name": "Xã Đức Bình"
+			"id": 10257,
+			"name": "PHƯỜNG 10"
 		},
 		{
-			"id": "23170",
-			"name": "Xã Đức Phú"
+			"id": 10258,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "23185",
-			"name": "Xã Đức Thuận"
+			"id": 10259,
+			"name": "PHƯỜNG 8"
 		},
 		{
-			"id": "23176",
-			"name": "Xã Gia An"
+			"id": 10260,
+			"name": "PHƯỜNG NGUYỄN AN NINH"
 		},
 		{
-			"id": "23182",
-			"name": "Xã Gia Huynh"
+			"id": 10261,
+			"name": "PHƯỜNG THẮNG TAM"
 		},
 		{
-			"id": "23164",
-			"name": "Xã Huy Khiêm"
+			"id": 10262,
+			"name": "PHƯỜNG 2"
 		},
 		{
-			"id": "23161",
-			"name": "Xã La Ngâu"
+			"id": 10263,
+			"name": "PHƯỜNG RẠCH DỪA"
 		},
 		{
-			"id": "23149",
-			"name": "Thị trấn Lạc Tánh"
+			"id": 10264,
+			"name": "PHƯỜNG 9"
 		},
 		{
-			"id": "23167",
-			"name": "Xã Măng Tố"
+			"id": 10265,
+			"name": "PHƯỜNG THẮNG NHẤT"
 		},
 		{
-			"id": "23158",
-			"name": "Xã Nghị Đức"
+			"id": 10266,
+			"name": "PHƯỜNG 3"
 		},
 		{
-			"id": "23188",
-			"name": "Xã Suối Kiết"
+			"id": 10267,
+			"name": "PHƯỜNG 4"
+		},
+		{
+			"id": 10268,
+			"name": "PHƯỜNG 5"
+		},
+		{
+			"id": 10269,
+			"name": "PHƯỜNG 6"
+		},
+		{
+			"id": 10270,
+			"name": "PHƯỜNG 7"
+		},
+		{
+			"id": 10271,
+			"name": "XÃ LONG SƠN"
+		},
+		{
+			"id": 10272,
+			"name": "PHƯỜNG THẮNG NHÌ"
 		}
 	]
 }

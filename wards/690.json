@@ -1,30 +1,66 @@
 {
-	"id": "690",
-	"name": "Thị xã Bình Long",
+	"id": 690,
+	"name": "HUYỆN MỸ XUYÊN",
 	"data": [
 		{
-			"id": "25324",
-			"name": "Phường An Lộc"
+			"id": 11437,
+			"name": "XÃ  THAM ĐÔN"
 		},
 		{
-			"id": "25320",
-			"name": "Phường Hưng Chiến"
+			"id": 11438,
+			"name": "THỊ TRẤN MỸ XUYÊN"
 		},
 		{
-			"id": "25326",
-			"name": "Phường Phú Đức"
+			"id": 11439,
+			"name": "XÃ NGỌC ĐÔNG"
 		},
 		{
-			"id": "25325",
-			"name": "Phường Phú Thịnh"
+			"id": 11440,
+			"name": "XÃ HÒA TÚ I"
 		},
 		{
-			"id": "25333",
-			"name": "Xã Thanh Lương"
+			"id": 11441,
+			"name": "XÃ GIA HÒA I"
 		},
 		{
-			"id": "25336",
-			"name": "Xã Thanh Phú"
+			"id": 11442,
+			"name": "XÃ THẠNH THỚI THUẬN"
+		},
+		{
+			"id": 11443,
+			"name": "XÃ THẠNH THỚI AN"
+		},
+		{
+			"id": 11444,
+			"name": "XÃ VIÊN BÌNH"
+		},
+		{
+			"id": 11445,
+			"name": "XÃ GIA HÒA II"
+		},
+		{
+			"id": 11446,
+			"name": "XÃ THẠNH PHÚ"
+		},
+		{
+			"id": 11447,
+			"name": "XÃ HÒA TÚ II"
+		},
+		{
+			"id": 11448,
+			"name": "XÃ NGỌC TỐ"
+		},
+		{
+			"id": 11449,
+			"name": "XÃ THẠNH QUỚI"
+		},
+		{
+			"id": 11450,
+			"name": "XÃ ĐẠI TÂM"
+		},
+		{
+			"id": 11451,
+			"name": "XÃ TÀI VĂN"
 		}
 	]
 }

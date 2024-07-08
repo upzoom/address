@@ -1,62 +1,134 @@
 {
-	"id": "137",
-	"name": "Huyện Mù Căng Chải",
+	"id": 137,
+	"name": "HUYỆN TỨ KỲ",
 	"data": [
 		{
-			"id": "04480",
-			"name": "Xã Cao Phạ"
+			"id": 16992,
+			"name": "XÃ HÀM CÁCH"
 		},
 		{
-			"id": "04471",
-			"name": "Xã Chế Cu Nha"
+			"id": 17010,
+			"name": "XÃ TRI LỄ"
 		},
 		{
-			"id": "04489",
-			"name": "Xã Chế Tạo"
+			"id": 1995,
+			"name": "XÃ KỲ SƠN"
 		},
 		{
-			"id": "04486",
-			"name": "Xã Dế Su Phình"
+			"id": 1996,
+			"name": "XÃ MINH ĐỨC"
 		},
 		{
-			"id": "04459",
-			"name": "Xã Hồ Bốn"
+			"id": 1997,
+			"name": "XÃ NGỌC KỲ"
 		},
 		{
-			"id": "04465",
-			"name": "Xã Khao Mang"
+			"id": 1998,
+			"name": "XÃ NGỌC SƠN"
 		},
 		{
-			"id": "04477",
-			"name": "Xã Kim Nọi"
+			"id": 1999,
+			"name": "XÃ NGUYÊN GIÁP"
 		},
 		{
-			"id": "04483",
-			"name": "Xã La Pán Tẩn"
+			"id": 2000,
+			"name": "XÃ PHƯỢNG KỲ"
 		},
 		{
-			"id": "04474",
-			"name": "Xã Lao Chải"
+			"id": 2001,
+			"name": "XÃ QUANG KHẢI"
 		},
 		{
-			"id": "04468",
-			"name": "Xã Mồ Dề"
+			"id": 2002,
+			"name": "XÃ QUẢNG NGHIỆP"
 		},
 		{
-			"id": "04456",
-			"name": "Thị trấn Mù Căng Chải"
+			"id": 2003,
+			"name": "XÃ QUANG PHỤC"
 		},
 		{
-			"id": "04462",
-			"name": "Xã Nậm Có"
+			"id": 2004,
+			"name": "XÃ QUANG TRUNG"
 		},
 		{
-			"id": "04495",
-			"name": "Xã Nậm Khắt"
+			"id": 2005,
+			"name": "XÃ QUÝ CAO"
 		},
 		{
-			"id": "04492",
-			"name": "Xã Púng Luông"
+			"id": 2006,
+			"name": "XÃ TÁI SƠN"
+		},
+		{
+			"id": 2007,
+			"name": "XÃ TÂN KỲ"
+		},
+		{
+			"id": 2008,
+			"name": "XÃ TÂY KỲ"
+		},
+		{
+			"id": 2009,
+			"name": "THỊ TRẤN TỨ KỲ"
+		},
+		{
+			"id": 2010,
+			"name": "XÃ TIÊN ĐỘNG"
+		},
+		{
+			"id": 2011,
+			"name": "XÃ TỨ XUYÊN"
+		},
+		{
+			"id": 2012,
+			"name": "XÃ VĂN TỐ"
+		},
+		{
+			"id": 2013,
+			"name": "XÃ AN THANH"
+		},
+		{
+			"id": 2014,
+			"name": "XÃ BÌNH LĂNG"
+		},
+		{
+			"id": 2015,
+			"name": "XÃ CỘNG LẠC"
+		},
+		{
+			"id": 2016,
+			"name": "XÃ ĐẠI HỢP"
+		},
+		{
+			"id": 2017,
+			"name": "XÃ DÂN CHỦ"
+		},
+		{
+			"id": 2018,
+			"name": "XÃ ĐÔNG KỲ"
+		},
+		{
+			"id": 2019,
+			"name": "XÃ HÀ KỲ"
+		},
+		{
+			"id": 2020,
+			"name": "XÃ HÀ THANH"
+		},
+		{
+			"id": 2021,
+			"name": "XÃ HƯNG ĐẠO"
+		},
+		{
+			"id": 2022,
+			"name": "XÃ ĐẠI ĐỒNG"
+		},
+		{
+			"id": 26265,
+			"name": "XÃ CHÍ MINH"
+		},
+		{
+			"id": 26266,
+			"name": "XÃ ĐẠI SƠN"
 		}
 	]
 }

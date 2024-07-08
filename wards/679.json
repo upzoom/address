@@ -1,82 +1,70 @@
 {
-	"id": "679",
-	"name": "Huyện Di Linh",
+	"id": 679,
+	"name": "HUYỆN CẦU NGANG",
 	"data": [
 		{
-			"id": "25033",
-			"name": "Xã Bảo Thuận"
+			"id": 11315,
+			"name": "KIM HOÀ"
 		},
 		{
-			"id": "25000",
-			"name": "Thị trấn Di Linh"
+			"id": 11316,
+			"name": "VINH KIM"
 		},
 		{
-			"id": "25018",
-			"name": "Xã Đinh Lạc"
+			"id": 11317,
+			"name": "MỸ HOÀ"
 		},
 		{
-			"id": "25024",
-			"name": "Xã Đinh Trang Hòa"
+			"id": 11318,
+			"name": "THUẬN HOÀ"
 		},
 		{
-			"id": "25003",
-			"name": "Xã Đinh Trang Thượng"
+			"id": 11319,
+			"name": "LONG SƠN"
 		},
 		{
-			"id": "25051",
-			"name": "Xã Gia Bắc"
+			"id": 11320,
+			"name": "HIỆP HOÀ"
 		},
 		{
-			"id": "25015",
-			"name": "Xã Gia Hiệp"
+			"id": 11321,
+			"name": "HIỆP MỸ TÂY"
 		},
 		{
-			"id": "25030",
-			"name": "Xã Gung Ré"
+			"id": 11322,
+			"name": "THẠNH HOÀ SƠN"
 		},
 		{
-			"id": "25045",
-			"name": "Xã Hòa Bắc"
+			"id": 11323,
+			"name": "TT CẦU NGANG"
 		},
 		{
-			"id": "25042",
-			"name": "Xã Hòa Nam"
+			"id": 11324,
+			"name": "MỸ LONG"
 		},
 		{
-			"id": "25036",
-			"name": "Xã Hòa Ninh"
+			"id": 11325,
+			"name": "NHỊ TRƯỜNG"
 		},
 		{
-			"id": "25039",
-			"name": "Xã Hòa Trung"
+			"id": 11326,
+			"name": "TRƯỜNG THỌ"
 		},
 		{
-			"id": "25027",
-			"name": "Xã Liên Đầm"
+			"id": 11327,
+			"name": "XÃ VĨNH KIM"
 		},
 		{
-			"id": "25048",
-			"name": "Xã Sơn Điền"
+			"id": 11328,
+			"name": "XÃ MỸ LONG NAM"
 		},
 		{
-			"id": "25021",
-			"name": "Xã Tam Bố"
+			"id": 11329,
+			"name": "XÃ MỸ LONG BẮC"
 		},
 		{
-			"id": "25009",
-			"name": "Xã Tân Châu"
-		},
-		{
-			"id": "25007",
-			"name": "Xã Tân Lâm"
-		},
-		{
-			"id": "25012",
-			"name": "Xã Tân Nghĩa"
-		},
-		{
-			"id": "25006",
-			"name": "Xã Tân Thượng"
+			"id": 11330,
+			"name": "XÃ HIỆP MỸ ĐÔNG"
 		}
 	]
 }

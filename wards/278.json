@@ -1,90 +1,150 @@
 {
-	"id": "278",
-	"name": "Huyện Thanh Oai",
+	"id": 278,
+	"name": "HUYỆN HẠ HÒA",
 	"data": [
 		{
-			"id": "10126",
-			"name": "Xã Bích Hòa"
+			"id": 5020,
+			"name": "XÃ LỆNH KHANH"
 		},
 		{
-			"id": "10135",
-			"name": "Xã Bình Minh"
+			"id": 5021,
+			"name": "XÃ ĐAN HẠ"
 		},
 		{
-			"id": "10174",
-			"name": "Xã Cao Dương"
+			"id": 5022,
+			"name": "XÃ CÁO ĐIỀN"
 		},
 		{
-			"id": "10132",
-			"name": "Xã Cao Viên"
+			"id": 5023,
+			"name": "XÃ PHƯƠNG VIÊN"
 		},
 		{
-			"id": "10120",
-			"name": "Xã Cự Khê"
+			"id": 5024,
+			"name": "XÃ ĐẠI PHẠM"
 		},
 		{
-			"id": "10168",
-			"name": "Xã Dân Hòa"
+			"id": 5025,
+			"name": "XÃ ÂM HẠ"
 		},
 		{
-			"id": "10153",
-			"name": "Xã Đỗ Động"
+			"id": 5026,
+			"name": "THỊ TRẤN HẠ HÒA"
 		},
 		{
-			"id": "10180",
-			"name": "Xã Hồng Dương"
+			"id": 5027,
+			"name": "XÃ MINH HẠC"
 		},
 		{
-			"id": "10156",
-			"name": "Xã Kim An"
+			"id": 5028,
+			"name": "XÃ Y SƠN"
 		},
 		{
-			"id": "10114",
-			"name": "Thị trấn Kim Bài"
+			"id": 5029,
+			"name": "XÃ PHỤ KHÁNH"
 		},
 		{
-			"id": "10159",
-			"name": "Xã Kim Thư"
+			"id": 5030,
+			"name": "XÃ MINH CÔI"
 		},
 		{
-			"id": "10171",
-			"name": "Xã Liên Châu"
+			"id": 5031,
+			"name": "XÃ BẰNG GIÃ"
 		},
 		{
-			"id": "10129",
-			"name": "Xã Mỹ Hưng"
+			"id": 5032,
+			"name": "XÃ ĐỘNG LÂM"
 		},
 		{
-			"id": "10162",
-			"name": "Xã Phương Trung"
+			"id": 5033,
+			"name": "XÃ LANG SƠN"
 		},
 		{
-			"id": "10138",
-			"name": "Xã Tam Hưng"
+			"id": 5034,
+			"name": "XÃ VÔ TRANH"
 		},
 		{
-			"id": "10165",
-			"name": "Xã Tân Ước"
+			"id": 5035,
+			"name": "XÃ LÂM LỢI"
 		},
 		{
-			"id": "10141",
-			"name": "Xã Thanh Cao"
+			"id": 5036,
+			"name": "XÃ CHUẾ LƯU"
 		},
 		{
-			"id": "10147",
-			"name": "Xã Thanh Mai"
+			"id": 5037,
+			"name": "XÃ XUÂN ÁNG"
 		},
 		{
-			"id": "10144",
-			"name": "Xã Thanh Thùy"
+			"id": 5038,
+			"name": "XÃ HIỀN LƯƠNG"
 		},
 		{
-			"id": "10150",
-			"name": "Xã Thanh Văn"
+			"id": 5039,
+			"name": "XÃ VĂN LANG"
 		},
 		{
-			"id": "10177",
-			"name": "Xã Xuân Dương"
+			"id": 5040,
+			"name": "XÃ YÊN LUẬT"
+		},
+		{
+			"id": 5041,
+			"name": "XÃ YÊN KỲ"
+		},
+		{
+			"id": 5042,
+			"name": "XÃ HƯƠNG XẠ"
+		},
+		{
+			"id": 5043,
+			"name": "XÃ VĨNH CHÂN"
+		},
+		{
+			"id": 5044,
+			"name": "XÃ ĐAN THƯỢNG"
+		},
+		{
+			"id": 5045,
+			"name": "XÃ HẬU BỔNG"
+		},
+		{
+			"id": 5046,
+			"name": "XÃ HÀ LƯƠNG"
+		},
+		{
+			"id": 5047,
+			"name": "XÃ LIÊN PHƯƠNG"
+		},
+		{
+			"id": 5048,
+			"name": "XÃ GIA ĐIỀN"
+		},
+		{
+			"id": 5049,
+			"name": "XÃ ẤM THƯỢNG"
+		},
+		{
+			"id": 5050,
+			"name": "XÃ QUÂN KHÊ"
+		},
+		{
+			"id": 5051,
+			"name": "XÃ CHÍNH CÔNG"
+		},
+		{
+			"id": 5052,
+			"name": "XÃ ĐAN HÀ"
+		},
+		{
+			"id": 5053,
+			"name": "XÃ MAI TÙNG"
+		},
+		{
+			"id": 5054,
+			"name": "XÃ VỤ CẦU"
+		},
+		{
+			"id": 26286,
+			"name": "XÃ TỨ HIỆP"
 		}
 	]
 }

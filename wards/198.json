@@ -1,34 +1,78 @@
 {
-	"id": "198",
-	"name": "Huyện Bình Liêu",
+	"id": 198,
+	"name": "HUYỆN YÊN MINH",
 	"data": [
 		{
-			"id": "06838",
-			"name": "Thị trấn Bình Liêu"
+			"id": 3413,
+			"name": "THỊ TRẤN YÊN MINH"
 		},
 		{
-			"id": "06844",
-			"name": "Xã Đồng Tâm"
+			"id": 3414,
+			"name": "XÃ NGỌC LONG"
 		},
 		{
-			"id": "06847",
-			"name": "Xã Đồng Văn"
+			"id": 3415,
+			"name": "XÃ LŨNG HỒ"
 		},
 		{
-			"id": "06841",
-			"name": "Xã Hoành Mô"
+			"id": 3416,
+			"name": "XÃ MẬU DUỆ"
 		},
 		{
-			"id": "06859",
-			"name": "Xã Húc Động"
+			"id": 3417,
+			"name": "XÃ HỮU VINH"
 		},
 		{
-			"id": "06856",
-			"name": "Xã Lục Hồn"
+			"id": 3418,
+			"name": "XÃ BẠCH ĐÍCH"
 		},
 		{
-			"id": "06853",
-			"name": "Xã Vô Ngại"
+			"id": 3419,
+			"name": "XÃ ĐÔNG MINH"
+		},
+		{
+			"id": 3420,
+			"name": "XÃ THẮNG MỖ"
+		},
+		{
+			"id": 3421,
+			"name": "XÃ PHÚ LŨNG"
+		},
+		{
+			"id": 3422,
+			"name": "XÃ SỦNG TRÁNG"
+		},
+		{
+			"id": 3423,
+			"name": "XÃ NA KHÊ"
+		},
+		{
+			"id": 3424,
+			"name": "XÃ SỦNG THÀI"
+		},
+		{
+			"id": 3425,
+			"name": "XÃ LAO VÀ CHẢI"
+		},
+		{
+			"id": 3426,
+			"name": "XÃ MẬU LONG"
+		},
+		{
+			"id": 3427,
+			"name": "XÃ NGAM LA"
+		},
+		{
+			"id": 3428,
+			"name": "XÃ ĐƯỜNG THƯỢNG"
+		},
+		{
+			"id": 3429,
+			"name": "XÃ DU TIẾN"
+		},
+		{
+			"id": 3430,
+			"name": "XÃ DU GIÀ"
 		}
 	]
 }

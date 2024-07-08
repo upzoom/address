@@ -1,0 +1,38 @@
+{
+	"id": 29,
+	"name": "Lai Châu",
+	"data": [
+		{
+			"id": 304,
+			"name": "HUYỆN TAM ĐƯỜNG"
+		},
+		{
+			"id": 305,
+			"name": "HUYỆN PHONG THỔ"
+		},
+		{
+			"id": 306,
+			"name": "HUYỆN SÌN HỒ"
+		},
+		{
+			"id": 307,
+			"name": "HUYỆN THAN UYÊN"
+		},
+		{
+			"id": 308,
+			"name": "HUYỆN MƯỜNG TÈ"
+		},
+		{
+			"id": 309,
+			"name": "HUYỆN TÂN UYÊN"
+		},
+		{
+			"id": 310,
+			"name": "HUYỆN NẬM NHÙN"
+		},
+		{
+			"id": 311,
+			"name": "THÀNH PHỐ LAI CHÂU"
+		}
+	]
+}

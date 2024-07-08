@@ -1,102 +1,86 @@
 {
-	"id": "157",
-	"name": "Huyện Lạc Sơn",
+	"id": 157,
+	"name": "THỊ XÃ DUY TIÊN",
 	"data": [
 		{
-			"id": "05347",
-			"name": "Xã Ân Nghĩa"
+			"id": 2411,
+			"name": "THỊ TRẤN HÒA MẠC"
 		},
 		{
-			"id": "05308",
-			"name": "Xã Bình Hẻm"
+			"id": 2412,
+			"name": "THỊ TRẤN ĐỒNG VĂN"
 		},
 		{
-			"id": "05323",
-			"name": "Xã Chí Đạo"
+			"id": 2413,
+			"name": "XÃ DUY HẢI"
 		},
 		{
-			"id": "05320",
-			"name": "Xã Định Cư"
+			"id": 2414,
+			"name": "XÃ BẠCH THƯỢNG"
 		},
 		{
-			"id": "05332",
-			"name": "Xã Hương Nhượng"
+			"id": 2415,
+			"name": "XÃ DUY MINH"
 		},
 		{
-			"id": "05272",
-			"name": "Xã Miền Đồi"
+			"id": 2416,
+			"name": "XÃ HOÀNG ĐÔNG"
 		},
 		{
-			"id": "05275",
-			"name": "Xã Mỹ Thành"
+			"id": 2417,
+			"name": "XÃ TIÊN NỘI"
 		},
 		{
-			"id": "05350",
-			"name": "Xã Ngọc Lâu"
+			"id": 2418,
+			"name": "XÃ TIÊN NGOẠI"
 		},
 		{
-			"id": "05329",
-			"name": "Xã Ngọc Sơn"
+			"id": 2422,
+			"name": "XÃ CHÂU SƠN"
 		},
 		{
-			"id": "05290",
-			"name": "Xã Nhân Nghĩa"
+			"id": 2423,
+			"name": "XÃ ĐỌI SƠN"
 		},
 		{
-			"id": "05269",
-			"name": "Xã Quý Hòa"
+			"id": 2424,
+			"name": "XÃ YÊN NAM"
 		},
 		{
-			"id": "05299",
-			"name": "Xã Quyết Thắng"
+			"id": 2425,
+			"name": "XÃ TRÁC VĂN"
 		},
 		{
-			"id": "05287",
-			"name": "Xã Tân Lập"
+			"id": 2426,
+			"name": "XÃ CHUYÊN NGOẠI"
 		},
 		{
-			"id": "05344",
-			"name": "Xã Tân Mỹ"
+			"id": 2427,
+			"name": "XÃ MỘC NAM"
 		},
 		{
-			"id": "05293",
-			"name": "Xã Thượng Cốc"
+			"id": 2428,
+			"name": "XÃ MỘC BẮC"
 		},
 		{
-			"id": "05338",
-			"name": "Xã Tự Do"
+			"id": 2429,
+			"name": "XÃ CHÂU GIANG"
 		},
 		{
-			"id": "05278",
-			"name": "Xã Tuân Đạo"
+			"id": 2430,
+			"name": "XÃ TIÊN PHONG"
 		},
 		{
-			"id": "05281",
-			"name": "Xã Văn Nghĩa"
+			"id": 2431,
+			"name": "XÃ YÊN BẮC"
 		},
 		{
-			"id": "05284",
-			"name": "Xã Văn Sơn"
+			"id": 2432,
+			"name": "XÃ ĐIỆP SƠN"
 		},
 		{
-			"id": "05266",
-			"name": "Thị trấn Vụ Bản"
-		},
-		{
-			"id": "05335",
-			"name": "Xã Vũ Bình"
-		},
-		{
-			"id": "05302",
-			"name": "Xã Xuất Hóa"
-		},
-		{
-			"id": "05341",
-			"name": "Xã Yên Nghiệp"
-		},
-		{
-			"id": "05305",
-			"name": "Xã Yên Phú"
+			"id": 25696,
+			"name": "XÃ TIÊN SƠN"
 		}
 	]
 }

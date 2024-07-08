@@ -1,66 +1,98 @@
 {
-	"id": "269",
-	"name": "Thị xã Sơn Tây",
+	"id": 269,
+	"name": "THÀNH PHỐ VIỆT TRÌ",
 	"data": [
 		{
-			"id": "09616",
-			"name": "Xã Cổ Đông"
+			"id": 17003,
+			"name": "XÃ CHU HÓA"
 		},
 		{
-			"id": "09592",
-			"name": "Xã Đường Lâm"
+			"id": 17012,
+			"name": "XÃ THANH ĐÌNH"
 		},
 		{
-			"id": "09610",
-			"name": "Xã Kim Sơn"
+			"id": 4824,
+			"name": "PHƯỜNG TIÊN CÁT"
 		},
 		{
-			"id": "09574",
-			"name": "Phường Lê Lợi"
+			"id": 4825,
+			"name": "PHƯỜNG NÔNG TRANG"
 		},
 		{
-			"id": "09580",
-			"name": "Phường Ngô Quyền"
+			"id": 4826,
+			"name": "PHƯỜNG MINH NÔNG"
 		},
 		{
-			"id": "09577",
-			"name": "Phường Phú Thịnh"
+			"id": 4827,
+			"name": "PHƯỜNG GIA CẨM"
 		},
 		{
-			"id": "09583",
-			"name": "Phường Quang Trung"
+			"id": 4828,
+			"name": "PHƯỜNG MINH PHƯƠNG"
 		},
 		{
-			"id": "09613",
-			"name": "Xã Sơn Đông"
+			"id": 4829,
+			"name": "XÃ TRƯNG VƯƠNG"
 		},
 		{
-			"id": "09586",
-			"name": "Phường Sơn Lộc"
+			"id": 4830,
+			"name": "PHƯỜNG BẾN GÓT"
 		},
 		{
-			"id": "09604",
-			"name": "Xã Thanh Mỹ"
+			"id": 4831,
+			"name": "PHƯỜNG THỌ SƠN"
 		},
 		{
-			"id": "09601",
-			"name": "Phường Trung Hưng"
+			"id": 4832,
+			"name": "XÃ SÔNG LÔ"
 		},
 		{
-			"id": "09607",
-			"name": "Phường Trung Sơn Trầm"
+			"id": 4833,
+			"name": "PHƯỜNG BẠCH HẠC"
 		},
 		{
-			"id": "09595",
-			"name": "Phường Viên Sơn"
+			"id": 4834,
+			"name": "PHƯỜNG THANH MIẾU"
 		},
 		{
-			"id": "09589",
-			"name": "Phường Xuân Khanh"
+			"id": 4835,
+			"name": "PHƯỜNG DỮU LÂU"
 		},
 		{
-			"id": "09598",
-			"name": "Xã Xuân Sơn"
+			"id": 4836,
+			"name": "XÃ PHƯỢNG LÂU"
+		},
+		{
+			"id": 4837,
+			"name": "XÃ HÙNG LÔ"
+		},
+		{
+			"id": 4838,
+			"name": "PHƯỜNG VÂN CƠ"
+		},
+		{
+			"id": 4839,
+			"name": "PHƯỜNG VÂN PHÚ"
+		},
+		{
+			"id": 4840,
+			"name": "KCN THỤY VÂN"
+		},
+		{
+			"id": 4841,
+			"name": "PHƯỜNG TÂN DÂN"
+		},
+		{
+			"id": 4842,
+			"name": "XÃ KIM ĐỨC"
+		},
+		{
+			"id": 4843,
+			"name": "XÃ TÂN ĐỨC"
+		},
+		{
+			"id": 4844,
+			"name": "XÃ HY CƯƠNG"
 		}
 	]
 }

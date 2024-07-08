@@ -1,66 +1,58 @@
 {
-	"id": "633",
-	"name": "Huyện Chư Sê",
+	"id": 633,
+	"name": "THÀNH PHỐ LONG XUYÊN",
 	"data": [
 		{
-			"id": "23953",
-			"name": "Xã AL Bá"
+			"id": 10670,
+			"name": "PHƯỜNG MỸ LONG"
 		},
 		{
-			"id": "23956",
-			"name": "Xã AYun"
+			"id": 10671,
+			"name": "PHƯỜNG MỸ BÌNH"
 		},
 		{
-			"id": "23946",
-			"name": "Xã Bar Măih"
+			"id": 10672,
+			"name": "PHƯỜNG MỸ PHƯỚC"
 		},
 		{
-			"id": "23947",
-			"name": "Xã Bờ Ngoong"
+			"id": 10673,
+			"name": "PHƯỜNG MỸ QUÝ"
 		},
 		{
-			"id": "23945",
-			"name": "Xã Chư Pơng"
+			"id": 10674,
+			"name": "PHƯỜNG MỸ THỚI"
 		},
 		{
-			"id": "23941",
-			"name": "Thị trấn Chư Sê"
+			"id": 10675,
+			"name": "PHƯỜNG MỸ THẠNH"
 		},
 		{
-			"id": "23965",
-			"name": "Xã Dun"
+			"id": 10676,
+			"name": "PHƯỜNG MỸ HOÀ"
 		},
 		{
-			"id": "23968",
-			"name": "Xã H Bông"
+			"id": 10677,
+			"name": "PHƯỜNG ĐÔNG XUYÊN"
 		},
 		{
-			"id": "23962",
-			"name": "Xã Ia Blang"
+			"id": 10678,
+			"name": "PHƯỜNG MỸ XUYÊN"
 		},
 		{
-			"id": "23950",
-			"name": "Xã Ia Glai"
+			"id": 10679,
+			"name": "PHƯỜNG BÌNH KHÁNH"
 		},
 		{
-			"id": "23959",
-			"name": "Xã Ia HLốp"
+			"id": 10680,
+			"name": "PHƯỜNG BÌNH ĐỨC"
 		},
 		{
-			"id": "23977",
-			"name": "Xã Ia Ko"
+			"id": 10681,
+			"name": "XÃ MỸ KHÁNH"
 		},
 		{
-			"id": "23966",
-			"name": "Xã Ia Pal"
-		},
-		{
-			"id": "23944",
-			"name": "Xã Ia Tiêm"
-		},
-		{
-			"id": "23954",
-			"name": "Xã Kông HTok"
+			"id": 10682,
+			"name": "XÃ MỸ HOÀ HƯNG"
 		}
 	]
 }

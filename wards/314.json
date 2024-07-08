@@ -1,78 +1,82 @@
 {
-	"id": "314",
-	"name": "Huyện Kiến Thuỵ",
+	"id": 314,
+	"name": "HUYỆN SÔNG MÃ",
 	"data": [
 		{
-			"id": "11704",
-			"name": "Xã Đại Đồng"
+			"id": 5655,
+			"name": "THỊ TRẤN SÔNG MÃ"
 		},
 		{
-			"id": "11728",
-			"name": "Xã Đại Hà"
+			"id": 5656,
+			"name": "XÃ BÓ SINH"
 		},
 		{
-			"id": "11752",
-			"name": "Xã Đại Hợp"
+			"id": 5657,
+			"name": "XÃ PÚ PẨU"
 		},
 		{
-			"id": "11746",
-			"name": "Xã Đoàn Xá"
+			"id": 5658,
+			"name": "XÃ CHIỀNG PHUNG"
 		},
 		{
-			"id": "11695",
-			"name": "Xã Đông Phương"
+			"id": 5659,
+			"name": "XÃ CHIỀNG EN"
 		},
 		{
-			"id": "11716",
-			"name": "Xã Du Lễ"
+			"id": 5660,
+			"name": "XÃ MƯỜNG LẦM"
 		},
 		{
-			"id": "11701",
-			"name": "Xã Hữu Bằng"
+			"id": 5661,
+			"name": "XÃ NẬM TY"
 		},
 		{
-			"id": "11713",
-			"name": "Xã Kiến Quốc"
+			"id": 5662,
+			"name": "XÃ ĐỨA MÒN"
 		},
 		{
-			"id": "11725",
-			"name": "Xã Minh Tân"
+			"id": 5663,
+			"name": "XÃ YÊN HƯNG"
 		},
 		{
-			"id": "11731",
-			"name": "Xã Ngũ Đoan"
+			"id": 5664,
+			"name": "XÃ CHIỀNG SƠ"
 		},
 		{
-			"id": "11710",
-			"name": "Xã Ngũ Phúc"
+			"id": 5665,
+			"name": "XÃ NÀ NGHỊU"
 		},
 		{
-			"id": "11680",
-			"name": "Thị trấn Núi Đối"
+			"id": 5666,
+			"name": "XÃ NẬM MẰN"
 		},
 		{
-			"id": "11734",
-			"name": "Xã Tân Phong"
+			"id": 5667,
+			"name": "XÃ CHIỀNG KHOONG"
 		},
 		{
-			"id": "11743",
-			"name": "Xã Tân Trào"
+			"id": 5668,
+			"name": "XÃ CHIỀNG CANG"
 		},
 		{
-			"id": "11722",
-			"name": "Xã Thanh Sơn"
+			"id": 5669,
+			"name": "XÃ HUỔI MỘT"
 		},
 		{
-			"id": "11698",
-			"name": "Xã Thuận Thiên"
+			"id": 5670,
+			"name": "XÃ MƯỜNG SAI"
 		},
 		{
-			"id": "11719",
-			"name": "Xã Thuỵ Hương"
+			"id": 5671,
+			"name": "XÃ MƯỜNG CAI"
 		},
 		{
-			"id": "11749",
-			"name": "Xã Tú Sơn"
+			"id": 5672,
+			"name": "XÃ MƯỜNG HUNG"
+		},
+		{
+			"id": 5673,
+			"name": "XÃ CHIỀNG KHƯƠNG."
 		}
 	]
 }

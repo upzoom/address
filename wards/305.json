@@ -1,66 +1,86 @@
 {
-	"id": "305",
-	"name": "Quận Lê Chân",
+	"id": 305,
+	"name": "HUYỆN PHONG THỔ",
 	"data": [
 		{
-			"id": "11371",
-			"name": "Phường An Biên"
+			"id": 5521,
+			"name": "XÃ BẢN LANG"
 		},
 		{
-			"id": "11377",
-			"name": "Phường An Dương"
+			"id": 5522,
+			"name": "XÃ DÀO SAN"
 		},
 		{
-			"id": "11368",
-			"name": "Phường Cát Dài"
+			"id": 5523,
+			"name": "XÃ HOANG THÈN"
 		},
 		{
-			"id": "11395",
-			"name": "Phường Đông Hải"
+			"id": 5524,
+			"name": "XÃ KHỔNG LÀO"
 		},
 		{
-			"id": "11389",
-			"name": "Phường Dư Hàng"
+			"id": 5525,
+			"name": "XÃ MA LI CHẢI"
 		},
 		{
-			"id": "11404",
-			"name": "Phường Dư Hàng Kênh"
+			"id": 5526,
+			"name": "XÃ MA LI PHO"
 		},
 		{
-			"id": "11392",
-			"name": "Phường Hàng Kênh"
+			"id": 5527,
+			"name": "XÃ MỒ SÌ SAN"
 		},
 		{
-			"id": "11383",
-			"name": "Phường Hồ Nam"
+			"id": 5528,
+			"name": "XÃ MÙ SANG"
 		},
 		{
-			"id": "11405",
-			"name": "Phường Kênh Dương"
+			"id": 5529,
+			"name": "XÃ NẬM XE"
 		},
 		{
-			"id": "11374",
-			"name": "Phường Lam Sơn"
+			"id": 5530,
+			"name": "XÃ PA VÂY SỬ"
 		},
 		{
-			"id": "11401",
-			"name": "Phường Nghĩa Xá"
+			"id": 5531,
+			"name": "XÃ SÌ LỜ LẦU"
 		},
 		{
-			"id": "11398",
-			"name": "Phường Niệm Nghĩa"
+			"id": 5532,
+			"name": "XÃ MƯỜNG SO"
 		},
 		{
-			"id": "11386",
-			"name": "Phường Trại Cau"
+			"id": 5533,
+			"name": "THỊ TRẤN PHONG THỔ"
 		},
 		{
-			"id": "11380",
-			"name": "Phường Trần Nguyên Hãn"
+			"id": 5534,
+			"name": "THỊ TRẤN PA SO"
 		},
 		{
-			"id": "11407",
-			"name": "Phường Vĩnh Niệm"
+			"id": 5535,
+			"name": "XÃ LẢN NHÌ THÀNG"
+		},
+		{
+			"id": 5536,
+			"name": "XÃ SÌN SUỐI HỒ"
+		},
+		{
+			"id": 5537,
+			"name": "XÃ TÔNG QUA LÌN"
+		},
+		{
+			"id": 5538,
+			"name": "XÃ HUỔI LUÔNG"
+		},
+		{
+			"id": 5539,
+			"name": "XÃ VÀNG MA CHẢI"
+		},
+		{
+			"id": 5540,
+			"name": "XÃ VÀNG BÓ"
 		}
 	]
 }

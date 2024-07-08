@@ -1,46 +1,102 @@
 {
-	"id": "159",
-	"name": "Huyện Lạc Thủy",
+	"id": 159,
+	"name": "HUYỆN LÝ NHÂN",
 	"data": [
 		{
-			"id": "05428",
-			"name": "Xã An Bình"
+			"id": 2452,
+			"name": "THỊ TRẤN VĨNH TRỤ"
 		},
 		{
-			"id": "04981",
-			"name": "Thị trấn Ba Hàng Đồi"
+			"id": 2453,
+			"name": "XÃ HỢP LÝ"
 		},
 		{
-			"id": "05392",
-			"name": "Thị trấn Chi Nê"
+			"id": 2454,
+			"name": "XÃ CHÍNH LÝ"
 		},
 		{
-			"id": "05419",
-			"name": "Xã Đồng Tâm"
+			"id": 2455,
+			"name": "XÃ VĂN LÝ"
 		},
 		{
-			"id": "05404",
-			"name": "Xã Hưng Thi"
+			"id": 2456,
+			"name": "XÃ CÔNG LÝ"
 		},
 		{
-			"id": "05413",
-			"name": "Xã Khoan Dụ"
+			"id": 2457,
+			"name": "XÃ NGUYÊN LÝ"
 		},
 		{
-			"id": "05395",
-			"name": "Xã Phú Nghĩa"
+			"id": 2458,
+			"name": "XÃ ĐỒNG LÝ"
 		},
 		{
-			"id": "05398",
-			"name": "Xã Phú Thành"
+			"id": 2459,
+			"name": "XÃ ĐỨC LÝ"
 		},
 		{
-			"id": "05425",
-			"name": "Xã Thống Nhất"
+			"id": 2460,
+			"name": "XÃ ĐẠO LÝ"
 		},
 		{
-			"id": "05422",
-			"name": "Xã Yên Bồng"
+			"id": 2461,
+			"name": "XÃ NHÂN KHANG"
+		},
+		{
+			"id": 2462,
+			"name": "XÃ BẮC LÝ"
+		},
+		{
+			"id": 2463,
+			"name": "XÃ CHÂN LÝ"
+		},
+		{
+			"id": 2464,
+			"name": "XÃ NHÂN CHÍNH"
+		},
+		{
+			"id": 2465,
+			"name": "XÃ NHÂN NGHĨA"
+		},
+		{
+			"id": 2466,
+			"name": "XÃ NHÂN BÌNH"
+		},
+		{
+			"id": 2467,
+			"name": "XÃ XUÂN KHÊ"
+		},
+		{
+			"id": 2468,
+			"name": "XÃ PHÚ PHÚC"
+		},
+		{
+			"id": 2469,
+			"name": "XÃ TIẾN THẮNG"
+		},
+		{
+			"id": 2470,
+			"name": "XÃ HÒA HẬU"
+		},
+		{
+			"id": 2471,
+			"name": "XÃ NHÂN THỊNH"
+		},
+		{
+			"id": 2472,
+			"name": "XÃ NHÂN ĐẠO"
+		},
+		{
+			"id": 2473,
+			"name": "XÃ NHÂN HƯNG"
+		},
+		{
+			"id": 2474,
+			"name": "XÃ NHÂN MỸ"
+		},
+		{
+			"id": 26241,
+			"name": "XÃ TRẦN HƯNG ĐẠO"
 		}
 	]
 }

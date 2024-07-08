@@ -1,94 +1,126 @@
 {
-	"id": "183",
-	"name": "Huyện Cao Lộc",
+	"id": 183,
+	"name": "HUYỆN KIM SƠN",
 	"data": [
 		{
-			"id": "06190",
-			"name": "Xã Bảo Lâm"
+			"id": 3116,
+			"name": "XÃ LƯU PHƯƠNG"
 		},
 		{
-			"id": "06217",
-			"name": "Xã Bình Trung"
+			"id": 3117,
+			"name": "XÃ NAM DÂN"
 		},
 		{
-			"id": "06196",
-			"name": "Xã Cao Lâu"
+			"id": 3118,
+			"name": "XÃ NHƯ HÒA"
 		},
 		{
-			"id": "06187",
-			"name": "Thị trấn Cao Lộc"
+			"id": 3119,
+			"name": "XÃ QUANG THIỆN"
 		},
 		{
-			"id": "06232",
-			"name": "Xã Công Sơn"
+			"id": 3120,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "06184",
-			"name": "Thị trấn Đồng Đăng"
+			"id": 3121,
+			"name": "XÃ TÂN THỊNH"
 		},
 		{
-			"id": "06235",
-			"name": "Xã Gia Cát"
+			"id": 3122,
+			"name": "XÃ THƯỢNG KIÊM"
 		},
 		{
-			"id": "06220",
-			"name": "Xã Hải Yến"
+			"id": 3123,
+			"name": "THỊ TRẤN BÌNH MINH"
 		},
 		{
-			"id": "06223",
-			"name": "Xã Hòa Cư"
+			"id": 3124,
+			"name": "THỊ TRẤN PHÁT DIỆM"
 		},
 		{
-			"id": "06205",
-			"name": "Xã Hồng Phong"
+			"id": 3125,
+			"name": "XÃ VĂN HẢI"
 		},
 		{
-			"id": "06226",
-			"name": "Xã Hợp Thành"
+			"id": 3126,
+			"name": "XUÂN THIỆN"
 		},
 		{
-			"id": "06211",
-			"name": "Xã Lộc Yên"
+			"id": 3127,
+			"name": "XÃ YÊN LỘC"
 		},
 		{
-			"id": "06238",
-			"name": "Xã Mẫu Sơn"
+			"id": 3128,
+			"name": "XÃ YÊN MẬT"
 		},
 		{
-			"id": "06214",
-			"name": "Xã Phú Xá"
+			"id": 3129,
+			"name": "XÃ ĐỒNG HƯỚNG"
 		},
 		{
-			"id": "06244",
-			"name": "Xã Tân Liên"
+			"id": 3130,
+			"name": "XÃ ÂN HOÀ"
 		},
 		{
-			"id": "06250",
-			"name": "Xã Tân Thành"
+			"id": 3131,
+			"name": "XÃ CHẤT BÌNH"
 		},
 		{
-			"id": "06199",
-			"name": "Xã Thạch Đạn"
+			"id": 3132,
+			"name": "XÃ CHÍNH TÂM"
 		},
 		{
-			"id": "06193",
-			"name": "Xã Thanh Lòa"
+			"id": 3133,
+			"name": "XÃ CỒN THOI"
 		},
 		{
-			"id": "06208",
-			"name": "Xã Thụy Hùng"
+			"id": 3134,
+			"name": "XÃ ĐỊNH HOÁ"
 		},
 		{
-			"id": "06241",
-			"name": "Xã Xuân Long"
+			"id": 3135,
+			"name": "XÃ HỒI NINH"
 		},
 		{
-			"id": "06202",
-			"name": "Xã Xuất Lễ"
+			"id": 3136,
+			"name": "XÃ HÙNG TIẾN"
 		},
 		{
-			"id": "06247",
-			"name": "Xã Yên Trạch"
+			"id": 3137,
+			"name": "XÃ KIM CHÍNH"
+		},
+		{
+			"id": 3138,
+			"name": "XÃ KIM ĐỊNH"
+		},
+		{
+			"id": 3139,
+			"name": "XÃ KIM ĐỘNG"
+		},
+		{
+			"id": 3140,
+			"name": "XÃ KIM HẢI"
+		},
+		{
+			"id": 3141,
+			"name": "XÃ KIM MỸ"
+		},
+		{
+			"id": 3142,
+			"name": "XÃ KIM TÂN"
+		},
+		{
+			"id": 3143,
+			"name": "XÃ KIM TRUNG"
+		},
+		{
+			"id": 3144,
+			"name": "XÃ LAI THÀNH"
+		},
+		{
+			"id": 26239,
+			"name": "XÃ XUÂN CHÍNH"
 		}
 	]
 }

@@ -1,94 +1,110 @@
 {
-	"id": "227",
-	"name": "Thành phố Việt Trì",
+	"id": 227,
+	"name": "HUYỆN NA RÌ",
 	"data": [
 		{
-			"id": "07912",
-			"name": "Phường Bạch Hạc"
+			"id": 3914,
+			"name": "TT YẾN LẠC"
 		},
 		{
-			"id": "07915",
-			"name": "Phường Bến Gót"
+			"id": 3915,
+			"name": "XÃ ÂN TÌNH"
 		},
 		{
-			"id": "08506",
-			"name": "Xã Chu Hóa"
+			"id": 3916,
+			"name": "XÃ CƯ LẾ"
 		},
 		{
-			"id": "07888",
-			"name": "Phường Dữu Lâu"
+			"id": 3917,
+			"name": "XÃ CƯỜNG LỢI"
 		},
 		{
-			"id": "07900",
-			"name": "Phường Gia Cẩm"
+			"id": 3918,
+			"name": "XÃ LƯƠNG THƯỢNG"
 		},
 		{
-			"id": "08287",
-			"name": "Xã Hùng Lô"
+			"id": 3919,
+			"name": "XÃ QUANG PHONG"
 		},
 		{
-			"id": "08503",
-			"name": "Xã Hy Cương"
+			"id": 3920,
+			"name": "XÃ HỮU THÁC"
 		},
 		{
-			"id": "08281",
-			"name": "Xã Kim Đức"
+			"id": 3921,
+			"name": "XÃ KIM HỶ"
 		},
 		{
-			"id": "07933",
-			"name": "Phường Minh Nông"
+			"id": 3922,
+			"name": "XÃ VĂN MINH"
 		},
 		{
-			"id": "07927",
-			"name": "Phường Minh Phương"
+			"id": 3923,
+			"name": "XÃ VŨ LOAN"
 		},
 		{
-			"id": "07894",
-			"name": "Phường Nông Trang"
+			"id": 3924,
+			"name": "XÃ VĂN HỌC"
 		},
 		{
-			"id": "07921",
-			"name": "Xã Phượng Lâu"
+			"id": 3925,
+			"name": "XÃ XUÂN DƯƠNG"
 		},
 		{
-			"id": "07936",
-			"name": "Xã Sông Lô"
+			"id": 3926,
+			"name": "XÃ DƯƠNG SƠN"
 		},
 		{
-			"id": "07897",
-			"name": "Phường Tân Dân"
+			"id": 3927,
+			"name": "XÃ KIM LƯ"
 		},
 		{
-			"id": "08515",
-			"name": "Xã Thanh Đình"
+			"id": 3928,
+			"name": "XÃ LAM SƠN"
 		},
 		{
-			"id": "07909",
-			"name": "Phường Thanh Miếu"
+			"id": 3929,
+			"name": "XÃ LIÊM THỦY"
 		},
 		{
-			"id": "07906",
-			"name": "Phường Thọ Sơn"
+			"id": 3930,
+			"name": "XÃ LƯƠNG HẠ"
 		},
 		{
-			"id": "07924",
-			"name": "Xã Thụy Vân"
+			"id": 3931,
+			"name": "XÃ LƯƠNG THÀNH"
 		},
 		{
-			"id": "07903",
-			"name": "Phường Tiên Cát"
+			"id": 3932,
+			"name": "XÃ CÔN MINH"
 		},
 		{
-			"id": "07930",
-			"name": "Xã Trưng Vương"
+			"id": 3933,
+			"name": "XÃ HẢO NGHĨA"
 		},
 		{
-			"id": "07891",
-			"name": "Phường Vân Cơ"
+			"id": 3934,
+			"name": "XÃ ĐỔNG XÁ"
 		},
 		{
-			"id": "07918",
-			"name": "Phường Vân Phú"
+			"id": 3935,
+			"name": "XÃ LẠNG SAN"
+		},
+		{
+			"id": 26340,
+			"name": "XÃ VĂN VŨ"
+		},
+		{
+			"id": 26338,
+			"name": "XÃ SƠN THÀNH"
+		},
+		{
+			"id": 26339,
+			"name": "XÃ VĂN LANG"
+		},
+		{
+			"id": 26337,
+			"name": "XÃ TRẦN PHÚ"
 		}
 	]
 }

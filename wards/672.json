@@ -1,70 +1,22 @@
 {
-	"id": "672",
-	"name": "Thành phố Đà Lạt",
+	"id": 672,
+	"name": "HUYỆN KIÊN HẢI",
 	"data": [
 		{
-			"id": "24784",
-			"name": "Phường 1"
+			"id": 11229,
+			"name": "XÃ HÒN TRE"
 		},
 		{
-			"id": "24781",
-			"name": "Phường 2"
+			"id": 11230,
+			"name": "XÃ LẠI SƠN"
 		},
 		{
-			"id": "24802",
-			"name": "Phường 3"
+			"id": 11231,
+			"name": "XÃ AN SƠN"
 		},
 		{
-			"id": "24793",
-			"name": "Phường 4"
-		},
-		{
-			"id": "24790",
-			"name": "Phường 5"
-		},
-		{
-			"id": "24787",
-			"name": "Phường 6"
-		},
-		{
-			"id": "24769",
-			"name": "Phường 7"
-		},
-		{
-			"id": "24772",
-			"name": "Phường 8"
-		},
-		{
-			"id": "24778",
-			"name": "Phường 9"
-		},
-		{
-			"id": "24796",
-			"name": "Phường 10"
-		},
-		{
-			"id": "24799",
-			"name": "Phường 11"
-		},
-		{
-			"id": "24775",
-			"name": "Phường 12"
-		},
-		{
-			"id": "24808",
-			"name": "Xã Tà Nung"
-		},
-		{
-			"id": "24810",
-			"name": "Xã Trạm Hành"
-		},
-		{
-			"id": "24805",
-			"name": "Xã Xuân Thọ"
-		},
-		{
-			"id": "24811",
-			"name": "Xã Xuân Trường"
+			"id": 11232,
+			"name": "ĐẢO NAM DU"
 		}
 	]
 }

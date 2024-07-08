@@ -1,94 +1,126 @@
 {
-	"id": "125",
-	"name": "Huyện Mai Sơn",
+	"id": 125,
+	"name": "HUYỆN VĨNH TƯỜNG",
 	"data": [
 		{
-			"id": "04120",
-			"name": "Xã Chiềng Ban"
+			"id": 1764,
+			"name": "XÃ CAO ĐẠI"
 		},
 		{
-			"id": "04114",
-			"name": "Xã Chiềng Chăn"
+			"id": 1765,
+			"name": "XÃ CHẤN HƯNG"
 		},
 		{
-			"id": "04129",
-			"name": "Xã Chiềng Chung"
+			"id": 1766,
+			"name": "XÃ VIỆT XUÂN"
 		},
 		{
-			"id": "04147",
-			"name": "Xã Chiềng Dong"
+			"id": 1767,
+			"name": "XÃ ĐẠI ĐỒNG"
 		},
 		{
-			"id": "04150",
-			"name": "Xã Chiềng Kheo"
+			"id": 1768,
+			"name": "XÃ VĨNH NINH"
 		},
 		{
-			"id": "04156",
-			"name": "Xã Chiềng Lương"
+			"id": 1769,
+			"name": "XÃ KIM XÁ"
 		},
 		{
-			"id": "04132",
-			"name": "Xã Chiềng Mai"
+			"id": 1770,
+			"name": "XÃ LŨNG HÒA"
 		},
 		{
-			"id": "04123",
-			"name": "Xã Chiềng Mung"
+			"id": 1771,
+			"name": "XÃ LÝ NHÂN"
 		},
 		{
-			"id": "04141",
-			"name": "Xã Chiềng Nơi"
+			"id": 1772,
+			"name": "XÃ NGHĨA HƯNG"
 		},
 		{
-			"id": "04108",
-			"name": "Xã Chiềng Sung"
+			"id": 1773,
+			"name": "XÃ NGŨ KIÊN"
 		},
 		{
-			"id": "04153",
-			"name": "Xã Chiềng Ve"
+			"id": 1774,
+			"name": "XÃ PHÚ ĐA"
 		},
 		{
-			"id": "04138",
-			"name": "Xã Cò  Nòi"
+			"id": 1775,
+			"name": "XÃ PHÚ THỊNH"
 		},
 		{
-			"id": "04105",
-			"name": "Thị trấn Hát Lót"
+			"id": 1776,
+			"name": "XÃ TAM PHÚC"
 		},
 		{
-			"id": "04135",
-			"name": "Xã Hát Lót"
+			"id": 1777,
+			"name": "XÃ TÂN CƯƠNG"
 		},
 		{
-			"id": "04111",
-			"name": "Xã Mường Bằng"
+			"id": 1778,
+			"name": "XÃ TÂN TIẾN"
 		},
 		{
-			"id": "04126",
-			"name": "Xã Mường Bon"
+			"id": 1779,
+			"name": "XÃ THƯỢNG TRƯNG"
 		},
 		{
-			"id": "04117",
-			"name": "Xã Mương Chanh"
+			"id": 1780,
+			"name": "XÃ TUÂN CHÍNH"
 		},
 		{
-			"id": "04162",
-			"name": "Xã Nà Ơt"
+			"id": 1781,
+			"name": "XÃ TỨ TRƯNG"
 		},
 		{
-			"id": "04136",
-			"name": "Xã Nà Pó"
+			"id": 1782,
+			"name": "XÃ VÂN XUÂN"
 		},
 		{
-			"id": "04144",
-			"name": "Xã Phiêng Cằm"
+			"id": 1783,
+			"name": "XÃ VĨNH THỊNH"
 		},
 		{
-			"id": "04159",
-			"name": "Xã Phiêng Pằn"
+			"id": 1784,
+			"name": "XÃ VŨ DI"
 		},
 		{
-			"id": "04165",
-			"name": "Xã Tà Hộc"
+			"id": 1785,
+			"name": "XÃ YÊN BÌNH"
+		},
+		{
+			"id": 1786,
+			"name": "XÃ YÊN LẬP"
+		},
+		{
+			"id": 1787,
+			"name": "THỊ TRẤN VĨNH TƯỜNG"
+		},
+		{
+			"id": 1788,
+			"name": "THỊ TRẤN THỔ TANG"
+		},
+		{
+			"id": 1789,
+			"name": "XÃ AN TƯỜNG"
+		},
+		{
+			"id": 1790,
+			"name": "XÃ BÌNH DƯƠNG"
+		},
+		{
+			"id": 1791,
+			"name": "XÃ BỒ SAO"
+		},
+		{
+			"id": 1792,
+			"name": "XÃ VĨNH SƠN"
+		},
+		{
+			"id": 26274,
+			"name": "XÃ TÂN PHÚ"
 		}
 	]
 }

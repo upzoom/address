@@ -1,74 +1,98 @@
 {
-	"id": "233",
-	"name": "Huyện Phù Ninh",
+	"id": 233,
+	"name": "HUYỆN CHI LĂNG",
 	"data": [
 		{
-			"id": "08272",
-			"name": "Xã An Đạo"
+			"id": 4034,
+			"name": "XÃ HÒA BÌNH1"
 		},
 		{
-			"id": "08254",
-			"name": "Xã Bảo Thanh"
+			"id": 4035,
+			"name": "XÃ HÒA BÌNH2"
 		},
 		{
-			"id": "08275",
-			"name": "Xã Bình Phú"
+			"id": 4036,
+			"name": "XÃ BẰNG HỮU"
 		},
 		{
-			"id": "08260",
-			"name": "Xã Gia Thanh"
+			"id": 4037,
+			"name": "XÃ HỮU KIÊN"
 		},
 		{
-			"id": "08251",
-			"name": "Xã Hạ Giáp"
+			"id": 4038,
+			"name": "XÃ LÂM SƠN"
 		},
 		{
-			"id": "08234",
-			"name": "Xã Lệ Mỹ"
+			"id": 4039,
+			"name": "XÃ LIÊN SƠN"
 		},
 		{
-			"id": "08236",
-			"name": "Xã Liên Hoa"
+			"id": 4040,
+			"name": "XÃ NHÂN LÝ"
 		},
 		{
-			"id": "08230",
-			"name": "Thị trấn Phong Châu"
+			"id": 4041,
+			"name": "XÃ QUAN SƠN"
 		},
 		{
-			"id": "08257",
-			"name": "Xã Phú Lộc"
+			"id": 4042,
+			"name": "XÃ THƯỢNG CƯỜNG"
 		},
 		{
-			"id": "08233",
-			"name": "Xã Phú Mỹ"
+			"id": 4043,
+			"name": "XÃ VÂN AN"
 		},
 		{
-			"id": "08266",
-			"name": "Xã Phú Nham"
+			"id": 4044,
+			"name": "XÃ VẠN LINH"
 		},
 		{
-			"id": "08278",
-			"name": "Xã Phù Ninh"
+			"id": 4045,
+			"name": "XÃ VÂN THỦY"
 		},
 		{
-			"id": "08263",
-			"name": "Xã Tiên Du"
+			"id": 4046,
+			"name": "XÃ Y TỊCH"
 		},
 		{
-			"id": "08248",
-			"name": "Xã Tiên Phú"
+			"id": 4047,
+			"name": "XÃ BẮC THỦY"
 		},
 		{
-			"id": "08239",
-			"name": "Xã Trạm Thản"
+			"id": 4048,
+			"name": "XÃ BẰNG MẠC"
 		},
 		{
-			"id": "08242",
-			"name": "Xã Trị Quận"
+			"id": 4049,
+			"name": "XÃ CHIẾN THẮNG"
 		},
 		{
-			"id": "08245",
-			"name": "Xã Trung Giáp"
+			"id": 4050,
+			"name": "XÃ GIA LỘC"
+		},
+		{
+			"id": 4051,
+			"name": "XÃ MAI SAO"
+		},
+		{
+			"id": 4052,
+			"name": "XÃ QUANG LANG"
+		},
+		{
+			"id": 4053,
+			"name": "THỊ TRẤN CHI LĂNG"
+		},
+		{
+			"id": 4054,
+			"name": "THỊ TRẤN ĐỒNG MỎ"
+		},
+		{
+			"id": 4055,
+			"name": "XÃ HÒA BÌNH"
+		},
+		{
+			"id": 4056,
+			"name": "XÃ CHI LĂNG"
 		}
 	]
 }

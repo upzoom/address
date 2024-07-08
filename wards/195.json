@@ -1,70 +1,110 @@
 {
-	"id": "195",
-	"name": "Thành phố Cẩm Phả",
+	"id": 195,
+	"name": "HUYỆN BẮC QUANG",
 	"data": [
 		{
-			"id": "06796",
-			"name": "Phường Cẩm Bình"
+			"id": 3357,
+			"name": "THỊ TRẤN BẮC QUANG"
 		},
 		{
-			"id": "06769",
-			"name": "Phường Cẩm Đông"
+			"id": 3358,
+			"name": "XÃ VIỆT VINH"
 		},
 		{
-			"id": "06802",
-			"name": "Xã Cẩm Hải"
+			"id": 3359,
+			"name": "XÃ BẰNG HÀNH"
 		},
 		{
-			"id": "06772",
-			"name": "Phường Cẩm Phú"
+			"id": 3360,
+			"name": "XÃ ĐỒNG TIẾN"
 		},
 		{
-			"id": "06766",
-			"name": "Phường Cẩm Sơn"
+			"id": 3361,
+			"name": "XÃ ĐỒNG TÂM"
 		},
 		{
-			"id": "06775",
-			"name": "Phường Cẩm Tây"
+			"id": 3362,
+			"name": "XÃ LIÊN HIỆP"
 		},
 		{
-			"id": "06787",
-			"name": "Phường Cẩm Thạch"
+			"id": 3363,
+			"name": "XÃ KIM NGỌC"
 		},
 		{
-			"id": "06790",
-			"name": "Phường Cẩm Thành"
+			"id": 3364,
+			"name": "XÃ HÙNG AN"
 		},
 		{
-			"id": "06781",
-			"name": "Phường Cẩm Thịnh"
+			"id": 3365,
+			"name": "XÃ ĐỨC XUÂN"
 		},
 		{
-			"id": "06784",
-			"name": "Phường Cẩm Thủy"
+			"id": 3366,
+			"name": "XÃ VÔ ĐIẾM"
 		},
 		{
-			"id": "06793",
-			"name": "Phường Cẩm Trung"
+			"id": 3367,
+			"name": "XÃ ĐỒNG YÊN"
 		},
 		{
-			"id": "06799",
-			"name": "Xã Cộng Hòa"
+			"id": 3368,
+			"name": "XÃ VIỆT HỒNG"
 		},
 		{
-			"id": "06763",
-			"name": "Phường Cửa Ông"
+			"id": 3369,
+			"name": "XÃ QUANG MINH"
 		},
 		{
-			"id": "06805",
-			"name": "Xã Dương Huy"
+			"id": 3370,
+			"name": "THỊ TRẤN VĨNH TUY"
 		},
 		{
-			"id": "06760",
-			"name": "Phường Mông Dương"
+			"id": 3371,
+			"name": "XÃ TÂN LẬP"
 		},
 		{
-			"id": "06778",
-			"name": "Phường Quang Hanh"
+			"id": 3372,
+			"name": "XÃ TÂN QUANG"
+		},
+		{
+			"id": 3373,
+			"name": "THƯỢNG BÌNH"
+		},
+		{
+			"id": 3374,
+			"name": "XÃ HỮU SẢN"
+		},
+		{
+			"id": 3375,
+			"name": "XÃ TIÊN KIỀU"
+		},
+		{
+			"id": 3376,
+			"name": "XÃ VĨNH PHÚC"
+		},
+		{
+			"id": 3377,
+			"name": "XÃ ĐÔNG THÀNH"
+		},
+		{
+			"id": 3378,
+			"name": "XÃ VĨNH HẢO"
+		},
+		{
+			"id": 3379,
+			"name": "XÃ TÂN THÀNH"
+		},
+		{
+			"id": 3380,
+			"name": "XÃ NGHĨA TÂN"
+		},
+		{
+			"id": 3381,
+			"name": "THỊ TRẤN VIỆT QUANG"
+		},
+		{
+			"id": 3382,
+			"name": "XÃ THƯỢNG BÌNH"
 		}
 	]
 }

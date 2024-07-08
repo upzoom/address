@@ -1,106 +1,110 @@
 {
-	"id": "412",
-	"name": "Thành phố Vinh",
+	"id": 412,
+	"name": "HUYỆN VĨNH LINH",
 	"data": [
 		{
-			"id": "16693",
-			"name": "Phường Bến Thủy"
+			"id": 7779,
+			"name": "THỊ TRẤN HỒ XÁ"
 		},
 		{
-			"id": "16678",
-			"name": "Phường Cửa Nam"
+			"id": 7780,
+			"name": "THỊ TRẤN BẾN QUAN"
 		},
 		{
-			"id": "16684",
-			"name": "Phường Đội Cung"
+			"id": 7781,
+			"name": "THỊ TRẤN CỬA TÙNG"
 		},
 		{
-			"id": "16663",
-			"name": "Phường Đông Vĩnh"
+			"id": 7782,
+			"name": "XÃ VĨNH THÁI"
 		},
 		{
-			"id": "16666",
-			"name": "Phường Hà Huy Tập"
+			"id": 7783,
+			"name": "XÃ VĨNH Ô"
 		},
 		{
-			"id": "16696",
-			"name": "Phường Hồng Sơn"
+			"id": 7784,
+			"name": "XÃ VĨNH KHÊ"
 		},
 		{
-			"id": "16672",
-			"name": "Phường Hưng Bình"
+			"id": 7785,
+			"name": "XÃ VĨNH HÀ"
 		},
 		{
-			"id": "18013",
-			"name": "Xã Hưng Chính"
+			"id": 7786,
+			"name": "XÃ VĨNH LONG"
 		},
 		{
-			"id": "16705",
-			"name": "Xã Hưng Đông"
+			"id": 7787,
+			"name": "XÃ VĨNH CHẤP"
 		},
 		{
-			"id": "16675",
-			"name": "Phường Hưng Dũng"
+			"id": 7788,
+			"name": "XÃ VĨNH LÂM"
 		},
 		{
-			"id": "16711",
-			"name": "Xã Hưng Hòa"
+			"id": 7789,
+			"name": "XÃ VĨNH SƠN"
 		},
 		{
-			"id": "16708",
-			"name": "Xã Hưng Lộc"
+			"id": 7790,
+			"name": "XÃ VĨNH THỦY"
 		},
 		{
-			"id": "16673",
-			"name": "Phường Hưng Phúc"
+			"id": 7791,
+			"name": "XÃ VĨNH NAM"
 		},
 		{
-			"id": "16669",
-			"name": "Phường Lê Lợi"
+			"id": 7792,
+			"name": "XÃ VĨNH TRUNG"
 		},
 		{
-			"id": "16687",
-			"name": "Phường Lê Mao"
+			"id": 7793,
+			"name": "XÃ VĨNH TÚ"
 		},
 		{
-			"id": "17914",
-			"name": "Xã Nghi Ân"
+			"id": 7794,
+			"name": "XÃ VĨNH HIỀN"
 		},
 		{
-			"id": "17923",
-			"name": "Xã Nghi Đức"
+			"id": 7795,
+			"name": "XÃ VĨNH HÒA"
 		},
 		{
-			"id": "17920",
-			"name": "Xã Nghi Kim"
+			"id": 7796,
+			"name": "XÃ VĨNH THẠCH"
 		},
 		{
-			"id": "17908",
-			"name": "Xã Nghi Liên"
+			"id": 7797,
+			"name": "XÃ VĨNH KIM"
 		},
 		{
-			"id": "16702",
-			"name": "Xã Nghi Phú"
+			"id": 7798,
+			"name": "XÃ VĨNH GIANG"
 		},
 		{
-			"id": "16670",
-			"name": "Phường Quán Bàu"
+			"id": 7799,
+			"name": "XÃ VĨNH TÂN"
 		},
 		{
-			"id": "16681",
-			"name": "Phường Quang Trung"
+			"id": 7800,
+			"name": "XÃ VĨNH THÀNH"
 		},
 		{
-			"id": "16699",
-			"name": "Phường Trung Đô"
+			"id": 7801,
+			"name": "XÃ VĨNH QUANG"
 		},
 		{
-			"id": "16690",
-			"name": "Phường Trường Thi"
+			"id": 26172,
+			"name": "XÃ KIM THẠCH"
 		},
 		{
-			"id": "16714",
-			"name": "Phường Vinh Tân"
+			"id": 26171,
+			"name": "XÃ HIỀN THÀNH"
+		},
+		{
+			"id": 26173,
+			"name": "XÃ TRUNG NAM"
 		}
 	]
 }

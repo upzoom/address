@@ -1,50 +1,54 @@
 {
-	"id": "561",
-	"name": "Huyện Sông Hinh",
+	"id": 561,
+	"name": "THỊ XÃ TRẢNG BÀNG",
 	"data": [
 		{
-			"id": "22222",
-			"name": "Xã Đức Bình Đông"
+			"id": 9732,
+			"name": "XÃ PHƯỚC CHỈ"
 		},
 		{
-			"id": "22213",
-			"name": "Xã Đức Bình Tây"
+			"id": 9733,
+			"name": "XÃ AN HOÀ"
 		},
 		{
-			"id": "22216",
-			"name": "Xã Ea Bá"
+			"id": 9734,
+			"name": "THỊ TRẤN TRẢNG BÀNG"
 		},
 		{
-			"id": "22210",
-			"name": "Xã Ea Lâm"
+			"id": 9735,
+			"name": "XÃ AN TỊNH"
 		},
 		{
-			"id": "22225",
-			"name": "Xã EaBar"
+			"id": 9736,
+			"name": "XÃ BÌNH THẠNH"
 		},
 		{
-			"id": "22228",
-			"name": "Xã EaBia"
+			"id": 9737,
+			"name": "XÃ ĐÔN THUẬN"
 		},
 		{
-			"id": "22231",
-			"name": "Xã EaTrol"
+			"id": 9738,
+			"name": "XÃ GIA BÌNH"
 		},
 		{
-			"id": "22237",
-			"name": "Xã Ealy"
+			"id": 9739,
+			"name": "XÃ GIA LỘC"
 		},
 		{
-			"id": "22207",
-			"name": "Thị trấn Hai Riêng"
+			"id": 9740,
+			"name": "XÃ HƯNG THUẬN"
 		},
 		{
-			"id": "22219",
-			"name": "Xã Sơn Giang"
+			"id": 9741,
+			"name": "XÃ LỘC HƯNG"
 		},
 		{
-			"id": "22234",
-			"name": "Xã Sông Hinh"
+			"id": 9742,
+			"name": "XÃ PHƯỚC LƯU"
+		},
+		{
+			"id": 26144,
+			"name": "XÃ PHƯỚC BÌNH"
 		}
 	]
 }

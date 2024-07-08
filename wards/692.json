@@ -1,70 +1,54 @@
 {
-	"id": "692",
-	"name": "Huyện Lộc Ninh",
+	"id": 692,
+	"name": "THỊ XÃ VĨNH CHÂU",
 	"data": [
 		{
-			"id": "25276",
-			"name": "Xã Lộc An"
+			"id": 11465,
+			"name": "TT VĨNH CHÂU"
 		},
 		{
-			"id": "25300",
-			"name": "Xã Lộc Điền"
+			"id": 11466,
+			"name": "XÃ VĨNH CHÂU"
 		},
 		{
-			"id": "25282",
-			"name": "Xã Lộc Hiệp"
+			"id": 11467,
+			"name": "XÃ VĨNH HIỆP"
 		},
 		{
-			"id": "25273",
-			"name": "Xã Lộc Hòa"
+			"id": 11468,
+			"name": "XÃ VĨNH TÂN"
 		},
 		{
-			"id": "25303",
-			"name": "Xã Lộc Hưng"
+			"id": 11469,
+			"name": "XÃ VĨNH PHƯỚC"
 		},
 		{
-			"id": "25306",
-			"name": "Xã Lộc Khánh"
+			"id": 11470,
+			"name": "XÃ LẠC HÒA"
 		},
 		{
-			"id": "25270",
-			"name": "Thị trấn Lộc Ninh"
+			"id": 11471,
+			"name": "XÃ VĨNH HẢI"
 		},
 		{
-			"id": "25292",
-			"name": "Xã Lộc Phú"
+			"id": 11472,
+			"name": "XÃ HÒA ĐÔNG"
 		},
 		{
-			"id": "25291",
-			"name": "Xã Lộc Quang"
+			"id": 11473,
+			"name": "XÃ KHÁNH HÒA"
 		},
 		{
-			"id": "25279",
-			"name": "Xã Lộc Tấn"
+			"id": 11474,
+			"name": "XÃ LAI HÒA"
 		},
 		{
-			"id": "25297",
-			"name": "Xã Lộc Thái"
+			"id": 24592,
+			"name": "PHƯỜNG 1"
 		},
 		{
-			"id": "25280",
-			"name": "Xã Lộc Thạnh"
-		},
-		{
-			"id": "25294",
-			"name": "Xã Lộc Thành"
-		},
-		{
-			"id": "25285",
-			"name": "Xã Lộc Thiện"
-		},
-		{
-			"id": "25305",
-			"name": "Xã Lộc Thịnh"
-		},
-		{
-			"id": "25288",
-			"name": "Xã Lộc Thuận"
+			"id": 24593,
+			"name": "PHƯỜNG 2"
 		}
 	]
 }

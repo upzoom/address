@@ -1,50 +1,62 @@
 {
-	"id": "617",
-	"name": "Huyện Tu Mơ Rông",
+	"id": 617,
+	"name": "HUYỆN THỦ THỪA",
 	"data": [
 		{
-			"id": "23425",
-			"name": "Xã Đắk Hà"
+			"id": 10475,
+			"name": "XÃ NHỊ THÀNH"
 		},
 		{
-			"id": "23407",
-			"name": "Xã Đắk Na"
+			"id": 10476,
+			"name": "THỊ TRẤN THỦ THỪA"
 		},
 		{
-			"id": "23417",
-			"name": "Xã Đắk Rơ Ông"
+			"id": 10477,
+			"name": "XÃ LONG THẠNH"
 		},
 		{
-			"id": "23416",
-			"name": "Xã Đắk Sao"
+			"id": 10478,
+			"name": "XÃ LONG THUẬN"
 		},
 		{
-			"id": "23419",
-			"name": "Xã Đắk Tờ Kan"
+			"id": 10479,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "23410",
-			"name": "Xã Măng Ri"
+			"id": 10480,
+			"name": "XÃ MỸ LẠC"
 		},
 		{
-			"id": "23404",
-			"name": "Xã Ngọc Lây"
+			"id": 10481,
+			"name": "XÃ MỸ THẠNH"
 		},
 		{
-			"id": "23413",
-			"name": "Xã Ngọc Yêu"
+			"id": 10482,
+			"name": "XÃ BÌNH AN"
 		},
 		{
-			"id": "23446",
-			"name": "Xã Tê Xăng"
+			"id": 10483,
+			"name": "XÃ MỸ AN"
 		},
 		{
-			"id": "23422",
-			"name": "Xã Tu Mơ Rông"
+			"id": 10484,
+			"name": "XÃ MỸ PHÚ"
 		},
 		{
-			"id": "23449",
-			"name": "Xã Văn Xuôi"
+			"id": 10485,
+			"name": "XÃ BÌNH THẠNH"
+		},
+		{
+			"id": 10486,
+			"name": "XÃ TÂN LẬP"
+		},
+		{
+			"id": 10487,
+			"name": "XÃ LONG THÀNH"
+		},
+		{
+			"id": 26143,
+			"name": "XÃ TÂN LONG"
 		}
 	]
 }

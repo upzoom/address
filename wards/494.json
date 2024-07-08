@@ -1,22 +1,86 @@
 {
-	"id": "494",
-	"name": "Quận Ngũ Hành Sơn",
+	"id": 494,
+	"name": "HUYỆN CHƯ PRÔNG",
 	"data": [
 		{
-			"id": "20290",
-			"name": "Phường Hoà Hải"
+			"id": 8944,
+			"name": "XÃ BÌNH GIÁO"
 		},
 		{
-			"id": "20287",
-			"name": "Phường Hoà Quý"
+			"id": 8945,
+			"name": "XÃ BẦU CẠN"
 		},
 		{
-			"id": "20285",
-			"name": "Phường Khuê Mỹ"
+			"id": 8946,
+			"name": "XÃ IA TOR"
 		},
 		{
-			"id": "20284",
-			"name": "Phường Mỹ An"
+			"id": 8947,
+			"name": "XÃ IABĂNG"
+		},
+		{
+			"id": 8948,
+			"name": "XÃ IA BOÒNG"
+		},
+		{
+			"id": 8949,
+			"name": "XÃ IA LÂU"
+		},
+		{
+			"id": 8950,
+			"name": "XÃ IA ME"
+		},
+		{
+			"id": 8951,
+			"name": "XÃ IA PHÌN"
+		},
+		{
+			"id": 8932,
+			"name": "XÃ IA PIOR"
+		},
+		{
+			"id": 8933,
+			"name": "XÃ IA PIA"
+		},
+		{
+			"id": 8934,
+			"name": "XÃ IA VÊ"
+		},
+		{
+			"id": 8935,
+			"name": "XÃ IA O"
+		},
+		{
+			"id": 8936,
+			"name": "XÃ IA GAR"
+		},
+		{
+			"id": 8937,
+			"name": "XÃ IA PÚCH"
+		},
+		{
+			"id": 8938,
+			"name": "XÃ IA MƠR"
+		},
+		{
+			"id": 8939,
+			"name": "XÃ IA BANG"
+		},
+		{
+			"id": 8940,
+			"name": "XÃ IA KLY"
+		},
+		{
+			"id": 8941,
+			"name": "THỊ TRẤN CHƯ PRÔNG"
+		},
+		{
+			"id": 8942,
+			"name": "XÃ IA DRĂNG"
+		},
+		{
+			"id": 8943,
+			"name": "XÃ THĂNG HƯNG"
 		}
 	]
 }

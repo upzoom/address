@@ -1,38 +1,58 @@
 {
-	"id": "709",
-	"name": "Thị xã Hòa Thành",
+	"id": 709,
+	"name": "THÀNH PHỐ ĐIỆN BIÊN PHỦ",
 	"data": [
 		{
-			"id": "25633",
-			"name": "Phường Hiệp Tân"
+			"id": 11639,
+			"name": "XÃ THANH MINH"
 		},
 		{
-			"id": "25630",
-			"name": "Phường Long Hoa"
+			"id": 11640,
+			"name": "PHƯỜNG TÂN THANH"
 		},
 		{
-			"id": "25636",
-			"name": "Phường Long Thành Bắc"
+			"id": 11641,
+			"name": "PHƯỜNG MƯỜNG THANH"
 		},
 		{
-			"id": "25651",
-			"name": "Xã Long Thành Nam"
+			"id": 11642,
+			"name": "PHƯỜNG HIM LAM"
 		},
 		{
-			"id": "25645",
-			"name": "Phường Long Thành Trung"
+			"id": 11643,
+			"name": "PHƯỜNG THANH BÌNH"
 		},
 		{
-			"id": "25642",
-			"name": "Xã Trường Đông"
+			"id": 11644,
+			"name": "PHƯỜNG THANH TRƯỜNG"
 		},
 		{
-			"id": "25639",
-			"name": "Xã Trường Hòa"
+			"id": 11645,
+			"name": "PHƯỜNG NAM THANH"
 		},
 		{
-			"id": "25648",
-			"name": "Xã Trường Tây"
+			"id": 11646,
+			"name": "PHƯỜNG NOONG BUA"
+		},
+		{
+			"id": 11647,
+			"name": "XÃ TÀ LÈNG"
+		},
+		{
+			"id": 25698,
+			"name": "XÃ MƯỜNG PHĂNG"
+		},
+		{
+			"id": 25699,
+			"name": "XÃ NÀ NHẠN"
+		},
+		{
+			"id": 25701,
+			"name": "XÃ PÁ KHOANG"
+		},
+		{
+			"id": 25700,
+			"name": "XÃ NÀ TẤU"
 		}
 	]
 }

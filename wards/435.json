@@ -1,0 +1,38 @@
+{
+	"id": 435,
+	"name": "HUYỆN NÔNG SƠN",
+	"data": [
+		{
+			"id": 8154,
+			"name": "XÃ PHƯỚC NINH"
+		},
+		{
+			"id": 8155,
+			"name": "XÃ QUẾ LÂM"
+		},
+		{
+			"id": 8149,
+			"name": "XÃ QUẾ TRUNG"
+		},
+		{
+			"id": 8150,
+			"name": "XÃ QUẾ LỘC"
+		},
+		{
+			"id": 8151,
+			"name": "XÃ QUẾ NINH"
+		},
+		{
+			"id": 8152,
+			"name": "XÃ QUẾ PHƯỚC"
+		},
+		{
+			"id": 8153,
+			"name": "XÃ SƠN VIÊN"
+		},
+		{
+			"id": 26154,
+			"name": "XÃ NINH PHƯỚC"
+		}
+	]
+}

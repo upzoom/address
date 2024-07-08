@@ -1,0 +1,66 @@
+{
+	"id": 59,
+	"name": "Kiên Giang",
+	"data": [
+		{
+			"id": 659,
+			"name": "HUYỆN AN BIÊN"
+		},
+		{
+			"id": 660,
+			"name": "HUYỆN GIỒNG RIỀNG"
+		},
+		{
+			"id": 661,
+			"name": "HUYỆN U MINH THƯỢNG"
+		},
+		{
+			"id": 662,
+			"name": "HUYỆN KIÊN LƯƠNG"
+		},
+		{
+			"id": 663,
+			"name": "HUYỆN CHÂU THÀNH"
+		},
+		{
+			"id": 664,
+			"name": "HUYỆN HÒN ĐẤT"
+		},
+		{
+			"id": 665,
+			"name": "HUYỆN GIANG THÀNH"
+		},
+		{
+			"id": 666,
+			"name": "HUYỆN VĨNH THUẬN"
+		},
+		{
+			"id": 667,
+			"name": "THÀNH PHỐ RẠCH GIÁ"
+		},
+		{
+			"id": 668,
+			"name": "HUYỆN TÂN HIỆP"
+		},
+		{
+			"id": 669,
+			"name": "HUYỆN PHÚ QUỐC"
+		},
+		{
+			"id": 670,
+			"name": "HUYỆN GÒ QUAO"
+		},
+		{
+			"id": 671,
+			"name": "THÀNH PHỐ HÀ TIÊN"
+		},
+		{
+			"id": 672,
+			"name": "HUYỆN KIÊN HẢI"
+		},
+		{
+			"id": 673,
+			"name": "HUYỆN AN MINH"
+		}
+	]
+}

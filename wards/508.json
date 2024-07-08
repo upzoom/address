@@ -1,62 +1,42 @@
 {
-	"id": "508",
-	"name": "Huyện Duy Xuyên",
+	"id": 508,
+	"name": "HUYỆN CHƯ PƯH",
 	"data": [
 		{
-			"id": "20614",
-			"name": "Xã Duy Châu"
+			"id": 9128,
+			"name": "THỊ TRẤN NHƠN HOÀ - H. CHƯ PƯH"
 		},
 		{
-			"id": "20638",
-			"name": "Xã Duy Hải"
+			"id": 9129,
+			"name": "XÃ IALE"
 		},
 		{
-			"id": "20611",
-			"name": "Xã Duy Hòa"
+			"id": 9130,
+			"name": "XÃ IA HRÚ"
 		},
 		{
-			"id": "20635",
-			"name": "Xã Duy Nghĩa"
+			"id": 9131,
+			"name": "XÃ CHƯDON"
 		},
 		{
-			"id": "20605",
-			"name": "Xã Duy Phú"
+			"id": 9132,
+			"name": "XÃ IARONG"
 		},
 		{
-			"id": "20626",
-			"name": "Xã Duy Phước"
+			"id": 9133,
+			"name": "XÃ IADRENG"
 		},
 		{
-			"id": "20620",
-			"name": "Xã Duy Sơn"
+			"id": 9134,
+			"name": "XÃ IA PHANG"
 		},
 		{
-			"id": "20608",
-			"name": "Xã Duy Tân"
+			"id": 9135,
+			"name": "XÃ IA HLA"
 		},
 		{
-			"id": "20629",
-			"name": "Xã Duy Thành"
-		},
-		{
-			"id": "20602",
-			"name": "Xã Duy Thu"
-		},
-		{
-			"id": "20617",
-			"name": "Xã Duy Trinh"
-		},
-		{
-			"id": "20623",
-			"name": "Xã Duy Trung"
-		},
-		{
-			"id": "20632",
-			"name": "Xã Duy Vinh"
-		},
-		{
-			"id": "20599",
-			"name": "Thị trấn Nam Phước"
+			"id": 9136,
+			"name": "XÃ IA BLỨ"
 		}
 	]
 }

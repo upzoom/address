@@ -1,50 +1,146 @@
 {
-	"id": "374",
-	"name": "Huyện Hoa Lư",
+	"id": 374,
+	"name": "HUYỆN ĐÔ LƯƠNG",
 	"data": [
 		{
-			"id": "14557",
-			"name": "Xã Ninh An"
+			"id": 6943,
+			"name": "THỊ TRẤN ĐÔ LƯƠNG"
 		},
 		{
-			"id": "14530",
-			"name": "Xã Ninh Giang"
+			"id": 6944,
+			"name": "XÃ TÂN SƠN"
 		},
 		{
-			"id": "14548",
-			"name": "Xã Ninh Hải"
+			"id": 6945,
+			"name": "XÃ THỊNH SƠN"
 		},
 		{
-			"id": "14542",
-			"name": "Xã Ninh Hòa"
+			"id": 6946,
+			"name": "XÃ HÒA SƠN"
 		},
 		{
-			"id": "14536",
-			"name": "Xã Ninh Khang"
+			"id": 6947,
+			"name": "XÃ THÁI SƠN"
 		},
 		{
-			"id": "14539",
-			"name": "Xã Ninh Mỹ"
+			"id": 6948,
+			"name": "XÃ XUÂN SƠN"
 		},
 		{
-			"id": "14551",
-			"name": "Xã Ninh Thắng"
+			"id": 6949,
+			"name": "XÃ MINH SƠN"
 		},
 		{
-			"id": "14554",
-			"name": "Xã Ninh Vân"
+			"id": 6950,
+			"name": "XÃ LẠC SƠN"
 		},
 		{
-			"id": "14545",
-			"name": "Xã Ninh Xuân"
+			"id": 6951,
+			"name": "XÃ QUANG SƠN"
 		},
 		{
-			"id": "14527",
-			"name": "Thị trấn Thiên Tôn"
+			"id": 6952,
+			"name": "XÃ ĐÀ SƠN"
 		},
 		{
-			"id": "14533",
-			"name": "Xã Trường Yên"
+			"id": 6953,
+			"name": "XÃ VĂN SƠN"
+		},
+		{
+			"id": 6954,
+			"name": "XÃ LƯU SƠN"
+		},
+		{
+			"id": 6955,
+			"name": "XÃ HIẾN SƠN"
+		},
+		{
+			"id": 6956,
+			"name": "XÃ LIÊN SƠN"
+		},
+		{
+			"id": 6957,
+			"name": "XÃ BẮC SƠN"
+		},
+		{
+			"id": 6958,
+			"name": "XÃ BÀI SƠN"
+		},
+		{
+			"id": 6959,
+			"name": "XÃ BỒI SƠN"
+		},
+		{
+			"id": 6960,
+			"name": "XÃ ĐÔNG SƠN"
+		},
+		{
+			"id": 6961,
+			"name": "XÃ ĐẠI SƠN"
+		},
+		{
+			"id": 6962,
+			"name": "XÃ HỒNG SƠN"
+		},
+		{
+			"id": 6963,
+			"name": "XÃ LAM SƠN"
+		},
+		{
+			"id": 6964,
+			"name": "XÃ MỸ SƠN"
+		},
+		{
+			"id": 6965,
+			"name": "XÃ THƯỢNG SƠN"
+		},
+		{
+			"id": 6966,
+			"name": "XÃ NAM SƠN"
+		},
+		{
+			"id": 6967,
+			"name": "XÃ NGỌC SƠN"
+		},
+		{
+			"id": 6968,
+			"name": "XÃ ĐẶNG SƠN"
+		},
+		{
+			"id": 6969,
+			"name": "XÃ TRUNG SƠN"
+		},
+		{
+			"id": 6970,
+			"name": "XÃ GIANG SƠN TÂY"
+		},
+		{
+			"id": 6971,
+			"name": "XÃ GIANG SƠN ĐÔNG"
+		},
+		{
+			"id": 6972,
+			"name": "XÃ NHÂN SƠN"
+		},
+		{
+			"id": 6973,
+			"name": "XÃ THUẬN SƠN"
+		},
+		{
+			"id": 6974,
+			"name": "XÃ TRÀNG SƠN"
+		},
+		{
+			"id": 6975,
+			"name": "XÃ TRÙ SƠN"
+		},
+		{
+			"id": 6976,
+			"name": "XÃ YÊN SƠN"
+		},
+		{
+			"id": 6977,
+			"name": "XÃ GIANG SƠN"
 		}
 	]
 }

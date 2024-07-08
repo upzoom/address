@@ -1,42 +1,50 @@
 {
-	"id": "681",
-	"name": "Huyện Đạ Huoai",
+	"id": 681,
+	"name": "HUYỆN TIỂU CẦN",
 	"data": [
 		{
-			"id": "25096",
-			"name": "Thị trấn Đạ M'ri"
+			"id": 11342,
+			"name": "HIẾU TỬ"
 		},
 		{
-			"id": "25111",
-			"name": "Xã Đạ Oai"
+			"id": 11343,
+			"name": "HIẾU TRUNG"
 		},
 		{
-			"id": "25114",
-			"name": "Xã Đạ Ploa"
+			"id": 11344,
+			"name": "HÙNG HOÀ"
 		},
 		{
-			"id": "25108",
-			"name": "Xã Đạ Tồn"
+			"id": 11345,
+			"name": "NGÃI HÙNG"
 		},
 		{
-			"id": "25120",
-			"name": "Xã Đoàn Kết"
+			"id": 11346,
+			"name": "TÂN HÙNG"
 		},
 		{
-			"id": "25105",
-			"name": "Xã Hà Lâm"
+			"id": 11347,
+			"name": "PHÚ CẦN"
 		},
 		{
-			"id": "25099",
-			"name": "Thị trấn Ma Đa Guôi"
+			"id": 11348,
+			"name": "TT CẦU QUAN"
 		},
 		{
-			"id": "25117",
-			"name": "Xã Ma Đa Guôi"
+			"id": 11349,
+			"name": "TT TIỂU CẦN"
 		},
 		{
-			"id": "25123",
-			"name": "Xã Phước Lộc"
+			"id": 11350,
+			"name": "TẬP NGÃI"
+		},
+		{
+			"id": 11351,
+			"name": "TÂN HOÀ"
+		},
+		{
+			"id": 11352,
+			"name": "LONG THỚI"
 		}
 	]
 }

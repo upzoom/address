@@ -1,74 +1,122 @@
 {
-	"id": "268",
-	"name": "Quận Hà Đông",
+	"id": 268,
+	"name": "HUYỆN THANH BA",
 	"data": [
 		{
-			"id": "10123",
-			"name": "Phường Biên Giang"
+			"id": 19467,
+			"name": "XÃ TINH NHUỆ"
 		},
 		{
-			"id": "10117",
-			"name": "Phường Đồng Mai"
+			"id": 4797,
+			"name": "XÃ ĐỒNG XUÂN"
 		},
 		{
-			"id": "09886",
-			"name": "Phường Dương Nội"
+			"id": 4798,
+			"name": "XÃ YỂN KHÊ"
 		},
 		{
-			"id": "09556",
-			"name": "Phường Hà Cầu"
+			"id": 4799,
+			"name": "THỊ TRẤN THANH BA"
 		},
 		{
-			"id": "09565",
-			"name": "Phường Kiến Hưng"
+			"id": 4800,
+			"name": "XÃ PHƯƠNG LĨNH"
 		},
 		{
-			"id": "09551",
-			"name": "Phường La Khê"
+			"id": 4801,
+			"name": "XÃ THANH XÁ"
 		},
 		{
-			"id": "09541",
-			"name": "Phường Mộ Lao"
+			"id": 4802,
+			"name": "XÃ MẠN LẠN"
 		},
 		{
-			"id": "09538",
-			"name": "Phường Nguyễn Trãi"
+			"id": 4803,
+			"name": "XÃ CHÍ TIÊN"
 		},
 		{
-			"id": "09552",
-			"name": "Phường Phú La"
+			"id": 4804,
+			"name": "XÃ LƯƠNG LỖ"
 		},
 		{
-			"id": "09568",
-			"name": "Phường Phú Lãm"
+			"id": 4805,
+			"name": "XÃ SƠN CƯƠNG"
 		},
 		{
-			"id": "09571",
-			"name": "Phường Phú Lương"
+			"id": 4806,
+			"name": "XÃ ĐÕ SƠN"
 		},
 		{
-			"id": "09553",
-			"name": "Phường Phúc La"
+			"id": 4807,
+			"name": "XÃ THANH HÀ"
 		},
 		{
-			"id": "09550",
-			"name": "Phường Quang Trung"
+			"id": 4808,
+			"name": "XÃ KHẢI XUÂN"
 		},
 		{
-			"id": "09544",
-			"name": "Phường Vạn Phúc"
+			"id": 4809,
+			"name": "XÃ THANH VÂN"
 		},
 		{
-			"id": "09542",
-			"name": "Phường Văn Quán"
+			"id": 4810,
+			"name": "XÃ QUẢNG NẠP"
 		},
 		{
-			"id": "09562",
-			"name": "Phường Yên Nghĩa"
+			"id": 4811,
+			"name": "XÃ NINH DÂN"
 		},
 		{
-			"id": "09547",
-			"name": "Phường Yết Kiêu"
+			"id": 4812,
+			"name": "XÃ YÊN NỘI"
+		},
+		{
+			"id": 4813,
+			"name": "XÃ HANH CÙ"
+		},
+		{
+			"id": 4814,
+			"name": "XÃ THÁI NINH"
+		},
+		{
+			"id": 4815,
+			"name": "XÃ VÕ LAO"
+		},
+		{
+			"id": 4816,
+			"name": "XÃ ĐÔNG LĨNH"
+		},
+		{
+			"id": 4817,
+			"name": "XÃ ĐẠI AN"
+		},
+		{
+			"id": 4818,
+			"name": "XÃ ĐÔNG THÀNH"
+		},
+		{
+			"id": 4819,
+			"name": "XÃ HOÀNG CƯỜNG"
+		},
+		{
+			"id": 4820,
+			"name": "XÃ VŨ ẺN"
+		},
+		{
+			"id": 4821,
+			"name": "XÃ ĐỖ XUYÊN"
+		},
+		{
+			"id": 4822,
+			"name": "XÃ NĂNG YÊN"
+		},
+		{
+			"id": 4823,
+			"name": "XÃ VÂN LĨNH"
+		},
+		{
+			"id": 26285,
+			"name": "XÃ QUẢNG YÊN"
 		}
 	]
 }

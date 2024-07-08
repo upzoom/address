@@ -1,150 +1,94 @@
 {
-	"id": "341",
-	"name": "Huyện Thái Thụy",
+	"id": 341,
+	"name": "HUYỆN ĐÔNG SƠN",
 	"data": [
 		{
-			"id": "12949",
-			"name": "Xã  Mỹ Lộc"
+			"id": 6238,
+			"name": "THỊ TRẤN RỪNG THÔNG"
 		},
 		{
-			"id": "12847",
-			"name": "Xã An Tân"
+			"id": 6239,
+			"name": "XÃ ĐÔNG HƯNG"
 		},
 		{
-			"id": "12826",
-			"name": "Thị trấn Diêm Điền"
+			"id": 6241,
+			"name": "XÃ ĐÔNG THANH"
 		},
 		{
-			"id": "12916",
-			"name": "Xã Dương Hồng  Thủy"
+			"id": 6242,
+			"name": "XÃ ĐÔNG KHÊ"
 		},
 		{
-			"id": "12865",
-			"name": "Xã Dương Phúc"
+			"id": 6244,
+			"name": "XÃ ĐÔNG MINH"
 		},
 		{
-			"id": "12922",
-			"name": "Xã Hòa An"
+			"id": 6245,
+			"name": "XÃ ĐÔNG PHÚ"
 		},
 		{
-			"id": "12841",
-			"name": "Xã Hồng Dũng"
+			"id": 6247,
+			"name": "XÃ ĐÔNG NAM"
 		},
 		{
-			"id": "12925",
-			"name": "Xã Sơn Hà"
+			"id": 6248,
+			"name": "XÃ ĐÔNG YÊN"
 		},
 		{
-			"id": "12958",
-			"name": "Xã Tân Học"
+			"id": 6249,
+			"name": "XÃ ĐÔNG THỊNH"
 		},
 		{
-			"id": "12940",
-			"name": "Xã Thái Đô"
+			"id": 6250,
+			"name": "XÃ ĐÔNG VĂN"
 		},
 		{
-			"id": "12919",
-			"name": "Xã Thái Giang"
+			"id": 6251,
+			"name": "XÃ ĐÔNG HÒA"
 		},
 		{
-			"id": "12937",
-			"name": "Xã Thái Hưng"
+			"id": 6252,
+			"name": "XÃ ĐÔNG HOÀNG"
 		},
 		{
-			"id": "12910",
-			"name": "Xã Thái Nguyên"
+			"id": 6253,
+			"name": "XÃ ĐÔNG ANH"
 		},
 		{
-			"id": "12934",
-			"name": "Xã Thái Phúc"
+			"id": 6254,
+			"name": "XÃ ĐÔNG XUÂN"
 		},
 		{
-			"id": "12961",
-			"name": "Xã Thái Thịnh"
+			"id": 6255,
+			"name": "XÃ ĐÔNG TIẾN"
 		},
 		{
-			"id": "12967",
-			"name": "Xã Thái Thọ"
+			"id": 6256,
+			"name": "XÃ ĐÔNG NINH"
 		},
 		{
-			"id": "12907",
-			"name": "Xã Thái Thượng"
+			"id": 6257,
+			"name": "XÃ CAO SƠN"
 		},
 		{
-			"id": "12943",
-			"name": "Xã Thái Xuyên"
+			"id": 6258,
+			"name": "XÃ TÂY SƠN"
 		},
 		{
-			"id": "12964",
-			"name": "Xã Thuần Thành"
+			"id": 6259,
+			"name": "XÃ QUAN SƠN"
 		},
 		{
-			"id": "12871",
-			"name": "Xã Thụy Bình"
+			"id": 6260,
+			"name": "LÀNG NGHỀ ĐÔNG HƯNG"
 		},
 		{
-			"id": "12874",
-			"name": "Xã Thụy Chính"
+			"id": 6261,
+			"name": "TRỊ TRẤN NHỒI"
 		},
 		{
-			"id": "12877",
-			"name": "Xã Thụy Dân"
-		},
-		{
-			"id": "12892",
-			"name": "Xã Thụy Duyên"
-		},
-		{
-			"id": "12880",
-			"name": "Xã Thụy Hải"
-		},
-		{
-			"id": "12853",
-			"name": "Xã Thụy Hưng"
-		},
-		{
-			"id": "12889",
-			"name": "Xã Thụy Liên"
-		},
-		{
-			"id": "12850",
-			"name": "Xã Thụy Ninh"
-		},
-		{
-			"id": "12904",
-			"name": "Xã Thụy Phong"
-		},
-		{
-			"id": "12844",
-			"name": "Xã Thụy Quỳnh"
-		},
-		{
-			"id": "12901",
-			"name": "Xã Thụy Sơn"
-		},
-		{
-			"id": "12898",
-			"name": "Xã Thụy Thanh"
-		},
-		{
-			"id": "12868",
-			"name": "Xã Thụy Trình"
-		},
-		{
-			"id": "12832",
-			"name": "Xã Thụy Trường"
-		},
-		{
-			"id": "12859",
-			"name": "Xã Thụy Văn"
-		},
-		{
-			"id": "12856",
-			"name": "Xã Thụy Việt"
-		},
-		{
-			"id": "12862",
-			"name": "Xã Thụy Xuân"
+			"id": 6262,
+			"name": "XÃ ĐÔNG QUANG"
 		}
 	]
 }

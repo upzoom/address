@@ -1,106 +1,78 @@
 {
-	"id": "398",
-	"name": "Huyện Thiệu Hóa",
+	"id": 398,
+	"name": "THÀNH PHỐ ĐỒNG HỚI",
 	"data": [
 		{
-			"id": "15829",
-			"name": "Xã Minh Tâm"
+			"id": 7551,
+			"name": "XÃ QUANG PHÚ"
 		},
 		{
-			"id": "15847",
-			"name": "Xã Tân Châu"
+			"id": 7552,
+			"name": "XÃ THUẬN ĐỨC"
 		},
 		{
-			"id": "15820",
-			"name": "Xã Thiệu Chính"
+			"id": 7553,
+			"name": "PHƯỜNG BẮC LÝ"
 		},
 		{
-			"id": "15787",
-			"name": "Xã Thiệu Công"
+			"id": 7554,
+			"name": "PHƯỜNG BẮC NGHĨA"
 		},
 		{
-			"id": "15799",
-			"name": "Xã Thiệu Duy"
+			"id": 7555,
+			"name": "PHƯỜNG ĐỒNG MỸ"
 		},
 		{
-			"id": "15796",
-			"name": "Xã Thiệu Giang"
+			"id": 7556,
+			"name": "PHƯỜNG ĐỒNG PHÚ"
 		},
 		{
-			"id": "15853",
-			"name": "Xã Thiệu Giao"
+			"id": 7557,
+			"name": "PHƯỜNG ĐỒNG SƠN (TIỂU KHU 1 - 7)"
 		},
 		{
-			"id": "15772",
-			"name": "Thị trấn Thiệu Hóa"
+			"id": 7558,
+			"name": "PHƯỜNG ĐỨC NINH"
 		},
 		{
-			"id": "15823",
-			"name": "Xã Thiệu Hòa"
+			"id": 7559,
+			"name": "PHƯỜNG HẢI ĐÌNH"
 		},
 		{
-			"id": "15805",
-			"name": "Xã Thiệu Hợp"
+			"id": 7560,
+			"name": "PHƯỜNG HẢI THÀNH"
 		},
 		{
-			"id": "15793",
-			"name": "Xã Thiệu Long"
+			"id": 7561,
+			"name": "PHƯỜNG NAM LÝ"
 		},
 		{
-			"id": "15835",
-			"name": "Xã Thiệu Lý"
+			"id": 7562,
+			"name": "PHƯỜNG PHÚ HẢI"
 		},
 		{
-			"id": "15775",
-			"name": "Xã Thiệu Ngọc"
+			"id": 7563,
+			"name": "XÃ BẢO NINH"
 		},
 		{
-			"id": "15802",
-			"name": "Xã Thiệu Nguyên"
+			"id": 7564,
+			"name": "PHƯỜNG ĐỨC NINH ĐÔNG"
 		},
 		{
-			"id": "15790",
-			"name": "Xã Thiệu Phú"
+			"id": 7565,
+			"name": "XÃ LỘC NINH"
 		},
 		{
-			"id": "15781",
-			"name": "Xã Thiệu Phúc"
+			"id": 7566,
+			"name": "XÃ NGHĨA NINH"
 		},
 		{
-			"id": "15811",
-			"name": "Xã Thiệu Quang"
+			"id": 7567,
+			"name": "PHƯỜNG ĐỒNG SƠN (TIỂU KHU 8-11)"
 		},
 		{
-			"id": "15814",
-			"name": "Xã Thiệu Thành"
-		},
-		{
-			"id": "15808",
-			"name": "Xã Thiệu Thịnh"
-		},
-		{
-			"id": "15784",
-			"name": "Xã Thiệu Tiến"
-		},
-		{
-			"id": "15817",
-			"name": "Xã Thiệu Toán"
-		},
-		{
-			"id": "15841",
-			"name": "Xã Thiệu Trung"
-		},
-		{
-			"id": "15838",
-			"name": "Xã Thiệu Vận"
-		},
-		{
-			"id": "15832",
-			"name": "Xã Thiệu Viên"
-		},
-		{
-			"id": "15778",
-			"name": "Xã Thiệu Vũ"
+			"id": 26177,
+			"name": "PHƯỜNG ĐỒNG HẢI"
 		}
 	]
 }

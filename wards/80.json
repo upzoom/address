@@ -1,0 +1,34 @@
+{
+	"id": 80,
+	"name": "QUẬN Ô MÔN",
+	"data": [
+		{
+			"id": 1256,
+			"name": "PHƯỜNG CHÂU VĂN LIÊM"
+		},
+		{
+			"id": 1257,
+			"name": "PHƯỜNG PHƯỚC THỚI"
+		},
+		{
+			"id": 1258,
+			"name": "PHƯỜNG TRƯỜNG LẠC"
+		},
+		{
+			"id": 1259,
+			"name": "PHƯỜNG THỚI HÒA"
+		},
+		{
+			"id": 1260,
+			"name": "PHƯỜNG THỚI AN"
+		},
+		{
+			"id": 1261,
+			"name": "PHƯỜNG THỚI LONG"
+		},
+		{
+			"id": 1262,
+			"name": "PHƯỜNG LONG HƯNG"
+		}
+	]
+}

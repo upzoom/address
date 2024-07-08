@@ -1,78 +1,90 @@
 {
-	"id": "262",
-	"name": "Thị xã Thuận Thành",
+	"id": 262,
+	"name": "HUYỆN PHÚ BÌNH",
 	"data": [
 		{
-			"id": "09418",
-			"name": "Phường An Bình"
+			"id": 4678,
+			"name": "THỊ TRẤN HƯƠNG SƠN"
 		},
 		{
-			"id": "09406",
-			"name": "Xã Đại Đồng Thành"
+			"id": 4679,
+			"name": "XÃ BÀN ĐẠT"
 		},
 		{
-			"id": "09415",
-			"name": "Xã Đình Tổ"
+			"id": 4680,
+			"name": "XÃ ĐỒNG LIÊN"
 		},
 		{
-			"id": "09424",
-			"name": "Phường Gia Đông"
+			"id": 4681,
+			"name": "XÃ TÂN KHÁNH"
 		},
 		{
-			"id": "09436",
-			"name": "Phường Hà Mãn"
+			"id": 4682,
+			"name": "XÃ TÂN KIM"
 		},
 		{
-			"id": "09400",
-			"name": "Phường Hồ"
+			"id": 4683,
+			"name": "XÃ TÂN THÀNH"
 		},
 		{
-			"id": "09403",
-			"name": "Xã Hoài Thượng"
+			"id": 4684,
+			"name": "XÃ ĐÀO XÁ"
 		},
 		{
-			"id": "09409",
-			"name": "Xã Mão Điền"
+			"id": 4685,
+			"name": "XÃ BẢO LÝ"
 		},
 		{
-			"id": "09448",
-			"name": "Xã Nghĩa Đạo"
+			"id": 4686,
+			"name": "XÃ THƯỢNG ĐÌNH"
 		},
 		{
-			"id": "09439",
-			"name": "Xã Ngũ Thái"
+			"id": 4687,
+			"name": "XÃ TÂN HOÀ"
 		},
 		{
-			"id": "09442",
-			"name": "Xã Nguyệt Đức"
+			"id": 4688,
+			"name": "XÃ NHÃ LỘNG"
 		},
 		{
-			"id": "09445",
-			"name": "Phường Ninh Xá"
+			"id": 4689,
+			"name": "XÃ ĐIỀM THUỴ"
 		},
 		{
-			"id": "09412",
-			"name": "Phường Song Hồ"
+			"id": 4690,
+			"name": "XÃ XUÂN PHƯƠNG"
 		},
 		{
-			"id": "09451",
-			"name": "Xã Song Liễu"
+			"id": 4691,
+			"name": "XÃ TÂN ĐỨC"
 		},
 		{
-			"id": "09427",
-			"name": "Phường Thanh Khương"
+			"id": 4692,
+			"name": "XÃ ÚC KỲ"
 		},
 		{
-			"id": "09430",
-			"name": "Phường Trạm Lộ"
+			"id": 4693,
+			"name": "XÃ LƯƠNG PHÚ"
 		},
 		{
-			"id": "09421",
-			"name": "Phường Trí Quả"
+			"id": 4694,
+			"name": "XÃ NGA MY"
 		},
 		{
-			"id": "09433",
-			"name": "Phường Xuân Lâm"
+			"id": 4695,
+			"name": "XÃ KHA SƠN"
+		},
+		{
+			"id": 4696,
+			"name": "XÃ THANH NINH"
+		},
+		{
+			"id": 4697,
+			"name": "XÃ DƯƠNG THÀNH"
+		},
+		{
+			"id": 4698,
+			"name": "XÃ HÀ CHÂU"
 		}
 	]
 }

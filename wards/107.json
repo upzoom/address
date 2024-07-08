@@ -1,62 +1,30 @@
 {
-	"id": "107",
-	"name": "Huyện Mường Tè",
+	"id": 107,
+	"name": "THÀNH PHỐ NGÃ BẢY",
 	"data": [
 		{
-			"id": "03466",
-			"name": "Xã Bum Nưa"
+			"id": 1573,
+			"name": "PHƯỜNG NGÃ BẢY"
 		},
 		{
-			"id": "03454",
-			"name": "Xã Bum Tở"
+			"id": 1574,
+			"name": "PHƯỜNG LÁI HIẾU"
 		},
 		{
-			"id": "03439",
-			"name": "Xã Ka Lăng"
+			"id": 1575,
+			"name": "PHƯỜNG HIỆP THÀNH"
 		},
 		{
-			"id": "03469",
-			"name": "Xã Kan Hồ"
+			"id": 1576,
+			"name": "XÃ HIỆP LỢI"
 		},
 		{
-			"id": "03451",
-			"name": "Xã Mù Cả"
+			"id": 1577,
+			"name": "XÃ ĐẠI THÀNH"
 		},
 		{
-			"id": "03433",
-			"name": "Thị trấn Mường Tè"
-		},
-		{
-			"id": "03445",
-			"name": "Xã Mường Tè"
-		},
-		{
-			"id": "03457",
-			"name": "Xã Nậm Khao"
-		},
-		{
-			"id": "03448",
-			"name": "Xã Pa Vệ Sử"
-		},
-		{
-			"id": "03442",
-			"name": "Xã Pa ủ"
-		},
-		{
-			"id": "03440",
-			"name": "Xã Tá Bạ"
-		},
-		{
-			"id": "03463",
-			"name": "Xã Tà Tổng"
-		},
-		{
-			"id": "03436",
-			"name": "Xã Thu Lũm"
-		},
-		{
-			"id": "03467",
-			"name": "Xã Vàng San"
+			"id": 1578,
+			"name": "XÃ TÂN THÀNH"
 		}
 	]
 }

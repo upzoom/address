@@ -1,54 +1,54 @@
 {
-	"id": "30",
-	"name": "Tỉnh Hải Dương",
+	"id": 30,
+	"name": "Sơn La",
 	"data": [
 		{
-			"id": "296",
-			"name": "Huyện Bình Giang"
+			"id": 312,
+			"name": "HUYỆN QUỲNH NHAI"
 		},
 		{
-			"id": "295",
-			"name": "Huyện Cẩm Giàng"
+			"id": 313,
+			"name": "HUYỆN MƯỜNG LA"
 		},
 		{
-			"id": "290",
-			"name": "Thành phố Chí Linh"
+			"id": 314,
+			"name": "HUYỆN SÔNG MÃ"
 		},
 		{
-			"id": "297",
-			"name": "Huyện Gia Lộc"
+			"id": 315,
+			"name": "THÀNH PHỐ SƠN LA"
 		},
 		{
-			"id": "288",
-			"name": "Thành phố Hải Dương"
+			"id": 316,
+			"name": "HUYỆN MAI SƠN"
 		},
 		{
-			"id": "293",
-			"name": "Huyện Kim Thành"
+			"id": 317,
+			"name": "HUYỆN PHÙ YÊN"
 		},
 		{
-			"id": "292",
-			"name": "Thị xã Kinh Môn"
+			"id": 318,
+			"name": "HUYỆN THUẬN CHÂU"
 		},
 		{
-			"id": "291",
-			"name": "Huyện Nam Sách"
+			"id": 319,
+			"name": "HUYỆN MỘC CHÂU"
 		},
 		{
-			"id": "299",
-			"name": "Huyện Ninh Giang"
+			"id": 320,
+			"name": "HUYỆN YÊN CHÂU"
 		},
 		{
-			"id": "294",
-			"name": "Huyện Thanh Hà"
+			"id": 321,
+			"name": "HUYỆN VÂN HỒ"
 		},
 		{
-			"id": "300",
-			"name": "Huyện Thanh Miện"
+			"id": 322,
+			"name": "HUYỆN BẮC YÊN"
 		},
 		{
-			"id": "298",
-			"name": "Huyện Tứ Kỳ"
+			"id": 323,
+			"name": "HUYỆN SỐP CỘP"
 		}
 	]
 }

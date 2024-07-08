@@ -1,98 +1,70 @@
 {
-	"id": "298",
-	"name": "Huyện Tứ Kỳ",
+	"id": 298,
+	"name": "THÀNH PHỐ CẨM PHẢ",
 	"data": [
 		{
-			"id": "11125",
-			"name": "Xã An Thanh"
+			"id": 5421,
+			"name": "P QUANG HANH"
 		},
 		{
-			"id": "11092",
-			"name": "Xã Bình Lăng"
+			"id": 5422,
+			"name": "PHƯỜNG CẨM THẠCH"
 		},
 		{
-			"id": "11095",
-			"name": "Xã Chí Minh"
+			"id": 5423,
+			"name": "PHƯỜNG CẨM THÀNH"
 		},
 		{
-			"id": "11140",
-			"name": "Xã Cộng Lạc"
+			"id": 5424,
+			"name": "PHƯỜNG CẨM BÌNH"
 		},
 		{
-			"id": "11119",
-			"name": "Xã Đại Hợp"
+			"id": 5425,
+			"name": "CỬA ÔNG"
 		},
 		{
-			"id": "11083",
-			"name": "Xã Đại Sơn"
+			"id": 5426,
+			"name": "PHƯỜNG CẨM TÂY"
 		},
 		{
-			"id": "11110",
-			"name": "Xã Dân Chủ"
+			"id": 5427,
+			"name": "PHƯỜNG CẨM ĐÔNG"
 		},
 		{
-			"id": "11149",
-			"name": "Xã Hà Kỳ"
+			"id": 5428,
+			"name": "PHƯỜNG CẨM PHÚ"
 		},
 		{
-			"id": "11152",
-			"name": "Xã Hà Thanh"
+			"id": 5429,
+			"name": "PHƯỜNG CẨM TRUNG"
 		},
 		{
-			"id": "11086",
-			"name": "Xã Hưng Đạo"
+			"id": 5430,
+			"name": "PHƯỜNG CẨM THỦY"
 		},
 		{
-			"id": "11128",
-			"name": "Xã Minh Đức"
+			"id": 5431,
+			"name": "PHƯỜNG CẨM THỊNH"
 		},
 		{
-			"id": "11089",
-			"name": "Xã Ngọc Kỳ"
+			"id": 5432,
+			"name": "PHƯỜNG CẨM SƠN"
 		},
 		{
-			"id": "11146",
-			"name": "Xã Nguyên Giáp"
+			"id": 5433,
+			"name": "PHƯỜNG CẨM HẢI"
 		},
 		{
-			"id": "11137",
-			"name": "Xã Phượng Kỳ"
+			"id": 5434,
+			"name": "P MÔNG DƯƠNG"
 		},
 		{
-			"id": "11116",
-			"name": "Xã Quang Khải"
+			"id": 5435,
+			"name": "XÃ CỘNG HÒA"
 		},
 		{
-			"id": "11122",
-			"name": "Xã Quảng Nghiệp"
-		},
-		{
-			"id": "11101",
-			"name": "Xã Quang Phục"
-		},
-		{
-			"id": "11134",
-			"name": "Xã Quang Trung"
-		},
-		{
-			"id": "11098",
-			"name": "Xã Tái Sơn"
-		},
-		{
-			"id": "11113",
-			"name": "Xã Tân Kỳ"
-		},
-		{
-			"id": "11143",
-			"name": "Xã Tiên Động"
-		},
-		{
-			"id": "11074",
-			"name": "Thị trấn Tứ Kỳ"
-		},
-		{
-			"id": "11131",
-			"name": "Xã Văn Tố"
+			"id": 5436,
+			"name": "XÃ DƯƠNG HUY"
 		}
 	]
 }

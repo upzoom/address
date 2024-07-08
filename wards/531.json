@@ -1,26 +1,70 @@
 {
-	"id": "531",
-	"name": "Huyện Minh Long",
+	"id": 531,
+	"name": "HUYỆN LÂM HÀ",
 	"data": [
 		{
-			"id": "21361",
-			"name": "Xã Long Hiệp"
+			"id": 9409,
+			"name": "THỊ TRẤN NAM BAN"
 		},
 		{
-			"id": "21352",
-			"name": "Xã Long Mai"
+			"id": 9410,
+			"name": "XÃ TÂN VĂN"
 		},
 		{
-			"id": "21358",
-			"name": "Xã Long Môn"
+			"id": 9411,
+			"name": "XÃ ĐẠ ĐỜN"
 		},
 		{
-			"id": "21349",
-			"name": "Xã Long Sơn"
+			"id": 9412,
+			"name": "XÃ PHÚ SƠN"
 		},
 		{
-			"id": "21355",
-			"name": "Xã Thanh An"
+			"id": 9413,
+			"name": "XÃ PHI TÔ"
+		},
+		{
+			"id": 9414,
+			"name": "XÃ TÂN HÀ"
+		},
+		{
+			"id": 9415,
+			"name": "XÃ LIÊN HÀ"
+		},
+		{
+			"id": 9416,
+			"name": "XÃ PHÚC THỌ"
+		},
+		{
+			"id": 9417,
+			"name": "XÃ HOÀI ĐỨC"
+		},
+		{
+			"id": 9418,
+			"name": "XÃ ĐAN PHƯỢNG"
+		},
+		{
+			"id": 9419,
+			"name": "XÃ TÂN THANH"
+		},
+		{
+			"id": 9420,
+			"name": "XÃ NAM HÀ"
+		},
+		{
+			"id": 9421,
+			"name": "XÃ GIA LÂM"
+		},
+		{
+			"id": 9422,
+			"name": "XÃ ĐÔNG THANH"
+		},
+		{
+			"id": 9423,
+			"name": "XÃ MÊ LINH"
+		},
+		{
+			"id": 9424,
+			"name": "THỊ TRẤN ĐINH VĂN"
 		}
 	]
 }

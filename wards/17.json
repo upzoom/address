@@ -1,0 +1,94 @@
+{
+	"id": 17,
+	"name": "HUYỆN MỸ ĐỨC",
+	"data": [
+		{
+			"id": 349,
+			"name": "XÃ AN MỸ"
+		},
+		{
+			"id": 350,
+			"name": "XÃ BỘT XUYÊN"
+		},
+		{
+			"id": 351,
+			"name": "XÃ PHÚC LÂM"
+		},
+		{
+			"id": 352,
+			"name": "XÃ AN PHÚ"
+		},
+		{
+			"id": 353,
+			"name": "XÃ HỢP THANH"
+		},
+		{
+			"id": 354,
+			"name": "XÃ MỸ THÀNH"
+		},
+		{
+			"id": 355,
+			"name": "XÃ ĐỒNG TÂM"
+		},
+		{
+			"id": 356,
+			"name": "XÃ HƯƠNG SƠN"
+		},
+		{
+			"id": 357,
+			"name": "XÃ ĐỐC TÍN"
+		},
+		{
+			"id": 358,
+			"name": "XÃ VẠN KIM"
+		},
+		{
+			"id": 359,
+			"name": "XÃ HÙNG TIẾN"
+		},
+		{
+			"id": 360,
+			"name": "XÃ AN TIẾN"
+		},
+		{
+			"id": 361,
+			"name": "XÃ ĐẠI HƯNG"
+		},
+		{
+			"id": 362,
+			"name": "XÃ HỢP TIẾN"
+		},
+		{
+			"id": 363,
+			"name": "XÃ PHÙ LƯU TẾ"
+		},
+		{
+			"id": 364,
+			"name": "XÃ PHÙNG XÁ"
+		},
+		{
+			"id": 365,
+			"name": "XÃ XUY XÁ"
+		},
+		{
+			"id": 366,
+			"name": "XÃ LÊ THANH"
+		},
+		{
+			"id": 367,
+			"name": "XÃ HỒNG SƠN"
+		},
+		{
+			"id": 368,
+			"name": "XÃ TUY LAI"
+		},
+		{
+			"id": 369,
+			"name": "XÃ THƯỢNG LÂM"
+		},
+		{
+			"id": 370,
+			"name": "THỊ TRẤN ĐẠI NGHĨA"
+		}
+	]
+}

@@ -1,42 +1,62 @@
 {
-	"id": "480",
-	"name": "Thị xã Hương Trà",
+	"id": 480,
+	"name": "HUYỆN KHÁNH VĨNH",
 	"data": [
 		{
-			"id": "20041",
-			"name": "Xã Bình Thành"
+			"id": 8783,
+			"name": "XÃ CẦU BÀ"
 		},
 		{
-			"id": "20035",
-			"name": "Xã Bình Tiến"
+			"id": 8784,
+			"name": "XÃ GIANG LY"
 		},
 		{
-			"id": "20026",
-			"name": "Xã Hương Bình"
+			"id": 8785,
+			"name": "XÃ KHÁNH BÌNH"
 		},
 		{
-			"id": "20020",
-			"name": "Phường Hương Chữ"
+			"id": 8786,
+			"name": "XÃ KHÁNH ĐÔNG"
 		},
 		{
-			"id": "20005",
-			"name": "Xã Hương Toàn"
+			"id": 8787,
+			"name": "XÃ KHÁNH HIỆP"
 		},
 		{
-			"id": "20008",
-			"name": "Phường Hương Vân"
+			"id": 8788,
+			"name": "XÃ KHÁNH NAM"
 		},
 		{
-			"id": "20011",
-			"name": "Phường Hương Văn"
+			"id": 8789,
+			"name": "XÃ KHÁNH PHÚ"
 		},
 		{
-			"id": "20017",
-			"name": "Phường Hương Xuân"
+			"id": 8790,
+			"name": "XÃ KHÁNH THÀNH"
 		},
 		{
-			"id": "19996",
-			"name": "Phường Tứ Hạ"
+			"id": 8791,
+			"name": "XÃ KHÁNH THƯỢNG"
+		},
+		{
+			"id": 8792,
+			"name": "XÃ KHÁNH TRUNG"
+		},
+		{
+			"id": 8793,
+			"name": "XÃ LIÊN SANG"
+		},
+		{
+			"id": 8794,
+			"name": "XÃ SƠN THÁI"
+		},
+		{
+			"id": 8795,
+			"name": "XÃ SÔNG CẦU"
+		},
+		{
+			"id": 8796,
+			"name": "THỊ TRẤN KHÁNH VĨNH"
 		}
 	]
 }

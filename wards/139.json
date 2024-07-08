@@ -1,54 +1,110 @@
 {
-	"id": "139",
-	"name": "Huyện Trạm Tấu",
+	"id": 139,
+	"name": "HUYỆN CẨM GIÀNG",
 	"data": [
 		{
-			"id": "04612",
-			"name": "Xã Bản Công"
+			"id": 2048,
+			"name": "XÃ CẨM AN"
 		},
 		{
-			"id": "04615",
-			"name": "Xã Bản Mù"
+			"id": 2049,
+			"name": "XÃ CẨM ĐÁN"
 		},
 		{
-			"id": "04618",
-			"name": "Xã Hát Lìu"
+			"id": 2050,
+			"name": "XÃ CẨM ĐIỀN"
 		},
 		{
-			"id": "04609",
-			"name": "Xã Làng Nhì"
+			"id": 2051,
+			"name": "XÃ CẨM ĐỊNH"
 		},
 		{
-			"id": "04606",
-			"name": "Xã Pá Hu"
+			"id": 2052,
+			"name": "XÃ CẨM ĐOÀI"
 		},
 		{
-			"id": "04591",
-			"name": "Xã Pá Lau"
+			"id": 2053,
+			"name": "XÃ CẨM ĐÔNG"
 		},
 		{
-			"id": "04597",
-			"name": "Xã Phình Hồ"
+			"id": 2054,
+			"name": "XÃ CẨM HOÀNG"
 		},
 		{
-			"id": "04603",
-			"name": "Xã Tà Si Láng"
+			"id": 2055,
+			"name": "XÃ CẨM HƯNG"
 		},
 		{
-			"id": "04585",
-			"name": "Thị trấn Trạm Tấu"
+			"id": 2056,
+			"name": "XÃ CẨM LINH"
 		},
 		{
-			"id": "04600",
-			"name": "Xã Trạm Tấu"
+			"id": 2057,
+			"name": "XÃ CẨM PHÚ"
 		},
 		{
-			"id": "04588",
-			"name": "Xã Túc Đán"
+			"id": 2058,
+			"name": "XÃ CẨM PHÚC"
 		},
 		{
-			"id": "04594",
-			"name": "Xã Xà Hồ"
+			"id": 2059,
+			"name": "XÃ CẨM SƠN"
+		},
+		{
+			"id": 2060,
+			"name": "XÃ CẨM VĂN"
+		},
+		{
+			"id": 2061,
+			"name": "XÃ CẨM VŨ"
+		},
+		{
+			"id": 2062,
+			"name": "XÃ CAO AN"
+		},
+		{
+			"id": 2063,
+			"name": "ĐỨC CHÍNH"
+		},
+		{
+			"id": 2064,
+			"name": "XÃ GIA LỘC"
+		},
+		{
+			"id": 2065,
+			"name": "XÃ KIM GIANG"
+		},
+		{
+			"id": 2066,
+			"name": "XÃ LƯƠNG ĐIỀN"
+		},
+		{
+			"id": 2067,
+			"name": "XÃ NGỌC LIÊN"
+		},
+		{
+			"id": 2068,
+			"name": "XÃ TÂN TRƯỜNG"
+		},
+		{
+			"id": 2069,
+			"name": "XÃ THẠCH LỖI"
+		},
+		{
+			"id": 2070,
+			"name": "THỊ TRẤN CẨM GIÀNG"
+		},
+		{
+			"id": 2071,
+			"name": "THỊ TRẤN LAI CÁCH"
+		},
+		{
+			"id": 2072,
+			"name": "KCN PHÚC ĐIỀN"
+		},
+		{
+			"id": 26268,
+			"name": "XÃ ĐỊNH SƠN"
 		}
 	]
 }

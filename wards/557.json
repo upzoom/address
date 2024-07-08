@@ -1,58 +1,66 @@
 {
-	"id": "557",
-	"name": "Thị xã Sông Cầu",
+	"id": 557,
+	"name": "HUYỆN CHÂU THÀNH",
 	"data": [
 		{
-			"id": "22060",
-			"name": "Xã Xuân Bình"
+			"id": 9688,
+			"name": "THỊ TRẤN CHÂU THÀNH"
 		},
 		{
-			"id": "22066",
-			"name": "Xã Xuân Cảnh"
+			"id": 9689,
+			"name": "XÃ AN BÌNH"
 		},
 		{
-			"id": "22076",
-			"name": "Phường Xuân Đài"
+			"id": 9690,
+			"name": "XÃ BIÊN GIỚI"
 		},
 		{
-			"id": "22054",
-			"name": "Xã Xuân Hải"
+			"id": 9691,
+			"name": "XÃ ĐỒNG KHỞI"
 		},
 		{
-			"id": "22052",
-			"name": "Xã Xuân Lâm"
+			"id": 9692,
+			"name": "XÃ HẢO ĐƯỚC"
 		},
 		{
-			"id": "22057",
-			"name": "Xã Xuân Lộc"
+			"id": 9693,
+			"name": "XÃ NINH ĐIỀN"
 		},
 		{
-			"id": "22051",
-			"name": "Phường Xuân Phú"
+			"id": 9694,
+			"name": "XÃ PHƯỚC VINH"
 		},
 		{
-			"id": "22072",
-			"name": "Xã Xuân Phương"
+			"id": 9695,
+			"name": "XÃ TRÍ BÌNH"
 		},
 		{
-			"id": "22053",
-			"name": "Phường Xuân Thành"
+			"id": 9696,
+			"name": "XÃ AN CƠ"
 		},
 		{
-			"id": "22069",
-			"name": "Xã Xuân Thịnh"
+			"id": 9697,
+			"name": "XÃ HOÀ HỘI"
 		},
 		{
-			"id": "22075",
-			"name": "Xã Xuân Thọ 1"
+			"id": 9698,
+			"name": "XÃ HOÀ THẠNH"
 		},
 		{
-			"id": "22078",
-			"name": "Xã Xuân Thọ 2"
+			"id": 9699,
+			"name": "XÃ LONG VĨNH"
 		},
 		{
-			"id": "22073",
-			"name": "Phường Xuân Yên"
+			"id": 9700,
+			"name": "XÃ THÁI BÌNH"
+		},
+		{
+			"id": 9701,
+			"name": "XÃ THANH ĐIỀN"
+		},
+		{
+			"id": 9702,
+			"name": "XÃ THÀNH LONG"
 		}
 	]
 }

@@ -1,34 +1,38 @@
 {
-	"id": "693",
-	"name": "Huyện Bù Đốp",
+	"id": 693,
+	"name": "HUYỆN HÒA BÌNH",
 	"data": [
 		{
-			"id": "25309",
-			"name": "Xã Hưng Phước"
+			"id": 11475,
+			"name": "XÃ VĨNH HẬU A"
 		},
 		{
-			"id": "25310",
-			"name": "Xã Phước Thiện"
+			"id": 11476,
+			"name": "TT HÒA BÌNH"
 		},
 		{
-			"id": "25318",
-			"name": "Xã Tân Thành"
+			"id": 11477,
+			"name": "XÃ VĨNH BÌNH"
 		},
 		{
-			"id": "25321",
-			"name": "Xã Tân Tiến"
+			"id": 11478,
+			"name": "XÃ VĨNH MỸ A"
 		},
 		{
-			"id": "25308",
-			"name": "Thị trấn Thanh Bình"
+			"id": 11479,
+			"name": "XÃ VĨNH MỸ B"
 		},
 		{
-			"id": "25315",
-			"name": "Xã Thanh Hòa"
+			"id": 11480,
+			"name": "XÃ VĨNH THỊNH"
 		},
 		{
-			"id": "25312",
-			"name": "Xã Thiện Hưng"
+			"id": 11481,
+			"name": "XÃ VĨNH HẬU"
+		},
+		{
+			"id": 11482,
+			"name": "XÃ MINH DIỆU"
 		}
 	]
 }

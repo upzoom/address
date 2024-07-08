@@ -1,78 +1,46 @@
 {
-	"id": "431",
-	"name": "Huyện Hưng Nguyên",
+	"id": 431,
+	"name": "HUYỆN TÂY GIANG",
 	"data": [
 		{
-			"id": "18052",
-			"name": "Xã Châu Nhân"
+			"id": 8089,
+			"name": "XÃ CH'ƠM"
 		},
 		{
-			"id": "18016",
-			"name": "Xã Hưng Đạo"
+			"id": 8090,
+			"name": "XÃ A XAN"
 		},
 		{
-			"id": "18025",
-			"name": "Xã Hưng Lĩnh"
+			"id": 8091,
+			"name": "XÃ TR'HY"
 		},
 		{
-			"id": "18034",
-			"name": "Xã Hưng Lợi"
+			"id": 8092,
+			"name": "XÃ LĂNG"
 		},
 		{
-			"id": "18019",
-			"name": "Xã Hưng Mỹ"
+			"id": 8093,
+			"name": "XÃ A TIÊNG"
 		},
 		{
-			"id": "18037",
-			"name": "Xã Hưng Nghĩa"
+			"id": 8094,
+			"name": "XÃ BHALLÊ"
 		},
 		{
-			"id": "18001",
-			"name": "Thị trấn Hưng Nguyên"
+			"id": 8095,
+			"name": "XÃ G'RY"
 		},
 		{
-			"id": "18040",
-			"name": "Xã Hưng Phúc"
+			"id": 8096,
+			"name": "XÃ A NÔNG"
 		},
 		{
-			"id": "18031",
-			"name": "Xã Hưng Tân"
+			"id": 8097,
+			"name": "XÃ DANG"
 		},
 		{
-			"id": "18010",
-			"name": "Xã Hưng Tây"
-		},
-		{
-			"id": "18064",
-			"name": "Xã Hưng Thành"
-		},
-		{
-			"id": "18022",
-			"name": "Xã Hưng Thịnh"
-		},
-		{
-			"id": "18028",
-			"name": "Xã Hưng Thông"
-		},
-		{
-			"id": "18004",
-			"name": "Xã Hưng Trung"
-		},
-		{
-			"id": "18007",
-			"name": "Xã Hưng Yên"
-		},
-		{
-			"id": "18008",
-			"name": "Xã Hưng Yên Bắc"
-		},
-		{
-			"id": "18043",
-			"name": "Xã Long Xá"
-		},
-		{
-			"id": "18055",
-			"name": "Xã Xuân Lam"
+			"id": 8098,
+			"name": "XÃ A VƯƠNG"
 		}
 	]
 }

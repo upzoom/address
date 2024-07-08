@@ -1,70 +1,74 @@
 {
-	"id": "156",
-	"name": "Huyện Mai Châu",
+	"id": 156,
+	"name": "THÀNH PHỐ HƯNG YÊN",
 	"data": [
 		{
-			"id": "05227",
-			"name": "Xã Bao La"
+			"id": 2397,
+			"name": "PHƯỜNG LAM SƠN"
 		},
 		{
-			"id": "05248",
-			"name": "Xã Chiềng Châu"
+			"id": 2398,
+			"name": "PHƯỜNG LÊ LỢI"
 		},
 		{
-			"id": "05224",
-			"name": "Xã Cun Pheo"
+			"id": 2399,
+			"name": "PHƯỜNG QUANG TRUNG"
 		},
 		{
-			"id": "05221",
-			"name": "Xã Đồng Tân"
+			"id": 2400,
+			"name": "PHƯỜNG HIẾN NAM"
 		},
 		{
-			"id": "05212",
-			"name": "Xã Hang Kia"
+			"id": 2401,
+			"name": "PHƯỜNG MINH KHAI"
 		},
 		{
-			"id": "05200",
-			"name": "Thị trấn Mai Châu"
+			"id": 2402,
+			"name": "PHƯỜNG HỒNG CHÂU"
 		},
 		{
-			"id": "05251",
-			"name": "Xã Mai Hạ"
+			"id": 2403,
+			"name": "PHƯỜNG AN TẢO"
 		},
 		{
-			"id": "05257",
-			"name": "Xã Mai Hịch"
+			"id": 2404,
+			"name": "XÃ BẢO KHÊ"
 		},
 		{
-			"id": "05242",
-			"name": "Xã Nà Phòn"
+			"id": 2405,
+			"name": "XÃ TRUNG NGHĨA"
 		},
 		{
-			"id": "05209",
-			"name": "Xã Pà Cò"
+			"id": 2406,
+			"name": "XÃ LIÊN PHƯƠNG"
 		},
 		{
-			"id": "05245",
-			"name": "Xã Săm Khóe"
+			"id": 2407,
+			"name": "XÃ HỒNG NAM"
 		},
 		{
-			"id": "05206",
-			"name": "Xã Sơn Thủy"
+			"id": 2408,
+			"name": "XÃ QUẢNG CHÂU"
 		},
 		{
-			"id": "04882",
-			"name": "Xã Tân Thành"
+			"id": 2409,
+			"name": "XÃ HÙNG CƯỜNG"
 		},
 		{
-			"id": "05254",
-			"name": "Xã Thành Sơn"
+			"id": 2410,
+			"name": "XÃ PHÚ CƯỜNG"
 		},
 		{
-			"id": "05233",
-			"name": "Xã Tòng Đậu"
+			"id": 26260,
+			"name": "XÃ HOÀNG HANH"
 		},
 		{
-			"id": "05263",
-			"name": "Xã Vạn Mai"
+			"id": 26261,
+			"name": "XÃ TÂN HƯNG"
+		},
+		{
+			"id": 26262,
+			"name": "XÃ PHƯƠNG CHIỂU"
 		}
 	]
 }

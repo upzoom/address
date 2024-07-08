@@ -1,38 +1,66 @@
 {
-	"id": "202",
-	"name": "Huyện Ba Chẽ",
+	"id": 202,
+	"name": "HUYỆN HẠ LANG",
 	"data": [
 		{
-			"id": "06970",
-			"name": "Thị trấn Ba Chẽ"
+			"id": 3481,
+			"name": "XÃ ĐỨC QUANG"
 		},
 		{
-			"id": "06979",
-			"name": "Xã Đạp Thanh"
+			"id": 3482,
+			"name": "XÃ KIM LOAN"
 		},
 		{
-			"id": "06988",
-			"name": "Xã Đồn Đạc"
+			"id": 3483,
+			"name": "XÃ AN LẠC"
 		},
 		{
-			"id": "06985",
-			"name": "Xã Lương Mông"
+			"id": 3484,
+			"name": "XÃ QUANG LONG"
 		},
 		{
-			"id": "06991",
-			"name": "Xã Minh Cầm"
+			"id": 3485,
+			"name": "XÃ VĨNH QUÍ"
 		},
 		{
-			"id": "06982",
-			"name": "Xã Nam Sơn"
+			"id": 3486,
+			"name": "XÃ VIỆT CHU"
 		},
 		{
-			"id": "06976",
-			"name": "Xã Thanh Lâm"
+			"id": 3487,
+			"name": "XÃ THÁI ĐỨC"
 		},
 		{
-			"id": "06973",
-			"name": "Xã Thanh Sơn"
+			"id": 3488,
+			"name": "XÃ CÔ NGÂN"
+		},
+		{
+			"id": 3489,
+			"name": "XÃ THỊ HOA"
+		},
+		{
+			"id": 3490,
+			"name": "THỊ TRẤN THANH NHẬT"
+		},
+		{
+			"id": 3491,
+			"name": "XÃ MINH LONG"
+		},
+		{
+			"id": 3492,
+			"name": "XÃ THẮNG LỢI"
+		},
+		{
+			"id": 3493,
+			"name": "XÃ LÝ QUỐC"
+		},
+		{
+			"id": 3494,
+			"name": "XÃ ĐỒNG LOAN"
+		},
+		{
+			"id": 26131,
+			"name": "XÃ THỐNG NHẤT"
 		}
 	]
 }

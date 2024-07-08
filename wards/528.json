@@ -1,62 +1,62 @@
 {
-	"id": "528",
-	"name": "Huyện Tư Nghĩa",
+	"id": 528,
+	"name": "HUYỆN CÁT TIÊN",
 	"data": [
 		{
-			"id": "21235",
-			"name": "Thị trấn La Hà"
+			"id": 9368,
+			"name": "XÃ ĐỨC PHỔ"
 		},
 		{
-			"id": "21271",
-			"name": "Xã Nghĩa Điền"
+			"id": 9369,
+			"name": "XÃ GIA VIỄN"
 		},
 		{
-			"id": "21280",
-			"name": "Xã Nghĩa Hiệp"
+			"id": 9370,
+			"name": "XÃ PHƯỚC CÁT 2"
 		},
 		{
-			"id": "21268",
-			"name": "Xã Nghĩa Hòa"
+			"id": 9371,
+			"name": "XÃ QUẢNG NGÃI"
 		},
 		{
-			"id": "21250",
-			"name": "Xã Nghĩa Kỳ"
+			"id": 9372,
+			"name": "XÃ TƯ NGHĨA"
 		},
 		{
-			"id": "21241",
-			"name": "Xã Nghĩa Lâm"
+			"id": 9373,
+			"name": "XÃ TIÊN HOÀNG"
 		},
 		{
-			"id": "21286",
-			"name": "Xã Nghĩa Mỹ"
+			"id": 9374,
+			"name": "XÃ PHÙ MỸ"
 		},
 		{
-			"id": "21283",
-			"name": "Xã Nghĩa Phương"
+			"id": 9375,
+			"name": "XÃ ĐỒNG NAI THƯỢNG"
 		},
 		{
-			"id": "21259",
-			"name": "Xã Nghĩa Sơn"
+			"id": 9376,
+			"name": "XÃ MỸ LÂM"
 		},
 		{
-			"id": "21244",
-			"name": "Xã Nghĩa Thắng"
+			"id": 9377,
+			"name": "XÃ NAM NINH"
 		},
 		{
-			"id": "21247",
-			"name": "Xã Nghĩa Thuận"
+			"id": 9378,
+			"name": "XÃ PHƯỚC CÁT 1"
 		},
 		{
-			"id": "21274",
-			"name": "Xã Nghĩa Thương"
+			"id": 9379,
+			"name": "THỊ TRẤN ĐỒNG NAI"
 		},
 		{
-			"id": "21277",
-			"name": "Xã Nghĩa Trung"
+			"id": 15371,
+			"name": "THỊ TRẤN CÁT TIÊN"
 		},
 		{
-			"id": "21238",
-			"name": "Thị trấn Sông Vệ"
+			"id": 25655,
+			"name": "THỊ TRẤN PHƯỚC CÁT"
 		}
 	]
 }

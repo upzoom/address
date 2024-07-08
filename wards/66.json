@@ -1,0 +1,54 @@
+{
+	"id": 66,
+	"name": "HUYỆN ĐẢO CÁT HẢI",
+	"data": [
+		{
+			"id": 1083,
+			"name": "XÃ VĂN PHONG"
+		},
+		{
+			"id": 1084,
+			"name": "XÃ PHÙ LONG"
+		},
+		{
+			"id": 1085,
+			"name": "XÃ HOÀNG CHÂU"
+		},
+		{
+			"id": 1086,
+			"name": "XÃ ĐỒNG BÀI"
+		},
+		{
+			"id": 1087,
+			"name": "XÃ NGHĨA LỘ"
+		},
+		{
+			"id": 1088,
+			"name": "XÃ TRÂN CHÂU"
+		},
+		{
+			"id": 1089,
+			"name": "XÃ HIỀN HÀO"
+		},
+		{
+			"id": 1090,
+			"name": "XÃ GIA LUẬN"
+		},
+		{
+			"id": 1091,
+			"name": "XÃ VIỆT HẢI"
+		},
+		{
+			"id": 1092,
+			"name": "XÃ XUÂN ĐÁM"
+		},
+		{
+			"id": 1093,
+			"name": "THỊ TRẤN CÁT BÀ"
+		},
+		{
+			"id": 1094,
+			"name": "THỊ TRẤN CÁT HẢI"
+		}
+	]
+}

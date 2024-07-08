@@ -1,58 +1,50 @@
 {
-	"id": "51",
-	"name": "Tỉnh Quảng Ngãi",
+	"id": 51,
+	"name": "Đồng Nai",
 	"data": [
 		{
-			"id": "535",
-			"name": "Huyện Ba Tơ"
+			"id": 574,
+			"name": "HUYỆN TRẢNG BOM"
 		},
 		{
-			"id": "524",
-			"name": "Huyện Bình Sơn"
+			"id": 575,
+			"name": "HUYỆN TÂN PHÚ"
 		},
 		{
-			"id": "534",
-			"name": "Thị xã Đức Phổ"
+			"id": 576,
+			"name": "HUYỆN THỐNG NHẤT"
 		},
 		{
-			"id": "536",
-			"name": "Huyện Lý Sơn"
+			"id": 577,
+			"name": "HUYỆN VĨNH CỬU"
 		},
 		{
-			"id": "531",
-			"name": "Huyện Minh Long"
+			"id": 578,
+			"name": "HUYỆN NHƠN TRẠCH"
 		},
 		{
-			"id": "533",
-			"name": "Huyện Mộ Đức"
+			"id": 579,
+			"name": "THÀNH PHỐ BIÊN HÒA"
 		},
 		{
-			"id": "532",
-			"name": "Huyện Nghĩa Hành"
+			"id": 580,
+			"name": "HUYỆN CẨM MỸ"
 		},
 		{
-			"id": "522",
-			"name": "Thành phố Quảng Ngãi"
+			"id": 581,
+			"name": "HUYỆN XUÂN LỘC"
 		},
 		{
-			"id": "529",
-			"name": "Huyện Sơn Hà"
+			"id": 582,
+			"name": "HUYỆN ĐỊNH QUÁN"
 		},
 		{
-			"id": "530",
-			"name": "Huyện Sơn Tây"
+			"id": 583,
+			"name": "HUYỆN LONG THÀNH"
 		},
 		{
-			"id": "527",
-			"name": "Huyện Sơn Tịnh"
-		},
-		{
-			"id": "525",
-			"name": "Huyện Trà Bồng"
-		},
-		{
-			"id": "528",
-			"name": "Huyện Tư Nghĩa"
+			"id": 584,
+			"name": "THÀNH PHỐ LONG KHÁNH"
 		}
 	]
 }

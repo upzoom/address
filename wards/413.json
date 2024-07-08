@@ -1,34 +1,98 @@
 {
-	"id": "413",
-	"name": "Thị xã Cửa Lò",
+	"id": 413,
+	"name": "HUYỆN GIO LINH",
 	"data": [
 		{
-			"id": "16729",
-			"name": "Phường Nghi Hải"
+			"id": 7802,
+			"name": "THỊ TRẤN GIO LINH"
 		},
 		{
-			"id": "16726",
-			"name": "Phường Nghi Hòa"
+			"id": 7803,
+			"name": "THỊ TRẤN CỬA VIỆT"
 		},
 		{
-			"id": "16732",
-			"name": "Phường Nghi Hương"
+			"id": 7804,
+			"name": "XÃ GIO CHÂU"
 		},
 		{
-			"id": "16720",
-			"name": "Phường Nghi Tân"
+			"id": 7805,
+			"name": "XÃ TRUNG HẢI"
 		},
 		{
-			"id": "16735",
-			"name": "Phường Nghi Thu"
+			"id": 7806,
+			"name": "XÃ TRUNG GIANG"
 		},
 		{
-			"id": "16717",
-			"name": "Phường Nghi Thuỷ"
+			"id": 7807,
+			"name": "XÃ TRUNG SƠN"
 		},
 		{
-			"id": "16723",
-			"name": "Phường Thu Thuỷ"
+			"id": 7808,
+			"name": "XÃ GIO MỸ"
+		},
+		{
+			"id": 7809,
+			"name": "XÃ GIO PHONG"
+		},
+		{
+			"id": 7810,
+			"name": "XÃ GIO AN"
+		},
+		{
+			"id": 7811,
+			"name": "XÃ GIO BÌNH"
+		},
+		{
+			"id": 7812,
+			"name": "XÃ GIO HẢI"
+		},
+		{
+			"id": 7813,
+			"name": "XÃ GIO SƠN"
+		},
+		{
+			"id": 7814,
+			"name": "XÃ GIO HÒA"
+		},
+		{
+			"id": 7815,
+			"name": "XÃ LINH HẢI"
+		},
+		{
+			"id": 7816,
+			"name": "XÃ GIO VIỆT"
+		},
+		{
+			"id": 7817,
+			"name": "XÃ VĨNH TRƯỜNG"
+		},
+		{
+			"id": 7818,
+			"name": "XÃ HẢI THÁI"
+		},
+		{
+			"id": 7819,
+			"name": "XÃ GIO MAI"
+		},
+		{
+			"id": 7820,
+			"name": "XÃ GIO QUANG"
+		},
+		{
+			"id": 7821,
+			"name": "XÃ LINH THƯỢNG"
+		},
+		{
+			"id": 7822,
+			"name": "XÃ GIO THÀNH"
+		},
+		{
+			"id": 26169,
+			"name": "XÃ PHONG BÌNH"
+		},
+		{
+			"id": 26168,
+			"name": "XÃ LINH TRƯỜNG"
 		}
 	]
 }

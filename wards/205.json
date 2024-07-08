@@ -1,90 +1,42 @@
 {
-	"id": "205",
-	"name": "Thị xã Đông Triều",
+	"id": 205,
+	"name": "HUYỆN PHỤC HÒA",
 	"data": [
 		{
-			"id": "07075",
-			"name": "Xã An Sinh"
+			"id": 3532,
+			"name": "THỊ TRẤN TÀ LÙNG"
 		},
 		{
-			"id": "07090",
-			"name": "Xã Bình Dương"
+			"id": 3533,
+			"name": "XÃ HỒNG ĐẠI"
 		},
 		{
-			"id": "07081",
-			"name": "Xã Bình Khê"
+			"id": 3534,
+			"name": "XÃ TRIỆU ẨU"
 		},
 		{
-			"id": "07072",
-			"name": "Phường Đông Triều"
+			"id": 3535,
+			"name": "XÃ LƯƠNG THIỆN"
 		},
 		{
-			"id": "07093",
-			"name": "Phường Đức Chính"
+			"id": 3536,
+			"name": "XÃ ĐẠI SƠN"
 		},
 		{
-			"id": "07114",
-			"name": "Phường Hoàng Quế"
+			"id": 3537,
+			"name": "XÃ TIÊN THÀNH"
 		},
 		{
-			"id": "07120",
-			"name": "Phường Hồng Phong"
+			"id": 3538,
+			"name": "THỊ TRẤN HOÀ THUẬN"
 		},
 		{
-			"id": "07111",
-			"name": "Xã Hồng Thái Đông"
+			"id": 3539,
+			"name": "XÃ MỸ HƯNG"
 		},
 		{
-			"id": "07108",
-			"name": "Xã Hồng Thái Tây"
-		},
-		{
-			"id": "07126",
-			"name": "Phường Hưng Đạo"
-		},
-		{
-			"id": "07123",
-			"name": "Phường Kim Sơn"
-		},
-		{
-			"id": "07069",
-			"name": "Phường Mạo Khê"
-		},
-		{
-			"id": "07099",
-			"name": "Xã Nguyễn Huệ"
-		},
-		{
-			"id": "07087",
-			"name": "Xã Tân Việt"
-		},
-		{
-			"id": "07102",
-			"name": "Xã Thủy An"
-		},
-		{
-			"id": "07096",
-			"name": "Phường Tràng An"
-		},
-		{
-			"id": "07078",
-			"name": "Xã Tràng Lương"
-		},
-		{
-			"id": "07084",
-			"name": "Xã Việt Dân"
-		},
-		{
-			"id": "07105",
-			"name": "Phường Xuân Sơn"
-		},
-		{
-			"id": "07129",
-			"name": "Xã Yên Đức"
-		},
-		{
-			"id": "07117",
-			"name": "Phường Yên Thọ"
+			"id": 3540,
+			"name": "XÃ CÁCH LINH"
 		}
 	]
 }

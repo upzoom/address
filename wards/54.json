@@ -1,0 +1,50 @@
+{
+	"id": 54,
+	"name": "QUẬN TÂN PHÚ",
+	"data": [
+		{
+			"id": 929,
+			"name": "PHƯỜNG TÂN THÀNH"
+		},
+		{
+			"id": 930,
+			"name": "PHƯỜNG SƠN KỲ"
+		},
+		{
+			"id": 931,
+			"name": "PHƯỜNG TÂN SƠN NHÌ"
+		},
+		{
+			"id": 932,
+			"name": "PHƯỜNG TÂN QUÝ"
+		},
+		{
+			"id": 933,
+			"name": "PHƯỜNG TÂY THẠNH"
+		},
+		{
+			"id": 934,
+			"name": "PHƯỜNG HIỆP TÂN"
+		},
+		{
+			"id": 935,
+			"name": "PHƯỜNG HÒA THẠNH"
+		},
+		{
+			"id": 936,
+			"name": "PHƯỜNG TÂN THỚI HÒA"
+		},
+		{
+			"id": 937,
+			"name": "PHƯỜNG PHÚ THỌ HÒA"
+		},
+		{
+			"id": 938,
+			"name": "PHƯỜNG PHÚ TRUNG"
+		},
+		{
+			"id": 939,
+			"name": "PHƯỜNG PHÚ THẠNH"
+		}
+	]
+}

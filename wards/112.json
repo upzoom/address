@@ -1,50 +1,38 @@
 {
-	"id": "112",
-	"name": "Huyện Nậm Nhùn",
+	"id": 112,
+	"name": "THÀNH PHỐ GIA NGHĨA",
 	"data": [
 		{
-			"id": "03460",
-			"name": "Xã Hua Bun"
+			"id": 1616,
+			"name": "PHƯỜNG NGHĨA TÂN"
 		},
 		{
-			"id": "03481",
-			"name": "Xã Lê Lợi"
+			"id": 1617,
+			"name": "PHƯỜNG NGHĨA PHÚ"
 		},
 		{
-			"id": "03472",
-			"name": "Xã Mường Mô"
+			"id": 1618,
+			"name": "PHƯỜNG NGHĨA THÀNH"
 		},
 		{
-			"id": "03502",
-			"name": "Xã Nậm Ban"
+			"id": 1619,
+			"name": "PHƯỜNG NGHĨA TRUNG"
 		},
 		{
-			"id": "03473",
-			"name": "Xã Nậm Chà"
+			"id": 1620,
+			"name": "PHƯỜNG NGHĨA ĐỨC"
 		},
 		{
-			"id": "03475",
-			"name": "Xã Nậm Hàng"
+			"id": 1621,
+			"name": "XÃ ĐĂK NIA"
 		},
 		{
-			"id": "03474",
-			"name": "Xã Nậm Manh"
+			"id": 1622,
+			"name": "XÃ ĐĂK R'MOAN"
 		},
 		{
-			"id": "03434",
-			"name": "Thị trấn Nậm Nhùn"
-		},
-		{
-			"id": "03488",
-			"name": "Xã Nậm Pì"
-		},
-		{
-			"id": "03484",
-			"name": "Xã Pú Đao"
-		},
-		{
-			"id": "03503",
-			"name": "Xã Trung Chải"
+			"id": 1623,
+			"name": "XÃ QUẢNG THÀNH"
 		}
 	]
 }

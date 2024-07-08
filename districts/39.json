@@ -1,0 +1,58 @@
+{
+	"id": 39,
+	"name": "Quảng Ngãi",
+	"data": [
+		{
+			"id": 441,
+			"name": "HUYỆN NGHĨA HÀNH"
+		},
+		{
+			"id": 442,
+			"name": "HUYỆN TƯ NGHĨA"
+		},
+		{
+			"id": 443,
+			"name": "HUYỆN MINH LONG"
+		},
+		{
+			"id": 444,
+			"name": "HUYỆN BÌNH SƠN"
+		},
+		{
+			"id": 445,
+			"name": "THÀNH PHỐ QUẢNG NGÃI"
+		},
+		{
+			"id": 446,
+			"name": "HUYỆN MỘ ĐỨC"
+		},
+		{
+			"id": 447,
+			"name": "HUYỆN TRÀ BỒNG"
+		},
+		{
+			"id": 449,
+			"name": "HUYỆN LÝ SƠN"
+		},
+		{
+			"id": 450,
+			"name": "HUYỆN SƠN HÀ"
+		},
+		{
+			"id": 451,
+			"name": "THỊ XÃ ĐỨC PHỔ"
+		},
+		{
+			"id": 452,
+			"name": "HUYỆN SƠN TỊNH"
+		},
+		{
+			"id": 453,
+			"name": "HUYỆN BA TƠ"
+		},
+		{
+			"id": 454,
+			"name": "HUYỆN SƠN TÂY"
+		}
+	]
+}

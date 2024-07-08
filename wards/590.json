@@ -1,0 +1,42 @@
+{
+	"id": 590,
+	"name": "THỊ XÃ LA GI",
+	"data": [
+		{
+			"id": 10134,
+			"name": "PHƯỜNG TÂN AN"
+		},
+		{
+			"id": 10135,
+			"name": "PHƯỜNG TÂN THIỆN"
+		},
+		{
+			"id": 10136,
+			"name": "PHƯỜNG BÌNH TÂN"
+		},
+		{
+			"id": 10137,
+			"name": "PHƯỜNG PHƯỚC LỘC"
+		},
+		{
+			"id": 10138,
+			"name": "PHƯỜNG PHƯỚC HỘI"
+		},
+		{
+			"id": 10139,
+			"name": "XÃ TÂN PHƯỚC"
+		},
+		{
+			"id": 10140,
+			"name": "XÃ TÂN TIẾN"
+		},
+		{
+			"id": 10141,
+			"name": "XÃ TÂN BÌNH"
+		},
+		{
+			"id": 10142,
+			"name": "XÃ TÂN HẢI"
+		}
+	]
+}

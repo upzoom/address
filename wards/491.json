@@ -1,46 +1,34 @@
 {
-	"id": "491",
-	"name": "Quận Thanh Khê",
+	"id": 491,
+	"name": "HUYỆN KON RẪY",
 	"data": [
 		{
-			"id": "20224",
-			"name": "Phường An Khê"
+			"id": 8910,
+			"name": "THỊ TRẤN ĐĂK RVE"
 		},
 		{
-			"id": "20215",
-			"name": "Phường Chính Gián"
+			"id": 8911,
+			"name": "XÃ ĐĂK KÔI"
 		},
 		{
-			"id": "20225",
-			"name": "Phường Hòa Khê"
+			"id": 8912,
+			"name": "XÃ ĐĂK TƠ LÙNG"
 		},
 		{
-			"id": "20203",
-			"name": "Phường Tam Thuận"
+			"id": 8913,
+			"name": "XÃ ĐĂK RUỒNG"
 		},
 		{
-			"id": "20212",
-			"name": "Phường Tân Chính"
+			"id": 8914,
+			"name": "XÃ ĐĂK PNE"
 		},
 		{
-			"id": "20221",
-			"name": "Phường Thạc Gián"
+			"id": 8915,
+			"name": "XÃ ĐĂK TỜ RE"
 		},
 		{
-			"id": "20207",
-			"name": "Phường Thanh Khê Đông"
-		},
-		{
-			"id": "20206",
-			"name": "Phường Thanh Khê Tây"
-		},
-		{
-			"id": "20218",
-			"name": "Phường Vĩnh Trung"
-		},
-		{
-			"id": "20209",
-			"name": "Phường Xuân Hà"
+			"id": 8916,
+			"name": "XÃ TÂN LẬP"
 		}
 	]
 }

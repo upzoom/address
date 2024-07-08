@@ -1,0 +1,34 @@
+{
+	"id": 23,
+	"name": "Tuyên Quang",
+	"data": [
+		{
+			"id": 242,
+			"name": "THÀNH PHỐ TUYÊN QUANG"
+		},
+		{
+			"id": 243,
+			"name": "HUYỆN YÊN SƠN"
+		},
+		{
+			"id": 244,
+			"name": "HUYỆN SƠN DƯƠNG"
+		},
+		{
+			"id": 245,
+			"name": "HUYỆN CHIÊM HÓA"
+		},
+		{
+			"id": 246,
+			"name": "HUYỆN NA HANG"
+		},
+		{
+			"id": 247,
+			"name": "HUYỆN LÂM BÌNH"
+		},
+		{
+			"id": 248,
+			"name": "HUYỆN HÀM YÊN"
+		}
+	]
+}

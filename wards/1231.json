@@ -1,0 +1,150 @@
+{
+	"id": 1231,
+	"name": "THÀNH PHỐ THỦ ĐỨC",
+	"data": [
+		{
+			"id": 25611,
+			"name": "PHƯỜNG LINH XUÂN"
+		},
+		{
+			"id": 25613,
+			"name": "PHƯỜNG LINH TRUNG"
+		},
+		{
+			"id": 25615,
+			"name": "PHƯỜNG TAM PHÚ"
+		},
+		{
+			"id": 25622,
+			"name": "PHƯỜNG TRƯỜNG THỌ"
+		},
+		{
+			"id": 25635,
+			"name": "PHƯỜNG PHÚ HỮU"
+		},
+		{
+			"id": 25612,
+			"name": "PHƯỜNG BÌNH CHIỂU"
+		},
+		{
+			"id": 25632,
+			"name": "PHƯỜNG LONG PHƯỚC"
+		},
+		{
+			"id": 25642,
+			"name": "PHƯỜNG THẠNH MỸ LỢI"
+		},
+		{
+			"id": 25614,
+			"name": "PHƯỜNG TAM BÌNH"
+		},
+		{
+			"id": 25618,
+			"name": "PHƯỜNG LINH CHIỂU"
+		},
+		{
+			"id": 25623,
+			"name": "PHƯỜNG LONG BÌNH"
+		},
+		{
+			"id": 25629,
+			"name": "PHƯỜNG PHƯỚC LONG B"
+		},
+		{
+			"id": 25630,
+			"name": "PHƯỜNG PHƯỚC LONG A"
+		},
+		{
+			"id": 25640,
+			"name": "PHƯỜNG BÌNH TRƯNG TÂY"
+		},
+		{
+			"id": 25641,
+			"name": "PHƯỜNG CÁT LÁI"
+		},
+		{
+			"id": 25625,
+			"name": "PHƯỜNG TÂN PHÚ"
+		},
+		{
+			"id": 25636,
+			"name": "PHƯỜNG THẢO ĐIỀN"
+		},
+		{
+			"id": 25639,
+			"name": "PHƯỜNG BÌNH TRƯNG ĐÔNG"
+		},
+		{
+			"id": 25621,
+			"name": "PHƯỜNG BÌNH THỌ"
+		},
+		{
+			"id": 25643,
+			"name": "PHƯỜNG AN LỢI ĐÔNG"
+		},
+		{
+			"id": 25645,
+			"name": "PHƯỜNG AN KHÁNH"
+		},
+		{
+			"id": 25633,
+			"name": "PHƯỜNG LONG TRƯỜNG"
+		},
+		{
+			"id": 25624,
+			"name": "PHƯỜNG LONG THẠNH MỸ"
+		},
+		{
+			"id": 25631,
+			"name": "PHƯỜNG TRƯỜNG THẠNH"
+		},
+		{
+			"id": 25619,
+			"name": "PHƯỜNG LINH TÂY"
+		},
+		{
+			"id": 25628,
+			"name": "PHƯỜNG TĂNG NHƠN PHÚ B"
+		},
+		{
+			"id": 25634,
+			"name": "PHƯỜNG PHƯỚC BÌNH"
+		},
+		{
+			"id": 25646,
+			"name": "PHƯỜNG BÌNH AN"
+		},
+		{
+			"id": 25616,
+			"name": "PHƯỜNG HIỆP BÌNH PHƯỚC"
+		},
+		{
+			"id": 25638,
+			"name": "PHƯỜNG AN KHÁNH"
+		},
+		{
+			"id": 25620,
+			"name": "PHƯỜNG LINH ĐÔNG"
+		},
+		{
+			"id": 25637,
+			"name": "PHƯỜNG AN PHÚ"
+		},
+		{
+			"id": 25617,
+			"name": "PHƯỜNG HIỆP BÌNH CHÁNH"
+		},
+		{
+			"id": 25644,
+			"name": "PHƯỜNG THỦ THIÊM"
+		},
+		{
+			"id": 25626,
+			"name": "PHƯỜNG HIỆP PHÚ"
+		},
+		{
+			"id": 25627,
+			"name": "PHƯỜNG TĂNG NHƠN PHÚ A"
+		}
+	]
+}

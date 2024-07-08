@@ -1,54 +1,46 @@
 {
-	"id": "116",
-	"name": "Thành phố Sơn La",
+	"id": 116,
+	"name": "HUYỆN ĐẮK MIL",
 	"data": [
 		{
-			"id": "03667",
-			"name": "Phường Chiềng An"
+			"id": 1653,
+			"name": "THỊ TRẤN ĐĂK MIL"
 		},
 		{
-			"id": "03658",
-			"name": "Xã Chiềng Cọ"
+			"id": 1654,
+			"name": "XÃ ĐẮK LAO"
 		},
 		{
-			"id": "03670",
-			"name": "Phường Chiềng Cơi"
+			"id": 1655,
+			"name": "XÃ ĐẮK RLA"
 		},
 		{
-			"id": "03661",
-			"name": "Xã Chiềng Đen"
+			"id": 1656,
+			"name": "XÃ ĐẮK GẰN"
 		},
 		{
-			"id": "03646",
-			"name": "Phường Chiềng Lề"
+			"id": 1657,
+			"name": "XÃ ĐỨC MẠNH"
 		},
 		{
-			"id": "03673",
-			"name": "Xã Chiềng Ngần"
+			"id": 1658,
+			"name": "XÃ ĐĂK NDRÓT"
 		},
 		{
-			"id": "03679",
-			"name": "Phường Chiềng Sinh"
+			"id": 1659,
+			"name": "XÃ ĐẮK SẮK"
 		},
 		{
-			"id": "03664",
-			"name": "Xã Chiềng Xôm"
+			"id": 1660,
+			"name": "XÃ THUẬN AN"
 		},
 		{
-			"id": "03676",
-			"name": "Xã Hua La"
+			"id": 1661,
+			"name": "XÃ LONG SƠN"
 		},
 		{
-			"id": "03655",
-			"name": "Phường Quyết Tâm"
-		},
-		{
-			"id": "03652",
-			"name": "Phường Quyết Thắng"
-		},
-		{
-			"id": "03649",
-			"name": "Phường Tô Hiệu"
+			"id": 1662,
+			"name": "XÃ ĐỨC MINH"
 		}
 	]
 }

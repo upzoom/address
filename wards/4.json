@@ -1,0 +1,70 @@
+{
+	"id": 4,
+	"name": "QUẬN HOÀNG MAI",
+	"data": [
+		{
+			"id": 71,
+			"name": "PHƯỜNG YÊN SỞ"
+		},
+		{
+			"id": 72,
+			"name": "PHƯỜNG VĨNH HƯNG"
+		},
+		{
+			"id": 73,
+			"name": "PHƯỜNG THỊNH LIỆT"
+		},
+		{
+			"id": 74,
+			"name": "PHƯỜNG ĐỊNH CÔNG"
+		},
+		{
+			"id": 75,
+			"name": "PHƯỜNG ĐẠI KIM"
+		},
+		{
+			"id": 76,
+			"name": "PHƯỜNG HOÀNG LIỆT"
+		},
+		{
+			"id": 77,
+			"name": "PHƯỜNG TÂN MAI"
+		},
+		{
+			"id": 78,
+			"name": "PHƯỜNG THANH TRÌ"
+		},
+		{
+			"id": 79,
+			"name": "PHƯỜNG TRƯƠNG ĐỊNH"
+		},
+		{
+			"id": 80,
+			"name": "PHƯỜNG GIÁP BÁT"
+		},
+		{
+			"id": 81,
+			"name": "PHƯỜNG HOÀNG VĂN THỤ"
+		},
+		{
+			"id": 82,
+			"name": "PHƯỜNG TƯƠNG MAI"
+		},
+		{
+			"id": 83,
+			"name": "PHƯỜNG LĨNH NAM"
+		},
+		{
+			"id": 84,
+			"name": "PHƯỜNG MAI ĐỘNG"
+		},
+		{
+			"id": 85,
+			"name": "PHƯỜNG TRẦN PHÚ"
+		},
+		{
+			"id": 86,
+			"name": "XÃ THANH LIỆT"
+		}
+	]
+}

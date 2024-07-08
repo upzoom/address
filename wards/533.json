@@ -1,58 +1,50 @@
 {
-	"id": "533",
-	"name": "Huyện Mộ Đức",
+	"id": 533,
+	"name": "HUYỆN ĐẠ TẺH",
 	"data": [
 		{
-			"id": "21412",
-			"name": "Xã Đức Chánh"
+			"id": 9441,
+			"name": "XÃ ĐẠ LÂY"
 		},
 		{
-			"id": "21415",
-			"name": "Xã Đức Hiệp"
+			"id": 9442,
+			"name": "XÃ HƯƠNG LÂM"
 		},
 		{
-			"id": "21424",
-			"name": "Xã Đức Hòa"
+			"id": 9443,
+			"name": "XÃ AN NHƠN"
 		},
 		{
-			"id": "21436",
-			"name": "Xã Đức Lân"
+			"id": 9444,
+			"name": "XÃ ĐẠ PAL"
 		},
 		{
-			"id": "21403",
-			"name": "Xã Đức Lợi"
+			"id": 9445,
+			"name": "XÃ HÀ ĐÔNG"
 		},
 		{
-			"id": "21418",
-			"name": "Xã Đức Minh"
+			"id": 9446,
+			"name": "XÃ TRIỆU HẢI"
 		},
 		{
-			"id": "21409",
-			"name": "Xã Đức Nhuận"
+			"id": 9447,
+			"name": "XÃ ĐẠ KHO"
 		},
 		{
-			"id": "21433",
-			"name": "Xã Đức Phong"
+			"id": 9448,
+			"name": "THỊ TRẤN ĐÀ TẺH"
 		},
 		{
-			"id": "21430",
-			"name": "Xã Đức Phú"
+			"id": 9449,
+			"name": "XÃ QUỐC OAI"
 		},
 		{
-			"id": "21427",
-			"name": "Xã Đức Tân"
+			"id": 9450,
+			"name": "XÃ MỸ ĐỨC"
 		},
 		{
-			"id": "21406",
-			"name": "Xã Đức Thắng"
-		},
-		{
-			"id": "21421",
-			"name": "Xã Đức Thạnh"
-		},
-		{
-			"id": "21400",
-			"name": "Thị trấn Mộ Đức"
+			"id": 9451,
+			"name": "XÃ QUẢNG TRỊ"
 		}
 	]
 }

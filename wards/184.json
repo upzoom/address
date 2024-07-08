@@ -1,74 +1,122 @@
 {
-	"id": "184",
-	"name": "Huyện Văn Quan",
+	"id": 184,
+	"name": "HUYỆN NHO QUAN",
 	"data": [
 		{
-			"id": "06283",
-			"name": "Xã An Sơn"
+			"id": 16995,
+			"name": "THỊ TRẤN RỊA"
 		},
 		{
-			"id": "06298",
-			"name": "Xã Bình Phúc"
+			"id": 3145,
+			"name": "XÃ CÚC PHƯƠNG"
 		},
 		{
-			"id": "06280",
-			"name": "Xã Điềm He"
+			"id": 3146,
+			"name": "XÃ ĐỒNG PHONG"
 		},
 		{
-			"id": "06295",
-			"name": "Xã Đồng Giáp"
+			"id": 3147,
+			"name": "XÃ ĐỨC LONG"
 		},
 		{
-			"id": "06274",
-			"name": "Xã Hòa Bình"
+			"id": 3148,
+			"name": "XÃ GIA SƠN"
 		},
 		{
-			"id": "06322",
-			"name": "Xã Hữu Lễ"
+			"id": 3149,
+			"name": "XÃ KỲ PHÚ"
 		},
 		{
-			"id": "06286",
-			"name": "Xã Khánh Khê"
+			"id": 3150,
+			"name": "XÃ GIA LÂM"
 		},
 		{
-			"id": "06268",
-			"name": "Xã Liên Hội"
+			"id": 3151,
+			"name": "XÃ GIA TƯỜNG"
 		},
 		{
-			"id": "06292",
-			"name": "Xã Lương Năng"
+			"id": 3152,
+			"name": "XÃ LẠC VÂN"
 		},
 		{
-			"id": "06307",
-			"name": "Xã Tân Đoàn"
+			"id": 3153,
+			"name": "XÃ LẠC PHONG"
 		},
 		{
-			"id": "06256",
-			"name": "Xã Trấn Ninh"
+			"id": 3154,
+			"name": "XÃ GIA THUỶ"
 		},
 		{
-			"id": "06301",
-			"name": "Xã Tràng Các"
+			"id": 3155,
+			"name": "XÃ PHÚ LỘC"
 		},
 		{
-			"id": "06316",
-			"name": "Xã Tràng Phái"
+			"id": 3156,
+			"name": "XÃ PHÚ LONG"
 		},
 		{
-			"id": "06313",
-			"name": "Xã Tri Lễ"
+			"id": 3157,
+			"name": "XÃ PHÚ SƠN"
 		},
 		{
-			"id": "06277",
-			"name": "Xã Tú Xuyên"
+			"id": 3158,
+			"name": "XÃ QUẢNG LẠC"
 		},
 		{
-			"id": "06253",
-			"name": "Thị trấn Văn Quan"
+			"id": 3159,
+			"name": "XÃ QUỲNH LƯU"
 		},
 		{
-			"id": "06319",
-			"name": "Xã Yên Phúc"
+			"id": 3160,
+			"name": "XÃ SƠN HÀ"
+		},
+		{
+			"id": 3161,
+			"name": "XÃ SƠN LAI"
+		},
+		{
+			"id": 3162,
+			"name": "XÃ SƠN THÀNH"
+		},
+		{
+			"id": 3163,
+			"name": "XÃ THẠCH BÌNH"
+		},
+		{
+			"id": 3164,
+			"name": "XÃ THANH LẠC"
+		},
+		{
+			"id": 3165,
+			"name": "XÃ THƯỢNG HÒA"
+		},
+		{
+			"id": 3166,
+			"name": "THỊ TRẤN NHO QUAN"
+		},
+		{
+			"id": 3167,
+			"name": "XÃ VĂN PHONG"
+		},
+		{
+			"id": 3168,
+			"name": "XÃ VĂN PHÚ"
+		},
+		{
+			"id": 3169,
+			"name": "XÃ VĂN PHƯƠNG"
+		},
+		{
+			"id": 3170,
+			"name": "XÃ XÍCH THỔ"
+		},
+		{
+			"id": 3171,
+			"name": "XÃ YÊN QUANG"
+		},
+		{
+			"id": 25658,
+			"name": "XÃ LẠNG PHONG"
 		}
 	]
 }

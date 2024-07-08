@@ -1,66 +1,46 @@
 {
-	"id": "31",
-	"name": "Thành phố Hải Phòng",
+	"id": 31,
+	"name": "Hòa Bình",
 	"data": [
 		{
-			"id": "312",
-			"name": "Huyện An Dương"
+			"id": 325,
+			"name": "HUYỆN LẠC THỦY"
 		},
 		{
-			"id": "313",
-			"name": "Huyện An Lão"
+			"id": 326,
+			"name": "HUYỆN KIM BÔI"
 		},
 		{
-			"id": "318",
-			"name": "Huyện Bạch Long Vĩ"
+			"id": 327,
+			"name": "HUYỆN TÂN LẠC"
 		},
 		{
-			"id": "317",
-			"name": "Huyện Cát Hải"
+			"id": 328,
+			"name": "HUYỆN LƯƠNG SƠN"
 		},
 		{
-			"id": "308",
-			"name": "Quận Đồ Sơn"
+			"id": 329,
+			"name": "HUYỆN YÊN THỦY"
 		},
 		{
-			"id": "309",
-			"name": "Quận Dương Kinh"
+			"id": 330,
+			"name": "HUYỆN CAO PHONG"
 		},
 		{
-			"id": "306",
-			"name": "Quận Hải An"
+			"id": 331,
+			"name": "HUYỆN ĐÀ BẮC"
 		},
 		{
-			"id": "303",
-			"name": "Quận Hồng Bàng"
+			"id": 332,
+			"name": "HUYỆN LẠC SƠN"
 		},
 		{
-			"id": "307",
-			"name": "Quận Kiến An"
+			"id": 333,
+			"name": "THÀNH PHỐ HÒA BÌNH"
 		},
 		{
-			"id": "314",
-			"name": "Huyện Kiến Thuỵ"
-		},
-		{
-			"id": "305",
-			"name": "Quận Lê Chân"
-		},
-		{
-			"id": "304",
-			"name": "Quận Ngô Quyền"
-		},
-		{
-			"id": "311",
-			"name": "Huyện Thuỷ Nguyên"
-		},
-		{
-			"id": "315",
-			"name": "Huyện Tiên Lãng"
-		},
-		{
-			"id": "316",
-			"name": "Huyện Vĩnh Bảo"
+			"id": 334,
+			"name": "HUYỆN MAI CHÂU"
 		}
 	]
 }

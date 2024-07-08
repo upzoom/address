@@ -1,122 +1,98 @@
 {
-	"id": "219",
-	"name": "Huyện Lục Ngạn",
+	"id": 219,
+	"name": "HUYỆN BẮC HÀ",
 	"data": [
 		{
-			"id": "07573",
-			"name": "Xã Biển Động"
+			"id": 3779,
+			"name": "THỊ TRẤN BẮC HÀ"
 		},
 		{
-			"id": "07555",
-			"name": "Xã Biên Sơn"
+			"id": 3780,
+			"name": "XÃ NA HỐI"
 		},
 		{
-			"id": "07528",
-			"name": "Xã Cấm Sơn"
+			"id": 3781,
+			"name": "XÃ TÀ CHẢI"
 		},
 		{
-			"id": "07525",
-			"name": "Thị trấn Chũ"
+			"id": 3782,
+			"name": "XÃ LÙNG PHÌN"
 		},
 		{
-			"id": "07609",
-			"name": "Xã Đèo Gia"
+			"id": 3783,
+			"name": "XÃ TẢ CỦ TỶ"
 		},
 		{
-			"id": "07591",
-			"name": "Xã Đồng Cốc"
+			"id": 3784,
+			"name": "XÃ NẬM MÒN"
 		},
 		{
-			"id": "07570",
-			"name": "Xã Giáp Sơn"
+			"id": 3785,
+			"name": "XÃ BẢN LIỀN"
 		},
 		{
-			"id": "07543",
-			"name": "Xã Hộ Đáp"
+			"id": 3786,
+			"name": "XÃ NẬM ĐÉT"
 		},
 		{
-			"id": "07561",
-			"name": "Xã Hồng Giang"
+			"id": 3787,
+			"name": "XÃ CỐC LY 1"
 		},
 		{
-			"id": "07552",
-			"name": "Xã Kiên Lao"
+			"id": 3788,
+			"name": "XÃ TẢ VAN CHƯ"
 		},
 		{
-			"id": "07558",
-			"name": "Xã Kiên Thành"
+			"id": 3789,
+			"name": "XÃ HOÀNG THU PHỐ"
 		},
 		{
-			"id": "07564",
-			"name": "Xã Kim Sơn"
+			"id": 3790,
+			"name": "XÃ LÙNG CẢI"
 		},
 		{
-			"id": "07600",
-			"name": "Xã Mỹ An"
+			"id": 3791,
+			"name": "XÃ BẢO NHAI"
 		},
 		{
-			"id": "07603",
-			"name": "Xã Nam Dương"
+			"id": 3792,
+			"name": "XÃ THẢI GIÀNG PHỐ"
 		},
 		{
-			"id": "07582",
-			"name": "Xã Phì Điền"
+			"id": 3793,
+			"name": "XÃ BẢN PHỐ"
 		},
 		{
-			"id": "07534",
-			"name": "Xã Phong Minh"
+			"id": 3794,
+			"name": "XÃ NẬM LÚC"
 		},
 		{
-			"id": "07537",
-			"name": "Xã Phong Vân"
+			"id": 3795,
+			"name": "XÃ CỐC LẦU"
 		},
 		{
-			"id": "07597",
-			"name": "Xã Phú Nhuận"
+			"id": 3796,
+			"name": "XÃ LẦU THÍ NGÀI"
 		},
 		{
-			"id": "07612",
-			"name": "Xã Phượng Sơn"
+			"id": 3797,
+			"name": "XÃ NA QUANG"
 		},
 		{
-			"id": "07576",
-			"name": "Xã Quý Sơn"
+			"id": 3798,
+			"name": "XÃ NẬM KHÁNH"
 		},
 		{
-			"id": "07546",
-			"name": "Xã Sơn Hải"
+			"id": 3799,
+			"name": "XÃ BẢN CÁI"
 		},
 		{
-			"id": "07567",
-			"name": "Xã Tân Hoa"
+			"id": 3800,
+			"name": "XÃ CỐC LY"
 		},
 		{
-			"id": "07594",
-			"name": "Xã Tân Lập"
-		},
-		{
-			"id": "07606",
-			"name": "Xã Tân Mộc"
-		},
-		{
-			"id": "07588",
-			"name": "Xã Tân Quang"
-		},
-		{
-			"id": "07531",
-			"name": "Xã Tân Sơn"
-		},
-		{
-			"id": "07549",
-			"name": "Xã Thanh Hải"
-		},
-		{
-			"id": "07579",
-			"name": "Xã Trù Hựu"
-		},
-		{
-			"id": "07540",
-			"name": "Xã Xa Lý"
+			"id": 3801,
+			"name": "XÃ BẢN GIÀ"
 		}
 	]
 }

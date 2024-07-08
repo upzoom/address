@@ -1,54 +1,34 @@
 {
-	"id": "110",
-	"name": "Huyện Than Uyên",
+	"id": 110,
+	"name": "HUYỆN ĐẮK GLONG",
 	"data": [
 		{
-			"id": "03632",
-			"name": "Xã Hua Nà"
+			"id": 1603,
+			"name": "XÃ QUẢNG HÒA"
 		},
 		{
-			"id": "03643",
-			"name": "Xã Khoen On"
+			"id": 1604,
+			"name": "XÃ QUẢNG SƠN"
 		},
 		{
-			"id": "03631",
-			"name": "Xã Mường Cang"
+			"id": 1605,
+			"name": "XÃ ĐẮK HA"
 		},
 		{
-			"id": "03637",
-			"name": "Xã Mường Kim"
+			"id": 1606,
+			"name": "XÃ ĐẮK RMĂNG"
 		},
 		{
-			"id": "03625",
-			"name": "Xã Mường Mít"
+			"id": 1607,
+			"name": "XÃ QUẢNG KHÊ"
 		},
 		{
-			"id": "03619",
-			"name": "Xã Mường Than"
+			"id": 1608,
+			"name": "XÃ ĐẮK PLAO"
 		},
 		{
-			"id": "03628",
-			"name": "Xã Pha Mu"
-		},
-		{
-			"id": "03618",
-			"name": "Xã Phúc Than"
-		},
-		{
-			"id": "03640",
-			"name": "Xã Tà Gia"
-		},
-		{
-			"id": "03634",
-			"name": "Xã Tà Hừa"
-		},
-		{
-			"id": "03638",
-			"name": "Xã Tà Mung"
-		},
-		{
-			"id": "03595",
-			"name": "Thị trấn Than Uyên"
+			"id": 1609,
+			"name": "XÃ ĐẮK SOM"
 		}
 	]
 }

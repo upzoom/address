@@ -1,98 +1,114 @@
 {
-	"id": "167",
-	"name": "Huyện Định Hóa",
+	"id": 167,
+	"name": "HUYỆN NGHĨA HƯNG",
 	"data": [
 		{
-			"id": "05569",
-			"name": "Xã Bảo Cường"
+			"id": 2611,
+			"name": "XÃ HOÀNG NAM"
 		},
 		{
-			"id": "05554",
-			"name": "Xã Bảo Linh"
+			"id": 2612,
+			"name": "XÃ NAM ĐIỀN"
 		},
 		{
-			"id": "05605",
-			"name": "Xã Bình Thành"
+			"id": 2613,
+			"name": "XÃ NGHĨA BÌNH"
 		},
 		{
-			"id": "05587",
-			"name": "Xã Bình Yên"
+			"id": 2614,
+			"name": "XÃ NGHĨA CHÂU"
 		},
 		{
-			"id": "05596",
-			"name": "Xã Bộc Nhiêu"
+			"id": 2615,
+			"name": "XÃ NGHĨA ĐỒNG"
 		},
 		{
-			"id": "05536",
-			"name": "Thị trấn Chợ Chu"
+			"id": 2616,
+			"name": "XÃ NGHĨA HẢI"
 		},
 		{
-			"id": "05590",
-			"name": "Xã Điềm Mặc"
+			"id": 2617,
+			"name": "XÃ NGHĨA HỒNG"
 		},
 		{
-			"id": "05575",
-			"name": "Xã Định Biên"
+			"id": 2618,
+			"name": "XÃ NGHĨA HÙNG"
 		},
 		{
-			"id": "05572",
-			"name": "Xã Đồng Thịnh"
+			"id": 2619,
+			"name": "XÃ NGHĨA LẠC"
 		},
 		{
-			"id": "05551",
-			"name": "Xã Kim Phượng"
+			"id": 2620,
+			"name": "XÃ NGHĨA LÂM"
 		},
 		{
-			"id": "05542",
-			"name": "Xã Lam Vỹ"
+			"id": 2621,
+			"name": "XÃ NGHĨA LỢI"
 		},
 		{
-			"id": "05539",
-			"name": "Xã Linh Thông"
+			"id": 2622,
+			"name": "XÃ NGHĨA MINH"
 		},
 		{
-			"id": "05602",
-			"name": "Xã Phú Đình"
+			"id": 2623,
+			"name": "XÃ NGHĨA PHONG"
 		},
 		{
-			"id": "05593",
-			"name": "Xã Phú Tiến"
+			"id": 2624,
+			"name": "XÃ NGHIÃ PHÚ"
 		},
 		{
-			"id": "05560",
-			"name": "Xã Phúc Chu"
+			"id": 2625,
+			"name": "XÃ NGHĨA PHÚC"
 		},
 		{
-			"id": "05566",
-			"name": "Xã Phượng Tiến"
+			"id": 2626,
+			"name": "XÃ NGHĨA SƠN"
 		},
 		{
-			"id": "05545",
-			"name": "Xã Quy Kỳ"
+			"id": 2627,
+			"name": "XÃ NGHĨA TÂN"
 		},
 		{
-			"id": "05599",
-			"name": "Xã Sơn Phú"
+			"id": 2628,
+			"name": "XÃ NGHĨA THÁI"
 		},
 		{
-			"id": "05563",
-			"name": "Xã Tân Dương"
+			"id": 2629,
+			"name": "XÃ NGHĨA THẮNG"
 		},
 		{
-			"id": "05548",
-			"name": "Xã Tân Thịnh"
+			"id": 2630,
+			"name": "XÃ NGHĨA THÀNH"
 		},
 		{
-			"id": "05578",
-			"name": "Xã Thanh Định"
+			"id": 2631,
+			"name": "XÃ NGHĨA THỊNH"
 		},
 		{
-			"id": "05581",
-			"name": "Xã Trung Hội"
+			"id": 2632,
+			"name": "XÃ NGHĨA TRUNG"
 		},
 		{
-			"id": "05584",
-			"name": "Xã Trung Lương"
+			"id": 2633,
+			"name": "THỊ TRẤN LIỄU ĐỀ"
+		},
+		{
+			"id": 2634,
+			"name": "THỊ TRẤN QUỸ NHẤT"
+		},
+		{
+			"id": 2635,
+			"name": "THỊ TRẤN RẠNG ĐÔNG"
+		},
+		{
+			"id": 2636,
+			"name": "XÃ NGHĨA HÒA"
+		},
+		{
+			"id": 26240,
+			"name": "XÃ PHÚC THẮNG"
 		}
 	]
 }

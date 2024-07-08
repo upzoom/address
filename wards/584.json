@@ -1,42 +1,86 @@
 {
-	"id": "584",
-	"name": "Huyện Bác Ái",
+	"id": 584,
+	"name": "THÀNH PHỐ LONG KHÁNH",
 	"data": [
 		{
-			"id": "22783",
-			"name": "Xã Phước Bình"
+			"id": 10052,
+			"name": "THỊ XÃ LONG KHÁNH"
 		},
 		{
-			"id": "22804",
-			"name": "Xã Phước Chính"
+			"id": 10053,
+			"name": "XÃ BẢO ĐỊNH"
 		},
 		{
-			"id": "22801",
-			"name": "Xã Phước Đại"
+			"id": 10054,
+			"name": "XÃ BẢO QUANG"
 		},
 		{
-			"id": "22786",
-			"name": "Xã Phước Hòa"
+			"id": 10055,
+			"name": "XÃ BẢO VINH"
 		},
 		{
-			"id": "22789",
-			"name": "Xã Phước Tân"
+			"id": 10056,
+			"name": "XÃ BÀU SEN"
 		},
 		{
-			"id": "22795",
-			"name": "Xã Phước Thắng"
+			"id": 10057,
+			"name": "XÃ BÀU TRÂM"
 		},
 		{
-			"id": "22798",
-			"name": "Xã Phước Thành"
+			"id": 10058,
+			"name": "XÃ BÌNH LỘC"
 		},
 		{
-			"id": "22792",
-			"name": "Xã Phước Tiến"
+			"id": 10059,
+			"name": "XÃ HÀNG GÒN"
 		},
 		{
-			"id": "22807",
-			"name": "Xã Phước Trung"
+			"id": 10060,
+			"name": "XÃ NÚI TRUNG"
+		},
+		{
+			"id": 10061,
+			"name": "PHƯỜNG PHÚ BÌNH"
+		},
+		{
+			"id": 10062,
+			"name": "XÃ SUỐI TRE"
+		},
+		{
+			"id": 10063,
+			"name": "XÃ TÂN PHONG"
+		},
+		{
+			"id": 10064,
+			"name": "PHƯỜNG XUÂN AN"
+		},
+		{
+			"id": 10065,
+			"name": "PHƯỜNG XUÂN BÌNH"
+		},
+		{
+			"id": 10066,
+			"name": "PHƯỜNG XUÂN HÒA"
+		},
+		{
+			"id": 10067,
+			"name": "XÃ XUÂN LẬP"
+		},
+		{
+			"id": 10068,
+			"name": "XÃ XUÂN MỸ"
+		},
+		{
+			"id": 10069,
+			"name": "XÃ XUÂN TÂN"
+		},
+		{
+			"id": 10070,
+			"name": "PHƯỜNG XUÂN THANH"
+		},
+		{
+			"id": 10071,
+			"name": "PHƯỜNG XUÂN TRUNG"
 		}
 	]
 }

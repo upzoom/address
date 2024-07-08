@@ -1,42 +1,42 @@
 {
-	"id": "10",
-	"name": "Tỉnh Lào Cai",
+	"id": 10,
+	"name": "Vĩnh Phúc",
 	"data": [
 		{
-			"id": "085",
-			"name": "Huyện Bắc Hà"
+			"id": 118,
+			"name": "HUYỆN YÊN LẠC"
 		},
 		{
-			"id": "086",
-			"name": "Huyện Bảo Thắng"
+			"id": 119,
+			"name": "HUYỆN TAM DƯƠNG"
 		},
 		{
-			"id": "087",
-			"name": "Huyện Bảo Yên"
+			"id": 120,
+			"name": "HUYỆN BÌNH XUYÊN"
 		},
 		{
-			"id": "082",
-			"name": "Huyện Bát Xát"
+			"id": 121,
+			"name": "HUYỆN SÔNG LÔ"
 		},
 		{
-			"id": "080",
-			"name": "Thành phố Lào Cai"
+			"id": 122,
+			"name": "THÀNH PHỐ PHÚC YÊN"
 		},
 		{
-			"id": "083",
-			"name": "Huyện Mường Khương"
+			"id": 123,
+			"name": "THÀNH PHỐ VĨNH YÊN"
 		},
 		{
-			"id": "088",
-			"name": "Thị xã Sa Pa"
+			"id": 124,
+			"name": "HUỴÊN TAM ĐẢO"
 		},
 		{
-			"id": "084",
-			"name": "Huyện Si Ma Cai"
+			"id": 125,
+			"name": "HUYỆN VĨNH TƯỜNG"
 		},
 		{
-			"id": "089",
-			"name": "Huyện Văn Bàn"
+			"id": 126,
+			"name": "HUYỆN LẬP THẠCH"
 		}
 	]
 }
