@@ -41,11 +41,11 @@
 		},
 		{
 			"id": 2646,
-			"name": "XÃ NAM PHONG"
+			"name": "PHƯỜNG NAM PHONG"
 		},
 		{
 			"id": 2647,
-			"name": "XÃ NAM VÂN"
+			"name": "PHƯỜNG NAM VÂN"
 		},
 		{
 			"id": 2648,
@@ -114,6 +114,14 @@
 		{
 			"id": 2664,
 			"name": "PHƯỜNG HÒA XÁ"
+		},
+		{
+			"id": 108662,
+			"name": "XÃ MỸ LỘC"
+		},
+		{
+			"id": 108661,
+			"name": "PHƯỜNG HƯNG LỘC"
 		}
 	]
 }
