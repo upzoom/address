@@ -116,12 +116,36 @@
 			"name": "PHƯỜNG HÒA XÁ"
 		},
 		{
+			"id": 108671,
+			"name": "XÃ MỸ TÂN"
+		},
+		{
+			"id": 108672,
+			"name": "XÃ MỸ THUẬN"
+		},
+		{
+			"id": 108673,
+			"name": "XÃ MỸ PHÚC"
+		},
+		{
+			"id": 108674,
+			"name": "XÃ MỸ TRUNG"
+		},
+		{
 			"id": 108662,
 			"name": "XÃ MỸ LỘC"
 		},
 		{
 			"id": 108661,
 			"name": "PHƯỜNG HƯNG LỘC"
+		},
+		{
+			"id": 128662,
+			"name": "XÃ MỸ HÀ"
+		},
+		{
+			"id": 128664,
+			"name": "XÃ MỸ THẮNG"
 		}
 	]
 }
