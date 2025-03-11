@@ -1,0 +1,47 @@
+{
+	"id": 21743,
+	"name": "THỊ XÃ CHŨ",
+	"fullname": "THỊ XÃ CHŨ, Bắc Giang",
+	"data": [
+		{
+			"id": 208662,
+			"name": "PHƯỜNG PHƯỢNG SƠN"
+		},
+		{
+			"id": 208659,
+			"name": "PHƯỜNG HỒNG GIANG"
+		},
+		{
+			"id": 208660,
+			"name": "XÃ QUÝ SƠN"
+		},
+		{
+			"id": 208661,
+			"name": "PHƯỜNG TRÙ HỰU"
+		},
+		{
+			"id": 188661,
+			"name": "XÃ KIÊN LAO"
+		},
+		{
+			"id": 188664,
+			"name": "XÃ NAM DƯƠNG"
+		},
+		{
+			"id": 188659,
+			"name": "PHƯỜNG CHŨ"
+		},
+		{
+			"id": 188660,
+			"name": "PHƯỜNG THANH HẢI"
+		},
+		{
+			"id": 188662,
+			"name": "XÃ KIÊN THÀNH"
+		},
+		{
+			"id": 188663,
+			"name": "XÃ MỸ AN"
+		}
+	]
+}
