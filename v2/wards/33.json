@@ -1,0 +1,416 @@
+{
+  "data": [
+    {
+      "id": 3188,
+      "name": "phường An Bình"
+    },
+    {
+      "id": 3189,
+      "name": "xã An Lạc Thôn"
+    },
+    {
+      "id": 3190,
+      "name": "xã An Ninh"
+    },
+    {
+      "id": 3191,
+      "name": "xã An Thạnh"
+    },
+    {
+      "id": 3192,
+      "name": "phường Bình Thủy"
+    },
+    {
+      "id": 3193,
+      "name": "phường Cái Khế"
+    },
+    {
+      "id": 3194,
+      "name": "phường Cái Răng"
+    },
+    {
+      "id": 3195,
+      "name": "xã Châu Thành"
+    },
+    {
+      "id": 3196,
+      "name": "xã Cờ Đỏ"
+    },
+    {
+      "id": 3197,
+      "name": "xã Cù Lao Dung"
+    },
+    {
+      "id": 3198,
+      "name": "xã Đại Hải"
+    },
+    {
+      "id": 3199,
+      "name": "xã Đại Ngãi"
+    },
+    {
+      "id": 3200,
+      "name": "phường Đại Thành"
+    },
+    {
+      "id": 3201,
+      "name": "xã Đông Hiệp"
+    },
+    {
+      "id": 3202,
+      "name": "xã Đông Phước"
+    },
+    {
+      "id": 3203,
+      "name": "xã Đông Thuận"
+    },
+    {
+      "id": 3204,
+      "name": "xã Gia Hòa"
+    },
+    {
+      "id": 3205,
+      "name": "xã Hiệp Hưng"
+    },
+    {
+      "id": 3206,
+      "name": "xã Hồ Đắc Kiện"
+    },
+    {
+      "id": 3207,
+      "name": "xã Hòa An"
+    },
+    {
+      "id": 3208,
+      "name": "xã Hỏa Lựu"
+    },
+    {
+      "id": 3209,
+      "name": "xã Hòa Tú"
+    },
+    {
+      "id": 3210,
+      "name": "phường Hưng Phú"
+    },
+    {
+      "id": 3211,
+      "name": "xã Kế Sách"
+    },
+    {
+      "id": 3212,
+      "name": "phường Khánh Hòa"
+    },
+    {
+      "id": 3213,
+      "name": "xã Lai Hòa"
+    },
+    {
+      "id": 3214,
+      "name": "xã Lâm Tân"
+    },
+    {
+      "id": 3215,
+      "name": "xã Lịch Hội Thượng"
+    },
+    {
+      "id": 3216,
+      "name": "xã Liêu Tú"
+    },
+    {
+      "id": 3217,
+      "name": "phường Long Bình"
+    },
+    {
+      "id": 3218,
+      "name": "xã Long Hưng"
+    },
+    {
+      "id": 3219,
+      "name": "phường Long Mỹ"
+    },
+    {
+      "id": 3220,
+      "name": "xã Long Phú"
+    },
+    {
+      "id": 3221,
+      "name": "phường Long Phú 1"
+    },
+    {
+      "id": 3222,
+      "name": "phường Long Tuyền"
+    },
+    {
+      "id": 3223,
+      "name": "xã Lương Tâm"
+    },
+    {
+      "id": 3224,
+      "name": "xã Mỹ Hương"
+    },
+    {
+      "id": 3225,
+      "name": "xã Mỹ Phước"
+    },
+    {
+      "id": 3226,
+      "name": "phường Mỹ Quới"
+    },
+    {
+      "id": 3227,
+      "name": "xã Mỹ Tú"
+    },
+    {
+      "id": 3228,
+      "name": "phường Mỹ Xuyên"
+    },
+    {
+      "id": 3229,
+      "name": "phường Ngã Bảy"
+    },
+    {
+      "id": 3230,
+      "name": "phường Ngã Năm"
+    },
+    {
+      "id": 3231,
+      "name": "xã Ngọc Tố"
+    },
+    {
+      "id": 3232,
+      "name": "xã Nhơn Ái"
+    },
+    {
+      "id": 3233,
+      "name": "xã Nhơn Mỹ"
+    },
+    {
+      "id": 3234,
+      "name": "xã Nhu Gia"
+    },
+    {
+      "id": 3235,
+      "name": "phường Ninh Kiều"
+    },
+    {
+      "id": 3236,
+      "name": "phường Ô Môn"
+    },
+    {
+      "id": 3237,
+      "name": "phường Phong Điền"
+    },
+    {
+      "id": 3238,
+      "name": "xã Phong Nẫm"
+    },
+    {
+      "id": 3239,
+      "name": "xã Phú Hữu"
+    },
+    {
+      "id": 3240,
+      "name": "xã Phú Lộc"
+    },
+    {
+      "id": 3241,
+      "name": "phường Phú Lợi"
+    },
+    {
+      "id": 3242,
+      "name": "xã Phú Tâm"
+    },
+    {
+      "id": 3243,
+      "name": "xã Phụng Hiệp"
+    },
+    {
+      "id": 3244,
+      "name": "phường Phước Thới"
+    },
+    {
+      "id": 3245,
+      "name": "xã Phương Bình"
+    },
+    {
+      "id": 3246,
+      "name": "phường Sóc Trăng"
+    },
+    {
+      "id": 3247,
+      "name": "xã Tài Văn"
+    },
+    {
+      "id": 3248,
+      "name": "phường Tân An"
+    },
+    {
+      "id": 3249,
+      "name": "xã Tân Bình"
+    },
+    {
+      "id": 3250,
+      "name": "xã Tân Hòa"
+    },
+    {
+      "id": 3251,
+      "name": "xã Tân Lộc"
+    },
+    {
+      "id": 3252,
+      "name": "xã Tân Long"
+    },
+    {
+      "id": 3253,
+      "name": "xã Tân Phước Hưng"
+    },
+    {
+      "id": 3254,
+      "name": "xã Tân Thạnh"
+    },
+    {
+      "id": 3255,
+      "name": "xã Thạnh An"
+    },
+    {
+      "id": 3256,
+      "name": "xã Thạnh Hòa"
+    },
+    {
+      "id": 3257,
+      "name": "xã Thạnh Phú"
+    },
+    {
+      "id": 3258,
+      "name": "xã Thạnh Quới"
+    },
+    {
+      "id": 3259,
+      "name": "xã Thạnh Thới An"
+    },
+    {
+      "id": 3260,
+      "name": "xã Thạnh Xuân"
+    },
+    {
+      "id": 3261,
+      "name": "phường Thới An Đông"
+    },
+    {
+      "id": 3262,
+      "name": "xã Thới An Hội"
+    },
+    {
+      "id": 3263,
+      "name": "xã Thới Hưng"
+    },
+    {
+      "id": 3264,
+      "name": "xã Thới Lai"
+    },
+    {
+      "id": 3265,
+      "name": "phường Thới Long"
+    },
+    {
+      "id": 3266,
+      "name": "phường Thốt Nốt"
+    },
+    {
+      "id": 3267,
+      "name": "xã Thuận Hòa"
+    },
+    {
+      "id": 3268,
+      "name": "phường Thuận Hưng"
+    },
+    {
+      "id": 3269,
+      "name": "xã Trần Đề"
+    },
+    {
+      "id": 3270,
+      "name": "xã Trung Hưng"
+    },
+    {
+      "id": 3271,
+      "name": "phường Trung Nhứt"
+    },
+    {
+      "id": 3272,
+      "name": "xã Trường Khánh"
+    },
+    {
+      "id": 3273,
+      "name": "xã Trường Long"
+    },
+    {
+      "id": 3274,
+      "name": "xã Trường Long Tây"
+    },
+    {
+      "id": 3275,
+      "name": "xã Trường Thành"
+    },
+    {
+      "id": 3276,
+      "name": "xã Trường Xuân"
+    },
+    {
+      "id": 3277,
+      "name": "phường Vị Tân"
+    },
+    {
+      "id": 3278,
+      "name": "phường Vị Thanh"
+    },
+    {
+      "id": 3279,
+      "name": "xã Vị Thanh 1"
+    },
+    {
+      "id": 3280,
+      "name": "xã Vị Thủy"
+    },
+    {
+      "id": 3281,
+      "name": "phường Vĩnh Châu"
+    },
+    {
+      "id": 3282,
+      "name": "xã Vĩnh Hải"
+    },
+    {
+      "id": 3283,
+      "name": "xã Vĩnh Lợi"
+    },
+    {
+      "id": 3284,
+      "name": "phường Vĩnh Phước"
+    },
+    {
+      "id": 3285,
+      "name": "xã Vĩnh Thạnh"
+    },
+    {
+      "id": 3286,
+      "name": "xã Vĩnh Thuận Đông"
+    },
+    {
+      "id": 3287,
+      "name": "xã Vĩnh Trinh"
+    },
+    {
+      "id": 3288,
+      "name": "xã Vĩnh Tường"
+    },
+    {
+      "id": 3289,
+      "name": "xã Vĩnh Viễn"
+    },
+    {
+      "id": 3290,
+      "name": "xã Xà Phiên"
+    }
+  ]
+}

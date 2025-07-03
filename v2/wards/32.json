@@ -1,0 +1,412 @@
+{
+  "data": [
+    {
+      "id": 3085,
+      "name": "xã An Biên"
+    },
+    {
+      "id": 3086,
+      "name": "xã An Châu"
+    },
+    {
+      "id": 3087,
+      "name": "xã An Cư"
+    },
+    {
+      "id": 3088,
+      "name": "xã An Minh"
+    },
+    {
+      "id": 3089,
+      "name": "xã An Phú"
+    },
+    {
+      "id": 3090,
+      "name": "xã Ba Chúc"
+    },
+    {
+      "id": 3091,
+      "name": "xã Bình An"
+    },
+    {
+      "id": 3092,
+      "name": "phường Bình Đức"
+    },
+    {
+      "id": 3093,
+      "name": "xã Bình Giang"
+    },
+    {
+      "id": 3094,
+      "name": "xã Bình Hòa"
+    },
+    {
+      "id": 3095,
+      "name": "xã Bình Mỹ"
+    },
+    {
+      "id": 3096,
+      "name": "xã Bình Sơn"
+    },
+    {
+      "id": 3097,
+      "name": "xã Bình Thạnh Đông"
+    },
+    {
+      "id": 3098,
+      "name": "xã Cần Đăng"
+    },
+    {
+      "id": 3099,
+      "name": "phường Châu Đốc"
+    },
+    {
+      "id": 3100,
+      "name": "xã Châu Phong"
+    },
+    {
+      "id": 3101,
+      "name": "xã Châu Phú"
+    },
+    {
+      "id": 3102,
+      "name": "xã Châu Thành"
+    },
+    {
+      "id": 3103,
+      "name": "phường Chi Lăng"
+    },
+    {
+      "id": 3104,
+      "name": "xã Chợ Mới"
+    },
+    {
+      "id": 3105,
+      "name": "xã Chợ Vàm"
+    },
+    {
+      "id": 3106,
+      "name": "xã Cô Tô"
+    },
+    {
+      "id": 3107,
+      "name": "xã Cù Lao Giêng"
+    },
+    {
+      "id": 3108,
+      "name": "xã Định Hòa"
+    },
+    {
+      "id": 3109,
+      "name": "xã Định Mỹ"
+    },
+    {
+      "id": 3110,
+      "name": "xã Đông Hòa"
+    },
+    {
+      "id": 3111,
+      "name": "xã Đông Hưng"
+    },
+    {
+      "id": 3112,
+      "name": "xã Đông Thái"
+    },
+    {
+      "id": 3113,
+      "name": "xã Giang Thành"
+    },
+    {
+      "id": 3114,
+      "name": "xã Giồng Riềng"
+    },
+    {
+      "id": 3115,
+      "name": "xã Gò Quao"
+    },
+    {
+      "id": 3116,
+      "name": "phường Hà Tiên"
+    },
+    {
+      "id": 3117,
+      "name": "xã Hòa Điền"
+    },
+    {
+      "id": 3118,
+      "name": "xã Hòa Hưng"
+    },
+    {
+      "id": 3119,
+      "name": "xã Hòa Lạc"
+    },
+    {
+      "id": 3120,
+      "name": "xã Hòa Thuận"
+    },
+    {
+      "id": 3121,
+      "name": "xã Hội An"
+    },
+    {
+      "id": 3122,
+      "name": "xã Hòn Đất"
+    },
+    {
+      "id": 3123,
+      "name": "xã Hòn Nghệ"
+    },
+    {
+      "id": 3124,
+      "name": "xã Khánh Bình"
+    },
+    {
+      "id": 3125,
+      "name": "đặc khu Kiên Hải"
+    },
+    {
+      "id": 3126,
+      "name": "xã Kiên Lương"
+    },
+    {
+      "id": 3127,
+      "name": "xã Long Điền"
+    },
+    {
+      "id": 3128,
+      "name": "xã Long Kiến"
+    },
+    {
+      "id": 3129,
+      "name": "phường Long Phú"
+    },
+    {
+      "id": 3130,
+      "name": "xã Long Thạnh"
+    },
+    {
+      "id": 3131,
+      "name": "phường Long Xuyên"
+    },
+    {
+      "id": 3132,
+      "name": "xã Mỹ Đức"
+    },
+    {
+      "id": 3133,
+      "name": "xã Mỹ Hòa Hưng"
+    },
+    {
+      "id": 3134,
+      "name": "phường Mỹ Thới"
+    },
+    {
+      "id": 3135,
+      "name": "xã Mỹ Thuận"
+    },
+    {
+      "id": 3136,
+      "name": "xã Ngọc Chúc"
+    },
+    {
+      "id": 3137,
+      "name": "xã Nhơn Hội"
+    },
+    {
+      "id": 3138,
+      "name": "xã Nhơn Mỹ"
+    },
+    {
+      "id": 3139,
+      "name": "xã Núi Cấm"
+    },
+    {
+      "id": 3140,
+      "name": "xã Ô Lâm"
+    },
+    {
+      "id": 3141,
+      "name": "xã Óc Eo"
+    },
+    {
+      "id": 3142,
+      "name": "xã Phú An"
+    },
+    {
+      "id": 3143,
+      "name": "xã Phú Hòa"
+    },
+    {
+      "id": 3144,
+      "name": "xã Phú Hữu"
+    },
+    {
+      "id": 3145,
+      "name": "xã Phú Lâm"
+    },
+    {
+      "id": 3146,
+      "name": "đặc khu Phú Quốc"
+    },
+    {
+      "id": 3147,
+      "name": "xã Phú Tân"
+    },
+    {
+      "id": 3148,
+      "name": "phường Rạch Giá"
+    },
+    {
+      "id": 3149,
+      "name": "xã Sơn Hải"
+    },
+    {
+      "id": 3150,
+      "name": "xã Sơn Kiên"
+    },
+    {
+      "id": 3151,
+      "name": "xã Tân An"
+    },
+    {
+      "id": 3152,
+      "name": "phường Tân Châu"
+    },
+    {
+      "id": 3153,
+      "name": "xã Tân Hiệp"
+    },
+    {
+      "id": 3154,
+      "name": "xã Tân Hội"
+    },
+    {
+      "id": 3155,
+      "name": "xã Tân Thạnh"
+    },
+    {
+      "id": 3156,
+      "name": "xã Tây Phú"
+    },
+    {
+      "id": 3157,
+      "name": "xã Tây Yên"
+    },
+    {
+      "id": 3158,
+      "name": "xã Thạnh Đông"
+    },
+    {
+      "id": 3159,
+      "name": "xã Thạnh Hưng"
+    },
+    {
+      "id": 3160,
+      "name": "xã Thạnh Lộc"
+    },
+    {
+      "id": 3161,
+      "name": "xã Thạnh Mỹ Tây"
+    },
+    {
+      "id": 3162,
+      "name": "đặc khu Thổ Châu"
+    },
+    {
+      "id": 3163,
+      "name": "xã Thoại Sơn"
+    },
+    {
+      "id": 3164,
+      "name": "phường Thới Sơn"
+    },
+    {
+      "id": 3165,
+      "name": "xã Tiên Hải"
+    },
+    {
+      "id": 3166,
+      "name": "phường Tịnh Biên"
+    },
+    {
+      "id": 3167,
+      "name": "phường Tô Châu"
+    },
+    {
+      "id": 3168,
+      "name": "xã Tri Tôn"
+    },
+    {
+      "id": 3169,
+      "name": "xã U Minh Thượng"
+    },
+    {
+      "id": 3170,
+      "name": "xã Vân Khánh"
+    },
+    {
+      "id": 3171,
+      "name": "xã Vĩnh An"
+    },
+    {
+      "id": 3172,
+      "name": "xã Vĩnh Bình"
+    },
+    {
+      "id": 3173,
+      "name": "xã Vĩnh Điều"
+    },
+    {
+      "id": 3174,
+      "name": "xã Vĩnh Gia"
+    },
+    {
+      "id": 3175,
+      "name": "xã Vĩnh Hanh"
+    },
+    {
+      "id": 3176,
+      "name": "xã Vĩnh Hậu"
+    },
+    {
+      "id": 3177,
+      "name": "xã Vĩnh Hòa"
+    },
+    {
+      "id": 3178,
+      "name": "xã Vĩnh Hòa Hưng"
+    },
+    {
+      "id": 3179,
+      "name": "xã Vĩnh Phong"
+    },
+    {
+      "id": 3180,
+      "name": "phường Vĩnh Tế"
+    },
+    {
+      "id": 3181,
+      "name": "xã Vĩnh Thạnh Trung"
+    },
+    {
+      "id": 3182,
+      "name": "phường Vĩnh Thông"
+    },
+    {
+      "id": 3183,
+      "name": "xã Vĩnh Thuận"
+    },
+    {
+      "id": 3184,
+      "name": "xã Vĩnh Trạch"
+    },
+    {
+      "id": 3185,
+      "name": "xã Vĩnh Tuy"
+    },
+    {
+      "id": 3186,
+      "name": "xã Vĩnh Xương"
+    }
+  ]
+}

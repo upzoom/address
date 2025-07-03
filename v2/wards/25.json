@@ -1,0 +1,412 @@
+{
+  "data": [
+    {
+      "id": 2267,
+      "name": "phường Bình Kiến"
+    },
+    {
+      "id": 2268,
+      "name": "xã Buôn Đôn"
+    },
+    {
+      "id": 2269,
+      "name": "phường Buôn Hồ"
+    },
+    {
+      "id": 2270,
+      "name": "phường Buôn Ma Thuột"
+    },
+    {
+      "id": 2271,
+      "name": "phường Cư Bao"
+    },
+    {
+      "id": 2272,
+      "name": "xã Cư M’gar"
+    },
+    {
+      "id": 2273,
+      "name": "xã Cư M’ta"
+    },
+    {
+      "id": 2274,
+      "name": "xã Cư Pơng"
+    },
+    {
+      "id": 2275,
+      "name": "xã Cư Prao"
+    },
+    {
+      "id": 2276,
+      "name": "xã Cư Pui"
+    },
+    {
+      "id": 2277,
+      "name": "xã Cư Yang"
+    },
+    {
+      "id": 2278,
+      "name": "xã Cuôr Đăng"
+    },
+    {
+      "id": 2279,
+      "name": "xã Đắk Liêng"
+    },
+    {
+      "id": 2280,
+      "name": "xã Đắk Phơi"
+    },
+    {
+      "id": 2281,
+      "name": "xã Dang Kang"
+    },
+    {
+      "id": 2282,
+      "name": "xã Dliê Ya"
+    },
+    {
+      "id": 2283,
+      "name": "phường Đông Hòa"
+    },
+    {
+      "id": 2284,
+      "name": "xã Đồng Xuân"
+    },
+    {
+      "id": 2285,
+      "name": "xã Dray Bhăng"
+    },
+    {
+      "id": 2286,
+      "name": "xã Đức Bình"
+    },
+    {
+      "id": 2287,
+      "name": "xã Dur Kmăl"
+    },
+    {
+      "id": 2288,
+      "name": "xã Ea Bá"
+    },
+    {
+      "id": 2289,
+      "name": "xã Ea Bung"
+    },
+    {
+      "id": 2290,
+      "name": "xã Ea Drăng"
+    },
+    {
+      "id": 2291,
+      "name": "xã Ea Drông"
+    },
+    {
+      "id": 2292,
+      "name": "xã Ea H’Leo"
+    },
+    {
+      "id": 2293,
+      "name": "xã Ea Hiao"
+    },
+    {
+      "id": 2294,
+      "name": "phường Ea Kao"
+    },
+    {
+      "id": 2295,
+      "name": "xã Ea Kar"
+    },
+    {
+      "id": 2296,
+      "name": "xã Ea Khăl"
+    },
+    {
+      "id": 2297,
+      "name": "xã Ea Kiết"
+    },
+    {
+      "id": 2298,
+      "name": "xã Ea Kly"
+    },
+    {
+      "id": 2299,
+      "name": "xã Ea Knốp"
+    },
+    {
+      "id": 2300,
+      "name": "xã Ea Knuếc"
+    },
+    {
+      "id": 2301,
+      "name": "xã Ea Ktur"
+    },
+    {
+      "id": 2302,
+      "name": "xã Ea Ly"
+    },
+    {
+      "id": 2303,
+      "name": "xã Ea M’Droh"
+    },
+    {
+      "id": 2304,
+      "name": "xã Ea Na"
+    },
+    {
+      "id": 2305,
+      "name": "xã Ea Ning"
+    },
+    {
+      "id": 2306,
+      "name": "xã Ea Nuôl"
+    },
+    {
+      "id": 2307,
+      "name": "xã Ea Ô"
+    },
+    {
+      "id": 2308,
+      "name": "xã Ea Păl"
+    },
+    {
+      "id": 2309,
+      "name": "xã Ea Phê"
+    },
+    {
+      "id": 2310,
+      "name": "xã Ea Riêng"
+    },
+    {
+      "id": 2311,
+      "name": "xã Ea Rốk"
+    },
+    {
+      "id": 2312,
+      "name": "xã Ea Súp"
+    },
+    {
+      "id": 2313,
+      "name": "xã Ea Trang"
+    },
+    {
+      "id": 2314,
+      "name": "xã Ea Tul"
+    },
+    {
+      "id": 2315,
+      "name": "xã Ea Wer"
+    },
+    {
+      "id": 2316,
+      "name": "xã Ea Wy"
+    },
+    {
+      "id": 2317,
+      "name": "phường Hòa Hiệp"
+    },
+    {
+      "id": 2318,
+      "name": "xã Hòa Mỹ"
+    },
+    {
+      "id": 2319,
+      "name": "xã Hòa Phú"
+    },
+    {
+      "id": 2320,
+      "name": "xã Hòa Sơn"
+    },
+    {
+      "id": 2321,
+      "name": "xã Hòa Thịnh"
+    },
+    {
+      "id": 2322,
+      "name": "xã Hòa Xuân"
+    },
+    {
+      "id": 2323,
+      "name": "xã Ia Lốp"
+    },
+    {
+      "id": 2324,
+      "name": "xã Ia Rvê"
+    },
+    {
+      "id": 2325,
+      "name": "xã Krông Á"
+    },
+    {
+      "id": 2326,
+      "name": "xã Krông Ana"
+    },
+    {
+      "id": 2327,
+      "name": "xã Krông Bông"
+    },
+    {
+      "id": 2328,
+      "name": "xã Krông Búk"
+    },
+    {
+      "id": 2329,
+      "name": "xã Krông Năng"
+    },
+    {
+      "id": 2330,
+      "name": "xã Krông Nô"
+    },
+    {
+      "id": 2331,
+      "name": "xã Krông Pắc"
+    },
+    {
+      "id": 2332,
+      "name": "xã Liên Sơn Lắk"
+    },
+    {
+      "id": 2333,
+      "name": "xã M’Drắk"
+    },
+    {
+      "id": 2334,
+      "name": "xã Nam Ka"
+    },
+    {
+      "id": 2335,
+      "name": "xã Ô Loan"
+    },
+    {
+      "id": 2336,
+      "name": "xã Phú Hòa 1"
+    },
+    {
+      "id": 2337,
+      "name": "xã Phú Hòa 2"
+    },
+    {
+      "id": 2338,
+      "name": "xã Phú Mỡ"
+    },
+    {
+      "id": 2339,
+      "name": "xã Phú Xuân"
+    },
+    {
+      "id": 2340,
+      "name": "phường Phú Yên"
+    },
+    {
+      "id": 2341,
+      "name": "xã Pơng Drang"
+    },
+    {
+      "id": 2342,
+      "name": "xã Quảng Phú"
+    },
+    {
+      "id": 2343,
+      "name": "xã Sơn Hòa"
+    },
+    {
+      "id": 2344,
+      "name": "xã Sơn Thành"
+    },
+    {
+      "id": 2345,
+      "name": "phường Sông Cầu"
+    },
+    {
+      "id": 2346,
+      "name": "xã Sông Hinh"
+    },
+    {
+      "id": 2347,
+      "name": "xã Suối Trai"
+    },
+    {
+      "id": 2348,
+      "name": "xã Tam Giang"
+    },
+    {
+      "id": 2349,
+      "name": "phường Tân An"
+    },
+    {
+      "id": 2350,
+      "name": "phường Tân Lập"
+    },
+    {
+      "id": 2351,
+      "name": "xã Tân Tiến"
+    },
+    {
+      "id": 2352,
+      "name": "xã Tây Hòa"
+    },
+    {
+      "id": 2353,
+      "name": "xã Tây Sơn"
+    },
+    {
+      "id": 2354,
+      "name": "phường Thành Nhất"
+    },
+    {
+      "id": 2355,
+      "name": "xã Tuy An Bắc"
+    },
+    {
+      "id": 2356,
+      "name": "xã Tuy An Đông"
+    },
+    {
+      "id": 2357,
+      "name": "xã Tuy An Nam"
+    },
+    {
+      "id": 2358,
+      "name": "xã Tuy An Tây"
+    },
+    {
+      "id": 2359,
+      "name": "phường Tuy Hòa"
+    },
+    {
+      "id": 2360,
+      "name": "xã Vân Hòa"
+    },
+    {
+      "id": 2361,
+      "name": "xã Vụ Bổn"
+    },
+    {
+      "id": 2362,
+      "name": "xã Xuân Cảnh"
+    },
+    {
+      "id": 2363,
+      "name": "phường Xuân Đài"
+    },
+    {
+      "id": 2364,
+      "name": "xã Xuân Lãnh"
+    },
+    {
+      "id": 2365,
+      "name": "xã Xuân Lộc"
+    },
+    {
+      "id": 2366,
+      "name": "xã Xuân Phước"
+    },
+    {
+      "id": 2367,
+      "name": "xã Xuân Thọ"
+    },
+    {
+      "id": 2368,
+      "name": "xã Yang Mao"
+    }
+  ]
+}

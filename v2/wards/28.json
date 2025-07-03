@@ -1,0 +1,384 @@
+{
+  "data": [
+    {
+      "id": 2592,
+      "name": "phường An Lộc"
+    },
+    {
+      "id": 2593,
+      "name": "xã An Phước"
+    },
+    {
+      "id": 2594,
+      "name": "xã An Viễn"
+    },
+    {
+      "id": 2595,
+      "name": "phường Bảo Vinh"
+    },
+    {
+      "id": 2596,
+      "name": "xã Bàu Hàm"
+    },
+    {
+      "id": 2597,
+      "name": "phường Biên Hòa"
+    },
+    {
+      "id": 2598,
+      "name": "xã Bình An"
+    },
+    {
+      "id": 2599,
+      "name": "phường Bình Lộc"
+    },
+    {
+      "id": 2600,
+      "name": "phường Bình Long"
+    },
+    {
+      "id": 2601,
+      "name": "xã Bình Minh"
+    },
+    {
+      "id": 2602,
+      "name": "phường Bình Phước"
+    },
+    {
+      "id": 2603,
+      "name": "xã Bình Tân"
+    },
+    {
+      "id": 2604,
+      "name": "xã Bom Bo"
+    },
+    {
+      "id": 2605,
+      "name": "xã Bù Đăng"
+    },
+    {
+      "id": 2606,
+      "name": "xã Bù Gia Mập"
+    },
+    {
+      "id": 2607,
+      "name": "xã Cẩm Mỹ"
+    },
+    {
+      "id": 2608,
+      "name": "phường Chơn Thành"
+    },
+    {
+      "id": 2609,
+      "name": "xã Đa Kia"
+    },
+    {
+      "id": 2610,
+      "name": "xã Đại Phước"
+    },
+    {
+      "id": 2611,
+      "name": "xã Đak Lua"
+    },
+    {
+      "id": 2612,
+      "name": "xã Đak Nhau"
+    },
+    {
+      "id": 2613,
+      "name": "xã Đăk Ơ"
+    },
+    {
+      "id": 2614,
+      "name": "xã Dầu Giây"
+    },
+    {
+      "id": 2615,
+      "name": "xã Định Quán"
+    },
+    {
+      "id": 2616,
+      "name": "xã Đồng Phú"
+    },
+    {
+      "id": 2617,
+      "name": "xã Đồng Tâm"
+    },
+    {
+      "id": 2618,
+      "name": "phường Đồng Xoài"
+    },
+    {
+      "id": 2619,
+      "name": "xã Gia Kiệm"
+    },
+    {
+      "id": 2620,
+      "name": "phường Hàng Gòn"
+    },
+    {
+      "id": 2621,
+      "name": "phường Hố Nai"
+    },
+    {
+      "id": 2622,
+      "name": "xã Hưng Phước"
+    },
+    {
+      "id": 2623,
+      "name": "xã Hưng Thịnh"
+    },
+    {
+      "id": 2624,
+      "name": "xã La Ngà"
+    },
+    {
+      "id": 2625,
+      "name": "xã Lộc Hưng"
+    },
+    {
+      "id": 2626,
+      "name": "xã Lộc Ninh"
+    },
+    {
+      "id": 2627,
+      "name": "xã Lộc Quang"
+    },
+    {
+      "id": 2628,
+      "name": "xã Lộc Tấn"
+    },
+    {
+      "id": 2629,
+      "name": "xã Lộc Thành"
+    },
+    {
+      "id": 2630,
+      "name": "xã Lộc Thạnh"
+    },
+    {
+      "id": 2631,
+      "name": "phường Long Bình"
+    },
+    {
+      "id": 2632,
+      "name": "xã Long Hà"
+    },
+    {
+      "id": 2633,
+      "name": "phường Long Hưng"
+    },
+    {
+      "id": 2634,
+      "name": "phường Long Khánh"
+    },
+    {
+      "id": 2635,
+      "name": "xã Long Phước"
+    },
+    {
+      "id": 2636,
+      "name": "xã Long Thành"
+    },
+    {
+      "id": 2637,
+      "name": "xã Minh Đức"
+    },
+    {
+      "id": 2638,
+      "name": "phường Minh Hưng"
+    },
+    {
+      "id": 2639,
+      "name": "xã Nam Cát Tiên"
+    },
+    {
+      "id": 2640,
+      "name": "xã Nghĩa Trung"
+    },
+    {
+      "id": 2641,
+      "name": "xã Nha Bích"
+    },
+    {
+      "id": 2642,
+      "name": "xã Nhơn Trạch"
+    },
+    {
+      "id": 2643,
+      "name": "xã Phú Hòa"
+    },
+    {
+      "id": 2644,
+      "name": "xã Phú Lâm"
+    },
+    {
+      "id": 2645,
+      "name": "xã Phú Lý"
+    },
+    {
+      "id": 2646,
+      "name": "xã Phú Nghĩa"
+    },
+    {
+      "id": 2647,
+      "name": "xã Phú Riềng"
+    },
+    {
+      "id": 2648,
+      "name": "xã Phú Trung"
+    },
+    {
+      "id": 2649,
+      "name": "xã Phú Vinh"
+    },
+    {
+      "id": 2650,
+      "name": "xã Phước An"
+    },
+    {
+      "id": 2651,
+      "name": "phường Phước Bình"
+    },
+    {
+      "id": 2652,
+      "name": "phường Phước Long"
+    },
+    {
+      "id": 2653,
+      "name": "xã Phước Sơn"
+    },
+    {
+      "id": 2654,
+      "name": "phường Phước Tân"
+    },
+    {
+      "id": 2655,
+      "name": "xã Phước Thái"
+    },
+    {
+      "id": 2656,
+      "name": "xã Sông Ray"
+    },
+    {
+      "id": 2657,
+      "name": "xã Tà Lài"
+    },
+    {
+      "id": 2658,
+      "name": "phường Tam Hiệp"
+    },
+    {
+      "id": 2659,
+      "name": "phường Tam Phước"
+    },
+    {
+      "id": 2660,
+      "name": "xã Tân An"
+    },
+    {
+      "id": 2661,
+      "name": "xã Tân Hưng"
+    },
+    {
+      "id": 2662,
+      "name": "xã Tân Khai"
+    },
+    {
+      "id": 2663,
+      "name": "xã Tân Lợi"
+    },
+    {
+      "id": 2664,
+      "name": "xã Tân Phú"
+    },
+    {
+      "id": 2665,
+      "name": "xã Tân Quan"
+    },
+    {
+      "id": 2666,
+      "name": "xã Tân Tiến"
+    },
+    {
+      "id": 2667,
+      "name": "phường Tân Triều"
+    },
+    {
+      "id": 2668,
+      "name": "xã Thanh Sơn"
+    },
+    {
+      "id": 2669,
+      "name": "xã Thiện Hưng"
+    },
+    {
+      "id": 2670,
+      "name": "xã Thọ Sơn"
+    },
+    {
+      "id": 2671,
+      "name": "xã Thống Nhất"
+    },
+    {
+      "id": 2672,
+      "name": "xã Thuận Lợi"
+    },
+    {
+      "id": 2673,
+      "name": "phường Trấn Biên"
+    },
+    {
+      "id": 2674,
+      "name": "xã Trảng Bom"
+    },
+    {
+      "id": 2675,
+      "name": "phường Trảng Dài"
+    },
+    {
+      "id": 2676,
+      "name": "xã Trị An"
+    },
+    {
+      "id": 2677,
+      "name": "xã Xuân Bắc"
+    },
+    {
+      "id": 2678,
+      "name": "xã Xuân Định"
+    },
+    {
+      "id": 2679,
+      "name": "xã Xuân Đông"
+    },
+    {
+      "id": 2680,
+      "name": "xã Xuân Đường"
+    },
+    {
+      "id": 2681,
+      "name": "xã Xuân Hòa"
+    },
+    {
+      "id": 2682,
+      "name": "phường Xuân Lập"
+    },
+    {
+      "id": 2683,
+      "name": "xã Xuân Lộc"
+    },
+    {
+      "id": 2684,
+      "name": "xã Xuân Phú"
+    },
+    {
+      "id": 2685,
+      "name": "xã Xuân Quế"
+    },
+    {
+      "id": 2686,
+      "name": "xã Xuân Thành"
+    }
+  ]
+}

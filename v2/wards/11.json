@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "id": 665,
+      "name": "xã Ba Sơn"
+    },
+    {
+      "id": 666,
+      "name": "xã Bắc Sơn"
+    },
+    {
+      "id": 667,
+      "name": "xã Bằng Mạc"
+    },
+    {
+      "id": 668,
+      "name": "xã Bình Gia"
+    },
+    {
+      "id": 669,
+      "name": "xã Cai Kinh"
+    },
+    {
+      "id": 670,
+      "name": "xã Cao Lộc"
+    },
+    {
+      "id": 671,
+      "name": "xã Châu Sơn"
+    },
+    {
+      "id": 672,
+      "name": "xã Chi Lăng"
+    },
+    {
+      "id": 673,
+      "name": "xã Chiến Thắng"
+    },
+    {
+      "id": 674,
+      "name": "xã Công Sơn"
+    },
+    {
+      "id": 675,
+      "name": "xã Điềm He"
+    },
+    {
+      "id": 676,
+      "name": "xã Đình Lập"
+    },
+    {
+      "id": 677,
+      "name": "xã Đoàn Kết"
+    },
+    {
+      "id": 678,
+      "name": "xã Đồng Đăng"
+    },
+    {
+      "id": 679,
+      "name": "phường Đông Kinh"
+    },
+    {
+      "id": 680,
+      "name": "xã Hoa Thám"
+    },
+    {
+      "id": 681,
+      "name": "xã Hoàng Văn Thụ"
+    },
+    {
+      "id": 682,
+      "name": "xã Hội Hoan"
+    },
+    {
+      "id": 683,
+      "name": "xã Hồng Phong"
+    },
+    {
+      "id": 684,
+      "name": "xã Hưng Vũ"
+    },
+    {
+      "id": 685,
+      "name": "xã Hữu Liên"
+    },
+    {
+      "id": 686,
+      "name": "xã Hữu Lũng"
+    },
+    {
+      "id": 687,
+      "name": "xã Kháng Chiến"
+    },
+    {
+      "id": 688,
+      "name": "xã Khánh Khê"
+    },
+    {
+      "id": 689,
+      "name": "xã Khuất Xá"
+    },
+    {
+      "id": 690,
+      "name": "xã Kiên Mộc"
+    },
+    {
+      "id": 691,
+      "name": "phường Kỳ Lừa"
+    },
+    {
+      "id": 692,
+      "name": "xã Lộc Bình"
+    },
+    {
+      "id": 693,
+      "name": "xã Lợi Bác"
+    },
+    {
+      "id": 694,
+      "name": "phường Lương Văn Tri"
+    },
+    {
+      "id": 695,
+      "name": "xã Mẫu Sơn"
+    },
+    {
+      "id": 696,
+      "name": "xã Na Dương"
+    },
+    {
+      "id": 697,
+      "name": "xã Na Sầm"
+    },
+    {
+      "id": 698,
+      "name": "xã Nhân Lý"
+    },
+    {
+      "id": 699,
+      "name": "xã Nhất Hòa"
+    },
+    {
+      "id": 700,
+      "name": "xã Quan Sơn"
+    },
+    {
+      "id": 701,
+      "name": "xã Quốc Khánh"
+    },
+    {
+      "id": 702,
+      "name": "xã Quốc Việt"
+    },
+    {
+      "id": 703,
+      "name": "xã Quý Hòa"
+    },
+    {
+      "id": 704,
+      "name": "phường Tam Thanh"
+    },
+    {
+      "id": 705,
+      "name": "xã Tân Đoàn"
+    },
+    {
+      "id": 706,
+      "name": "xã Tân Thành"
+    },
+    {
+      "id": 707,
+      "name": "xã Tân Tiến"
+    },
+    {
+      "id": 708,
+      "name": "xã Tân Tri"
+    },
+    {
+      "id": 709,
+      "name": "xã Tân Văn"
+    },
+    {
+      "id": 710,
+      "name": "xã Thái Bình"
+    },
+    {
+      "id": 711,
+      "name": "xã Thất Khê"
+    },
+    {
+      "id": 712,
+      "name": "xã Thiện Hòa"
+    },
+    {
+      "id": 713,
+      "name": "xã Thiện Long"
+    },
+    {
+      "id": 714,
+      "name": "xã Thiện Tân"
+    },
+    {
+      "id": 715,
+      "name": "xã Thiện Thuật"
+    },
+    {
+      "id": 716,
+      "name": "xã Thống Nhất"
+    },
+    {
+      "id": 717,
+      "name": "xã Thụy Hùng"
+    },
+    {
+      "id": 718,
+      "name": "xã Tràng Định"
+    },
+    {
+      "id": 719,
+      "name": "xã Tri Lễ"
+    },
+    {
+      "id": 720,
+      "name": "xã Tuấn Sơn"
+    },
+    {
+      "id": 721,
+      "name": "xã Văn Lãng"
+    },
+    {
+      "id": 722,
+      "name": "xã Vạn Linh"
+    },
+    {
+      "id": 723,
+      "name": "xã Vân Nham"
+    },
+    {
+      "id": 724,
+      "name": "xã Văn Quan"
+    },
+    {
+      "id": 725,
+      "name": "xã Vũ Lăng"
+    },
+    {
+      "id": 726,
+      "name": "xã Vũ Lễ"
+    },
+    {
+      "id": 727,
+      "name": "xã Xuân Dương"
+    },
+    {
+      "id": 728,
+      "name": "xã Yên Bình"
+    },
+    {
+      "id": 729,
+      "name": "xã Yên Phúc"
+    }
+  ]
+}

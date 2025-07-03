@@ -1,0 +1,380 @@
+{
+  "data": [
+    {
+      "id": 1873,
+      "name": "phường An Hải"
+    },
+    {
+      "id": 1874,
+      "name": "phường An Khê"
+    },
+    {
+      "id": 1875,
+      "name": "phường An Thắng"
+    },
+    {
+      "id": 1876,
+      "name": "xã Avương"
+    },
+    {
+      "id": 1877,
+      "name": "xã Bà Nà"
+    },
+    {
+      "id": 1878,
+      "name": "phường Bàn Thạch"
+    },
+    {
+      "id": 1879,
+      "name": "xã Bến Giằng"
+    },
+    {
+      "id": 1880,
+      "name": "xã Bến Hiên"
+    },
+    {
+      "id": 1881,
+      "name": "phường Cẩm Lệ"
+    },
+    {
+      "id": 1882,
+      "name": "xã Chiên Đàn"
+    },
+    {
+      "id": 1883,
+      "name": "xã Đắc Pring"
+    },
+    {
+      "id": 1884,
+      "name": "xã Đại Lộc"
+    },
+    {
+      "id": 1885,
+      "name": "phường Điện Bàn"
+    },
+    {
+      "id": 1886,
+      "name": "phường Điện Bàn Bắc"
+    },
+    {
+      "id": 1887,
+      "name": "phường Điện Bàn Đông"
+    },
+    {
+      "id": 1888,
+      "name": "xã Điện Bàn Tây"
+    },
+    {
+      "id": 1889,
+      "name": "xã Đồng Dương"
+    },
+    {
+      "id": 1890,
+      "name": "xã Đông Giang"
+    },
+    {
+      "id": 1891,
+      "name": "xã Đức Phú"
+    },
+    {
+      "id": 1892,
+      "name": "xã Duy Nghĩa"
+    },
+    {
+      "id": 1893,
+      "name": "xã Duy Xuyên"
+    },
+    {
+      "id": 1894,
+      "name": "xã Gò Nổi"
+    },
+    {
+      "id": 1895,
+      "name": "xã Hà Nha"
+    },
+    {
+      "id": 1896,
+      "name": "phường Hải Châu"
+    },
+    {
+      "id": 1897,
+      "name": "phường Hải Vân"
+    },
+    {
+      "id": 1898,
+      "name": "xã Hiệp Đức"
+    },
+    {
+      "id": 1899,
+      "name": "phường Hòa Cường"
+    },
+    {
+      "id": 1900,
+      "name": "phường Hòa Khánh"
+    },
+    {
+      "id": 1901,
+      "name": "xã Hòa Tiến"
+    },
+    {
+      "id": 1902,
+      "name": "xã Hòa Vang"
+    },
+    {
+      "id": 1903,
+      "name": "phường Hòa Xuân"
+    },
+    {
+      "id": 1904,
+      "name": "đặc khu Hoàng Sa"
+    },
+    {
+      "id": 1905,
+      "name": "phường Hội An"
+    },
+    {
+      "id": 1906,
+      "name": "phường Hội An Đông"
+    },
+    {
+      "id": 1907,
+      "name": "phường Hội An Tây"
+    },
+    {
+      "id": 1908,
+      "name": "xã Hùng Sơn"
+    },
+    {
+      "id": 1909,
+      "name": "phường Hương Trà"
+    },
+    {
+      "id": 1910,
+      "name": "xã Khâm Đức"
+    },
+    {
+      "id": 1911,
+      "name": "xã La Dêê"
+    },
+    {
+      "id": 1912,
+      "name": "xã La Êê"
+    },
+    {
+      "id": 1913,
+      "name": "xã Lãnh Ngọc"
+    },
+    {
+      "id": 1914,
+      "name": "phường Liên Chiểu"
+    },
+    {
+      "id": 1915,
+      "name": "xã Nam Giang"
+    },
+    {
+      "id": 1916,
+      "name": "xã Nam Phước"
+    },
+    {
+      "id": 1917,
+      "name": "xã Nam Trà My"
+    },
+    {
+      "id": 1918,
+      "name": "phường Ngũ Hành Sơn"
+    },
+    {
+      "id": 1919,
+      "name": "xã Nông Sơn"
+    },
+    {
+      "id": 1920,
+      "name": "xã Núi Thành"
+    },
+    {
+      "id": 1921,
+      "name": "xã Phú Ninh"
+    },
+    {
+      "id": 1922,
+      "name": "xã Phú Thuận"
+    },
+    {
+      "id": 1923,
+      "name": "xã Phước Chánh"
+    },
+    {
+      "id": 1924,
+      "name": "xã Phước Hiệp"
+    },
+    {
+      "id": 1925,
+      "name": "xã Phước Năng"
+    },
+    {
+      "id": 1926,
+      "name": "xã Phước Thành"
+    },
+    {
+      "id": 1927,
+      "name": "xã Phước Trà"
+    },
+    {
+      "id": 1928,
+      "name": "phường Quảng Phú"
+    },
+    {
+      "id": 1929,
+      "name": "xã Quế Phước"
+    },
+    {
+      "id": 1930,
+      "name": "xã Quế Sơn"
+    },
+    {
+      "id": 1931,
+      "name": "xã Quế Sơn Trung"
+    },
+    {
+      "id": 1932,
+      "name": "xã Sơn Cẩm Hà"
+    },
+    {
+      "id": 1933,
+      "name": "phường Sơn Trà"
+    },
+    {
+      "id": 1934,
+      "name": "xã Sông Kôn"
+    },
+    {
+      "id": 1935,
+      "name": "xã Sông Vàng"
+    },
+    {
+      "id": 1936,
+      "name": "xã Tam Anh"
+    },
+    {
+      "id": 1937,
+      "name": "xã Tam Hải"
+    },
+    {
+      "id": 1938,
+      "name": "phường Tam Kỳ"
+    },
+    {
+      "id": 1939,
+      "name": "xã Tam Mỹ"
+    },
+    {
+      "id": 1940,
+      "name": "xã Tam Xuân"
+    },
+    {
+      "id": 1941,
+      "name": "xã Tân Hiệp"
+    },
+    {
+      "id": 1942,
+      "name": "xã Tây Giang"
+    },
+    {
+      "id": 1943,
+      "name": "xã Tây Hồ"
+    },
+    {
+      "id": 1944,
+      "name": "xã Thăng An"
+    },
+    {
+      "id": 1945,
+      "name": "xã Thăng Bình"
+    },
+    {
+      "id": 1946,
+      "name": "xã Thăng Điền"
+    },
+    {
+      "id": 1947,
+      "name": "xã Thăng Phú"
+    },
+    {
+      "id": 1948,
+      "name": "xã Thăng Trường"
+    },
+    {
+      "id": 1949,
+      "name": "xã Thạnh Bình"
+    },
+    {
+      "id": 1950,
+      "name": "phường Thanh Khê"
+    },
+    {
+      "id": 1951,
+      "name": "xã Thạnh Mỹ"
+    },
+    {
+      "id": 1952,
+      "name": "xã Thu Bồn"
+    },
+    {
+      "id": 1953,
+      "name": "xã Thượng Đức"
+    },
+    {
+      "id": 1954,
+      "name": "xã Tiên Phước"
+    },
+    {
+      "id": 1955,
+      "name": "xã Trà Đốc"
+    },
+    {
+      "id": 1956,
+      "name": "xã Trà Giáp"
+    },
+    {
+      "id": 1957,
+      "name": "xã Trà Leng"
+    },
+    {
+      "id": 1958,
+      "name": "xã Trà Liên"
+    },
+    {
+      "id": 1959,
+      "name": "xã Trà Linh"
+    },
+    {
+      "id": 1960,
+      "name": "xã Trà My"
+    },
+    {
+      "id": 1961,
+      "name": "xã Trà Tân"
+    },
+    {
+      "id": 1962,
+      "name": "xã Trà Tập"
+    },
+    {
+      "id": 1963,
+      "name": "xã Trà Vân"
+    },
+    {
+      "id": 1964,
+      "name": "xã Việt An"
+    },
+    {
+      "id": 1965,
+      "name": "xã Vu Gia"
+    },
+    {
+      "id": 1966,
+      "name": "xã Xuân Phú"
+    }
+  ]
+}

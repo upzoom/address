@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "id": 3292,
+      "name": "xã An Trạch"
+    },
+    {
+      "id": 3293,
+      "name": "phường An Xuyên"
+    },
+    {
+      "id": 3294,
+      "name": "phường Bạc Liêu"
+    },
+    {
+      "id": 3295,
+      "name": "xã Biển Bạch"
+    },
+    {
+      "id": 3296,
+      "name": "xã Cái Đôi Vàm"
+    },
+    {
+      "id": 3297,
+      "name": "xã Cái Nước"
+    },
+    {
+      "id": 3298,
+      "name": "xã Châu Thới"
+    },
+    {
+      "id": 3299,
+      "name": "xã Đá Bạc"
+    },
+    {
+      "id": 3300,
+      "name": "xã Đầm Dơi"
+    },
+    {
+      "id": 3301,
+      "name": "xã Đất Mới"
+    },
+    {
+      "id": 3302,
+      "name": "xã Đất Mũi"
+    },
+    {
+      "id": 3303,
+      "name": "xã Định Thành"
+    },
+    {
+      "id": 3304,
+      "name": "xã Đông Hải"
+    },
+    {
+      "id": 3305,
+      "name": "xã Gành Hào"
+    },
+    {
+      "id": 3306,
+      "name": "phường Giá Rai"
+    },
+    {
+      "id": 3307,
+      "name": "phường Hiệp Thành"
+    },
+    {
+      "id": 3308,
+      "name": "xã Hồ Thị Kỷ"
+    },
+    {
+      "id": 3309,
+      "name": "xã Hoà Bình"
+    },
+    {
+      "id": 3310,
+      "name": "phường Hoà Thành"
+    },
+    {
+      "id": 3311,
+      "name": "xã Hồng Dân"
+    },
+    {
+      "id": 3312,
+      "name": "xã Hưng Hội"
+    },
+    {
+      "id": 3313,
+      "name": "xã Hưng Mỹ"
+    },
+    {
+      "id": 3314,
+      "name": "xã Khánh An"
+    },
+    {
+      "id": 3315,
+      "name": "xã Khánh Bình"
+    },
+    {
+      "id": 3316,
+      "name": "xã Khánh Hưng"
+    },
+    {
+      "id": 3317,
+      "name": "xã Khánh Lâm"
+    },
+    {
+      "id": 3318,
+      "name": "phường Láng Tròn"
+    },
+    {
+      "id": 3319,
+      "name": "xã Long Điền"
+    },
+    {
+      "id": 3320,
+      "name": "xã Lương Thế Trân"
+    },
+    {
+      "id": 3321,
+      "name": "phường Lý Văn Lâm"
+    },
+    {
+      "id": 3322,
+      "name": "xã Năm Căn"
+    },
+    {
+      "id": 3323,
+      "name": "xã Nguyễn Phích"
+    },
+    {
+      "id": 3324,
+      "name": "xã Nguyễn Việt Khái"
+    },
+    {
+      "id": 3325,
+      "name": "xã Ninh Quới"
+    },
+    {
+      "id": 3326,
+      "name": "xã Ninh Thạnh Lợi"
+    },
+    {
+      "id": 3327,
+      "name": "xã Phan Ngọc Hiển"
+    },
+    {
+      "id": 3328,
+      "name": "xã Phong Hiệp"
+    },
+    {
+      "id": 3329,
+      "name": "xã Phong Thạnh"
+    },
+    {
+      "id": 3330,
+      "name": "xã Phú Mỹ"
+    },
+    {
+      "id": 3331,
+      "name": "xã Phú Tân"
+    },
+    {
+      "id": 3332,
+      "name": "xã Phước Long"
+    },
+    {
+      "id": 3333,
+      "name": "xã Quách Phẩm"
+    },
+    {
+      "id": 3334,
+      "name": "xã Sông Đốc"
+    },
+    {
+      "id": 3335,
+      "name": "xã Tạ An Khương"
+    },
+    {
+      "id": 3336,
+      "name": "xã Tam Giang"
+    },
+    {
+      "id": 3337,
+      "name": "xã Tân Ân"
+    },
+    {
+      "id": 3338,
+      "name": "xã Tân Hưng"
+    },
+    {
+      "id": 3339,
+      "name": "xã Tân Lộc"
+    },
+    {
+      "id": 3340,
+      "name": "phường Tân Thành"
+    },
+    {
+      "id": 3341,
+      "name": "xã Tân Thuận"
+    },
+    {
+      "id": 3342,
+      "name": "xã Tân Tiến"
+    },
+    {
+      "id": 3343,
+      "name": "xã Thanh Tùng"
+    },
+    {
+      "id": 3344,
+      "name": "xã Thới Bình"
+    },
+    {
+      "id": 3345,
+      "name": "xã Trần Phán"
+    },
+    {
+      "id": 3346,
+      "name": "xã Trần Văn Thời"
+    },
+    {
+      "id": 3347,
+      "name": "xã Trí Phải"
+    },
+    {
+      "id": 3348,
+      "name": "xã U Minh"
+    },
+    {
+      "id": 3349,
+      "name": "xã Vĩnh Hậu"
+    },
+    {
+      "id": 3350,
+      "name": "xã Vĩnh Lộc"
+    },
+    {
+      "id": 3351,
+      "name": "xã Vĩnh Lợi"
+    },
+    {
+      "id": 3352,
+      "name": "xã Vĩnh Mỹ"
+    },
+    {
+      "id": 3353,
+      "name": "xã Vĩnh Phước"
+    },
+    {
+      "id": 3354,
+      "name": "xã Vĩnh Thanh"
+    },
+    {
+      "id": 3355,
+      "name": "phường Vĩnh Trạch"
+    }
+  ]
+}

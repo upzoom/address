@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "id": 311,
+      "name": "xã A Mú Sung"
+    },
+    {
+      "id": 312,
+      "name": "phường Âu Lâu"
+    },
+    {
+      "id": 313,
+      "name": "xã Bắc Hà"
+    },
+    {
+      "id": 314,
+      "name": "xã Bản Hồ"
+    },
+    {
+      "id": 315,
+      "name": "xã Bản Lầu"
+    },
+    {
+      "id": 316,
+      "name": "xã Bản Liền"
+    },
+    {
+      "id": 317,
+      "name": "xã Bản Xèo"
+    },
+    {
+      "id": 318,
+      "name": "xã Bảo Ái"
+    },
+    {
+      "id": 319,
+      "name": "xã Bảo Hà"
+    },
+    {
+      "id": 320,
+      "name": "xã Bảo Nhai"
+    },
+    {
+      "id": 321,
+      "name": "xã Bảo Thắng"
+    },
+    {
+      "id": 322,
+      "name": "xã Bảo Yên"
+    },
+    {
+      "id": 323,
+      "name": "xã Bát Xát"
+    },
+    {
+      "id": 324,
+      "name": "phường Cam Đường"
+    },
+    {
+      "id": 325,
+      "name": "xã Cảm Nhân"
+    },
+    {
+      "id": 326,
+      "name": "xã Cao Sơn"
+    },
+    {
+      "id": 327,
+      "name": "xã Cát Thịnh"
+    },
+    {
+      "id": 328,
+      "name": "phường Cầu Thia"
+    },
+    {
+      "id": 329,
+      "name": "xã Chấn Thịnh"
+    },
+    {
+      "id": 330,
+      "name": "xã Châu Quế"
+    },
+    {
+      "id": 331,
+      "name": "xã Chế Tạo"
+    },
+    {
+      "id": 332,
+      "name": "xã Chiềng Ken"
+    },
+    {
+      "id": 333,
+      "name": "xã Cốc Lầu"
+    },
+    {
+      "id": 334,
+      "name": "xã Cốc San"
+    },
+    {
+      "id": 335,
+      "name": "xã Dền Sáng"
+    },
+    {
+      "id": 336,
+      "name": "xã Đông Cuông"
+    },
+    {
+      "id": 337,
+      "name": "xã Dương Quỳ"
+    },
+    {
+      "id": 338,
+      "name": "xã Gia Hội"
+    },
+    {
+      "id": 339,
+      "name": "xã Gia Phú"
+    },
+    {
+      "id": 340,
+      "name": "xã Hạnh Phúc"
+    },
+    {
+      "id": 341,
+      "name": "xã Hợp Thành"
+    },
+    {
+      "id": 342,
+      "name": "xã Hưng Khánh"
+    },
+    {
+      "id": 343,
+      "name": "xã Khánh Hòa"
+    },
+    {
+      "id": 344,
+      "name": "xã Khánh Yên"
+    },
+    {
+      "id": 345,
+      "name": "xã Khao Mang"
+    },
+    {
+      "id": 346,
+      "name": "xã Lâm Giang"
+    },
+    {
+      "id": 347,
+      "name": "xã Lâm Thượng"
+    },
+    {
+      "id": 348,
+      "name": "phường Lào Cai"
+    },
+    {
+      "id": 349,
+      "name": "xã Lao Chải"
+    },
+    {
+      "id": 350,
+      "name": "xã Liên Sơn"
+    },
+    {
+      "id": 351,
+      "name": "xã Lục Yên"
+    },
+    {
+      "id": 352,
+      "name": "xã Lùng Phình"
+    },
+    {
+      "id": 353,
+      "name": "xã Lương Thịnh"
+    },
+    {
+      "id": 354,
+      "name": "xã Mậu A"
+    },
+    {
+      "id": 355,
+      "name": "xã Minh Lương"
+    },
+    {
+      "id": 356,
+      "name": "xã Mỏ Vàng"
+    },
+    {
+      "id": 357,
+      "name": "xã Mù Cang Chải"
+    },
+    {
+      "id": 358,
+      "name": "xã Mường Bo"
+    },
+    {
+      "id": 359,
+      "name": "xã Mường Hum"
+    },
+    {
+      "id": 360,
+      "name": "xã Mường Khương"
+    },
+    {
+      "id": 361,
+      "name": "xã Mường Lai"
+    },
+    {
+      "id": 362,
+      "name": "xã Nậm Chày"
+    },
+    {
+      "id": 363,
+      "name": "xã Nậm Có"
+    },
+    {
+      "id": 364,
+      "name": "phường Nam Cường"
+    },
+    {
+      "id": 365,
+      "name": "xã Nậm Xé"
+    },
+    {
+      "id": 366,
+      "name": "xã Nghĩa Đô"
+    },
+    {
+      "id": 367,
+      "name": "phường Nghĩa Lộ"
+    },
+    {
+      "id": 368,
+      "name": "xã Nghĩa Tâm"
+    },
+    {
+      "id": 369,
+      "name": "xã Ngũ Chỉ Sơn"
+    },
+    {
+      "id": 370,
+      "name": "xã Pha Long"
+    },
+    {
+      "id": 371,
+      "name": "xã Phình Hồ"
+    },
+    {
+      "id": 372,
+      "name": "xã Phong Dụ Hạ"
+    },
+    {
+      "id": 373,
+      "name": "xã Phong Dụ Thượng"
+    },
+    {
+      "id": 374,
+      "name": "xã Phong Hải"
+    },
+    {
+      "id": 375,
+      "name": "xã Phúc Khánh"
+    },
+    {
+      "id": 376,
+      "name": "xã Phúc Lợi"
+    },
+    {
+      "id": 377,
+      "name": "xã Púng Luông"
+    },
+    {
+      "id": 378,
+      "name": "xã Quy Mông"
+    },
+    {
+      "id": 379,
+      "name": "phường Sa Pa"
+    },
+    {
+      "id": 380,
+      "name": "xã Si Ma Cai"
+    },
+    {
+      "id": 381,
+      "name": "xã Sín Chéng"
+    },
+    {
+      "id": 382,
+      "name": "xã Sơn Lương"
+    },
+    {
+      "id": 383,
+      "name": "xã Tả Củ Tỷ"
+    },
+    {
+      "id": 384,
+      "name": "xã Tả Phìn"
+    },
+    {
+      "id": 385,
+      "name": "xã Tả Van"
+    },
+    {
+      "id": 386,
+      "name": "xã Tà Xi Láng"
+    },
+    {
+      "id": 387,
+      "name": "xã Tân Hợp"
+    },
+    {
+      "id": 388,
+      "name": "xã Tân Lĩnh"
+    },
+    {
+      "id": 389,
+      "name": "xã Tằng Loỏng"
+    },
+    {
+      "id": 390,
+      "name": "xã Thác Bà"
+    },
+    {
+      "id": 391,
+      "name": "xã Thượng Bằng La"
+    },
+    {
+      "id": 392,
+      "name": "xã Thượng Hà"
+    },
+    {
+      "id": 393,
+      "name": "xã Trạm Tấu"
+    },
+    {
+      "id": 394,
+      "name": "xã Trấn Yên"
+    },
+    {
+      "id": 395,
+      "name": "xã Trịnh Tường"
+    },
+    {
+      "id": 396,
+      "name": "phường Trung Tâm"
+    },
+    {
+      "id": 397,
+      "name": "xã Tú Lệ"
+    },
+    {
+      "id": 398,
+      "name": "xã Văn Bàn"
+    },
+    {
+      "id": 399,
+      "name": "xã Văn Chấn"
+    },
+    {
+      "id": 400,
+      "name": "phường Văn Phú"
+    },
+    {
+      "id": 401,
+      "name": "xã Việt Hồng"
+    },
+    {
+      "id": 402,
+      "name": "xã Võ Lao"
+    },
+    {
+      "id": 403,
+      "name": "xã Xuân Ái"
+    },
+    {
+      "id": 404,
+      "name": "xã Xuân Hòa"
+    },
+    {
+      "id": 405,
+      "name": "xã Xuân Quang"
+    },
+    {
+      "id": 406,
+      "name": "xã Y Tý"
+    },
+    {
+      "id": 407,
+      "name": "phường Yên Bái"
+    },
+    {
+      "id": 409,
+      "name": "xã Yên Thành"
+    }
+  ]
+}

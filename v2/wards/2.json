@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "id": 935,
+      "name": "xã An Lạc"
+    },
+    {
+      "id": 936,
+      "name": "phường Bắc Giang"
+    },
+    {
+      "id": 937,
+      "name": "xã Bắc Lũng"
+    },
+    {
+      "id": 938,
+      "name": "xã Bảo Đài"
+    },
+    {
+      "id": 939,
+      "name": "xã Biển Động"
+    },
+    {
+      "id": 940,
+      "name": "xã Biên Sơn"
+    },
+    {
+      "id": 941,
+      "name": "xã Bố Hạ"
+    },
+    {
+      "id": 942,
+      "name": "phường Bồng Lai"
+    },
+    {
+      "id": 943,
+      "name": "xã Cẩm Lý"
+    },
+    {
+      "id": 944,
+      "name": "phường Cảnh Thụy"
+    },
+    {
+      "id": 945,
+      "name": "xã Cao Đức"
+    },
+    {
+      "id": 946,
+      "name": "xã Chi Lăng"
+    },
+    {
+      "id": 947,
+      "name": "phường Chũ"
+    },
+    {
+      "id": 948,
+      "name": "phường Đa Mai"
+    },
+    {
+      "id": 949,
+      "name": "xã Đại Đồng"
+    },
+    {
+      "id": 950,
+      "name": "xã Đại Lai"
+    },
+    {
+      "id": 951,
+      "name": "xã Đại Sơn"
+    },
+    {
+      "id": 952,
+      "name": "phường Đào Viên"
+    },
+    {
+      "id": 953,
+      "name": "xã Đèo Gia"
+    },
+    {
+      "id": 954,
+      "name": "xã Đông Cứu"
+    },
+    {
+      "id": 955,
+      "name": "xã Đồng Kỳ"
+    },
+    {
+      "id": 956,
+      "name": "phường Đồng Nguyên"
+    },
+    {
+      "id": 957,
+      "name": "xã Đông Phú"
+    },
+    {
+      "id": 958,
+      "name": "xã Đồng Việt"
+    },
+    {
+      "id": 959,
+      "name": "xã Dương Hưu"
+    },
+    {
+      "id": 960,
+      "name": "xã Gia Bình"
+    },
+    {
+      "id": 961,
+      "name": "phường Hạp Lĩnh"
+    },
+    {
+      "id": 962,
+      "name": "xã Hiệp Hòa"
+    },
+    {
+      "id": 963,
+      "name": "xã Hoàng Vân"
+    },
+    {
+      "id": 964,
+      "name": "xã Hợp Thịnh"
+    },
+    {
+      "id": 965,
+      "name": "xã Kép"
+    },
+    {
+      "id": 966,
+      "name": "xã Kiên Lao"
+    },
+    {
+      "id": 967,
+      "name": "phường Kinh Bắc"
+    },
+    {
+      "id": 968,
+      "name": "xã Lâm Thao"
+    },
+    {
+      "id": 969,
+      "name": "xã Lạng Giang"
+    },
+    {
+      "id": 970,
+      "name": "xã Liên Bão"
+    },
+    {
+      "id": 971,
+      "name": "xã Lục Nam"
+    },
+    {
+      "id": 972,
+      "name": "xã Lục Ngạn"
+    },
+    {
+      "id": 973,
+      "name": "xã Lục Sơn"
+    },
+    {
+      "id": 974,
+      "name": "xã Lương Tài"
+    },
+    {
+      "id": 975,
+      "name": "phường Mão Điền"
+    },
+    {
+      "id": 976,
+      "name": "xã Mỹ Thái"
+    },
+    {
+      "id": 977,
+      "name": "xã Nam Dương"
+    },
+    {
+      "id": 978,
+      "name": "phường Nam Sơn"
+    },
+    {
+      "id": 979,
+      "name": "phường Nếnh"
+    },
+    {
+      "id": 980,
+      "name": "xã Nghĩa Phương"
+    },
+    {
+      "id": 981,
+      "name": "xã Ngọc Thiện"
+    },
+    {
+      "id": 982,
+      "name": "xã Nhã Nam"
+    },
+    {
+      "id": 983,
+      "name": "phường Nhân Hòa"
+    },
+    {
+      "id": 984,
+      "name": "xã Nhân Thắng"
+    },
+    {
+      "id": 985,
+      "name": "phường Ninh Xá"
+    },
+    {
+      "id": 986,
+      "name": "xã Phật Tích"
+    },
+    {
+      "id": 987,
+      "name": "phường Phù Khê"
+    },
+    {
+      "id": 988,
+      "name": "xã Phù Lãng"
+    },
+    {
+      "id": 989,
+      "name": "xã Phúc Hoà"
+    },
+    {
+      "id": 990,
+      "name": "phường Phương Liễu"
+    },
+    {
+      "id": 991,
+      "name": "phường Phượng Sơn"
+    },
+    {
+      "id": 992,
+      "name": "xã Quang Trung"
+    },
+    {
+      "id": 993,
+      "name": "phường Quế Võ"
+    },
+    {
+      "id": 994,
+      "name": "xã Sa Lý"
+    },
+    {
+      "id": 995,
+      "name": "xã Sơn Động"
+    },
+    {
+      "id": 996,
+      "name": "xã Sơn Hải"
+    },
+    {
+      "id": 997,
+      "name": "phường Song Liễu"
+    },
+    {
+      "id": 998,
+      "name": "xã Tam Đa"
+    },
+    {
+      "id": 999,
+      "name": "xã Tam Giang"
+    },
+    {
+      "id": 1000,
+      "name": "phường Tam Sơn"
+    },
+    {
+      "id": 1001,
+      "name": "xã Tam Tiến"
+    },
+    {
+      "id": 1002,
+      "name": "phường Tân An"
+    },
+    {
+      "id": 1003,
+      "name": "xã Tân Chi"
+    },
+    {
+      "id": 1004,
+      "name": "xã Tân Dĩnh"
+    },
+    {
+      "id": 1005,
+      "name": "xã Tân Sơn"
+    },
+    {
+      "id": 1006,
+      "name": "phường Tân Tiến"
+    },
+    {
+      "id": 1007,
+      "name": "xã Tân Yên"
+    },
+    {
+      "id": 1008,
+      "name": "xã Tây Yên Tử"
+    },
+    {
+      "id": 1009,
+      "name": "phường Thuận Thành"
+    },
+    {
+      "id": 1010,
+      "name": "xã Tiên Du"
+    },
+    {
+      "id": 1011,
+      "name": "xã Tiên Lục"
+    },
+    {
+      "id": 1012,
+      "name": "phường Tiền Phong"
+    },
+    {
+      "id": 1013,
+      "name": "phường Trạm Lộ"
+    },
+    {
+      "id": 1014,
+      "name": "phường Trí Quả"
+    },
+    {
+      "id": 1015,
+      "name": "xã Trung Chính"
+    },
+    {
+      "id": 1016,
+      "name": "xã Trung Kênh"
+    },
+    {
+      "id": 1017,
+      "name": "xã Trường Sơn"
+    },
+    {
+      "id": 1018,
+      "name": "phường Tự Lạn"
+    },
+    {
+      "id": 1019,
+      "name": "phường Từ Sơn"
+    },
+    {
+      "id": 1020,
+      "name": "xã Tuấn Đạo"
+    },
+    {
+      "id": 1021,
+      "name": "phường Vân Hà"
+    },
+    {
+      "id": 1022,
+      "name": "xã Văn Môn"
+    },
+    {
+      "id": 1023,
+      "name": "xã Vân Sơn"
+    },
+    {
+      "id": 1024,
+      "name": "phường Việt Yên"
+    },
+    {
+      "id": 1025,
+      "name": "phường Võ Cường"
+    },
+    {
+      "id": 1026,
+      "name": "phường Vũ Ninh"
+    },
+    {
+      "id": 1027,
+      "name": "xã Xuân Cẩm"
+    },
+    {
+      "id": 1028,
+      "name": "xã Xuân Lương"
+    },
+    {
+      "id": 1029,
+      "name": "xã Yên Định"
+    },
+    {
+      "id": 1030,
+      "name": "phường Yên Dũng"
+    },
+    {
+      "id": 1031,
+      "name": "xã Yên Phong"
+    },
+    {
+      "id": 1032,
+      "name": "xã Yên Thế"
+    },
+    {
+      "id": 1033,
+      "name": "xã Yên Trung"
+    }
+  ]
+}

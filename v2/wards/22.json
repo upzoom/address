@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "id": 1968,
+      "name": "xã An Phú"
+    },
+    {
+      "id": 1969,
+      "name": "xã Ba Dinh"
+    },
+    {
+      "id": 1970,
+      "name": "xã Ba Động"
+    },
+    {
+      "id": 1971,
+      "name": "xã Ba Gia"
+    },
+    {
+      "id": 1972,
+      "name": "xã Ba Tô"
+    },
+    {
+      "id": 1973,
+      "name": "xã Ba Tơ"
+    },
+    {
+      "id": 1974,
+      "name": "xã Ba Vì"
+    },
+    {
+      "id": 1975,
+      "name": "xã Ba Vinh"
+    },
+    {
+      "id": 1976,
+      "name": "xã Ba Xa"
+    },
+    {
+      "id": 1977,
+      "name": "xã Bình Chương"
+    },
+    {
+      "id": 1978,
+      "name": "xã Bình Minh"
+    },
+    {
+      "id": 1979,
+      "name": "xã Bình Sơn"
+    },
+    {
+      "id": 1980,
+      "name": "xã Bờ Y"
+    },
+    {
+      "id": 1981,
+      "name": "xã Cà Đam"
+    },
+    {
+      "id": 1982,
+      "name": "phường Cẩm Thành"
+    },
+    {
+      "id": 1983,
+      "name": "phường Đăk Bla"
+    },
+    {
+      "id": 1984,
+      "name": "phường Đăk Cấm"
+    },
+    {
+      "id": 1985,
+      "name": "xã Đăk Hà"
+    },
+    {
+      "id": 1986,
+      "name": "xã Đăk Kôi"
+    },
+    {
+      "id": 1987,
+      "name": "xã Đăk Long"
+    },
+    {
+      "id": 1988,
+      "name": "xã Đăk Mar"
+    },
+    {
+      "id": 1989,
+      "name": "xã Đăk Môn"
+    },
+    {
+      "id": 1990,
+      "name": "xã Đăk Pék"
+    },
+    {
+      "id": 1991,
+      "name": "xã Đăk Plô"
+    },
+    {
+      "id": 1992,
+      "name": "xã Đăk Pxi"
+    },
+    {
+      "id": 1993,
+      "name": "xã Đăk Rơ Wa"
+    },
+    {
+      "id": 1994,
+      "name": "xã Đăk Rve"
+    },
+    {
+      "id": 1995,
+      "name": "xã Đăk Sao"
+    },
+    {
+      "id": 1996,
+      "name": "xã Đăk Tô"
+    },
+    {
+      "id": 1997,
+      "name": "xã Đăk Tờ Kan"
+    },
+    {
+      "id": 1998,
+      "name": "xã Đăk Ui"
+    },
+    {
+      "id": 1999,
+      "name": "xã Đặng Thùy Trâm"
+    },
+    {
+      "id": 2000,
+      "name": "xã Đình Cương"
+    },
+    {
+      "id": 2001,
+      "name": "xã Đông Sơn"
+    },
+    {
+      "id": 2002,
+      "name": "xã Đông Trà Bồng"
+    },
+    {
+      "id": 2003,
+      "name": "xã Dục Nông"
+    },
+    {
+      "id": 2004,
+      "name": "phường Đức Phổ"
+    },
+    {
+      "id": 2005,
+      "name": "xã Ia Chim"
+    },
+    {
+      "id": 2006,
+      "name": "xã Ia Đal"
+    },
+    {
+      "id": 2007,
+      "name": "xã Ia Tơi"
+    },
+    {
+      "id": 2008,
+      "name": "xã Khánh Cường"
+    },
+    {
+      "id": 2009,
+      "name": "xã Kon Braih"
+    },
+    {
+      "id": 2010,
+      "name": "xã Kon Đào"
+    },
+    {
+      "id": 2011,
+      "name": "xã Kon Plông"
+    },
+    {
+      "id": 2012,
+      "name": "phường Kon Tum"
+    },
+    {
+      "id": 2013,
+      "name": "xã Lân Phong"
+    },
+    {
+      "id": 2014,
+      "name": "xã Long Phụng"
+    },
+    {
+      "id": 2015,
+      "name": "đặc khu Lý Sơn"
+    },
+    {
+      "id": 2016,
+      "name": "xã Măng Bút"
+    },
+    {
+      "id": 2017,
+      "name": "xã Măng Đen"
+    },
+    {
+      "id": 2018,
+      "name": "xã Măng Ri"
+    },
+    {
+      "id": 2019,
+      "name": "xã Minh Long"
+    },
+    {
+      "id": 2020,
+      "name": "xã Mỏ Cày"
+    },
+    {
+      "id": 2021,
+      "name": "xã Mộ Đức"
+    },
+    {
+      "id": 2022,
+      "name": "xã Mô Rai"
+    },
+    {
+      "id": 2023,
+      "name": "xã Nghĩa Giang"
+    },
+    {
+      "id": 2024,
+      "name": "xã Nghĩa Hành"
+    },
+    {
+      "id": 2025,
+      "name": "phường Nghĩa Lộ"
+    },
+    {
+      "id": 2026,
+      "name": "xã Ngọc Linh"
+    },
+    {
+      "id": 2027,
+      "name": "xã Ngọk Bay"
+    },
+    {
+      "id": 2028,
+      "name": "xã Ngọk Réo"
+    },
+    {
+      "id": 2029,
+      "name": "xã Ngọk Tụ"
+    },
+    {
+      "id": 2030,
+      "name": "xã Nguyễn Nghiêm"
+    },
+    {
+      "id": 2031,
+      "name": "xã Phước Giang"
+    },
+    {
+      "id": 2032,
+      "name": "xã Rờ Kơi"
+    },
+    {
+      "id": 2033,
+      "name": "xã Sa Bình"
+    },
+    {
+      "id": 2034,
+      "name": "phường Sa Huỳnh"
+    },
+    {
+      "id": 2035,
+      "name": "xã Sa Loong"
+    },
+    {
+      "id": 2036,
+      "name": "xã Sa Thầy"
+    },
+    {
+      "id": 2037,
+      "name": "xã Sơn Hà"
+    },
+    {
+      "id": 2038,
+      "name": "xã Sơn Hạ"
+    },
+    {
+      "id": 2039,
+      "name": "xã Sơn Kỳ"
+    },
+    {
+      "id": 2040,
+      "name": "xã Sơn Linh"
+    },
+    {
+      "id": 2041,
+      "name": "xã Sơn Mai"
+    },
+    {
+      "id": 2042,
+      "name": "xã Sơn Tây"
+    },
+    {
+      "id": 2043,
+      "name": "xã Sơn Tây Hạ"
+    },
+    {
+      "id": 2044,
+      "name": "xã Sơn Tây Thượng"
+    },
+    {
+      "id": 2045,
+      "name": "xã Sơn Thủy"
+    },
+    {
+      "id": 2046,
+      "name": "xã Sơn Tịnh"
+    },
+    {
+      "id": 2047,
+      "name": "xã Tây Trà"
+    },
+    {
+      "id": 2048,
+      "name": "xã Tây Trà Bồng"
+    },
+    {
+      "id": 2049,
+      "name": "xã Thanh Bồng"
+    },
+    {
+      "id": 2050,
+      "name": "xã Thiện Tín"
+    },
+    {
+      "id": 2051,
+      "name": "xã Thọ Phong"
+    },
+    {
+      "id": 2052,
+      "name": "xã Tịnh Khê"
+    },
+    {
+      "id": 2053,
+      "name": "xã Trà Bồng"
+    },
+    {
+      "id": 2054,
+      "name": "phường Trà Câu"
+    },
+    {
+      "id": 2055,
+      "name": "xã Trà Giang"
+    },
+    {
+      "id": 2056,
+      "name": "xã Trường Giang"
+    },
+    {
+      "id": 2057,
+      "name": "phường Trương Quang Trọng"
+    },
+    {
+      "id": 2058,
+      "name": "xã Tu Mơ Rông"
+    },
+    {
+      "id": 2059,
+      "name": "xã Tư Nghĩa"
+    },
+    {
+      "id": 2060,
+      "name": "xã Vạn Tường"
+    },
+    {
+      "id": 2061,
+      "name": "xã Vệ Giang"
+    },
+    {
+      "id": 2062,
+      "name": "xã Xốp"
+    },
+    {
+      "id": 2063,
+      "name": "xã Ya Ly"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "id": 2370,
+      "name": "phường 1 Bảo Lộc"
+    },
+    {
+      "id": 2371,
+      "name": "phường 2 Bảo Lộc"
+    },
+    {
+      "id": 2372,
+      "name": "phường 3 Bảo Lộc"
+    },
+    {
+      "id": 2373,
+      "name": "phường B’Lao"
+    },
+    {
+      "id": 2374,
+      "name": "xã Bắc Bình"
+    },
+    {
+      "id": 2375,
+      "name": "phường Bắc Gia Nghĩa"
+    },
+    {
+      "id": 2376,
+      "name": "xã Bắc Ruộng"
+    },
+    {
+      "id": 2377,
+      "name": "xã Bảo Lâm 1"
+    },
+    {
+      "id": 2378,
+      "name": "xã Bảo Lâm 2"
+    },
+    {
+      "id": 2379,
+      "name": "xã Bảo Lâm 3"
+    },
+    {
+      "id": 2380,
+      "name": "xã Bảo Lâm 4"
+    },
+    {
+      "id": 2381,
+      "name": "xã Bảo Lâm 5"
+    },
+    {
+      "id": 2382,
+      "name": "xã Bảo Thuận"
+    },
+    {
+      "id": 2383,
+      "name": "phường Bình Thuận"
+    },
+    {
+      "id": 2384,
+      "name": "phường Cam Ly - Đà Lạt"
+    },
+    {
+      "id": 2385,
+      "name": "xã Cát Tiên"
+    },
+    {
+      "id": 2386,
+      "name": "xã Cát Tiên 2"
+    },
+    {
+      "id": 2387,
+      "name": "xã Cát Tiên 3"
+    },
+    {
+      "id": 2388,
+      "name": "xã Cư Jút"
+    },
+    {
+      "id": 2389,
+      "name": "xã D’Ran"
+    },
+    {
+      "id": 2390,
+      "name": "xã Đạ Huoai"
+    },
+    {
+      "id": 2391,
+      "name": "xã Đạ Huoai 2"
+    },
+    {
+      "id": 2392,
+      "name": "xã Đạ Huoai 3"
+    },
+    {
+      "id": 2393,
+      "name": "xã Đạ Tẻh"
+    },
+    {
+      "id": 2394,
+      "name": "xã Đạ Tẻh 2"
+    },
+    {
+      "id": 2395,
+      "name": "xã Đạ Tẻh 3"
+    },
+    {
+      "id": 2396,
+      "name": "xã Đắk Mil"
+    },
+    {
+      "id": 2397,
+      "name": "xã Đắk Sắk"
+    },
+    {
+      "id": 2398,
+      "name": "xã Đắk Song"
+    },
+    {
+      "id": 2399,
+      "name": "xã Đắk Wil"
+    },
+    {
+      "id": 2400,
+      "name": "xã Đam Rông 1"
+    },
+    {
+      "id": 2401,
+      "name": "xã Đam Rông 2"
+    },
+    {
+      "id": 2402,
+      "name": "xã Đam Rông 3"
+    },
+    {
+      "id": 2403,
+      "name": "xã Đam Rông 4"
+    },
+    {
+      "id": 2404,
+      "name": "xã Di Linh"
+    },
+    {
+      "id": 2405,
+      "name": "xã Đinh Trang Thượng"
+    },
+    {
+      "id": 2406,
+      "name": "xã Đinh Văn Lâm Hà"
+    },
+    {
+      "id": 2407,
+      "name": "xã Đơn Dương"
+    },
+    {
+      "id": 2408,
+      "name": "phường Đông Gia Nghĩa"
+    },
+    {
+      "id": 2409,
+      "name": "xã Đông Giang"
+    },
+    {
+      "id": 2410,
+      "name": "xã Đồng Kho"
+    },
+    {
+      "id": 2411,
+      "name": "xã Đức An"
+    },
+    {
+      "id": 2412,
+      "name": "xã Đức Lập"
+    },
+    {
+      "id": 2413,
+      "name": "xã Đức Linh"
+    },
+    {
+      "id": 2414,
+      "name": "xã Đức Trọng"
+    },
+    {
+      "id": 2415,
+      "name": "xã Gia Hiệp"
+    },
+    {
+      "id": 2416,
+      "name": "xã Hải Ninh"
+    },
+    {
+      "id": 2417,
+      "name": "xã Hàm Kiệm"
+    },
+    {
+      "id": 2418,
+      "name": "xã Hàm Liêm"
+    },
+    {
+      "id": 2419,
+      "name": "xã Hàm Tân"
+    },
+    {
+      "id": 2420,
+      "name": "phường Hàm Thắng"
+    },
+    {
+      "id": 2421,
+      "name": "xã Hàm Thạnh"
+    },
+    {
+      "id": 2422,
+      "name": "xã Hàm Thuận"
+    },
+    {
+      "id": 2423,
+      "name": "xã Hàm Thuận Bắc"
+    },
+    {
+      "id": 2424,
+      "name": "xã Hàm Thuận Nam"
+    },
+    {
+      "id": 2425,
+      "name": "xã Hiệp Thạnh"
+    },
+    {
+      "id": 2426,
+      "name": "xã Hòa Bắc"
+    },
+    {
+      "id": 2427,
+      "name": "xã Hòa Ninh"
+    },
+    {
+      "id": 2428,
+      "name": "xã Hòa Thắng"
+    },
+    {
+      "id": 2429,
+      "name": "xã Hoài Đức"
+    },
+    {
+      "id": 2430,
+      "name": "xã Hồng Sơn"
+    },
+    {
+      "id": 2431,
+      "name": "xã Hồng Thái"
+    },
+    {
+      "id": 2432,
+      "name": "xã Ka Đô"
+    },
+    {
+      "id": 2433,
+      "name": "xã Kiến Đức"
+    },
+    {
+      "id": 2434,
+      "name": "xã Krông Nô"
+    },
+    {
+      "id": 2435,
+      "name": "xã La Dạ"
+    },
+    {
+      "id": 2436,
+      "name": "phường La Gi"
+    },
+    {
+      "id": 2437,
+      "name": "xã Lạc Dương"
+    },
+    {
+      "id": 2438,
+      "name": "phường Lâm Viên - Đà Lạt"
+    },
+    {
+      "id": 2439,
+      "name": "phường Lang Biang - Đà Lạt"
+    },
+    {
+      "id": 2440,
+      "name": "xã Liên Hương"
+    },
+    {
+      "id": 2441,
+      "name": "xã Lương Sơn"
+    },
+    {
+      "id": 2442,
+      "name": "phường Mũi Né"
+    },
+    {
+      "id": 2443,
+      "name": "xã Nam Ban Lâm Hà"
+    },
+    {
+      "id": 2444,
+      "name": "xã Nam Đà"
+    },
+    {
+      "id": 2445,
+      "name": "xã Nam Dong"
+    },
+    {
+      "id": 2446,
+      "name": "phường Nam Gia Nghĩa"
+    },
+    {
+      "id": 2447,
+      "name": "xã Nam Hà Lâm Hà"
+    },
+    {
+      "id": 2448,
+      "name": "xã Nâm Nung"
+    },
+    {
+      "id": 2449,
+      "name": "xã Nam Thành"
+    },
+    {
+      "id": 2450,
+      "name": "xã Nghị Đức"
+    },
+    {
+      "id": 2451,
+      "name": "xã Nhân Cơ"
+    },
+    {
+      "id": 2452,
+      "name": "xã Ninh Gia"
+    },
+    {
+      "id": 2453,
+      "name": "xã Phan Rí Cửa"
+    },
+    {
+      "id": 2454,
+      "name": "xã Phan Sơn"
+    },
+    {
+      "id": 2455,
+      "name": "phường Phan Thiết"
+    },
+    {
+      "id": 2456,
+      "name": "đặc khu Phú Quý"
+    },
+    {
+      "id": 2457,
+      "name": "xã Phú Sơn Lâm Hà"
+    },
+    {
+      "id": 2458,
+      "name": "phường Phú Thủy"
+    },
+    {
+      "id": 2459,
+      "name": "xã Phúc Thọ Lâm Hà"
+    },
+    {
+      "id": 2460,
+      "name": "phường Phước Hội"
+    },
+    {
+      "id": 2461,
+      "name": "xã Quảng Hòa"
+    },
+    {
+      "id": 2462,
+      "name": "xã Quảng Khê"
+    },
+    {
+      "id": 2463,
+      "name": "xã Quảng Lập"
+    },
+    {
+      "id": 2464,
+      "name": "xã Quảng Phú"
+    },
+    {
+      "id": 2465,
+      "name": "xã Quảng Sơn"
+    },
+    {
+      "id": 2466,
+      "name": "xã Quảng Tân"
+    },
+    {
+      "id": 2467,
+      "name": "xã Quảng Tín"
+    },
+    {
+      "id": 2468,
+      "name": "xã Quảng Trực"
+    },
+    {
+      "id": 2469,
+      "name": "xã Sơn Điền"
+    },
+    {
+      "id": 2470,
+      "name": "xã Sơn Mỹ"
+    },
+    {
+      "id": 2471,
+      "name": "xã Sông Lũy"
+    },
+    {
+      "id": 2472,
+      "name": "xã Suối Kiết"
+    },
+    {
+      "id": 2473,
+      "name": "xã Tà Đùng"
+    },
+    {
+      "id": 2474,
+      "name": "xã Tà Hine"
+    },
+    {
+      "id": 2475,
+      "name": "xã Tà Năng"
+    },
+    {
+      "id": 2476,
+      "name": "xã Tân Hà Lâm Hà"
+    },
+    {
+      "id": 2477,
+      "name": "xã Tân Hải"
+    },
+    {
+      "id": 2478,
+      "name": "xã Tân Hội"
+    },
+    {
+      "id": 2479,
+      "name": "xã Tân Lập"
+    },
+    {
+      "id": 2480,
+      "name": "xã Tân Minh"
+    },
+    {
+      "id": 2481,
+      "name": "xã Tân Thành"
+    },
+    {
+      "id": 2482,
+      "name": "xã Tánh Linh"
+    },
+    {
+      "id": 2483,
+      "name": "xã Thuận An"
+    },
+    {
+      "id": 2484,
+      "name": "xã Thuận Hạnh"
+    },
+    {
+      "id": 2485,
+      "name": "phường Tiến Thành"
+    },
+    {
+      "id": 2486,
+      "name": "xã Trà Tân"
+    },
+    {
+      "id": 2487,
+      "name": "xã Trường Xuân"
+    },
+    {
+      "id": 2488,
+      "name": "xã Tuy Đức"
+    },
+    {
+      "id": 2489,
+      "name": "xã Tuy Phong"
+    },
+    {
+      "id": 2490,
+      "name": "xã Tuyên Quang"
+    },
+    {
+      "id": 2491,
+      "name": "xã Vĩnh Hảo"
+    },
+    {
+      "id": 2492,
+      "name": "phường Xuân Hương - Đà Lạt"
+    },
+    {
+      "id": 2493,
+      "name": "phường Xuân Trường - Đà Lạt"
+    }
+  ]
+}

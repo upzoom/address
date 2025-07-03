@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "id": 1753,
+      "name": "xã A Dơi"
+    },
+    {
+      "id": 1754,
+      "name": "xã Ái Tử"
+    },
+    {
+      "id": 1755,
+      "name": "phường Ba Đồn"
+    },
+    {
+      "id": 1756,
+      "name": "xã Ba Lòng"
+    },
+    {
+      "id": 1757,
+      "name": "phường Bắc Gianh"
+    },
+    {
+      "id": 1758,
+      "name": "xã Bắc Trạch"
+    },
+    {
+      "id": 1759,
+      "name": "xã Bến Hải"
+    },
+    {
+      "id": 1760,
+      "name": "xã Bến Quan"
+    },
+    {
+      "id": 1761,
+      "name": "xã Bố Trạch"
+    },
+    {
+      "id": 1762,
+      "name": "xã Cam Hồng"
+    },
+    {
+      "id": 1763,
+      "name": "xã Cam Lộ"
+    },
+    {
+      "id": 1764,
+      "name": "đặc khu Cồn Cỏ"
+    },
+    {
+      "id": 1765,
+      "name": "xã Cồn Tiên"
+    },
+    {
+      "id": 1766,
+      "name": "xã Cửa Tùng"
+    },
+    {
+      "id": 1767,
+      "name": "xã Cửa Việt"
+    },
+    {
+      "id": 1768,
+      "name": "xã Đakrông"
+    },
+    {
+      "id": 1769,
+      "name": "xã Dân Hóa"
+    },
+    {
+      "id": 1770,
+      "name": "xã Diên Sanh"
+    },
+    {
+      "id": 1771,
+      "name": "phường Đông Hà"
+    },
+    {
+      "id": 1772,
+      "name": "phường Đồng Hới"
+    },
+    {
+      "id": 1773,
+      "name": "xã Đồng Lê"
+    },
+    {
+      "id": 1774,
+      "name": "phường Đồng Sơn"
+    },
+    {
+      "id": 1775,
+      "name": "phường Đồng Thuận"
+    },
+    {
+      "id": 1776,
+      "name": "xã Đông Trạch"
+    },
+    {
+      "id": 1777,
+      "name": "xã Gio Linh"
+    },
+    {
+      "id": 1778,
+      "name": "xã Hải Lăng"
+    },
+    {
+      "id": 1779,
+      "name": "xã Hiếu Giang"
+    },
+    {
+      "id": 1780,
+      "name": "xã Hòa Trạch"
+    },
+    {
+      "id": 1781,
+      "name": "xã Hoàn Lão"
+    },
+    {
+      "id": 1782,
+      "name": "xã Hướng Hiệp"
+    },
+    {
+      "id": 1783,
+      "name": "xã Hướng Lập"
+    },
+    {
+      "id": 1784,
+      "name": "xã Hướng Phùng"
+    },
+    {
+      "id": 1785,
+      "name": "xã Khe Sanh"
+    },
+    {
+      "id": 1786,
+      "name": "xã Kim Điền"
+    },
+    {
+      "id": 1787,
+      "name": "xã Kim Ngân"
+    },
+    {
+      "id": 1788,
+      "name": "xã Kim Phú"
+    },
+    {
+      "id": 1789,
+      "name": "xã La Lay"
+    },
+    {
+      "id": 1790,
+      "name": "xã Lao Bảo"
+    },
+    {
+      "id": 1791,
+      "name": "xã Lệ Ninh"
+    },
+    {
+      "id": 1792,
+      "name": "xã Lệ Thủy"
+    },
+    {
+      "id": 1793,
+      "name": "xã Lìa"
+    },
+    {
+      "id": 1794,
+      "name": "xã Minh Hóa"
+    },
+    {
+      "id": 1795,
+      "name": "xã Mỹ Thủy"
+    },
+    {
+      "id": 1796,
+      "name": "xã Nam Ba Đồn"
+    },
+    {
+      "id": 1797,
+      "name": "xã Nam Cửa Việt"
+    },
+    {
+      "id": 1798,
+      "name": "phường Nam Đông Hà"
+    },
+    {
+      "id": 1799,
+      "name": "xã Nam Gianh"
+    },
+    {
+      "id": 1800,
+      "name": "xã Nam Hải Lăng"
+    },
+    {
+      "id": 1801,
+      "name": "xã Nam Trạch"
+    },
+    {
+      "id": 1802,
+      "name": "xã Ninh Châu"
+    },
+    {
+      "id": 1803,
+      "name": "xã Phong Nha"
+    },
+    {
+      "id": 1804,
+      "name": "xã Phú Trạch"
+    },
+    {
+      "id": 1805,
+      "name": "xã Quảng Ninh"
+    },
+    {
+      "id": 1806,
+      "name": "xã Quảng Trạch"
+    },
+    {
+      "id": 1807,
+      "name": "phường Quảng Trị"
+    },
+    {
+      "id": 1808,
+      "name": "xã Sen Ngư"
+    },
+    {
+      "id": 1809,
+      "name": "xã Tà Rụt"
+    },
+    {
+      "id": 1810,
+      "name": "xã Tân Gianh"
+    },
+    {
+      "id": 1811,
+      "name": "xã Tân Lập"
+    },
+    {
+      "id": 1812,
+      "name": "xã Tân Mỹ"
+    },
+    {
+      "id": 1813,
+      "name": "xã Tân Thành"
+    },
+    {
+      "id": 1814,
+      "name": "xã Thượng Trạch"
+    },
+    {
+      "id": 1815,
+      "name": "xã Triệu Bình"
+    },
+    {
+      "id": 1816,
+      "name": "xã Triệu Cơ"
+    },
+    {
+      "id": 1817,
+      "name": "xã Triệu Phong"
+    },
+    {
+      "id": 1818,
+      "name": "xã Trung Thuần"
+    },
+    {
+      "id": 1819,
+      "name": "xã Trường Ninh"
+    },
+    {
+      "id": 1820,
+      "name": "xã Trường Phú"
+    },
+    {
+      "id": 1821,
+      "name": "xã Trường Sơn"
+    },
+    {
+      "id": 1822,
+      "name": "xã Tuyên Bình"
+    },
+    {
+      "id": 1823,
+      "name": "xã Tuyên Hóa"
+    },
+    {
+      "id": 1824,
+      "name": "xã Tuyên Lâm"
+    },
+    {
+      "id": 1825,
+      "name": "xã Tuyên Phú"
+    },
+    {
+      "id": 1826,
+      "name": "xã Tuyên Sơn"
+    },
+    {
+      "id": 1827,
+      "name": "xã Vĩnh Định"
+    },
+    {
+      "id": 1828,
+      "name": "xã Vĩnh Hoàng"
+    },
+    {
+      "id": 1829,
+      "name": "xã Vĩnh Linh"
+    },
+    {
+      "id": 1830,
+      "name": "xã Vĩnh Thủy"
+    }
+  ]
+}

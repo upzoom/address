@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "id": 2065,
+      "name": "xã Anh Dũng"
+    },
+    {
+      "id": 2066,
+      "name": "phường Ba Ngòi"
+    },
+    {
+      "id": 2067,
+      "name": "xã Bác Ái"
+    },
+    {
+      "id": 2068,
+      "name": "xã Bác Ái Đông"
+    },
+    {
+      "id": 2069,
+      "name": "xã Bác Ái Tây"
+    },
+    {
+      "id": 2070,
+      "name": "phường Bắc Cam Ranh"
+    },
+    {
+      "id": 2071,
+      "name": "xã Bắc Khánh Vĩnh"
+    },
+    {
+      "id": 2072,
+      "name": "phường Bắc Nha Trang"
+    },
+    {
+      "id": 2073,
+      "name": "xã Bắc Ninh Hòa"
+    },
+    {
+      "id": 2074,
+      "name": "phường Bảo An"
+    },
+    {
+      "id": 2075,
+      "name": "xã Cà Ná"
+    },
+    {
+      "id": 2076,
+      "name": "xã Cam An"
+    },
+    {
+      "id": 2077,
+      "name": "xã Cam Hiệp"
+    },
+    {
+      "id": 2078,
+      "name": "xã Cam Lâm"
+    },
+    {
+      "id": 2079,
+      "name": "phường Cam Linh"
+    },
+    {
+      "id": 2080,
+      "name": "phường Cam Ranh"
+    },
+    {
+      "id": 2081,
+      "name": "xã Công Hải"
+    },
+    {
+      "id": 2082,
+      "name": "xã Đại Lãnh"
+    },
+    {
+      "id": 2083,
+      "name": "xã Diên Điền"
+    },
+    {
+      "id": 2084,
+      "name": "xã Diên Khánh"
+    },
+    {
+      "id": 2085,
+      "name": "xã Diên Lạc"
+    },
+    {
+      "id": 2086,
+      "name": "xã Diên Lâm"
+    },
+    {
+      "id": 2087,
+      "name": "xã Diên Thọ"
+    },
+    {
+      "id": 2088,
+      "name": "phường Đô Vinh"
+    },
+    {
+      "id": 2089,
+      "name": "phường Đông Hải"
+    },
+    {
+      "id": 2090,
+      "name": "xã Đông Khánh Sơn"
+    },
+    {
+      "id": 2091,
+      "name": "phường Đông Ninh Hòa"
+    },
+    {
+      "id": 2092,
+      "name": "phường Hòa Thắng"
+    },
+    {
+      "id": 2093,
+      "name": "xã Hòa Trí"
+    },
+    {
+      "id": 2094,
+      "name": "xã Khánh Sơn"
+    },
+    {
+      "id": 2095,
+      "name": "xã Khánh Vĩnh"
+    },
+    {
+      "id": 2096,
+      "name": "xã Lâm Sơn"
+    },
+    {
+      "id": 2097,
+      "name": "xã Mỹ Sơn"
+    },
+    {
+      "id": 2098,
+      "name": "xã Nam Cam Ranh"
+    },
+    {
+      "id": 2099,
+      "name": "xã Nam Khánh Vĩnh"
+    },
+    {
+      "id": 2100,
+      "name": "phường Nam Nha Trang"
+    },
+    {
+      "id": 2101,
+      "name": "xã Nam Ninh Hòa"
+    },
+    {
+      "id": 2102,
+      "name": "phường Nha Trang"
+    },
+    {
+      "id": 2103,
+      "name": "phường Ninh Chử"
+    },
+    {
+      "id": 2104,
+      "name": "xã Ninh Hải"
+    },
+    {
+      "id": 2105,
+      "name": "phường Ninh Hòa"
+    },
+    {
+      "id": 2106,
+      "name": "xã Ninh Phước"
+    },
+    {
+      "id": 2107,
+      "name": "xã Ninh Sơn"
+    },
+    {
+      "id": 2108,
+      "name": "phường Phan Rang"
+    },
+    {
+      "id": 2109,
+      "name": "xã Phước Dinh"
+    },
+    {
+      "id": 2110,
+      "name": "xã Phước Hà"
+    },
+    {
+      "id": 2111,
+      "name": "xã Phước Hậu"
+    },
+    {
+      "id": 2112,
+      "name": "xã Phước Hữu"
+    },
+    {
+      "id": 2113,
+      "name": "xã Suối Dầu"
+    },
+    {
+      "id": 2114,
+      "name": "xã Suối Hiệp"
+    },
+    {
+      "id": 2115,
+      "name": "xã Tân Định"
+    },
+    {
+      "id": 2116,
+      "name": "xã Tây Khánh Sơn"
+    },
+    {
+      "id": 2117,
+      "name": "xã Tây Khánh Vĩnh"
+    },
+    {
+      "id": 2118,
+      "name": "phường Tây Nha Trang"
+    },
+    {
+      "id": 2119,
+      "name": "xã Tây Ninh Hòa"
+    },
+    {
+      "id": 2120,
+      "name": "xã Thuận Bắc"
+    },
+    {
+      "id": 2121,
+      "name": "xã Thuận Nam"
+    },
+    {
+      "id": 2122,
+      "name": "xã Trung Khánh Vĩnh"
+    },
+    {
+      "id": 2123,
+      "name": "đặc khu Trường Sa"
+    },
+    {
+      "id": 2124,
+      "name": "xã Tu Bông"
+    },
+    {
+      "id": 2125,
+      "name": "xã Vạn Hưng"
+    },
+    {
+      "id": 2126,
+      "name": "xã Vạn Ninh"
+    },
+    {
+      "id": 2127,
+      "name": "xã Vạn Thắng"
+    },
+    {
+      "id": 2128,
+      "name": "xã Vĩnh Hải"
+    },
+    {
+      "id": 2129,
+      "name": "xã Xuân Hải"
+    }
+  ]
+}
