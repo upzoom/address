@@ -1,264 +1,502 @@
 {
   "data": [
     {
-      "id": 2065,
-      "name": "xã Anh Dũng"
+      "id": 50521,
+      "name": "Phường Mỹ Lâm"
     },
     {
-      "id": 2066,
-      "name": "phường Ba Ngòi"
+      "id": 50523,
+      "name": "Phường Minh Xuân"
     },
     {
-      "id": 2067,
-      "name": "xã Bác Ái"
+      "id": 50525,
+      "name": "Phường Nông Tiến"
     },
     {
-      "id": 2068,
-      "name": "xã Bác Ái Đông"
+      "id": 50527,
+      "name": "Phường An Tường"
     },
     {
-      "id": 2069,
-      "name": "xã Bác Ái Tây"
+      "id": 50529,
+      "name": "Phường Bình Thuận"
     },
     {
-      "id": 2070,
-      "name": "phường Bắc Cam Ranh"
+      "id": 50530,
+      "name": "Xã Hùng Lợi"
     },
     {
-      "id": 2071,
-      "name": "xã Bắc Khánh Vĩnh"
+      "id": 50531,
+      "name": "Xã Trung Sơn"
     },
     {
-      "id": 2072,
-      "name": "phường Bắc Nha Trang"
+      "id": 50532,
+      "name": "Xã Thái Bình"
     },
     {
-      "id": 2073,
-      "name": "xã Bắc Ninh Hòa"
+      "id": 50533,
+      "name": "Xã Tân Long"
     },
     {
-      "id": 2074,
-      "name": "phường Bảo An"
+      "id": 50534,
+      "name": "Xã Xuân Vân"
     },
     {
-      "id": 2075,
-      "name": "xã Cà Ná"
+      "id": 50535,
+      "name": "Xã Lực Hành"
     },
     {
-      "id": 2076,
-      "name": "xã Cam An"
+      "id": 50536,
+      "name": "Xã Yên Sơn"
     },
     {
-      "id": 2077,
-      "name": "xã Cam Hiệp"
+      "id": 50537,
+      "name": "Xã Nhữ Khê"
     },
     {
-      "id": 2078,
-      "name": "xã Cam Lâm"
+      "id": 50538,
+      "name": "Xã Tân Trào"
     },
     {
-      "id": 2079,
-      "name": "phường Cam Linh"
+      "id": 50540,
+      "name": "Xã Minh Thanh"
     },
     {
-      "id": 2080,
-      "name": "phường Cam Ranh"
+      "id": 50541,
+      "name": "Xã Sơn Dương"
     },
     {
-      "id": 2081,
-      "name": "xã Công Hải"
+      "id": 50542,
+      "name": "Xã Bình Ca"
     },
     {
-      "id": 2082,
-      "name": "xã Đại Lãnh"
+      "id": 50543,
+      "name": "Xã Tân Thanh"
     },
     {
-      "id": 2083,
-      "name": "xã Diên Điền"
+      "id": 50544,
+      "name": "Xã Sơn Thuỷ"
     },
     {
-      "id": 2084,
-      "name": "xã Diên Khánh"
+      "id": 50545,
+      "name": "Xã Phú Lương"
     },
     {
-      "id": 2085,
-      "name": "xã Diên Lạc"
+      "id": 50546,
+      "name": "Xã Trường Sinh"
     },
     {
-      "id": 2086,
-      "name": "xã Diên Lâm"
+      "id": 50547,
+      "name": "Xã Hồng Sơn"
     },
     {
-      "id": 2087,
-      "name": "xã Diên Thọ"
+      "id": 50548,
+      "name": "Xã Đông Thọ"
     },
     {
-      "id": 2088,
-      "name": "phường Đô Vinh"
+      "id": 50549,
+      "name": "Xã Thượng Lâm"
     },
     {
-      "id": 2089,
-      "name": "phường Đông Hải"
+      "id": 50550,
+      "name": "Xã Lâm Bình"
     },
     {
-      "id": 2090,
-      "name": "xã Đông Khánh Sơn"
+      "id": 50551,
+      "name": "Xã Minh Quang"
     },
     {
-      "id": 2091,
-      "name": "phường Đông Ninh Hòa"
+      "id": 50552,
+      "name": "Xã Bình An"
     },
     {
-      "id": 2092,
-      "name": "phường Hòa Thắng"
+      "id": 50553,
+      "name": "Xã Tân Mỹ"
     },
     {
-      "id": 2093,
-      "name": "xã Hòa Trí"
+      "id": 50554,
+      "name": "Xã Yên Lập"
     },
     {
-      "id": 2094,
-      "name": "xã Khánh Sơn"
+      "id": 50555,
+      "name": "Xã Tân An"
     },
     {
-      "id": 2095,
-      "name": "xã Khánh Vĩnh"
+      "id": 50556,
+      "name": "Xã Chiêm Hoá"
     },
     {
-      "id": 2096,
-      "name": "xã Lâm Sơn"
+      "id": 50557,
+      "name": "Xã Hoà An"
     },
     {
-      "id": 2097,
-      "name": "xã Mỹ Sơn"
+      "id": 50558,
+      "name": "Xã Kiên Đài"
     },
     {
-      "id": 2098,
-      "name": "xã Nam Cam Ranh"
+      "id": 50559,
+      "name": "Xã Tri Phú"
     },
     {
-      "id": 2099,
-      "name": "xã Nam Khánh Vĩnh"
+      "id": 50560,
+      "name": "Xã Kim Bình"
     },
     {
-      "id": 2100,
-      "name": "phường Nam Nha Trang"
+      "id": 50561,
+      "name": "Xã Yên Nguyên"
     },
     {
-      "id": 2101,
-      "name": "xã Nam Ninh Hòa"
+      "id": 50562,
+      "name": "Xã Yên Phú"
     },
     {
-      "id": 2102,
-      "name": "phường Nha Trang"
+      "id": 50563,
+      "name": "Xã Bạch Xa"
     },
     {
-      "id": 2103,
-      "name": "phường Ninh Chử"
+      "id": 50564,
+      "name": "Xã Phù Lưu"
     },
     {
-      "id": 2104,
-      "name": "xã Ninh Hải"
+      "id": 50565,
+      "name": "Xã Hàm Yên"
     },
     {
-      "id": 2105,
-      "name": "phường Ninh Hòa"
+      "id": 50566,
+      "name": "Xã Bình Xa"
     },
     {
-      "id": 2106,
-      "name": "xã Ninh Phước"
+      "id": 50567,
+      "name": "Xã Thái Sơn"
     },
     {
-      "id": 2107,
-      "name": "xã Ninh Sơn"
+      "id": 50568,
+      "name": "Xã Thái Hoà"
     },
     {
-      "id": 2108,
-      "name": "phường Phan Rang"
+      "id": 50569,
+      "name": "Xã Côn Lôn"
     },
     {
-      "id": 2109,
-      "name": "xã Phước Dinh"
+      "id": 50570,
+      "name": "Xã Yên Hoa"
     },
     {
-      "id": 2110,
-      "name": "xã Phước Hà"
+      "id": 50571,
+      "name": "Xã Thượng Nông"
     },
     {
-      "id": 2111,
-      "name": "xã Phước Hậu"
+      "id": 50572,
+      "name": "Xã Hồng Thái"
     },
     {
-      "id": 2112,
-      "name": "xã Phước Hữu"
+      "id": 50573,
+      "name": "Xã Nà Hang"
     },
     {
-      "id": 2113,
-      "name": "xã Suối Dầu"
+      "id": 50574,
+      "name": "Xã Lũng Cú"
     },
     {
-      "id": 2114,
-      "name": "xã Suối Hiệp"
+      "id": 50575,
+      "name": "Xã Đồng Văn"
     },
     {
-      "id": 2115,
-      "name": "xã Tân Định"
+      "id": 50577,
+      "name": "Xã Sà Phìn"
     },
     {
-      "id": 2116,
-      "name": "xã Tây Khánh Sơn"
+      "id": 50578,
+      "name": "Xã Lũng Phìn"
     },
     {
-      "id": 2117,
-      "name": "xã Tây Khánh Vĩnh"
+      "id": 50579,
+      "name": "Xã Sủng Máng"
     },
     {
-      "id": 2118,
-      "name": "phường Tây Nha Trang"
+      "id": 50580,
+      "name": "Xã Sơn Vĩ"
     },
     {
-      "id": 2119,
-      "name": "xã Tây Ninh Hòa"
+      "id": 50581,
+      "name": "Xã Mèo Vạc"
     },
     {
-      "id": 2120,
-      "name": "xã Thuận Bắc"
+      "id": 50583,
+      "name": "Xã Khâu Vai"
     },
     {
-      "id": 2121,
-      "name": "xã Thuận Nam"
+      "id": 50584,
+      "name": "Xã Niêm Sơn"
     },
     {
-      "id": 2122,
-      "name": "xã Trung Khánh Vĩnh"
+      "id": 50585,
+      "name": "Xã Tát Ngà"
     },
     {
-      "id": 2123,
-      "name": "đặc khu Trường Sa"
+      "id": 50586,
+      "name": "Xã Thắng Mố"
     },
     {
-      "id": 2124,
-      "name": "xã Tu Bông"
+      "id": 50587,
+      "name": "Xã Bạch Đích"
     },
     {
-      "id": 2125,
-      "name": "xã Vạn Hưng"
+      "id": 50588,
+      "name": "Xã Yên Minh"
     },
     {
-      "id": 2126,
-      "name": "xã Vạn Ninh"
+      "id": 50590,
+      "name": "Xã Mậu Duệ"
     },
     {
-      "id": 2127,
-      "name": "xã Vạn Thắng"
+      "id": 50591,
+      "name": "Xã Du Già"
     },
     {
-      "id": 2128,
-      "name": "xã Vĩnh Hải"
+      "id": 50592,
+      "name": "Xã Đường Thượng"
     },
     {
-      "id": 2129,
-      "name": "xã Xuân Hải"
+      "id": 50593,
+      "name": "Xã Lùng Tám"
+    },
+    {
+      "id": 50594,
+      "name": "Xã Cán Tỷ"
+    },
+    {
+      "id": 50595,
+      "name": "Xã Nghĩa Thuận"
+    },
+    {
+      "id": 50596,
+      "name": "Xã Quản Bạ"
+    },
+    {
+      "id": 50597,
+      "name": "Xã Tùng Vài"
+    },
+    {
+      "id": 50598,
+      "name": "Xã Yên Cường"
+    },
+    {
+      "id": 50599,
+      "name": "Xã Đường Hồng"
+    },
+    {
+      "id": 50600,
+      "name": "Xã Bắc Mê"
+    },
+    {
+      "id": 50601,
+      "name": "Xã Minh Ngọc"
+    },
+    {
+      "id": 50602,
+      "name": "Xã Ngọc Đường"
+    },
+    {
+      "id": 50604,
+      "name": "Phường Hà Giang 1"
+    },
+    {
+      "id": 50605,
+      "name": "Phường Hà Giang 2"
+    },
+    {
+      "id": 50607,
+      "name": "Xã Lao Chải"
+    },
+    {
+      "id": 50608,
+      "name": "Xã Thanh Thuỷ"
+    },
+    {
+      "id": 50609,
+      "name": "Xã Phú Linh"
+    },
+    {
+      "id": 52770,
+      "name": "Xã Linh Hồ"
+    },
+    {
+      "id": 52771,
+      "name": "Xã Bạch Ngọc"
+    },
+    {
+      "id": 52772,
+      "name": "Xã Vị Xuyên"
+    },
+    {
+      "id": 52773,
+      "name": "Xã Việt Lâm"
+    },
+    {
+      "id": 52774,
+      "name": "Xã Tân Quang"
+    },
+    {
+      "id": 52775,
+      "name": "Xã Đồng Tâm"
+    },
+    {
+      "id": 52776,
+      "name": "Xã Liên Hiệp"
+    },
+    {
+      "id": 52777,
+      "name": "Xã Bằng Hành"
+    },
+    {
+      "id": 52778,
+      "name": "Xã Bắc Quang"
+    },
+    {
+      "id": 52779,
+      "name": "Xã Hùng An"
+    },
+    {
+      "id": 52780,
+      "name": "Xã Vĩnh Tuy"
+    },
+    {
+      "id": 52781,
+      "name": "Xã Đồng Yên"
+    },
+    {
+      "id": 52782,
+      "name": "Xã Tiên Yên"
+    },
+    {
+      "id": 52783,
+      "name": "Xã Xuân Giang"
+    },
+    {
+      "id": 52784,
+      "name": "Xã Bằng Lang"
+    },
+    {
+      "id": 52785,
+      "name": "Xã Yên Thành"
+    },
+    {
+      "id": 52786,
+      "name": "Xã Quang Bình"
+    },
+    {
+      "id": 52787,
+      "name": "Xã Tân Trịnh"
+    },
+    {
+      "id": 52788,
+      "name": "Xã Thông Nguyên"
+    },
+    {
+      "id": 52790,
+      "name": "Xã Hồ Thầu"
+    },
+    {
+      "id": 52791,
+      "name": "Xã Nậm Dịch"
+    },
+    {
+      "id": 52792,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 52793,
+      "name": "Xã Hoàng Su Phì"
+    },
+    {
+      "id": 52794,
+      "name": "Xã Thàng Tín"
+    },
+    {
+      "id": 52795,
+      "name": "Xã Bản Máy"
+    },
+    {
+      "id": 52796,
+      "name": "Xã Pờ Ly Ngài"
+    },
+    {
+      "id": 52797,
+      "name": "Xã Xín Mần"
+    },
+    {
+      "id": 52798,
+      "name": "Xã Pà Vầy Sủ"
+    },
+    {
+      "id": 52799,
+      "name": "Xã Nấm Dẩn"
+    },
+    {
+      "id": 52800,
+      "name": "Xã Trung Thịnh"
+    },
+    {
+      "id": 52801,
+      "name": "Xã Khuôn Lùng"
+    },
+    {
+      "id": 52802,
+      "name": "Xã Quảng Nguyên"
+    },
+    {
+      "id": 52803,
+      "name": "Xã Tiên Nguyên"
+    },
+    {
+      "id": 52804,
+      "name": "Xã Ngọc Long"
+    },
+    {
+      "id": 52805,
+      "name": "Xã Minh Sơn"
+    },
+    {
+      "id": 52806,
+      "name": "Xã Giáp Trung"
+    },
+    {
+      "id": 52807,
+      "name": "Xã Cao Bồ"
+    },
+    {
+      "id": 52808,
+      "name": "Xã Thượng Sơn"
+    },
+    {
+      "id": 52809,
+      "name": "Xã Tùng Bá"
+    },
+    {
+      "id": 52810,
+      "name": "Xã Minh Tân"
+    },
+    {
+      "id": 52811,
+      "name": "Xã Thuận Hoà"
+    },
+    {
+      "id": 52836,
+      "name": "Xã Phố Bảng"
+    },
+    {
+      "id": 52914,
+      "name": "Xã Kiến Thiết"
+    },
+    {
+      "id": 52915,
+      "name": "Xã Trung Hà"
+    },
+    {
+      "id": 52916,
+      "name": "Xã Hùng Đức"
     }
-  ]
+  ],
+  "id": 23,
+  "name": "Tỉnh Tuyên Quang"
 }

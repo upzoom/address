@@ -1,0 +1,138 @@
+[
+  {
+    "id": 5,
+    "name": "Thành phố Cần Thơ"
+  },
+  {
+    "id": 37,
+    "name": "Thành phố Huế"
+  },
+  {
+    "id": 1,
+    "name": "Thành phố Hà Nội"
+  },
+  {
+    "id": 3,
+    "name": "Thành phố Hải Phòng"
+  },
+  {
+    "id": 2,
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "id": 4,
+    "name": "Thành phố Đà Nẵng"
+  },
+  {
+    "id": 56,
+    "name": "Tỉnh An Giang"
+  },
+  {
+    "id": 11,
+    "name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": 19,
+    "name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": 63,
+    "name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": 44,
+    "name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": 34,
+    "name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": 13,
+    "name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": 42,
+    "name": "Tỉnh Khánh Hoà"
+  },
+  {
+    "id": 29,
+    "name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": 20,
+    "name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": 46,
+    "name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": 22,
+    "name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": 33,
+    "name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": 17,
+    "name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": 26,
+    "name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": 39,
+    "name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": 28,
+    "name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": 36,
+    "name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": 30,
+    "name": "Tỉnh Sơn La"
+  },
+  {
+    "id": 32,
+    "name": "Tỉnh Thanh Hoá"
+  },
+  {
+    "id": 25,
+    "name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": 23,
+    "name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": 49,
+    "name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": 57,
+    "name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": 64,
+    "name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": 45,
+    "name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": 51,
+    "name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": 55,
+    "name": "Tỉnh Đồng Tháp"
+  }
+]

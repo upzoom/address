@@ -1,0 +1,502 @@
+{
+  "data": [
+    {
+      "id": 52466,
+      "name": "Phường Xuân Hương - Đà Lạt"
+    },
+    {
+      "id": 52467,
+      "name": "Phường Cam Ly - Đà Lạt"
+    },
+    {
+      "id": 52468,
+      "name": "Phường Lâm Viên - Đà Lạt"
+    },
+    {
+      "id": 52469,
+      "name": "Phường Xuân Trường - Đà Lạt"
+    },
+    {
+      "id": 52470,
+      "name": "Phường Lang Biang - Đà Lạt"
+    },
+    {
+      "id": 52472,
+      "name": "Phường 1 Bảo Lộc"
+    },
+    {
+      "id": 52473,
+      "name": "Phường 2 Bảo Lộc"
+    },
+    {
+      "id": 52475,
+      "name": "Phường 3 Bảo Lộc"
+    },
+    {
+      "id": 52476,
+      "name": "Phường B'Lao"
+    },
+    {
+      "id": 52477,
+      "name": "Xã Lạc Dương"
+    },
+    {
+      "id": 52478,
+      "name": "Xã Đơn Dương"
+    },
+    {
+      "id": 52479,
+      "name": "Xã Ka Đô"
+    },
+    {
+      "id": 52480,
+      "name": "Xã Quảng Lập"
+    },
+    {
+      "id": 52481,
+      "name": "Xã D'Ran"
+    },
+    {
+      "id": 52482,
+      "name": "Xã Hiệp Thạnh"
+    },
+    {
+      "id": 52483,
+      "name": "Xã Đức Trọng"
+    },
+    {
+      "id": 52484,
+      "name": "Xã Tân Hội"
+    },
+    {
+      "id": 52485,
+      "name": "Xã Ninh Gia"
+    },
+    {
+      "id": 52486,
+      "name": "Xã Tà Hine"
+    },
+    {
+      "id": 52487,
+      "name": "Xã Tà Năng"
+    },
+    {
+      "id": 52488,
+      "name": "Xã Đinh Văn Lâm Hà"
+    },
+    {
+      "id": 52490,
+      "name": "Xã Phú Sơn Lâm Hà"
+    },
+    {
+      "id": 52491,
+      "name": "Xã Nam Hà - Lâm Hà"
+    },
+    {
+      "id": 52492,
+      "name": "Xã Tân Hà - Lâm Hà"
+    },
+    {
+      "id": 52493,
+      "name": "Xã Phúc Thọ Lâm Hà"
+    },
+    {
+      "id": 52494,
+      "name": "Xã Đam Rông 1"
+    },
+    {
+      "id": 52495,
+      "name": "Xã Đam Rông 2"
+    },
+    {
+      "id": 52496,
+      "name": "Xã Đam Rông 3"
+    },
+    {
+      "id": 52497,
+      "name": "Xã Đam Rông 4"
+    },
+    {
+      "id": 52499,
+      "name": "Xã Di Linh"
+    },
+    {
+      "id": 52500,
+      "name": "Xã Hoà Ninh"
+    },
+    {
+      "id": 52501,
+      "name": "Xã Hoà Bắc"
+    },
+    {
+      "id": 52502,
+      "name": "Xã Đinh Trang Thượng"
+    },
+    {
+      "id": 52503,
+      "name": "Xã Bảo Thuận"
+    },
+    {
+      "id": 52504,
+      "name": "Xã Sơn Điền"
+    },
+    {
+      "id": 52505,
+      "name": "Xã Gia Hiệp"
+    },
+    {
+      "id": 52506,
+      "name": "Xã Bảo Lâm 1"
+    },
+    {
+      "id": 52507,
+      "name": "Xã Bảo Lâm 2"
+    },
+    {
+      "id": 52508,
+      "name": "Xã Bảo Lâm 3"
+    },
+    {
+      "id": 52509,
+      "name": "Xã Bảo Lâm 4"
+    },
+    {
+      "id": 52510,
+      "name": "Xã Bảo Lâm 5"
+    },
+    {
+      "id": 52511,
+      "name": "Xã Đạ Huoai"
+    },
+    {
+      "id": 52512,
+      "name": "Xã Đạ Huoai 2"
+    },
+    {
+      "id": 52513,
+      "name": "Xã Đạ Huoai 3"
+    },
+    {
+      "id": 52514,
+      "name": "Xã Đạ Tẻh"
+    },
+    {
+      "id": 52515,
+      "name": "Xã Đạ Tẻh 2"
+    },
+    {
+      "id": 52516,
+      "name": "Xã Đạ Tẻh 3"
+    },
+    {
+      "id": 52517,
+      "name": "Xã Cát Tiên"
+    },
+    {
+      "id": 52518,
+      "name": "Xã Cát Tiên 2"
+    },
+    {
+      "id": 52519,
+      "name": "Xã Cát Tiên 3"
+    },
+    {
+      "id": 52520,
+      "name": "Xã Đắk Wil"
+    },
+    {
+      "id": 52521,
+      "name": "Xã Nam Dong"
+    },
+    {
+      "id": 52522,
+      "name": "Xã Cư Jút"
+    },
+    {
+      "id": 52523,
+      "name": "Xã Thuận An"
+    },
+    {
+      "id": 52524,
+      "name": "Xã Đức Lập"
+    },
+    {
+      "id": 52525,
+      "name": "Xã Đắk Mil"
+    },
+    {
+      "id": 52526,
+      "name": "Xã Đắk Sắk"
+    },
+    {
+      "id": 52528,
+      "name": "Xã Nam Đà"
+    },
+    {
+      "id": 52529,
+      "name": "Xã Krông Nô"
+    },
+    {
+      "id": 52530,
+      "name": "Xã Nâm Nung"
+    },
+    {
+      "id": 52531,
+      "name": "Xã Quảng Phú"
+    },
+    {
+      "id": 52532,
+      "name": "Xã Đắk song"
+    },
+    {
+      "id": 52533,
+      "name": "Xã Đức An"
+    },
+    {
+      "id": 52534,
+      "name": "Xã Thuận Hạnh"
+    },
+    {
+      "id": 52535,
+      "name": "Xã Trường Xuân"
+    },
+    {
+      "id": 52536,
+      "name": "Xã Tà Đùng"
+    },
+    {
+      "id": 52537,
+      "name": "Xã Quảng Khê"
+    },
+    {
+      "id": 52538,
+      "name": "Xã Quảng Hoà"
+    },
+    {
+      "id": 52539,
+      "name": "Xã Quảng Sơn"
+    },
+    {
+      "id": 52540,
+      "name": "Phường Bắc Gia Nghĩa"
+    },
+    {
+      "id": 52542,
+      "name": "Phường Nam Gia Nghĩa"
+    },
+    {
+      "id": 52543,
+      "name": "Phường Đông Gia Nghĩa"
+    },
+    {
+      "id": 52544,
+      "name": "Xã Kiến Đức"
+    },
+    {
+      "id": 52545,
+      "name": "Xã Nhân Cơ"
+    },
+    {
+      "id": 52546,
+      "name": "Xã Quảng Tín"
+    },
+    {
+      "id": 52547,
+      "name": "Xã Quảng Tân"
+    },
+    {
+      "id": 52548,
+      "name": "Xã Tuy Đức"
+    },
+    {
+      "id": 52549,
+      "name": "Xã Quảng Trực"
+    },
+    {
+      "id": 52550,
+      "name": "Xã Vĩnh Hảo"
+    },
+    {
+      "id": 52551,
+      "name": "Xã Liên Hương"
+    },
+    {
+      "id": 52552,
+      "name": "Xã Tuy Phong"
+    },
+    {
+      "id": 52553,
+      "name": "Xã Phan Rí Cửa"
+    },
+    {
+      "id": 52554,
+      "name": "Xã Bắc Bình"
+    },
+    {
+      "id": 52555,
+      "name": "Xã Hải Ninh"
+    },
+    {
+      "id": 52556,
+      "name": "Xã Phan Sơn"
+    },
+    {
+      "id": 52557,
+      "name": "Xã Sông Luỹ"
+    },
+    {
+      "id": 52558,
+      "name": "Xã Lương Sơn"
+    },
+    {
+      "id": 52559,
+      "name": "Xã Hoà Thắng"
+    },
+    {
+      "id": 52560,
+      "name": "Xã Đông Giang"
+    },
+    {
+      "id": 52561,
+      "name": "Xã La Dạ"
+    },
+    {
+      "id": 52562,
+      "name": "Xã Hàm Thuận Bắc"
+    },
+    {
+      "id": 52563,
+      "name": "Xã Hàm Thuận"
+    },
+    {
+      "id": 52564,
+      "name": "Xã Hồng Sơn"
+    },
+    {
+      "id": 52565,
+      "name": "Xã Hàm Liêm"
+    },
+    {
+      "id": 52566,
+      "name": "Phường Hàm Thắng"
+    },
+    {
+      "id": 52568,
+      "name": "Phường Bình Thuận"
+    },
+    {
+      "id": 52570,
+      "name": "Phường Mũi Né"
+    },
+    {
+      "id": 52571,
+      "name": "Phường Phú Thuỷ"
+    },
+    {
+      "id": 52572,
+      "name": "Phường Phan Thiết"
+    },
+    {
+      "id": 52573,
+      "name": "Phường Tiến Thành"
+    },
+    {
+      "id": 52574,
+      "name": "Xã Tuyên Quang"
+    },
+    {
+      "id": 52576,
+      "name": "Xã Hàm Thạnh"
+    },
+    {
+      "id": 52577,
+      "name": "Xã Hàm Kiệm"
+    },
+    {
+      "id": 52578,
+      "name": "Xã Tân Thành"
+    },
+    {
+      "id": 52579,
+      "name": "Xã Hàm Thuận Nam"
+    },
+    {
+      "id": 52580,
+      "name": "Xã Tân Lập"
+    },
+    {
+      "id": 52582,
+      "name": "Xã Tân Minh"
+    },
+    {
+      "id": 52583,
+      "name": "Xã Hàm Tân"
+    },
+    {
+      "id": 52584,
+      "name": "Xã Sơn Mỹ"
+    },
+    {
+      "id": 52585,
+      "name": "Phường La Gi"
+    },
+    {
+      "id": 52586,
+      "name": "Phường Phước Hội"
+    },
+    {
+      "id": 52587,
+      "name": "Xã Tân Hải"
+    },
+    {
+      "id": 52588,
+      "name": "Xã Nghị Đức"
+    },
+    {
+      "id": 52589,
+      "name": "Xã Bắc Ruộng"
+    },
+    {
+      "id": 52590,
+      "name": "Xã Đồng Kho"
+    },
+    {
+      "id": 52591,
+      "name": "Xã Tánh Linh"
+    },
+    {
+      "id": 52592,
+      "name": "Xã Suối Kiết"
+    },
+    {
+      "id": 52593,
+      "name": "Xã Nam Thành"
+    },
+    {
+      "id": 52594,
+      "name": "Xã Đức Linh"
+    },
+    {
+      "id": 52595,
+      "name": "Xã Hoài Đức"
+    },
+    {
+      "id": 52596,
+      "name": "Xã Trà Tân"
+    },
+    {
+      "id": 52597,
+      "name": "Đặc khu Phú Quý"
+    },
+    {
+      "id": 52812,
+      "name": "Xã Nam Ban - Lâm Hà"
+    },
+    {
+      "id": 52820,
+      "name": "Xã Hồng Thái"
+    }
+  ],
+  "id": 46,
+  "name": "Tỉnh Lâm Đồng"
+}

@@ -1,0 +1,386 @@
+{
+  "data": [
+    {
+      "id": 50780,
+      "name": "Xã Đồng Phú"
+    },
+    {
+      "id": 50781,
+      "name": "Xã Đồng Tâm"
+    },
+    {
+      "id": 50782,
+      "name": "Phường An Lộc"
+    },
+    {
+      "id": 50783,
+      "name": "Phường Bình Long"
+    },
+    {
+      "id": 50785,
+      "name": "Phường Bình Phước"
+    },
+    {
+      "id": 50786,
+      "name": "Phường Chơn Thành"
+    },
+    {
+      "id": 50787,
+      "name": "Phường Đồng Xoài"
+    },
+    {
+      "id": 50788,
+      "name": "Phường Minh Hưng"
+    },
+    {
+      "id": 50789,
+      "name": "Phường Phước Bình"
+    },
+    {
+      "id": 50790,
+      "name": "Xã Phú Trung"
+    },
+    {
+      "id": 50792,
+      "name": "Phường Phước Long"
+    },
+    {
+      "id": 50793,
+      "name": "Xã Tân Lợi"
+    },
+    {
+      "id": 50794,
+      "name": "Xã Bù Đăng"
+    },
+    {
+      "id": 50795,
+      "name": "Xã Bom Bo"
+    },
+    {
+      "id": 50796,
+      "name": "Xã Bù Gia Mập"
+    },
+    {
+      "id": 50797,
+      "name": "Xã Đa Kia"
+    },
+    {
+      "id": 50798,
+      "name": "Xã Đăk Ơ"
+    },
+    {
+      "id": 50799,
+      "name": "Xã Đak Nhau"
+    },
+    {
+      "id": 50800,
+      "name": "Xã Phước Sơn"
+    },
+    {
+      "id": 50801,
+      "name": "Xã Nghĩa Trung"
+    },
+    {
+      "id": 50802,
+      "name": "Xã Hưng Phước"
+    },
+    {
+      "id": 50803,
+      "name": "Xã Lộc Hưng"
+    },
+    {
+      "id": 50804,
+      "name": "Xã Lộc Ninh"
+    },
+    {
+      "id": 50805,
+      "name": "Xã Lộc Quang"
+    },
+    {
+      "id": 50806,
+      "name": "Xã Lộc Tấn"
+    },
+    {
+      "id": 50807,
+      "name": "Xã Lộc Thành"
+    },
+    {
+      "id": 50808,
+      "name": "Xã Lộc Thạnh"
+    },
+    {
+      "id": 50809,
+      "name": "Xã Long Hà"
+    },
+    {
+      "id": 50810,
+      "name": "Xã Bình Tân"
+    },
+    {
+      "id": 50811,
+      "name": "Xã Minh Đức"
+    },
+    {
+      "id": 50812,
+      "name": "Xã Nha Bích"
+    },
+    {
+      "id": 50813,
+      "name": "Xã Phú Nghĩa"
+    },
+    {
+      "id": 50814,
+      "name": "Xã Phú Riềng"
+    },
+    {
+      "id": 50815,
+      "name": "Xã Tân Hưng"
+    },
+    {
+      "id": 50816,
+      "name": "Xã Tân Khai"
+    },
+    {
+      "id": 50817,
+      "name": "Xã Tân Quan"
+    },
+    {
+      "id": 50819,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 50821,
+      "name": "Xã Thiện Hưng"
+    },
+    {
+      "id": 50822,
+      "name": "Xã Thọ Sơn"
+    },
+    {
+      "id": 50823,
+      "name": "Xã Thuận Lợi"
+    },
+    {
+      "id": 52402,
+      "name": "Phường Biên Hoà"
+    },
+    {
+      "id": 52403,
+      "name": "Phường Trấn Biên"
+    },
+    {
+      "id": 52404,
+      "name": "Phường Tam Hiệp"
+    },
+    {
+      "id": 52405,
+      "name": "Phường Long Bình"
+    },
+    {
+      "id": 52406,
+      "name": "Phường Trảng Dài"
+    },
+    {
+      "id": 52408,
+      "name": "Phường Hố Nai"
+    },
+    {
+      "id": 52410,
+      "name": "Phường Long Hưng"
+    },
+    {
+      "id": 52411,
+      "name": "Phường Tam Phước"
+    },
+    {
+      "id": 52412,
+      "name": "Xã Đại Phước"
+    },
+    {
+      "id": 52413,
+      "name": "Xã Nhơn Trạch"
+    },
+    {
+      "id": 52414,
+      "name": "Xã Phước An"
+    },
+    {
+      "id": 52415,
+      "name": "Xã Phước Thái"
+    },
+    {
+      "id": 52416,
+      "name": "Xã Long Phước"
+    },
+    {
+      "id": 52417,
+      "name": "Xã Bình An"
+    },
+    {
+      "id": 52418,
+      "name": "Xã Long Thành"
+    },
+    {
+      "id": 52419,
+      "name": "Xã An Phước"
+    },
+    {
+      "id": 52420,
+      "name": "Xã An Viễn"
+    },
+    {
+      "id": 52421,
+      "name": "Xã Bình Minh"
+    },
+    {
+      "id": 52422,
+      "name": "Xã Trảng Bom"
+    },
+    {
+      "id": 52423,
+      "name": "Xã Bàu Hàm"
+    },
+    {
+      "id": 52424,
+      "name": "Xã Hưng Thịnh"
+    },
+    {
+      "id": 52425,
+      "name": "Xã Dầu Giây"
+    },
+    {
+      "id": 52426,
+      "name": "Xã Gia Kiệm"
+    },
+    {
+      "id": 52427,
+      "name": "Xã Thống Nhất"
+    },
+    {
+      "id": 52429,
+      "name": "Phường Bình Lộc"
+    },
+    {
+      "id": 52431,
+      "name": "Phường Bảo Vinh"
+    },
+    {
+      "id": 52432,
+      "name": "Phường Xuân Lập"
+    },
+    {
+      "id": 52433,
+      "name": "Phường Long Khánh"
+    },
+    {
+      "id": 52434,
+      "name": "Phường Hàng Gòn"
+    },
+    {
+      "id": 52435,
+      "name": "Xã Xuân Quế"
+    },
+    {
+      "id": 52436,
+      "name": "Xã Xuân Đường"
+    },
+    {
+      "id": 52438,
+      "name": "Xã Cẩm Mỹ"
+    },
+    {
+      "id": 52439,
+      "name": "Xã Sông Ray"
+    },
+    {
+      "id": 52440,
+      "name": "Xã Xuân Đông"
+    },
+    {
+      "id": 52441,
+      "name": "Xã Xuân Định"
+    },
+    {
+      "id": 52443,
+      "name": "Xã Xuân Phú"
+    },
+    {
+      "id": 52444,
+      "name": "Xã Xuân Lộc"
+    },
+    {
+      "id": 52445,
+      "name": "Xã Xuân Hoà"
+    },
+    {
+      "id": 52447,
+      "name": "Xã Xuân Thành"
+    },
+    {
+      "id": 52448,
+      "name": "Xã Xuân Bắc"
+    },
+    {
+      "id": 52450,
+      "name": "Xã La Ngà"
+    },
+    {
+      "id": 52451,
+      "name": "Xã Định Quán"
+    },
+    {
+      "id": 52452,
+      "name": "Xã Thanh Sơn"
+    },
+    {
+      "id": 52453,
+      "name": "Xã Phú Vinh"
+    },
+    {
+      "id": 52454,
+      "name": "Xã Phú Hoà"
+    },
+    {
+      "id": 52456,
+      "name": "Xã Tà Lài"
+    },
+    {
+      "id": 52457,
+      "name": "Xã Nam Cát Tiên"
+    },
+    {
+      "id": 52458,
+      "name": "Xã Tân Phú"
+    },
+    {
+      "id": 52459,
+      "name": "Xã Phú Lâm"
+    },
+    {
+      "id": 52460,
+      "name": "Xã Đak Lua"
+    },
+    {
+      "id": 52461,
+      "name": "Xã Phú Lý"
+    },
+    {
+      "id": 52462,
+      "name": "Xã Trị An"
+    },
+    {
+      "id": 52463,
+      "name": "Xã Tân An"
+    },
+    {
+      "id": 52464,
+      "name": "Phường Tân Triều"
+    },
+    {
+      "id": 52837,
+      "name": "Phường Phước Tân"
+    }
+  ],
+  "id": 51,
+  "name": "Tỉnh Đồng Nai"
+}

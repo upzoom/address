@@ -1,0 +1,266 @@
+{
+  "data": [
+    {
+      "id": 51829,
+      "name": "Phường Phan Rang"
+    },
+    {
+      "id": 51830,
+      "name": "Phường Đông Hải"
+    },
+    {
+      "id": 51831,
+      "name": "Phường Ninh Chử"
+    },
+    {
+      "id": 51833,
+      "name": "Phường Bảo An"
+    },
+    {
+      "id": 51834,
+      "name": "Phường Đô Vinh"
+    },
+    {
+      "id": 51836,
+      "name": "Xã Ninh Phước"
+    },
+    {
+      "id": 51837,
+      "name": "Xã Phước Hữu"
+    },
+    {
+      "id": 51838,
+      "name": "Xã Phước Hậu"
+    },
+    {
+      "id": 51839,
+      "name": "Xã Thuận Nam"
+    },
+    {
+      "id": 51840,
+      "name": "Xã Cà Ná"
+    },
+    {
+      "id": 51841,
+      "name": "Xã Phước Hà"
+    },
+    {
+      "id": 51842,
+      "name": "Xã Phước Dinh"
+    },
+    {
+      "id": 51844,
+      "name": "Xã Ninh Hải"
+    },
+    {
+      "id": 51846,
+      "name": "Xã Xuân Hải"
+    },
+    {
+      "id": 51847,
+      "name": "Xã Vĩnh Hải"
+    },
+    {
+      "id": 51848,
+      "name": "Xã Thuận Bắc"
+    },
+    {
+      "id": 51849,
+      "name": "Xã Công Hải"
+    },
+    {
+      "id": 51850,
+      "name": "Xã Ninh Sơn"
+    },
+    {
+      "id": 51851,
+      "name": "Xã Lâm Sơn"
+    },
+    {
+      "id": 51852,
+      "name": "Xã Anh Dũng"
+    },
+    {
+      "id": 51853,
+      "name": "Xã Mỹ Sơn"
+    },
+    {
+      "id": 51855,
+      "name": "Xã Bác Ái Đông"
+    },
+    {
+      "id": 51856,
+      "name": "Xã Bác Ái"
+    },
+    {
+      "id": 51857,
+      "name": "Xã Bác Ái Tây"
+    },
+    {
+      "id": 51858,
+      "name": "Phường Nha Trang"
+    },
+    {
+      "id": 51859,
+      "name": "Phường Bắc Nha Trang"
+    },
+    {
+      "id": 51860,
+      "name": "Phường Tây Nha Trang"
+    },
+    {
+      "id": 51861,
+      "name": "Phường Nam Nha Trang"
+    },
+    {
+      "id": 51862,
+      "name": "Phường Bắc Cam Ranh"
+    },
+    {
+      "id": 51863,
+      "name": "Phường Cam Ranh"
+    },
+    {
+      "id": 51864,
+      "name": "Phường Cam Linh"
+    },
+    {
+      "id": 51865,
+      "name": "Phường Ba Ngòi"
+    },
+    {
+      "id": 51866,
+      "name": "Xã Nam Cam Ranh"
+    },
+    {
+      "id": 51867,
+      "name": "Xã Bắc Ninh Hoà"
+    },
+    {
+      "id": 51868,
+      "name": "Phường Ninh Hoà"
+    },
+    {
+      "id": 51869,
+      "name": "Xã Tân Định"
+    },
+    {
+      "id": 51870,
+      "name": "Phường Đông Ninh Hoà"
+    },
+    {
+      "id": 51871,
+      "name": "Phường Hoà Thắng"
+    },
+    {
+      "id": 51872,
+      "name": "Xã Nam Ninh Hoà"
+    },
+    {
+      "id": 51873,
+      "name": "Xã Tây Ninh Hoà"
+    },
+    {
+      "id": 51874,
+      "name": "Xã Hoà Trí"
+    },
+    {
+      "id": 51875,
+      "name": "Xã Đại Lãnh"
+    },
+    {
+      "id": 51876,
+      "name": "Xã Tu Bông"
+    },
+    {
+      "id": 51877,
+      "name": "Xã Vạn Thắng"
+    },
+    {
+      "id": 51878,
+      "name": "Xã Vạn Ninh"
+    },
+    {
+      "id": 51879,
+      "name": "Xã Vạn Hưng"
+    },
+    {
+      "id": 51880,
+      "name": "Xã Diên Khánh"
+    },
+    {
+      "id": 51881,
+      "name": "Xã Diên Lạc"
+    },
+    {
+      "id": 51882,
+      "name": "Xã Diên Điền"
+    },
+    {
+      "id": 51883,
+      "name": "Xã Diên Lâm"
+    },
+    {
+      "id": 51884,
+      "name": "Xã Diên Thọ"
+    },
+    {
+      "id": 51885,
+      "name": "Xã Suối Hiệp"
+    },
+    {
+      "id": 51886,
+      "name": "Xã Cam Lâm"
+    },
+    {
+      "id": 51887,
+      "name": "Xã Suối Dầu"
+    },
+    {
+      "id": 51888,
+      "name": "Xã Cam Hiệp"
+    },
+    {
+      "id": 51889,
+      "name": "Xã Cam An"
+    },
+    {
+      "id": 51890,
+      "name": "Xã Bắc Khánh Vĩnh"
+    },
+    {
+      "id": 51891,
+      "name": "Xã Trung Khánh Vĩnh"
+    },
+    {
+      "id": 51892,
+      "name": "Xã Tây Khánh Vĩnh"
+    },
+    {
+      "id": 51893,
+      "name": "Xã Nam Khánh Vĩnh"
+    },
+    {
+      "id": 51894,
+      "name": "Xã Khánh Vĩnh"
+    },
+    {
+      "id": 51895,
+      "name": "Xã Khánh Sơn"
+    },
+    {
+      "id": 51896,
+      "name": "Xã Tây Khánh Sơn"
+    },
+    {
+      "id": 51897,
+      "name": "Xã Đông Khánh Sơn"
+    },
+    {
+      "id": 51898,
+      "name": "Đặc khu Trường Sa"
+    }
+  ],
+  "id": 42,
+  "name": "Tỉnh Khánh Hoà"
+}

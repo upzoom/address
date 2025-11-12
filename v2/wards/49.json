@@ -1,0 +1,390 @@
+{
+  "data": [
+    {
+      "id": 50668,
+      "name": "Xã Hưng Điền"
+    },
+    {
+      "id": 50669,
+      "name": "Xã Vĩnh Thạnh"
+    },
+    {
+      "id": 50670,
+      "name": "Xã Tân Hưng"
+    },
+    {
+      "id": 50671,
+      "name": "Xã Vĩnh Châu"
+    },
+    {
+      "id": 50672,
+      "name": "Xã Tuyên Bình"
+    },
+    {
+      "id": 50673,
+      "name": "Xã Vĩnh Hưng"
+    },
+    {
+      "id": 50674,
+      "name": "Xã Khánh Hưng"
+    },
+    {
+      "id": 50675,
+      "name": "Xã Tuyên Thạnh"
+    },
+    {
+      "id": 50678,
+      "name": "Xã Bình Hiệp"
+    },
+    {
+      "id": 50680,
+      "name": "Phường Kiến Tường"
+    },
+    {
+      "id": 50681,
+      "name": "Xã Bình Hoà"
+    },
+    {
+      "id": 50682,
+      "name": "Xã Mộc Hoá"
+    },
+    {
+      "id": 50683,
+      "name": "Xã Nhơn Hoà Lập"
+    },
+    {
+      "id": 50684,
+      "name": "Xã Hậu Thạnh"
+    },
+    {
+      "id": 50685,
+      "name": "Xã Nhơn Ninh"
+    },
+    {
+      "id": 50686,
+      "name": "Xã Tân Thạnh"
+    },
+    {
+      "id": 50687,
+      "name": "Xã Bình Thành"
+    },
+    {
+      "id": 50689,
+      "name": "Xã Thạnh Phước"
+    },
+    {
+      "id": 50690,
+      "name": "Xã Thạnh Hoá"
+    },
+    {
+      "id": 50691,
+      "name": "Xã Tân Tây"
+    },
+    {
+      "id": 50692,
+      "name": "Xã Thủ Thừa"
+    },
+    {
+      "id": 50693,
+      "name": "Xã Mỹ An"
+    },
+    {
+      "id": 50694,
+      "name": "Xã Mỹ Thạnh"
+    },
+    {
+      "id": 50695,
+      "name": "Xã Tân Long"
+    },
+    {
+      "id": 50696,
+      "name": "Xã Mỹ Quý"
+    },
+    {
+      "id": 50697,
+      "name": "Xã Đông Thành"
+    },
+    {
+      "id": 50699,
+      "name": "Xã Đức Huệ"
+    },
+    {
+      "id": 50700,
+      "name": "Xã An Ninh"
+    },
+    {
+      "id": 50701,
+      "name": "Xã Hiệp Hoà"
+    },
+    {
+      "id": 50702,
+      "name": "Xã Hậu Nghĩa"
+    },
+    {
+      "id": 50703,
+      "name": "Xã Hoà Khánh"
+    },
+    {
+      "id": 50704,
+      "name": "Xã Đức Lập"
+    },
+    {
+      "id": 50705,
+      "name": "Xã Mỹ Hạnh"
+    },
+    {
+      "id": 50706,
+      "name": "Xã Đức Hoà"
+    },
+    {
+      "id": 50707,
+      "name": "Xã Thạnh Lợi"
+    },
+    {
+      "id": 50708,
+      "name": "Xã Bình Đức"
+    },
+    {
+      "id": 50709,
+      "name": "Xã Lương Hoà"
+    },
+    {
+      "id": 50710,
+      "name": "Xã Bến Lức"
+    },
+    {
+      "id": 50712,
+      "name": "Xã Mỹ Yên"
+    },
+    {
+      "id": 50713,
+      "name": "Xã Long Cang"
+    },
+    {
+      "id": 50714,
+      "name": "Xã Rạch Kiến"
+    },
+    {
+      "id": 50715,
+      "name": "Xã Mỹ Lệ"
+    },
+    {
+      "id": 50716,
+      "name": "Xã Tân Lân"
+    },
+    {
+      "id": 50717,
+      "name": "Xã Cần Đước"
+    },
+    {
+      "id": 50718,
+      "name": "Xã Long Hựu"
+    },
+    {
+      "id": 50719,
+      "name": "Xã Phước Lý"
+    },
+    {
+      "id": 50720,
+      "name": "Xã Mỹ Lộc"
+    },
+    {
+      "id": 50721,
+      "name": "Xã Cần Giuộc"
+    },
+    {
+      "id": 50722,
+      "name": "Xã Phước Vĩnh Tây"
+    },
+    {
+      "id": 50723,
+      "name": "Xã Tân Tập"
+    },
+    {
+      "id": 50724,
+      "name": "Xã Vàm Cỏ"
+    },
+    {
+      "id": 50725,
+      "name": "Xã Tân Trụ"
+    },
+    {
+      "id": 50726,
+      "name": "Xã Nhựt Tảo"
+    },
+    {
+      "id": 50728,
+      "name": "Xã Thuận Mỹ"
+    },
+    {
+      "id": 50729,
+      "name": "Xã An Lục Long"
+    },
+    {
+      "id": 50730,
+      "name": "Xã Tầm Vu"
+    },
+    {
+      "id": 50731,
+      "name": "Xã Vĩnh Công"
+    },
+    {
+      "id": 50732,
+      "name": "Phường Long An"
+    },
+    {
+      "id": 50734,
+      "name": "Phường Tân An"
+    },
+    {
+      "id": 50735,
+      "name": "Phường Khánh Hậu"
+    },
+    {
+      "id": 50736,
+      "name": "Phường Tân Ninh"
+    },
+    {
+      "id": 50737,
+      "name": "Phường Bình Minh"
+    },
+    {
+      "id": 50738,
+      "name": "Phường Ninh Thạnh"
+    },
+    {
+      "id": 50740,
+      "name": "Phường Long Hoa"
+    },
+    {
+      "id": 50741,
+      "name": "Phường Hoà Thành"
+    },
+    {
+      "id": 50742,
+      "name": "Phường Thanh Điền"
+    },
+    {
+      "id": 50744,
+      "name": "Phường Trảng Bàng"
+    },
+    {
+      "id": 50745,
+      "name": "Phường An Tịnh"
+    },
+    {
+      "id": 50746,
+      "name": "Phường Gò Dầu"
+    },
+    {
+      "id": 50748,
+      "name": "Phường Gia Lộc"
+    },
+    {
+      "id": 50750,
+      "name": "Xã Hưng Thuận"
+    },
+    {
+      "id": 50751,
+      "name": "Xã Phước Chỉ"
+    },
+    {
+      "id": 50752,
+      "name": "Xã Thạnh Đức"
+    },
+    {
+      "id": 50753,
+      "name": "Xã Phước Thạnh"
+    },
+    {
+      "id": 50754,
+      "name": "Xã Truông Mít"
+    },
+    {
+      "id": 50756,
+      "name": "Xã Lộc Ninh"
+    },
+    {
+      "id": 50757,
+      "name": "Xã Cầu Khởi"
+    },
+    {
+      "id": 50758,
+      "name": "Xã Dương Minh Châu"
+    },
+    {
+      "id": 50759,
+      "name": "Xã Tân Đông"
+    },
+    {
+      "id": 50760,
+      "name": "Xã Tân Châu"
+    },
+    {
+      "id": 50761,
+      "name": "Xã Tân Phú"
+    },
+    {
+      "id": 50763,
+      "name": "Xã Tân Hội"
+    },
+    {
+      "id": 50764,
+      "name": "Xã Tân Thành"
+    },
+    {
+      "id": 50765,
+      "name": "Xã Tân Hoà"
+    },
+    {
+      "id": 50766,
+      "name": "Xã Tân Lập"
+    },
+    {
+      "id": 50767,
+      "name": "Xã Tân Biên"
+    },
+    {
+      "id": 50768,
+      "name": "Xã Thạnh Bình"
+    },
+    {
+      "id": 50769,
+      "name": "Xã Trà Vong"
+    },
+    {
+      "id": 50770,
+      "name": "Xã Phước Vinh"
+    },
+    {
+      "id": 50772,
+      "name": "Xã Hoà Hội"
+    },
+    {
+      "id": 50773,
+      "name": "Xã Ninh Điền"
+    },
+    {
+      "id": 50774,
+      "name": "Xã Châu Thành"
+    },
+    {
+      "id": 50775,
+      "name": "Xã Hảo Đước"
+    },
+    {
+      "id": 50776,
+      "name": "Xã Long Chữ"
+    },
+    {
+      "id": 50778,
+      "name": "Xã Long Thuận"
+    },
+    {
+      "id": 50779,
+      "name": "Xã Bến Cầu"
+    }
+  ],
+  "id": 49,
+  "name": "Tỉnh Tây Ninh"
+}

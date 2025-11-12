@@ -1,0 +1,546 @@
+{
+  "data": [
+    {
+      "id": 49163,
+      "name": "Phường Quy Nhơn"
+    },
+    {
+      "id": 49164,
+      "name": "Phường Quy Nhơn Nam"
+    },
+    {
+      "id": 49165,
+      "name": "Phường Quy Nhơn Bắc"
+    },
+    {
+      "id": 49166,
+      "name": "Phường Quy Nhơn Tây"
+    },
+    {
+      "id": 49167,
+      "name": "Phường Quy Nhơn Đông"
+    },
+    {
+      "id": 49168,
+      "name": "Xã Nhơn Châu"
+    },
+    {
+      "id": 49169,
+      "name": "Phường Bình Định"
+    },
+    {
+      "id": 49170,
+      "name": "Phường An Nhơn"
+    },
+    {
+      "id": 49171,
+      "name": "Phường An Nhơn Đông"
+    },
+    {
+      "id": 49172,
+      "name": "Xã An Nhơn Tây"
+    },
+    {
+      "id": 49173,
+      "name": "Phường An Nhơn Nam"
+    },
+    {
+      "id": 49174,
+      "name": "Phường An Nhơn Bắc"
+    },
+    {
+      "id": 49175,
+      "name": "Phường Bồng Sơn"
+    },
+    {
+      "id": 49176,
+      "name": "Phường Hoài Nhơn Nam"
+    },
+    {
+      "id": 49177,
+      "name": "Phường Hoài Nhơn Đông"
+    },
+    {
+      "id": 49178,
+      "name": "Phường Hoài Nhơn"
+    },
+    {
+      "id": 49179,
+      "name": "Phường Hoài Nhơn Tây"
+    },
+    {
+      "id": 49180,
+      "name": "Phường Tam Quan"
+    },
+    {
+      "id": 49181,
+      "name": "Phường Hoài Nhơn Bắc"
+    },
+    {
+      "id": 49182,
+      "name": "Xã Phù Cát"
+    },
+    {
+      "id": 49183,
+      "name": "Xã Xuân An"
+    },
+    {
+      "id": 49184,
+      "name": "Xã Ngô Mây"
+    },
+    {
+      "id": 49185,
+      "name": "Xã Cát Tiến"
+    },
+    {
+      "id": 49186,
+      "name": "Xã Đề Gi"
+    },
+    {
+      "id": 49187,
+      "name": "Xã Hoà Hội"
+    },
+    {
+      "id": 49188,
+      "name": "Xã Hội Sơn"
+    },
+    {
+      "id": 49189,
+      "name": "Xã Phù Mỹ Nam"
+    },
+    {
+      "id": 49190,
+      "name": "Xã Phù Mỹ"
+    },
+    {
+      "id": 49191,
+      "name": "Xã Phù Mỹ Tây"
+    },
+    {
+      "id": 49192,
+      "name": "Xã An Lương"
+    },
+    {
+      "id": 49193,
+      "name": "Xã Phù Mỹ Đông"
+    },
+    {
+      "id": 49194,
+      "name": "Xã Bình Dương"
+    },
+    {
+      "id": 49195,
+      "name": "Xã Phù Mỹ Bắc"
+    },
+    {
+      "id": 49196,
+      "name": "Xã Tuy Phước Tây"
+    },
+    {
+      "id": 49197,
+      "name": "Xã Tuy Phước"
+    },
+    {
+      "id": 49198,
+      "name": "Xã Tuy Phước Bắc"
+    },
+    {
+      "id": 49199,
+      "name": "Xã Tuy Phước Đông"
+    },
+    {
+      "id": 49200,
+      "name": "Xã Tây Sơn"
+    },
+    {
+      "id": 49201,
+      "name": "Xã Bình Khê"
+    },
+    {
+      "id": 49202,
+      "name": "Xã Bình Phú"
+    },
+    {
+      "id": 49203,
+      "name": "Xã Bình Hiệp"
+    },
+    {
+      "id": 49204,
+      "name": "Xã Bình An"
+    },
+    {
+      "id": 49205,
+      "name": "Xã Hoài Ân"
+    },
+    {
+      "id": 49206,
+      "name": "Xã Ân Tường"
+    },
+    {
+      "id": 49207,
+      "name": "Xã Kim Sơn"
+    },
+    {
+      "id": 49208,
+      "name": "Xã Vạn Đức"
+    },
+    {
+      "id": 49209,
+      "name": "Xã Ân Hảo"
+    },
+    {
+      "id": 49210,
+      "name": "Xã Vân Canh"
+    },
+    {
+      "id": 49211,
+      "name": "Xã Canh Vinh"
+    },
+    {
+      "id": 49212,
+      "name": "Xã Canh Liên"
+    },
+    {
+      "id": 49213,
+      "name": "Xã Vĩnh Thạnh"
+    },
+    {
+      "id": 49214,
+      "name": "Xã Vĩnh Thịnh"
+    },
+    {
+      "id": 49215,
+      "name": "Xã Vĩnh Quang"
+    },
+    {
+      "id": 49216,
+      "name": "Xã Vĩnh Sơn"
+    },
+    {
+      "id": 49217,
+      "name": "Xã An Hoà"
+    },
+    {
+      "id": 49218,
+      "name": "Xã An Lão"
+    },
+    {
+      "id": 49219,
+      "name": "Xã An Vinh"
+    },
+    {
+      "id": 49220,
+      "name": "Xã An Toàn"
+    },
+    {
+      "id": 49722,
+      "name": "Phường Pleiku"
+    },
+    {
+      "id": 49723,
+      "name": "Phường Hội Phú"
+    },
+    {
+      "id": 49724,
+      "name": "Phường Thống Nhất"
+    },
+    {
+      "id": 49725,
+      "name": "Phường Diên Hồng"
+    },
+    {
+      "id": 49726,
+      "name": "Phường An Phú"
+    },
+    {
+      "id": 49727,
+      "name": "Xã Biển Hồ"
+    },
+    {
+      "id": 49730,
+      "name": "Xã Gào"
+    },
+    {
+      "id": 49732,
+      "name": "Xã Ia Ly"
+    },
+    {
+      "id": 49733,
+      "name": "Xã Chư Păh"
+    },
+    {
+      "id": 49734,
+      "name": "Xã Ia Khươl"
+    },
+    {
+      "id": 49735,
+      "name": "Xã Ia Phí"
+    },
+    {
+      "id": 49736,
+      "name": "Xã Chư Prông"
+    },
+    {
+      "id": 49737,
+      "name": "Xã Bàu Cạn"
+    },
+    {
+      "id": 49738,
+      "name": "Xã Ia Boòng"
+    },
+    {
+      "id": 49739,
+      "name": "Xã Ia Lâu"
+    },
+    {
+      "id": 49740,
+      "name": "Xã Ia Pia"
+    },
+    {
+      "id": 49741,
+      "name": "Xã Ia Tôr"
+    },
+    {
+      "id": 49742,
+      "name": "Xã Chư Sê"
+    },
+    {
+      "id": 49743,
+      "name": "Xã Bờ Ngoong"
+    },
+    {
+      "id": 49744,
+      "name": "Xã Ia Ko"
+    },
+    {
+      "id": 49746,
+      "name": "Xã Albá"
+    },
+    {
+      "id": 49747,
+      "name": "Xã Chư Pưh"
+    },
+    {
+      "id": 49748,
+      "name": "Xã Ia Le"
+    },
+    {
+      "id": 49749,
+      "name": "Xã Ia Hrú"
+    },
+    {
+      "id": 49751,
+      "name": "Phường An Khê"
+    },
+    {
+      "id": 49752,
+      "name": "Phường An Bình"
+    },
+    {
+      "id": 49754,
+      "name": "Xã Cửu An"
+    },
+    {
+      "id": 49755,
+      "name": "Xã Đak Pơ"
+    },
+    {
+      "id": 49756,
+      "name": "Xã Ya Hội"
+    },
+    {
+      "id": 49757,
+      "name": "Xã Kbang"
+    },
+    {
+      "id": 49758,
+      "name": "Xã Kông Bơ La"
+    },
+    {
+      "id": 49759,
+      "name": "Xã Tơ Tung"
+    },
+    {
+      "id": 49760,
+      "name": "Xã Sơn Lang"
+    },
+    {
+      "id": 49761,
+      "name": "Xã Đak Rong"
+    },
+    {
+      "id": 49762,
+      "name": "Xã Kông Chro"
+    },
+    {
+      "id": 49763,
+      "name": "Xã Ya Ma"
+    },
+    {
+      "id": 49764,
+      "name": "Xã Chư Krey"
+    },
+    {
+      "id": 49765,
+      "name": "Xã Đăk Song"
+    },
+    {
+      "id": 49766,
+      "name": "Xã Chơ Long"
+    },
+    {
+      "id": 49767,
+      "name": "Xã SRó"
+    },
+    {
+      "id": 49768,
+      "name": "Phường Ayun Pa"
+    },
+    {
+      "id": 49769,
+      "name": "Xã Ia Sao"
+    },
+    {
+      "id": 49770,
+      "name": "Xã Ia Rbol"
+    },
+    {
+      "id": 49771,
+      "name": "Xã Phú Thiện"
+    },
+    {
+      "id": 49772,
+      "name": "Xã Chư A Thai"
+    },
+    {
+      "id": 49773,
+      "name": "Xã Ia Hiao"
+    },
+    {
+      "id": 49774,
+      "name": "Xã Pờ Tó"
+    },
+    {
+      "id": 49775,
+      "name": "Xã Ia Pa"
+    },
+    {
+      "id": 49776,
+      "name": "Xã Ia Tul"
+    },
+    {
+      "id": 49777,
+      "name": "Xã Phú Túc"
+    },
+    {
+      "id": 49778,
+      "name": "Xã Ia Dreh"
+    },
+    {
+      "id": 49779,
+      "name": "Xã Ia Rsai"
+    },
+    {
+      "id": 49780,
+      "name": "Xã Uar"
+    },
+    {
+      "id": 49781,
+      "name": "Xã Đak Đoa"
+    },
+    {
+      "id": 49782,
+      "name": "Xã Kon Gang"
+    },
+    {
+      "id": 49783,
+      "name": "Xã Ia Băng"
+    },
+    {
+      "id": 49784,
+      "name": "Xã KDang"
+    },
+    {
+      "id": 49785,
+      "name": "Xã Đak Sơmei"
+    },
+    {
+      "id": 49786,
+      "name": "Xã Lơ Pang"
+    },
+    {
+      "id": 49787,
+      "name": "Xã Kon Chiêng"
+    },
+    {
+      "id": 49788,
+      "name": "Xã Hra"
+    },
+    {
+      "id": 49789,
+      "name": "Xã Ayun"
+    },
+    {
+      "id": 49790,
+      "name": "Xã Mang Yang"
+    },
+    {
+      "id": 49791,
+      "name": "Xã Ia Grai"
+    },
+    {
+      "id": 49792,
+      "name": "Xã Ia Krái"
+    },
+    {
+      "id": 49793,
+      "name": "Xã Ia Hrung"
+    },
+    {
+      "id": 49794,
+      "name": "Xã Đức Cơ"
+    },
+    {
+      "id": 49795,
+      "name": "Xã Ia Dơk"
+    },
+    {
+      "id": 49796,
+      "name": "Xã Ia Krêl"
+    },
+    {
+      "id": 52841,
+      "name": "Xã Ia Chia"
+    },
+    {
+      "id": 52842,
+      "name": "Xã Ia Dom"
+    },
+    {
+      "id": 52843,
+      "name": "Xã Ia Púch"
+    },
+    {
+      "id": 52844,
+      "name": "Xã Ia Nan"
+    },
+    {
+      "id": 52845,
+      "name": "Xã Ia Pnôn"
+    },
+    {
+      "id": 52846,
+      "name": "Xã Ia O"
+    },
+    {
+      "id": 52847,
+      "name": "Xã Ia Mơ"
+    },
+    {
+      "id": 52848,
+      "name": "Xã Krong"
+    }
+  ],
+  "id": 44,
+  "name": "Tỉnh Gia Lai"
+}

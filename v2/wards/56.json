@@ -1,0 +1,414 @@
+{
+  "data": [
+    {
+      "id": 49574,
+      "name": "Đặc khu Thổ Châu"
+    },
+    {
+      "id": 49575,
+      "name": "Phường Rạch Giá"
+    },
+    {
+      "id": 49576,
+      "name": "Phường Vĩnh Thông"
+    },
+    {
+      "id": 49578,
+      "name": "Phường Hà Tiên"
+    },
+    {
+      "id": 49579,
+      "name": "Phường Tô Châu"
+    },
+    {
+      "id": 49581,
+      "name": "Đặc khu Phú Quốc"
+    },
+    {
+      "id": 49582,
+      "name": "Đặc khu Kiên Hải"
+    },
+    {
+      "id": 49583,
+      "name": "Xã Tiên Hải"
+    },
+    {
+      "id": 49584,
+      "name": "Xã Giang Thành"
+    },
+    {
+      "id": 49585,
+      "name": "Xã Vĩnh Điều"
+    },
+    {
+      "id": 49586,
+      "name": "Xã Hoà Điền"
+    },
+    {
+      "id": 49587,
+      "name": "Xã Kiên Lương"
+    },
+    {
+      "id": 49588,
+      "name": "Xã Hòn Nghệ"
+    },
+    {
+      "id": 49589,
+      "name": "Xã Sơn Hải"
+    },
+    {
+      "id": 49590,
+      "name": "Xã Bình Giang"
+    },
+    {
+      "id": 49591,
+      "name": "Xã Bình Sơn"
+    },
+    {
+      "id": 49592,
+      "name": "Xã Hòn Đất"
+    },
+    {
+      "id": 49593,
+      "name": "Xã Sơn Kiên"
+    },
+    {
+      "id": 49594,
+      "name": "Xã Mỹ Thuận"
+    },
+    {
+      "id": 49595,
+      "name": "Xã Thạnh Lộc"
+    },
+    {
+      "id": 49596,
+      "name": "Xã Châu Thành"
+    },
+    {
+      "id": 49597,
+      "name": "Xã Bình An"
+    },
+    {
+      "id": 49598,
+      "name": "Xã Tân Hội"
+    },
+    {
+      "id": 49599,
+      "name": "Xã Tân Hiệp"
+    },
+    {
+      "id": 49600,
+      "name": "Xã Thạnh Đông"
+    },
+    {
+      "id": 49601,
+      "name": "Xã Giồng Riềng"
+    },
+    {
+      "id": 49602,
+      "name": "Xã Thạnh Hưng"
+    },
+    {
+      "id": 49603,
+      "name": "Xã Long Thạnh"
+    },
+    {
+      "id": 49604,
+      "name": "Xã Hoà Hưng"
+    },
+    {
+      "id": 49605,
+      "name": "Xã Ngọc Chúc"
+    },
+    {
+      "id": 49606,
+      "name": "Xã Định Hoà"
+    },
+    {
+      "id": 49607,
+      "name": "Xã Gò Quao"
+    },
+    {
+      "id": 49608,
+      "name": "Xã Vĩnh Hoà Hưng"
+    },
+    {
+      "id": 49609,
+      "name": "Xã Vĩnh Tuy"
+    },
+    {
+      "id": 49610,
+      "name": "Xã Tây Yên"
+    },
+    {
+      "id": 49611,
+      "name": "Xã Đông Thái"
+    },
+    {
+      "id": 49612,
+      "name": "Xã An Biên"
+    },
+    {
+      "id": 49613,
+      "name": "Xã Đông Hoà"
+    },
+    {
+      "id": 49614,
+      "name": "Xã Tân Thạnh"
+    },
+    {
+      "id": 49615,
+      "name": "Xã Đông Hưng"
+    },
+    {
+      "id": 49616,
+      "name": "Xã An Minh"
+    },
+    {
+      "id": 49617,
+      "name": "Xã Vân Khánh"
+    },
+    {
+      "id": 49618,
+      "name": "Xã Vĩnh Hoà"
+    },
+    {
+      "id": 49619,
+      "name": "Xã U Minh Thượng"
+    },
+    {
+      "id": 49620,
+      "name": "Xã Vĩnh Bình"
+    },
+    {
+      "id": 49621,
+      "name": "Xã Vĩnh Thuận"
+    },
+    {
+      "id": 49622,
+      "name": "Xã Vĩnh Phong"
+    },
+    {
+      "id": 50106,
+      "name": "Phường Long Xuyên"
+    },
+    {
+      "id": 50107,
+      "name": "Phường Bình Đức"
+    },
+    {
+      "id": 50108,
+      "name": "Phường Mỹ Thới"
+    },
+    {
+      "id": 50109,
+      "name": "Xã Mỹ Hoà Hưng"
+    },
+    {
+      "id": 50110,
+      "name": "Phường Châu Đốc"
+    },
+    {
+      "id": 50111,
+      "name": "Phường Vĩnh Tế"
+    },
+    {
+      "id": 50112,
+      "name": "Phường Tân Châu"
+    },
+    {
+      "id": 50113,
+      "name": "Phường Long Phú"
+    },
+    {
+      "id": 50114,
+      "name": "Xã Tân An"
+    },
+    {
+      "id": 50115,
+      "name": "Xã Châu Phong"
+    },
+    {
+      "id": 50116,
+      "name": "Xã Vĩnh Xương"
+    },
+    {
+      "id": 50117,
+      "name": "Phường Thới Sơn"
+    },
+    {
+      "id": 50118,
+      "name": "Phường Tịnh Biên"
+    },
+    {
+      "id": 50119,
+      "name": "Phường Chi Lăng"
+    },
+    {
+      "id": 50120,
+      "name": "Xã An Cư"
+    },
+    {
+      "id": 50121,
+      "name": "Xã Núi Cấm"
+    },
+    {
+      "id": 50122,
+      "name": "Xã An Phú"
+    },
+    {
+      "id": 50123,
+      "name": "Xã Vĩnh Hậu"
+    },
+    {
+      "id": 50124,
+      "name": "Xã Nhơn Hội"
+    },
+    {
+      "id": 50125,
+      "name": "Xã Khánh Bình"
+    },
+    {
+      "id": 50126,
+      "name": "Xã Phú Hữu"
+    },
+    {
+      "id": 50127,
+      "name": "Xã Phú Tân"
+    },
+    {
+      "id": 50128,
+      "name": "Xã Phú An"
+    },
+    {
+      "id": 50129,
+      "name": "Xã Bình Thạnh Đông"
+    },
+    {
+      "id": 50130,
+      "name": "Xã Chợ Vàm"
+    },
+    {
+      "id": 50131,
+      "name": "Xã Hoà Lạc"
+    },
+    {
+      "id": 50132,
+      "name": "Xã Phú Lâm"
+    },
+    {
+      "id": 50133,
+      "name": "Xã Châu Phú"
+    },
+    {
+      "id": 50134,
+      "name": "Xã Vĩnh Thạnh Trung"
+    },
+    {
+      "id": 50135,
+      "name": "Xã Bình Mỹ"
+    },
+    {
+      "id": 50136,
+      "name": "Xã Thạnh Mỹ Tây"
+    },
+    {
+      "id": 50137,
+      "name": "Xã Tri Tôn"
+    },
+    {
+      "id": 50138,
+      "name": "Xã Ba Chúc"
+    },
+    {
+      "id": 50139,
+      "name": "Xã Ô Lâm"
+    },
+    {
+      "id": 50140,
+      "name": "Xã Cô Tô"
+    },
+    {
+      "id": 50141,
+      "name": "Xã Vĩnh Gia"
+    },
+    {
+      "id": 50142,
+      "name": "Xã An Châu"
+    },
+    {
+      "id": 50143,
+      "name": "Xã Bình Hoà"
+    },
+    {
+      "id": 50144,
+      "name": "Xã Cần Đăng"
+    },
+    {
+      "id": 50145,
+      "name": "Xã Vĩnh Hanh"
+    },
+    {
+      "id": 50146,
+      "name": "Xã Vĩnh An"
+    },
+    {
+      "id": 50147,
+      "name": "Xã Chợ Mới"
+    },
+    {
+      "id": 50148,
+      "name": "Xã Cù Lao Giêng"
+    },
+    {
+      "id": 50149,
+      "name": "Xã Hội An"
+    },
+    {
+      "id": 50150,
+      "name": "Xã Long Điền"
+    },
+    {
+      "id": 50151,
+      "name": "Xã Nhơn Mỹ"
+    },
+    {
+      "id": 50152,
+      "name": "Xã Long Kiến"
+    },
+    {
+      "id": 50153,
+      "name": "Xã Thoại Sơn"
+    },
+    {
+      "id": 50154,
+      "name": "Xã Óc Eo"
+    },
+    {
+      "id": 50155,
+      "name": "Xã Định Mỹ"
+    },
+    {
+      "id": 50156,
+      "name": "Xã Phú Hoà"
+    },
+    {
+      "id": 50157,
+      "name": "Xã Vĩnh Trạch"
+    },
+    {
+      "id": 50158,
+      "name": "Xã Tây Phú"
+    },
+    {
+      "id": 52818,
+      "name": "Xã Mỹ Đức"
+    },
+    {
+      "id": 52819,
+      "name": "Xã Hoà Thuận"
+    }
+  ],
+  "id": 56,
+  "name": "Tỉnh An Giang"
+}

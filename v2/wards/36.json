@@ -1,0 +1,318 @@
+{
+  "data": [
+    {
+      "id": 51257,
+      "name": "Phường Đồng Hới"
+    },
+    {
+      "id": 51258,
+      "name": "Phường Đồng Thuận"
+    },
+    {
+      "id": 51259,
+      "name": "Phường Đồng Sơn"
+    },
+    {
+      "id": 51260,
+      "name": "Phường Ba Đồn"
+    },
+    {
+      "id": 51261,
+      "name": "Phường Bắc Gianh"
+    },
+    {
+      "id": 51262,
+      "name": "Xã Nam Gianh"
+    },
+    {
+      "id": 51264,
+      "name": "Xã Nam Ba Đồn"
+    },
+    {
+      "id": 51265,
+      "name": "Xã Dân Hoá"
+    },
+    {
+      "id": 51266,
+      "name": "Xã Kim Điền"
+    },
+    {
+      "id": 51267,
+      "name": "Xã Kim Phú"
+    },
+    {
+      "id": 51268,
+      "name": "Xã Minh Hoá"
+    },
+    {
+      "id": 51269,
+      "name": "Xã Tuyên Lâm"
+    },
+    {
+      "id": 51270,
+      "name": "Xã Tuyên Sơn"
+    },
+    {
+      "id": 51271,
+      "name": "Xã Đồng Lê"
+    },
+    {
+      "id": 51272,
+      "name": "Xã Tuyên Phú"
+    },
+    {
+      "id": 51273,
+      "name": "Xã Tuyên Bình"
+    },
+    {
+      "id": 51274,
+      "name": "Xã Tuyên Hoá"
+    },
+    {
+      "id": 51275,
+      "name": "Xã Tân Gianh"
+    },
+    {
+      "id": 51276,
+      "name": "Xã Trung Thuần"
+    },
+    {
+      "id": 51277,
+      "name": "Xã Quảng Trạch"
+    },
+    {
+      "id": 51278,
+      "name": "Xã Hoà Trạch"
+    },
+    {
+      "id": 51279,
+      "name": "Xã Phú Trạch"
+    },
+    {
+      "id": 51280,
+      "name": "Xã Thượng Trạch"
+    },
+    {
+      "id": 51281,
+      "name": "Xã Phong Nha"
+    },
+    {
+      "id": 51282,
+      "name": "Xã Bắc Trạch"
+    },
+    {
+      "id": 51283,
+      "name": "Xã Đông Trạch"
+    },
+    {
+      "id": 51284,
+      "name": "Xã Hoàn Lão"
+    },
+    {
+      "id": 51285,
+      "name": "Xã Bố Trạch"
+    },
+    {
+      "id": 51286,
+      "name": "Xã Nam Trạch"
+    },
+    {
+      "id": 51287,
+      "name": "Xã Quảng Ninh"
+    },
+    {
+      "id": 51288,
+      "name": "Xã Ninh Châu"
+    },
+    {
+      "id": 51289,
+      "name": "Xã Trường Ninh"
+    },
+    {
+      "id": 51290,
+      "name": "Xã Trường Sơn"
+    },
+    {
+      "id": 51291,
+      "name": "Xã Lệ Thuỷ"
+    },
+    {
+      "id": 51292,
+      "name": "Xã Cam Hồng"
+    },
+    {
+      "id": 51293,
+      "name": "Xã Sen Ngư"
+    },
+    {
+      "id": 51294,
+      "name": "Xã Tân Mỹ"
+    },
+    {
+      "id": 51295,
+      "name": "Xã Trường Phú"
+    },
+    {
+      "id": 51296,
+      "name": "Xã Lệ Ninh"
+    },
+    {
+      "id": 51297,
+      "name": "Xã Kim Ngân"
+    },
+    {
+      "id": 52271,
+      "name": "Xã Triệu Phong"
+    },
+    {
+      "id": 52272,
+      "name": "Xã Ái Tử"
+    },
+    {
+      "id": 52273,
+      "name": "Xã Triệu Bình"
+    },
+    {
+      "id": 52274,
+      "name": "Xã Triệu Cơ"
+    },
+    {
+      "id": 52275,
+      "name": "Xã Nam Cửa Việt"
+    },
+    {
+      "id": 52276,
+      "name": "Xã Diên Sanh"
+    },
+    {
+      "id": 52277,
+      "name": "Xã Mỹ Thuỷ"
+    },
+    {
+      "id": 52278,
+      "name": "Xã Hải Lăng"
+    },
+    {
+      "id": 52279,
+      "name": "Xã Nam Hải Lăng"
+    },
+    {
+      "id": 52280,
+      "name": "Xã Vĩnh Định"
+    },
+    {
+      "id": 52281,
+      "name": "Xã Cồn Tiên"
+    },
+    {
+      "id": 52282,
+      "name": "Xã Cửa Việt"
+    },
+    {
+      "id": 52283,
+      "name": "Xã Gio Linh"
+    },
+    {
+      "id": 52284,
+      "name": "Xã Bến Hải"
+    },
+    {
+      "id": 52285,
+      "name": "Xã Vĩnh Linh"
+    },
+    {
+      "id": 52286,
+      "name": "Xã Cửa Tùng"
+    },
+    {
+      "id": 52287,
+      "name": "Xã Vĩnh Hoàng"
+    },
+    {
+      "id": 52288,
+      "name": "Xã Vĩnh Thuỷ"
+    },
+    {
+      "id": 52289,
+      "name": "Xã Bến Quan"
+    },
+    {
+      "id": 52290,
+      "name": "Xã Hướng Lập"
+    },
+    {
+      "id": 52291,
+      "name": "Xã Hướng Phùng"
+    },
+    {
+      "id": 52292,
+      "name": "Xã Khe Sanh"
+    },
+    {
+      "id": 52293,
+      "name": "Xã Tân Lập"
+    },
+    {
+      "id": 52294,
+      "name": "Xã Lao Bảo"
+    },
+    {
+      "id": 52295,
+      "name": "Xã Lìa"
+    },
+    {
+      "id": 52296,
+      "name": "Xã A Dơi"
+    },
+    {
+      "id": 52297,
+      "name": "Xã La Lay"
+    },
+    {
+      "id": 52298,
+      "name": "Xã Tà Rụt"
+    },
+    {
+      "id": 52299,
+      "name": "Xã Đakrông"
+    },
+    {
+      "id": 52300,
+      "name": "Xã Ba Lòng"
+    },
+    {
+      "id": 52301,
+      "name": "Xã Hướng Hiệp"
+    },
+    {
+      "id": 52302,
+      "name": "Xã Cam Lộ"
+    },
+    {
+      "id": 52303,
+      "name": "Xã Hiếu Giang"
+    },
+    {
+      "id": 52304,
+      "name": "Đặc khu Cồn Cỏ"
+    },
+    {
+      "id": 52832,
+      "name": "Phường Đông Hà"
+    },
+    {
+      "id": 52833,
+      "name": "Phường Nam Đông Hà"
+    },
+    {
+      "id": 52834,
+      "name": "Phường Quảng Trị"
+    },
+    {
+      "id": 52835,
+      "name": "Xã Tân Thành"
+    }
+  ],
+  "id": 36,
+  "name": "Tỉnh Quảng Trị"
+}

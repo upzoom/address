@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "id": 49797,
+      "name": "Phường Bạc Liêu"
+    },
+    {
+      "id": 49798,
+      "name": "Phường Vĩnh Trạch"
+    },
+    {
+      "id": 49799,
+      "name": "Phường Hiệp Thành"
+    },
+    {
+      "id": 49800,
+      "name": "Phường Giá Rai"
+    },
+    {
+      "id": 49801,
+      "name": "Phường Láng Tròn"
+    },
+    {
+      "id": 49802,
+      "name": "Xã Phong Thạnh"
+    },
+    {
+      "id": 49803,
+      "name": "Xã Hồng Dân"
+    },
+    {
+      "id": 49804,
+      "name": "Xã Vĩnh Lộc"
+    },
+    {
+      "id": 49805,
+      "name": "Xã Ninh Thạnh Lợi"
+    },
+    {
+      "id": 49806,
+      "name": "Xã Ninh Quới"
+    },
+    {
+      "id": 49807,
+      "name": "Xã Gành Hào"
+    },
+    {
+      "id": 49808,
+      "name": "Xã Định Thành"
+    },
+    {
+      "id": 49809,
+      "name": "Xã An Trạch"
+    },
+    {
+      "id": 49810,
+      "name": "Xã Long Điền"
+    },
+    {
+      "id": 49811,
+      "name": "Xã Đông Hải"
+    },
+    {
+      "id": 49812,
+      "name": "Xã Hoà Bình"
+    },
+    {
+      "id": 49814,
+      "name": "Xã Vĩnh Mỹ"
+    },
+    {
+      "id": 49815,
+      "name": "Xã Vĩnh Hậu"
+    },
+    {
+      "id": 49816,
+      "name": "Xã Phước Long"
+    },
+    {
+      "id": 49817,
+      "name": "Xã Vĩnh Phước"
+    },
+    {
+      "id": 49818,
+      "name": "Xã Phong Hiệp"
+    },
+    {
+      "id": 49819,
+      "name": "Xã Vĩnh Thanh"
+    },
+    {
+      "id": 49820,
+      "name": "Xã Vĩnh Lợi"
+    },
+    {
+      "id": 49821,
+      "name": "Xã Hưng Hội"
+    },
+    {
+      "id": 49822,
+      "name": "Xã Châu Thới"
+    },
+    {
+      "id": 52598,
+      "name": "Phường An Xuyên"
+    },
+    {
+      "id": 52599,
+      "name": "Phường Lý Văn Lâm"
+    },
+    {
+      "id": 52601,
+      "name": "Phường Tân Thành"
+    },
+    {
+      "id": 52602,
+      "name": "Phường Hoà Thành"
+    },
+    {
+      "id": 52603,
+      "name": "Xã Lương Thế Trân"
+    },
+    {
+      "id": 52605,
+      "name": "Xã Tân Hưng"
+    },
+    {
+      "id": 52606,
+      "name": "Xã Hưng Mỹ"
+    },
+    {
+      "id": 52607,
+      "name": "Xã Cái Nước"
+    },
+    {
+      "id": 52608,
+      "name": "Xã Khánh Bình"
+    },
+    {
+      "id": 52609,
+      "name": "Xã Đá Bạc"
+    },
+    {
+      "id": 52610,
+      "name": "Xã Khánh Hưng"
+    },
+    {
+      "id": 52611,
+      "name": "Xã Sông Đốc"
+    },
+    {
+      "id": 52612,
+      "name": "Xã Trần Văn Thời"
+    },
+    {
+      "id": 52613,
+      "name": "Xã Thới Bình"
+    },
+    {
+      "id": 52614,
+      "name": "Xã Trí Phải"
+    },
+    {
+      "id": 52615,
+      "name": "Xã Tân Lộc"
+    },
+    {
+      "id": 52616,
+      "name": "Xã Biển Bạch"
+    },
+    {
+      "id": 52617,
+      "name": "Xã Hồ Thị Kỷ"
+    },
+    {
+      "id": 52618,
+      "name": "Xã Cái Đôi Vàm"
+    },
+    {
+      "id": 52619,
+      "name": "Xã Nguyễn Việt Khái"
+    },
+    {
+      "id": 52620,
+      "name": "Xã Phú Tân"
+    },
+    {
+      "id": 52621,
+      "name": "Xã Phú Mỹ"
+    },
+    {
+      "id": 52622,
+      "name": "Xã Đất Mới"
+    },
+    {
+      "id": 52623,
+      "name": "Xã Năm Căn"
+    },
+    {
+      "id": 52624,
+      "name": "Xã Tam Giang"
+    },
+    {
+      "id": 52625,
+      "name": "Xã Tân Thuận"
+    },
+    {
+      "id": 52626,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 52627,
+      "name": "Xã Tạ An Khương"
+    },
+    {
+      "id": 52628,
+      "name": "Xã Trần Phán"
+    },
+    {
+      "id": 52629,
+      "name": "Xã Thanh Tùng"
+    },
+    {
+      "id": 52630,
+      "name": "Xã Đầm Dơi"
+    },
+    {
+      "id": 52631,
+      "name": "Xã Quách Phẩm"
+    },
+    {
+      "id": 52632,
+      "name": "Xã U Minh"
+    },
+    {
+      "id": 52633,
+      "name": "Xã Nguyễn Phích"
+    },
+    {
+      "id": 52634,
+      "name": "Xã Khánh Lâm"
+    },
+    {
+      "id": 52635,
+      "name": "Xã Khánh An"
+    },
+    {
+      "id": 52636,
+      "name": "Xã Phan Ngọc Hiển"
+    },
+    {
+      "id": 52637,
+      "name": "Xã Đất Mũi"
+    },
+    {
+      "id": 52639,
+      "name": "Xã Tân Ân"
+    }
+  ],
+  "id": 63,
+  "name": "Tỉnh Cà Mau"
+}
